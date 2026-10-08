@@ -1,0 +1,65 @@
+Nguyễn Đức Tâm
+LẬP TRÌNH VIÊN
+Tin học văn phòng
+Tiếng Anh
+- Có khả năng tự học và thích ứng với môi
+trường làm việc nhanh.
+- Làm việc chuyên nghiệp trong môi trường
+năng động, có tính cạnh tranh và cơ hội thăng
+tiến cao.
+Thông tin liên hệ
+Ngày sinh 19/08/1994
+Giới tính Nam
+Điện thoại
+Email
+Địa chỉ Cổ Nhuế - Từ Liêm - Hà
+Nội
+Website
+m
+Kỹ năng
+Thông tin thêm
+Học vấn
+Cao đẳng công nghệ Hà Nội
+Chuyên ngành: Công nghệ thông tin
+Tốt nghiệp loại Giỏi
+10/2010 - 05/2014
+Kỹ năng
+Kỹ năng lập trình
+Lập trình viên
+- Sử dụng tốt các ngôn ngữ lập trình và framework: HTML, CSS,
+Javascript, Jquery, PHP, Less CSS, bootstrap Wordpress, Magento,
+Prestasop, Zend, Symforny
+ - Quản trị hệ thống website cho công ty
+- Thành thạo công cụ quản lý source code : Git
+- Tích hợp các chức năng cho hệ thống server test của công ty,
+sever chính thức của khách hàng.
+- Chịu trách nhiệm download code từ server, hướng dẫn và giúp
+coder dựng môi trường theo dự án.
+02/2017 - Hiện tại
+Kinh nghiệm làm việc
+Công ty Minhcom Việt Nam
+Lập trình viên
+- Dự án tham gia: 
+- Sử dụng các ngôn ngữ lập trình viết chức năng theo nhu cầu của
+khách hàng.
+- Hỗ trợ thiết kế design của công ty.
+02/2017 - 11/2017
+Công ty Neotiq - Pháp
+Lập trình viên
+Dự án tham gia: 
+- 
+- 
+- 
+- 
+11/2017 - Hiện tại
+
+- 
+- Thiết kế, xây dựng sever của hệ thống website.
+- Chịu trách nhiệm  tổng hơp, upload source code lên sever
+preprod, prod của website.
+- Fix bugs.
+- Hỗ trợ thiết kế design của công ty.
+- Phân công công việc cho dev trong team.
+- Tích hợp, xây dựng các chức năng backup database theo ngày,
+giờ, tháng của website.
+©

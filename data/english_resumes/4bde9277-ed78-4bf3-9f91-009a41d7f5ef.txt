@@ -1,0 +1,124 @@
+CURRICULUM VITAE 
+ 
+PERSONAL INFORMATION 
+Full Name: TRƯƠNG LONG 
+Phone 
+Skype: 
+Email:  
+Address: 307/41 Thach Lam Street, Phu Thanh Ward, Tan Phu 
+District, Ho Chi Minh City 
+Gender: Male 
+ 
+SOFT SKILLS 
+Teamwork, English communication, Risk Management, Adaptable, Creative 
+Thinker, Deals with Difficult People, Leadership, Self-study, Management Human 
+Skill, Planning 
+Desired salary: 2.000 USD in NET 
+ 
+EDUCATION 
+Degree  - Master Major: MBA will be graduated in 2021. 
+Degree  - Bachelor (FPT University) – Major: Software Engineering. 
+Degree      -    Certificate Scrum Master (PSM) on July 9, 2021 
+     -    
+mail V erify:   
+ 
+WORKING EXPERIENCE 
+Jan 2018- 
+Now 
+- Working for Data Design Viet Nam: (Project Manager) 
+• Outsourcing/Product Company  
+• Manage Product software, planning the product, estimate, 
+measuring the result. 
+• Negotiation with customer, third party, end users, company.  
+• Planning, Proposing project and progress management for 
+product, coordinate with teams 
+• Manage Org-chart in Departments.  
+• Track, analyze and monitor technology performance metrics 
+• Ensure resource availability and allocation. Manage the 
+relationship with the client and all stakeholders. 
+• Some Client: Toyota, Naito, QTSC… 
+Apr 2016- 
+Dec 2017 
+- Working for CJ-Blue JSC: (Project Manager) 
+• Agency Company (360 Degree Marketing) 
+• Lead Teams to develop product/outsource website/Mobile 
+app system such as:
+
+• Negotiation with Customer.  
+• Planning, Proposing web site and progress management for 
+product, coordinate with teams 
+• Ensure that all projects are delivered on-time, within scope 
+and within budget. 
+• Build up skeleton project include website system 
+• Some Client: Bibigo, Mobil, VCB, the Lug... 
+Apr 2013 – 
+Mar 2016 
+- Working for FPT Software: (Project Manager) 
+• Outsourcing Company  
+• Lead Teams to develop outsource website/Mobile app 
+system such as: 
+• Negotiation with Customer.  
+• Planning, Proposing web site and progress management for 
+product, coordinate with teams 
+• Ensure that all projects are delivered on-time, within scope 
+and within budget. 
+• Ensure resource availability and allocation. Manage the 
+relationship with the client and all stakeholders. 
+• Some Client: Petronas Oil and Gas of Malaysia, Polytechnic 
+University of Singapore, Japan …
+
+SOME PROJECT EXPERIENCE 
+Live Games website  
+Customer Oversea Customer 
+Description - Build a platform such as lives’ casino, the one 
+integrated by live casino of Evolution and Build a 
+Crypto Currency Payment gateway for end-user 
+Team size 10 
+My Position Project Manager  
+My responsibilities - Manage Team Developer and Team Helpdesk 
+- Estimation budget, Timeline 
+- Communicate with third-party, Customer, 
+Teams. 
+- Make decision 
+Technologies used - Front end .NET MVC 
+- .NET Core for Back end 
+- Micro-services architect 
+- Azure cloud hosting and dedicate Server 
+ 
+SP Mobile  
+Customer Singapore Polytechnic University 
+Description ‘- Portal Mobile app to manage Staff and Student in 
+school. 
+Team size 4 
+My Position Project Manager 
+My responsibilities - Manage Team 
+- Estimation budget, Timeline 
+- Communicate with customer and team 
+- Make decision 
+Technologies used - Xamarin for Mobile App 
+- .NET MVC for back end API
+
+Liquid8  
+Customer Petronas Malaysia 
+Description ‘- Web Ecommerce for Petronas can buy/sell internal 
+product (Material/Equipment) 
+Team size 5 
+My Position Scrum Master 
+My responsibilities - Manage Team 
+- Estimation budget, Timeline 
+- Communicate with customer and team 
+- Make decision 
+Technologies used - Angular for web front end 
+- .NET MVC for back end API 
+ 
+Viet Nam Invoice Management Tool (VIMT) 
+Customer Intel Product Viet Nam 
+Description ‘- Build the web app manage Invoices of Intel 
+Product Viet Nam 
+Team size 7 
+My Position Project Manager 
+My responsibilities - Manage Team 
+- Estimation budget, Timeline 
+- Communicate with customer and team 
+- Make decision 
+Technologies used - .NET MVC for websites

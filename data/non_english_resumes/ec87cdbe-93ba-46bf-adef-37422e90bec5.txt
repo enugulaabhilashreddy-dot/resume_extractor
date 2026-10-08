@@ -1,0 +1,140 @@
+Ma Trung Thành 
+Lập trình viên phần mềm 
+ 
+ 
+Quan Hoa – Cầu Giấy – Hà Nội 
+25/09/1992 
+Nam 
+    Thông tin liên hệ 
+    Mục tiêu nghề nghiệp 
+➢ Phát triển kỹ năng lập trình 
+➢ Tích lũy thêm kinh nghiệm 
+➢ Có cơ hội để phát triển bản 
+thân, nghề nghiệp 
+➢ Tìm được công  việc trong môi 
+trường chuyên nghiệp, lầu dài 
+     Kỹ năng 
+✓ Làm việc nhóm 
+✓ Làm việc độc lập 
+✓ Tư duy logic, tư duy lập trình 
+tốt 
+✓ Tiếp thu nhanh 
+✓ Tự học và nghiên cứu tốt 
+✓ Git, SVN... 
+✓ Sử dụng thành thạo bộ công 
+cụ Visualstudio, Devexpres, 
+SQLServer, Silverlight ... 
+✓ Lập trình desktop application, 
+web, MVC .Net, .Net Core, 
+WebService API, HTML, CSS, 
+JavaScript... 
+✓ Lập trình Java, ReactJs 
+✓ Đang tự tìm hiểu thêm 
+Angular 
+Trường Đại Học Công Nghiệp Hà Nội 
+Chuyển ngành khoa học máy tính 
+09/2015 
+12/2015 
+12/2015  
+10/2016 
+10/2016  
+05/2017 
+05/2017 
+05/2018 
+09/2011 
+05/2015 
+05/2018 
+02/2021 
+Thực tập sinh: Công ty cổ phần Brecus 
+• Tìm hiểu yêu cầu, và thực hành lập trình phần mềm theo yêu cầu 
+• Thực hiện thực hành hỗ trợ xây dựng các phần mêm quản lý bãi 
+đỗ xe, quản lý tòa nhà, quản lý khu vui chơi giải trí... 
+Công ty TNHH Exteam 
+• Lập trình phần mềm quản lý, phân công công việc, quản lý nhân 
+sự trên nền tảng silverlight 
+Công ty Inventec 
+• Lập trình phần mềm bệnh viện. Thực hiện các modun chắc năng 
+mới, cải tiến, nâng cấp phần mềm. 
+• Phân tích yêu cầu và thực hiện làm các báo cáo theo yêu cầu 
+• Tham gia phân tích góp ý cho nhưng chức năng mới từ yêu cầu 
+của người dùng 
+• Quản lý Project chuyên thực hiện báo cáo, phân công công việc 
+cho thành viên trong nhóm 
+Công ty cổ phần quốc tết hợp nhất 
+• Thực hiện nâng cấp, sửa lỗi phần mềm hiện có 
+• Phát triển thêm các chức năng theo yêu cầu 
+• Đóng góp ý kiến để hoàn thiện phần mềm 
+Công ty TNHH AI Việt Nam 
+• Thực hiện bổ sung, sửa chữa các chức năng cho phần mêm đào tạo 
+trực tuyến cho các tổ chức giáo dục, doanh nghiệp 
+• Tạo mới sản phầm đào trực tuyến hướng dịch vụ (bán khóa học, 
+môi trường để các tổ chức, cá nhân có thể tạo được các khóa học 
+phục vụ đào tại nội bộ hoặc bán khóa học) 
+➢ Sử dụng .net core dựa trên Abp Framework, SQLServer 
+➢ Thực hiện tạo mới toàn bộ chức năng của lớp học trực tuyến 
+bảo gồm 1 số nội dung như, tạo lớp học, khóa học, quản lý nội 
+dung, kiểm tra đánh giá.... 
+➢ Phân tích các yêu cầu, code chức năng từ quản lý 
+• Thực hiện tạo mới, bảo trì 1 số sản phẩm khác của công ty theo sự 
+phân công 
+• Thực hiện cài đặt, hướng dẫn sử dụng, đào tạo, hỗ trợ khách 
+hàng...
+
+Công ty Cổ phần thương mại giải pháp Hachinet Việt Nam 
+• Onsite tại Công ty Cổ phần Phần mềm DEHA (Tháng 03/2021 => 
+05/2021) 
+➢ Ghép giao diện một số màn hình của Dự án app bán bảo hiểm 
+MIC 
+➢ Outsource phần mềm chuyển phát cho Nhật Bản: Tạo mới 
+màn hình chức năng, giao diện theo thiết kế, sửa lỗi các màn 
+hình đã có theo sự phân công công việc 
+➢ Tham gia dự án convert phần mềm từ window form sang .Net 
+framewok MVC 
+➢ Một số công việc khác theo sự phân công của quản lý trực tiếp 
+➢ Teamsize: 15 
+• Onsite tại Tập đoàn BKA V (Tháng 06/2021 => 01/2022) 
+➢ Dự án: Phần mêm cảnh báo giám sát hoạt động camera (CSS) 
+▪ Xây dựng lại hệ thống dựa trên tài liệu thiết kế bằng .net 
+core, mysql. 
+▪ Đóng góp ý kiến để hoàn thiện sản phẩn 
+▪ Thực hiện code các chức năng theo tài liệu đã cho 
+▪ Teamsize: 1 
+➢ Dự án:  Phần mềm quản lý, cấu hình và xử lý camera 
+▪ Xây dựng lại hệ thống dựa trên tài liệu thiết kế bằng .net 
+core, mysql. 
+▪ Thực hiện phân tích + code các chức năng theo mô tả của 
+quản lý trực tiếp 
+▪ Teamsize: 1 
+➢ Nâng cấp, sửa lỗi 1 số dự án đã có theo sự phân công 
+• Onsite tại Trung tâm Giải pháp Chính phủ điện tử - Chi nhanh 
+Công ty Công nghệ thông tin VNPT (Tháng 02/2022 => 04/2022) 
+➢ Dự án: Tham gia phát triển, nâng cấp phần mềm hóa đơn điện 
+tử 
+▪ Thực hiện các công việc được giao như nâng cấp, sửa lỗi 
+các chức năng đã có sẵn như tạo hóa đơn, quản lý, gửi 
+nhận hóa đơn, báo cáo, ... 
+▪ Sử dụng .net framework, Oracle 
+▪ Teamsize: 10 
+ 
+03/2021 
+04/2022 
+05/2022 
+Đến nay Công ty Quản lý nợ và Khai thác tài sản (MBAMC) 
+• Hỗ trợ thực hiện các dự án phần mềm nội bộ của công ty do đối 
+tác thực hiện như hỗ trợ xử lý các lỗi phát sinh khi kết nối với hệ 
+thống đang có, kết nối với hệ thống đang có từ tập đoàn MB, nhận 
+và kiểm tra source code được bàn giao… 
+• Sử dụng ngôn ngữ lập trình Java, ReactJs, c# để thực hiện tạo các 
+công cụ hỗ trợ vận hành, cập nhật, chỉnh sửa phần mềm hiện có 
+phục công việc theo yêu cầu nghiệp vụ đưa ra 
+• Các công việc khác theo sự phân công sắp xếp của cấp trên giao 
+• Tham gia các hoạt động phòng trào tập thể chung của công ty như 
+văn nghệ, tham gia các sự kiện, câu lạc bộ thể dục thể thao do 
+công ty tổ chức...
+
+• Tham gia đầy đủ nhiệt tình các hoạt động chung của công ty, 
+trường lớp 
+• Các hoạt động thể dục thể thao, văn hóa do nơi học tập công tác 
+tổ chức 
+• Tham gia công tác tình nguyện ở trường lớp 
+• Yêu thích và tham gia nhiệt tình các hoạt động tập thể

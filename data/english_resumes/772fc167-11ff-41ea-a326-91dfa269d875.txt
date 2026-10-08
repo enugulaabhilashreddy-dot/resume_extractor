@@ -1,0 +1,324 @@
+Personal Information  
+Name: NGUYEN VAN NHUT 
+ 
+Date of birth : December 23 ,1993  
+Gender : Male  
+Address: Phuoc Hoi - Long Hung - Bien Hoa - Dong Nai 
+Email: 
+Phone: 
+Expertise Skills   
+- Having the ability to make good use of the following programming languages:  
+    + C#, ( mvc, web api ) .Net Core 
+    + Html/Html5, Xml, Css/Css3, Javascript, Jquery, Json, Ajax 
+    + Bootstrap, ReactJS, Redux, Typescript, Apollo, GraphQL 
+    + Knockout js 
+    + Grapesjs 
+    + SQL Server, Oracle 
+    + Redis 
+    + SVN, GIT 
+    + WindowService 
+    + SharePoint 
+    + Angular 7++ 
+    + MicroServices 
+    + Wcf 
+- I have experienced of:  Dapper, Entity Framework, Redis, Web services/API,... 
+- Being high adaptability, flexibility in work, always looking for solutions to problems, able to work in a team, working 
+independently... 
+Work Experience  
+1)  DO MARKETING  Company  ( March,2017 – July,2017 )  
+ Position: Developer (key-person) 
+Projects:  Manage e-commerce website of Asus and Lenovo 
+ 
+ Number of participants  2 people  
+Using technology MVC), SQL Server, CSS, Jquery, Ajax, ReactJS 
+Describing project The website helps promote the brand of products of Lenova and Asus. 
+Development of functional modules: view products, add products to cart, 
+register, login, ...  
+2)  FPT  Company  ( FPT information system ) ( August,2017 – March,2018)  
+ Position : Developer  
+Projects : 
+       1.  H uman resource management ( FE credit )
+
+Number of participants 5 people 
+Using technology  MVC), Dapper, SQL Server, CS S, Jquery, Ajax, Bootstrap 
+Describing project Building websites with human resource m anagement functions 
+        2.  Human resource management ( Masan, Jollibee, PVN, Cho Ray Hospital ) 
+ Number of participants 15 people 
+Using technology  MVC), Dapper, CSS, Jquery, Aj ax, Bootstrap, ReactJS 
+Describing project Building websites with human resource m anagement functions. 
+ 
+3)  FPT  Company  ( FPT Telecom ) ( April,2018 – April,2019 ) 
+ Position: Developer 
+Projects : 
+1. Human resource management ( FPT Telecom)  
+ Number of participants  3 people  
+Using technology CORE, SQL Server, Css, Jquery, Ajax, Dapper, Angular 7 
+Describing project  HR management website (HRIS) aims to help HR departments easily manage 
+personnel in the company. 
+Development of functional modules: 
+ + register, login, edit, view  information employees 
+ + Permission departments 
+ + Leave of absence form of employee. 
+ + Report leave of employees.  
+ 2.  Loyalty promotion program  
+ Number of participants 2 people 
+Using technology   Web API ), Oracle , Dapper , Redis  
+Describing project Create Loyalty Program API to provide attractive deals from FPT Telecom 
+exclusively for partners when using FPT Telecom's services. 
+ 
++ User authentication function (JWT) 
++ Register, login, edit information of customer. 
++ Services
+
+4)  Development Joint Stock Commercial Bank (HDBank) ( April,2019 – April,2020 ) 
+ Position : Developer  (key -person ) 
+Projects : 
+1. EasyFin  
+ Number of participants  1 people  
+Using technology  Web API), WindowService, SQL Server, Css, JavaScript, Bootstrap, 
+Dapper , SharePoint , Oracle  
+Describing project This application supports the information that the Buyer has received and 
+agreed to pay 
+for invoices created on the Platform, creating and processing advances offered 
+to the Seller, 
+manage invoices and liabilities arising between the Buyer and the Seller   
+Development of functional modules: 
+ + Create disbursement request 
+ + Account authentication 
+ + SMS OTP 
+ + Customer Information 
+ +………………………  
+ 
+ 2. Personal income tax 
+ Number of participants  1 people   
+Using technology   MVC ), SQL Server , Dapper , Bootstrap, Ajax  
+Describing project  
+Software that helps to finalize taxes of all employees in hdbank  
+Development of functional modules: 
+ + Create or Upload information of employees 
+ + Create or Upload employee tax settlement form 
+ + Upload employee income 
+ + Print or export documents tax reports 
+ +……………………… 
+ 
+ 
+5)  AQ Booking Company  ( April,202 0 – December,2020 ) 
+ Position: Developer (key-person) 
+Projects : 
+1. Grourmet&Dine  
+ Number of participants 3 people 
+Using technology Back-End: .NET Core( Web API), LINQ, D apper, Store Procedure, SQL Server, 
+Redis 
+Front -End: Html5, Css, JavaScript , Bootstrap, Jquery , Ajax , Google Map API  
+Describing project Grourmet&Dine is an e-commerce site that offers seafood, meat and some
+
+other items. 
+Development of functional modules: 
+ + Categories, sliders of products, best seller, new arrival 
+ + Products, detail product 
+ + Cart 
+ + Coupon Code 
+ 2. AQ Merchant Booking  
+ Number of participants 5 people  
+Using technology Back-End: .NET Core( Web API), LINQ, D apper, Store Procedure, SQL Server 
+Front-End: Html5, Css, JavaScript, Bootstrap, Jquery, Ajax, Google Map API 
+Describing project  
+AQ Merchant Booking is the website used for booking: (Hotel, Yacht, Car, 
+Dining, PrivateJet,Tour) 
+Development of functional modules: 
+ + Setup merchant (Hotel,Car,…) 
+ + Information Merchant 
+ + Glary Merchant 
+ + Pricing Plan Merchant 
+ + Send Mail 
+ + Add On Service 
+ + Pricing Plan Exception Merchant 
+ + Coupon Code 
+ 
+6)  TPF Group Company ( January ,202 1 – February,2022 ) 
+ Position : Developer  
+Projects : 
+1. Gold Coast Football Club  
+2. Sydney FC 
+3. BullDog FC  
+ Number of participants  5 people  
+Using technology Back-End: .NET Core( Web API), LINQ, D apper, Store Procedure, SQL Server, 
+Redis 
+Front -End: Scriban  template, Html5, Css, JavaScript , Bootstrap, Jquery, Ajax  
+Describing project Gold coast club, Sydney club and bulldog club is an e-commerce site that sells 
+items such as jerseys, hats, socks and other club merchandise.  
+Development of functional modules: 
+ + Categories, sliders of products, best seller, new arrival 
+ + Home page 
+ + Products, detail product 
+ + Cart 
+ + Checkout 
+ + Entitlements 
+ + Customer service
+
++ T&C 
+ + Private policy  
+ 4. RedBull 
+ 
+ 
+Number of participants  2 people   
+Using technology Back-End: PHP 
+Database: MySQL 
+Front-End: Html5, Css3, Bootstrap, ReactJS, Typescript, Redux 
+Describing project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Redbull club is an e-commerce site that sells items such as jerseys, hats, socks 
+and other club merchandise. 
+Development of functional modules: 
+ + Categories, sliders of products, best seller, new arrival 
+ + Home page 
+ + Products, detail product 
+ + Cart 
+ + Checkout 
+ + Promotion time 
+ + Customer services 
+ + About 
+ + T&C, Private policy 
+ 
+           
+ 5. Emplus Core UI 
+ 
+ 
+Number of participants  1 people   
+Using technology Front-End: Html5, Css3, Grapesjs 
+Describing project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build an e-commerce website system without html code, using drag and drop 
+that allows users to quickly create content and integrate responsively 
+compatible with devices. 
+ 
+7)  FE Credit financial company  (February,2022 – At the present time)  
+ Position : Developer  – Team leader  (Front end)  
+Projects : 
+1. HR Portal 
+ Number of participants   3 people  
+Using technology Back-End: .NET Core( Web API), LINQ, D apper, Store Procedure, Oracle, 
+Redis
+
+Front-End: knockout js, html5, css3, javaScript, Bootstrap, Jquery, Ajax 
+Describing project HR Portal is a website to store candidate information when new candidates join 
+the company eg: phone number, personal email, address,... 
+Development of functional modules: 
+ + Login 
+ + Register new candidate 
+ + Export list candidate 
+ + Import list new candidate. 
+ + Handle policy steps 
+ + Logout 
+ + Send email 
+ 2. Operation controlling hub  
+ 
+ 
+Number of participants 4 people (key person front end) 
+Using technology Back-End: .NET Core( Web API), LINQ, D apper, Store Procedure, Oracle, 
+Memory cache. 
+Front -End: ReactJs, Redux, Typescript, Material UI, Bootstrap.  
+Describing project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operation Controlling Hub is a website used to collect overdraft transactions for 
+partners such as smart pay, smart net,... 
+Development of functional modules: 
+ + Login 
+ + Check rules, permissions 
+ + Logout 
+ + List partner, detail partner 
+ + Multiple language 
+ + List ticket, my ticket, waiting tickets, detail 
+           
+ 3. User management system 
+ 
+ 
+Number of participants  4 people  (key person front end)  
+Using technology Back-End: .NET Core( Web API), LINQ, D apper, Store Procedure, Oracle, 
+Memory cache. 
+Front-End: ReactJs, Redux, Typescript, Material UI, Bootstrap. 
+Describing project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The user management system is a website used to classify by permissions and 
+roles, from which we will allow or deny access to applications and user 
+information taken from the hr portal website. 
+Development of functional modules: 
+ + Login 
+ + Check rules, permissions 
+ + Logout 
+ + List user, detail user 
+ + Multiple language 
+ + Send mail 
+ + Reset password
+
+4. MailToClient 
+ 
+ 
+Number of participants  2 people  
+Using technology Back-End: .NET Core( Web API), LINQ, D apper, Store Procedure, Oracle, 
+SelectPDF. 
+Front-End: Html, Css3. 
+Describing project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The MailToClient is a back-job (set schedule) to create a list of pdf files 
+including customer information, product information, payment methods, 
+accumulated points, outstanding debt,... and attach it to the customer's email 
+and send the email to the customer. 
+Development of functional modules: 
+ + Design template 
+ + Get data customers to pdf file 
+ 
+ 
+Education  Years of experience  
+The university – Lac Hong  
+Speciality: Information Technology - Software Engineering 
+7 years of work experience.

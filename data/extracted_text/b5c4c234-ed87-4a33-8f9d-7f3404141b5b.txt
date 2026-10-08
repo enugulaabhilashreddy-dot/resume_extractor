@@ -1,0 +1,290 @@
+LÊ QUỐC ĐƯƠNG 
+Địa chỉ: 397/5/2 Đỗ Xuân Hợp – Phước Long B – TP. Thủ Đức – TP. HCM 
+Điện thoại: . Email:  
+(for English click here) 
+  
+GIỚI THIỆU 
+Sinh năm 1989, tốt nghiệp khoa công nghệ thông tin - chuyên ngành công nghệ phần mềm vào năm 2012. 
+Với hơn 12 năm kinh nghiệm trong công việc quản lý và phát tri ển phần mềm nội bộ cho công ty, tôi đã 
+tự mình xây dựng nhiều dự án quản lý cho công ty. Nay tôi đang tìm kiếm một môi trường làm việc mới, 
+với mong muốn có thể phát triển thêm về bản thân và học hỏi từ các thành viên có kinh nghiệm lập trình 
+khác. 
+KỸ NĂNG 
+• Kiến thức: 
+o Ngôn ngữ lập trình: 
+▪ C# (.NET, MVC, API,  
+▪ JavaScript (jQuery, AJAX, AngularJS, ReactJS) 
+o Thiết kế web: 
+▪ HTML, CSS. 
+▪ Bootstrap library 
+o Cơ sở dữ liệu: 
+▪ MSSQL Server, LINQ, MySQL, XML. 
+o Công cụ: 
+▪ Visual studio, Visual Studio Code, Azure DevOps, JIRA, Agile, Git. 
+• Kinh nghiệm: 
+o Phát triển phần mềm nội bộ cho công ty. 
+o Phân tích yêu cầu, ước tính và lập kế hoặc phát triển dự án. 
+o Bảo trì, cải tiến, và nâng cấp hệ thống cũ. 
+o Làm việc nhóm, cùng phát triển phần mềm thương mại. 
+ 
+• Kỹ năng mềm: 
+o Khả năng tư duy, sáng tạo tốt. 
+o Khả năng học hỏi và tra cứu nhanh. 
+o Phối hợp cũng như dẫn dắt với các thành viên liên quan dự án để cùng nhau giải quyết vấn đề. 
+o Có thể làm việc độc lập để nghiên cứu các giải pháp và kỹ thuật. 
+o Có trách nhiệm trông công việc. 
+o Đọc và giao tiếp tiếng Anh khá.
+
+2 
+ 
+CÔNG VIỆC 
+2023 – 2024 
+DEVELOPER,  FREELANCER 
+ 
+2012 – 2023 
+IT APPLICATION LEADER,  CÔNG TY TNHH 3M VIETNAM 
+ 
+3M là tập đoàn đa ngành ngh ề, đa qu ốc gia, có tr ụ sở tại bang Minnesota, Hoa K ỳ. Thành lập tại 
+Việt Nam vào năm 1994, hi ện tại với hơn 100 nhân viên, làm vi ệc tại TP. HCM và Hà N ội. Công ty 
+có rất nhiều tiến trình cần quản lý, cần xét duyệt để tối ưu hóa quá trình v ận hành, bán hang c ủa 
+cả công ty. 
+  
+Trách nhiệm: 
++ Xem xét và đánh giá các quy trình của công ty. 
++ Làm việc với các nhóm phụ trách, để phân tích yêu cầu và tính hiệu quả. 
++ Nghiên cứu và đề xuất các giải pháp cho hệ thống. 
++ Tạo các web ứng dụng để các bộ phận liên quan sử dụng. 
++ Nâng cấp và bảo trì các ứng dụng trước đó. 
++ Lưu trữ và truy xuất dữ liệu khi cần thiết. 
+ 
+DỰ ÁN TIÊU BIỂU 
+E-LOGISTIC, CÔNG TY VẬN TẢI QUỐC NGHĨA 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: .NET Core, .NET MVC, AngularJS.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+DELIVERY SYSTEM, QSR GROUP 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: .NET Core, AngularJS, System Service, Microservice, Docker.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+MANUFACTORING MANAGEMENT, TTC GROUP
+
+3 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: .NET Core, .NET MVC, ReactJS.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+BOM – BILL OF MATERIAL, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed:  MVC, , AngularJS.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+CCM – CUSTOMER COMPLAINT MANAGEMENT, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed:  MVC, , jQuery.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+E-PRICING, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: API , , AngularJS, Bootstrap library.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+E-INVOICE, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: MVC, , jQuery.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+INVENTORY ADJUSMENT/DISPOSAL, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: MVC, , AngularJS.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+E-PROPOSAL, CÔNG TY TNHH 3M VIETNAM
+
+4 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: MVC, , AngularJS.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+REQUEST FOR SAMPLE, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: MVC, , AngularJS.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+CREDIT/DEBIT MEMO, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed: MVC, , AJAX, jQuery.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+E-CUSTOMER REGISTRATION, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed:  API, , AngularJS.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+E-AIR APPROVAL, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed:  MVC, , jQuery.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+PURCHASE ORDER APPROVAL, CÔNG TY TNHH 3M VIETNAM 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed:  MVC, , jQuery.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+SHOP ONLINE FOR EMPLOYEE, CÔNG TY TNHH 3M VIETNAM
+
+5 
+Kỹ thuật sử dụng: 
++ Ứng dụng wed:  MVC, , jQuery.  
++ Cơ sở dữ liệu: MSSQL. 
+ 
+TỐT NGHIỆP 
+2007 – 2012 
+KHOA CÔNG NGHỆ THÔNG TIN – CHUYÊN NGÀNH CÔNG NGHỆ PHẦN MỀM, 
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HCM
+
+6 
+DUONG LE 
+Address: 397/5/2 Do Xuan Hop – Phuoc Long B – Thu Duc – HCM City 
+Phone: . Email:   
+ 
+  
+INTRODUCTION 
+I’m Duong Le, born in 1989. After graduating with a major in software technology in 2012, I held the role 
+of managing and developing internal software for the company. With 12 years of experience, I have built 
+many operations management projects for the company . Currently I am looking for a new working 
+environment, to explore my other strengths as well as learn new knowledge. 
+SKILLS 
+• Knowledge: 
+o Programming language: 
+▪ C# (.NET, MVC, API,  
+▪ JavaScript (jQuery, AJAX, AngularJS, ReactJS) 
+o Web design: 
+▪ HTML, CSS. 
+▪ Bootstrap library 
+o Database: 
+▪ MSSQL Server, LINQ, MySQL, XML. 
+o Tools: 
+▪ Visual studio, Visual Studio Code, Azure DevOps, JIRA, Agile, Git. 
+• Experience: 
+o Create internal business management application. 
+o Analyzing requirements, estimating and planning project development. 
+o Maintain, improve, and upgrade old systems. 
+o Good teamwork, develop commercial applications together. 
+ 
+• Soft skills: 
+o Good thinking and creative. 
+o Learn and research quickly. 
+o Coordinate and lead members related to the project to solve problems together. 
+o Work independently to research solutions and techniques. 
+o Work responsibly. 
+o Read and communicate in English quite well.
+
+7 
+JOBS 
+2023 – 2024 
+DEVELOPER, FREELANCER 
+ 
+2012 – 2023 
+IT APPLICATION LEADER, 3M VIETNAM .LTD 
+ 
+3M is a multi-industry, multinational corporation, headquartered in Minnesota, USA. Established 
+in Vietnam since 1994, currently has more than 100 employees, working in the HCM city and Hanoi. 
+The company has many processes that need to be managed and approved to optimize operations 
+and sales processes. 
+  
+Responsibility: 
++ Review and evaluate the company's current processes. 
++ Work with relevant teams, to analyze requirements and effectiveness. 
++ Research and propose technical solutions. 
++ Create web application. 
++ Upgrade and maintenance. 
++ Store and retrieve data when needed. 
+ 
+PROJECTS 
+E-LOGISTIC, QUOC NGHIA TRANSPORT COMPANY .LTD 
+Technical used: 
++ Web application: .NET Core, .NET MVC, AngularJS.  
++ Database: MSSQL. 
+ 
+DELIVERY SYSTEM, QSR GROUP 
+Technical used: 
++ Web application: .NET Core, AngularJS, System Service, Microservice, Docker.  
++ Database: MSSQL. 
+ 
+MANUFACTORING MANAGEMENT, TTC GROUP
+
+8 
+Technical used: 
++ Web application: .NET Core, .NET MVC, ReactJS.  
++ Database: MSSQL. 
+ 
+BOM – BILL OF MATERIAL, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , AngularJS.  
++ Database: MSSQL. 
+ 
+CCM – CUSTOMER COMPLAINT MANAGEMENT, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , jQuery.  
++ Database: MSSQL. 
+ 
+E-PRICING, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: API , , AngularJS, Bootstrap library.  
++ Database: MSSQL. 
+ 
+E-INVOICE, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , jQuery.  
++ Database: MSSQL. 
+ 
+INVENTORY ADJUSMENT/DISPOSAL, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , AngularJS.  
++ Database: MSSQL. 
+ 
+E-PROPOSAL, 3M VIETNAM .LTD
+
+9 
+Technical used: 
++ Web application: MVC, , AngularJS.  
++ Database: MSSQL. 
+ 
+REQUEST FOR SAMPLE, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , AngularJS.  
++ Database: MSSQL. 
+ 
+CREDIT/DEBIT MEMO, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , AJAX, jQuery.  
++ Database: MSSQL. 
+ 
+E-CUSTOMER REGISTRATION, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: API, , AngularJS.  
++ Database: MSSQL. 
+ 
+E-AIR APPROVAL, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , jQuery.  
++ Database: MSSQL. 
+ 
+PURCHASE ORDER APPROVAL, 3M VIETNAM .LTD 
+Technical used: 
++ Web application: MVC, , jQuery.  
++ Database: MSSQL. 
+ 
+SHOP ONLINE FOR EMPLOYEE, 3M VIETNAM .LTD
+
+10 
+Technical used: 
++ Web application: MVC, , jQuery.  
++ Database: MSSQL. 
+ 
+EDUCATION  
+2007 – 2012 
+FACULTY OF INFORMATION TECHNOLOGY – SOFTWARE TECHNOLOGY MAJOR, 
+HCMC UNIVERSITY OF TECHNOLOGY AND EDUCATION

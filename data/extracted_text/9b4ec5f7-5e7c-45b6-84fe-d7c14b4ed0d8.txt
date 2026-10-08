@@ -1,0 +1,153 @@
+PERSONAL PROFILE 
+ 
+ 
+ 
+ 
+LE HOANG VIE 
+IT Manager 
+ 
+EXPERIENCE:XPERIENCE 
+Year(s) of Experiment: 20 
+Current Level: Manager 
+08/2018 - 09/2023 : IT Manager - RESOURCES VIETNAM 
+CORPORATION` 
+RESOURCES VIETNAM CORPORATION is an investment and 
+garment trading company, It also is a shareholder of TMG Ltd. 
+Company, So I continue to be an IT manager handling the IT 
+department for the whole group 
+- Continue to be responsible managing for IT department TMG 
+Ltd. Company 
+- I built POM software (PO Management system) for RSVN, with 
+this software company easily manages their PO, production, 
+shipping, payment, reporting line profit on each PO, each 
+Customer, each factory 
+- I built a QC&QA system linking to the PO system easily for 
+QC&QA to control the quality of the product during of producing 
+- Database: MySQL, SQL server 
+- Program: .NET core API, .NET Core MVC, ,  
+C#, 
+JQuery, bootstrap, CSS 
+- OS: Windows server 2012, VMware, Centos 
+ 
+4/2009 - 07/2018 : IT manager - TMG Ltd., Co.  
+TMG company holds the famous men's clothing brand JOHN 
+HENRY in Vietnam, they have more than 100 stores and do Omni 
+channel sales such as via websites , t iki, 
+shopee, lazada, zalo, facebook, t iktok 
+I'm responsible for the IT department on IT staff, IT tasks, IT 
+solutions, and IT systems,... 
+- Managing IT team on networking system, IT hardware, servers, 
+computers, laptops, printers,... 
+- Managing IT team on Network security, building, monitoring, 
+training people about how to recognize risk of security, prevent it 
+- Office 365 Email system 
+Deploy RetailPro Prism POS s y s t e m  and have 10 years 
+experience in RetailPro POS system 
+Build middleware intergrating H a r a v a n  flatform to RetailPro 
+Prism POS system 
+Datacenter, VPS (POS system, Accounting system, ERP 
+system) 
+- Websites: 
+- Backup/restore data 
+- BI Reporting system 
+- CRM system 
+- Supporting digital marketing team 
+- Database: MySQL, SQL server 
+Gender : Male 
+Birthday : 16/11/1979 
+Marital status : Married 
+Nationality : Vietnamese 
+Country : Vietnam 
+Phone number   
+Email :  
+Address : B702 CC TECCO, 287 
+Phan Văn Hớn, Tân Thới 
+Nhất, District 12, Ho Chi 
+Minh, Vietnam 
+ 
+CAREER INFORMATION 
+ 
+Level : Leader, Manager 
+Salary : 30,000,000 - 45,000,000 
+VND 
+Job type : Full t ime 
+Industry : Retail / Wholesale, Sales 
+/ Business Development, 
+IT - Hardware / Network 
+Location : Binh Duong, Ho Chi Minh 
+ 
+SKILLS 
+ 
+Teamwork 
+Work independently 
+Planning 
+Problem Solving 
+Management 
+Communication 
+Project manager 
+ 
+LANGUAGES 
+ 
+English - Intermediate
+
+Program: .NET core API, .NET Core MVC, , , C#, 
+JQuery, bootstrap, CSS 
+- OS: Windows server 2012, VMware, Centos 
+-  
+1/2008 - 4/2009 : IT Manager - SML Vietnam Ltd, Co.  
+SML has the head office in Ho Chi Min and a factory in Binh Duong, they are connected together by VPN via Juniper 
+router and connect to Hong Kong group via VPN site to site by Juniper device too. 
+I take care PC service desk, LAN, WAN, Windows 2003 AD, IP camera, and travel to HK to learn and deploy MS 
+Dynamic NAV ERP for the new office and manufacturing site in the factory 
+ 
+1/2004 - 12/2007 : BBS-AP-IT - Bayer Viet Nam  
+There are 4 office sites in Bayer Vietnam, they are connected together by cisco router via leased- line. I am major 
+responsible for WAN, LAN, PC service desk, Virus security, VPN client, internet proxy, Domino Lotus Note server, 
+Lotus client, DNS, DHCP, Windows 2003 AD and Windows 2003 Additional AD, IT documentation 
+ 
+1/2003 - 12/2003 : IT - SGN Logistics and Trading Company  
+I work major in IT service desk, LAN, Windows 2000 AD, Internet, Mail server, editing website for company 
+ 
+1/2001 - 12/2002 : IT - Cholimexfood Company  
+I work major in IT service desk, LAN, Windows 2000 AD, Internet, Mail 
+ 
+EDUCATION:UCATION 
+Highest Degree Level: Bachelor  
+Others - ILA English Center / Intermediate English Skill 
+Others - MS windows 2003 / MCP Certificated  
+Others - Bayer Business Service - ITIL (Information technology Infrastructure  Library)  
+ 
+Others - Bayer Business Service - Enterprise Virus monitoring, TrendMicro  Corp  
+Others - SML Hong Kong - ERP project manager 
+Completion date 7-2006  
+Others - Lotus English School/Business English Skill  
+ 
+Completion date 4-2001  
+Bachelor - Ha Noi University of Science and Technology - graduated at Computer Science  
+ 
+I studied in Nha Trang University but certificated Computer 
+Science by Ha Noi University of Science and Technology because they open this course there and send lecture to 
+there to teach us. My final examination project is accounting software, it is only a basic software package I built to 
+pass final examination and got 8 marks and have no chance to develop completely 
+Completion date 10-2001 
+Others - JETRO/E-commerce course 
+This is t ime E- commerce is still new with many companies, JETRO is Japanese Party, they want to transfer chance to 
+Vietnamese company can work via internet with other company over the world. I had a good view about the E- 
+commerce and how to work closely with customer and other company via internet 
+ 
+CAREER HIGHLIGHTS: 
+Deploy RetailPro Prism POS system for all John Henry stores, Omni- channel sales, CRM, digital marketing 
+With the Sales & Marketing department do Omni- channel sales on and  
+and e- commercial sites lazada, t iki, shopee 
+Integration system: e- com to internal system, POS to accounting system, e- invoice 
+Build POM system: a PO manegement system Build QC&QA system: a Quality control system
+
+REFERENCESEFERENCES 
+Tracy Tra  
+HR Manager, Công ty CP Nguồn VN Phone:  
+Email: 
+ 
+Teddy Chinh  
+General Manager, Công ty CP Nguồn VN 
+ Phone:  
+Email: -

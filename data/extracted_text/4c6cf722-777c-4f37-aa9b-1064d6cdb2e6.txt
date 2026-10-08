@@ -1,0 +1,99 @@
+LY CHANH DA RIL
+Developer
+    05/05/1990 
+ A18/1A1 Ap 1A, Quoc Lo 50, Binh Hung, Binh Chanh, TP Hồ Chí Minh   
+Tôi đã tốt nghiệp trường Cao Đẳng Số 8 Bộ Quốc Phòng.
+Sau khi tốt nghiệp tôi đã liên thông đại học Trường Đại học Công Thương TP. Hồ Chí Minh.
+Sau khi tốt nghiệp cao đẳng tôi đã làm việc tại công ty Quyền Năng từ 2012.
+Đến năm 2015 tôi làm việc cho công ty Chất lượng cuộc sống Kim Cương (hệ thống Thẩm mỹ Diamond, Y
+Khoa Diamond, Đa khoa Diamond) chuyên mảng website, quản lý hệ thống.
+Đến nằm 2018 tôi làm việc tại công ty VietNam Moving chuyên về bộ phận website và hệ thống quản lý
+nội bộ công ty.
+Sau đó tôi làm việc tại công ty CÔNG TY TNHH SELECT TECHNOLOGY chuyên về bộ phận fullstack
+website.
+Trong suốt quá trình công tác (hơn 10 năm) tại các công ty, tôi có khả năng phát triển, nghiên cứu kiến trúc hệ
+thống & giải pháp công nghệ thông tin cho các tổ chức doanh nghiệp.
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+ 09/2012 - 06/2015 Trường Đại học Công Thương TP. Hồ Chí Minh
+Công nghệ phần mềm
+ 08/2008 - 06/2011 Cao Đẳng số 8 Bộ Quốc Phòng
+Lập trình máy tính
+ 06/2023 - 12/2023 Fullstack Developer
+EASTERN WHALE
+Tham gia phát triển hệ thống cho startup.
+ Dự án: Phát triển hệ thống đấu giá sản phẩm và thương mại điện tử.
+Backend: Azure Function (.Net Core) 
+Frontend: Angular + .Net Core
+ 06/2022 - 06/2023 Fullstack Developer
+Select Technology
+Hoàn thành dự án
+ Dự án: Hệ nhà thông minh, thiết bị thông minh.
+(Phát triển hệ thống nhà thông minh, giải pháp tích hợp quản lý điều khiển hệ thống trên nền
+tảng website cho khách sạn.)
+Trang 1 / 3 - ©
+
+Frontend sử dụng .net core MVC(Frontend).
+Backend nhà thông minh Java, nodejs.
+ 01/2020 - 06/2022 Fullstack Developer
+Spartan Automotive Group
+ Dự án: Hỗ trợ phát triển API cho Consumer & Dealer cung cấp giải pháp & khả năng truy xuất chức năng
+và trao đổi dữ liệu giữa các ứng dụng cho bộ phận Mobile.
+Hệ thống quản lý GPS cho xe và bãi đỗ xe.
+(Sử dụng .Net Framework và MSSQL hoạt động trên window server.)
+ 06/2018 - 06/2022 Fullstack Developer
+Công ty TNHH Vietnam Moving
+Nghiên cứu, quản lý & phát triển vận hành hệ thống.
+ Dự án: Hệ thống vận chuyển VietnamMoving
+Thương mại điện tử VinaSave
+Bất động sản VietnamHome
+Nông sản VietnamFarm
+Hệ thống CRM
+Nghiên cứu, ứng dụng, thiết kế và triển khai các hệ thống tiếp cận khách hàng, quản lý khách
+hàng.
+Đảm bảo hiệu suất, chất lượng hệ thống. 
+Xây dựng hệ thống website VietNam Moving: thiết kế website chuẩn SEO và giao diện
+responsive với mọi thiết bị kết nối đơn hàng qua Zalo Page, Email, Facebook mang lại hiệu
+quả tiếp cận khách hàng cao.
+Xây dựng hệ thống CRM VietNam Moving nhằm chăm sóc khách hàng, quản lý đơn hàng và
+quản lý hiệu quả làm việc của các nhân viên thay cho hình thức làm việc thủ công qua công
+cụ như Excel, Google sheet, tự động hóa quá trình tương tác khách với khách hàng qua SMS,
+Zalo Page. Hệ thống giúp quá trình khảo sát của nhân viên khảo sát thuận tiện hơn bằng
+cách có thể truy xuất dữ liệu lịch sử khách hàng thông qua hệ thống Website và Zalo Page.
+Xây dựng hệ thống bán hàng Vina Save cho nhiều chi nhánh qua website chuẩn SEO
+responsive với mọi thiết bị tự động kết nối đồng bộ sản phẩm, đơn hàng với hệ thống Kiot
+Viet, tương tác khách hàng qua hệ thống SMS giảm thiểu công việc nhân viên quản lý và bán
+hàng.
+Xây dựng hệ thống bất động sản VietNam Home tiếp nhận khách hàng gửi thông tin bất
+động sản, kiểm chứng thông tin & đăng thông tin sản phẩm.
+Các công nghệ được sử dụng:
+Sử dụng các công nghệ như .net framework, .net core, mssql, mysql, mongdb. nodejs, angular.
+Kết nối bên thứ 3: Kiot Viet, Zalo OA, Zalo ZNS, hệ thống sms, Bizfly CRM. 
+ 07/2015 - 07/2018 Nhân viên
+Công ty Chất Lượng Cuộc Sống Kim Cương (Thẩm ỹ, Y khoa Diamond)
+Quản lý, phát triển hệ thống website, marketing & SEO.
+ Dự án: Quản lý & thiết kế hệ thống website chuẩn SEO, giao diện responsive với mọi thiết bị đáp ứng
+nhu cầu thẩm mỹ của khách hàng nghành thẩm mỹ kết nối các hệ thống tiếp nhận khách
+hàng như Tawkto, Zoopim, Facebook Messenger.
+Hệ thống quản lý thông tin đặt hẹn, nhắc hẹn của khách hàng.
+Thiết kế banner hình ảnh cho hệ thống website.
+Trang 2 / 3 - ©
+
+KỸ NĂNG
+Phát triển công cụ tạo nội dung tự động cho bộ phận SEO & Marketing.
+Phát triển công cụ tự động đăng bài lên hệ thống website vệ tinh blogspot, wordpress.
+ Quản lý, bảo trì Server & Hosting.
+ 02/2014 - 07/2015 Nhân viên thiết kế Website
+Nha Khoa Thuận Kiều
+Thiết kế website và SEO.
+ Dự án: Thiết kế hệ thống website, hỗ trợ SEO.
+ 01/2012 - 04/2014 Nhân viên
+Công Ty TNHH Giải Pháp Thông Tin Quyền Năng
+Lập trình viên
+ Dự án: Thiết kế giao diện các website ứng dụng, viết backend hệ thống.
+Khắc phục sự cố mạng và phần mềm. Cài đặt và bảo trì hệ thống.
+Đáp ứng các yêu cầu chung về CNTT, đảm bảo hệ thống được cập nhật. 
+ Thành thạo .NET  MSSQL  Angular  HTML  CSS  JQuery  JavaScript  Git
+ Trung bình MySQL  MongoDB  Java  Python  Docker  SQLITE
+ Mới bắt đầu Dart  Python  C++  PostgreSql  Flutter  ReactJS
+Trang 3 / 3 - ©

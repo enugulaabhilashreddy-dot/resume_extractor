@@ -1,0 +1,106 @@
+Lumen, Zend2 (php) Good understand of OOP methodologies, design patterns
+ReatJS, NodeJS ReactJS: Redux, Jquery, Bootstrap, Material UI 
+NodeJS: Socket, ExpressJS
+MongoDB, SQL. Good understand  of query, proceduce, function, view, trigger,...
+Fullter Good understand of OOP methodologies, design Bloc,provider
+Oct 2017 - May 2021 HCMC University of Technology and Education
+Major: IT
+Oct 2022 - Feb 2023 FULL STACK WEB VIRTUAL PBX VOIP24H
+Position: Build tool Telesales, Monitor extension, build a system to send
+sms and zalo, multi channel.
+Team Size: 6 people 
+Technology: 
+- HTML,css, bootstrap, chartjs,...
+- ReactJS, redux, toolkit, JWT
+- Framework Codeigniter (PHP), 
+- MySQL,Mongo
+- ReactJS, NodeJS
+Main responsibilities:
+-  Project: Telesales
++ position: member (Full Stack)
+Trần Hưng Tiến
+Full stack Developer
+Date of birth:  July 20, 1999
+Gender:  Male
+Phone:
+Email:
+Address:  HL2, BinhTan District
+Website:
+SUMMARY
+I'm a Full Stack Software Engineer with 2 year of experience in Web Application. I have 1 year of experience in Back-
+End, Font-End Web Development and 6 month of App Mobile.
+With my knowledge of UI/UX design, i ẹnoy solving font-end problems and creating the best user experience for users.
+beside  i enjoy optimize system reduce data loading time.
+I also spend time learning new technologies and best pratices to become a better engineer.
+TECHNICAL SKILLS
+EDUCATION
+WORK EXPERIENCE
+
++ Building extension status monitoring system.
++ Reponsive page ( contract, dial).
++ Integrated sms/zns messaging system.
++ Build login with QR.
+-   Project: OTT Multi Service 
++ position: member ( FullStack) 
++ Design database schema and implement back-end service.
++ SMS/ZALO API structure design for connecting customers.
+ -  Project: Multi channel (Build system chat Facebook/Zalo ) 
++ position: Leader (Fullstack)
++ Design UX/UI multi channel with Material, bootstrap, Jquery.  
++ Build socket io with NodeJS to receive webhook from zalo,facebook
+and return data to client
+ 
+July 2021 - Oct 2022 FULL STACK WEB APP DEVELOPER FOR OPPO VN(VINH
+KHANG SCIENCE & TECHNOLOGY )
+Position: Support and build HR tools in the ﬁeld of contracts, insurance
+and time-leave. And build a mobile app to support users to report sales
+and timekeeping. Build Web app chat for company
+Team Size: 15 people 
+Technology:  
+- React Native
+- HTML,css, bootstrap, chartjs,...
+- Firsebase, redux, toolkit, JWT
+- Framework Zend2 (PHP), 
+- MySQL
+- ReactJS, NodeJS
+Main responsibilities:
+- Design UX/UI and implement additional functionalities (both back-end,
+font-end) base on the requirements of stakeholder.
+- Design database schema and implement back-end service and the
+trading signal execution engine.
+- Design structure with framework expressJS and build the api for
+backend to integration frontend
+ 
+Oct 2021 - June 2022 ReactJS DEVELOPER (Digital 4 Life): PART TIME
+Position: Web UX and UI design paradigms, and ability to implement
+and design web.
+Team Size: 8 people 
+Technology: 
+- ReactJS
+- React Hook
+- Redux, Saga 
+- Socket IO, Axios
+- Bootstrap, Bootstrap, Material UI
+Main responsibilities:
+- Design UX/UI with chartjs, visjs, bootstrap, Jquery
+- Data processing with graphs
+June2020 - Dec 2020 Back-End Developer Intern (Green Mobile Application)
+Position: Intern Developer
+
+Team Size: 7 people 
+Technology: 
+- Lumen PHP framework
+- MongoDB
+- HTML,CSS,JS,Jquery
+Main responsibilities:
+- Learn more about lumen laravel framework.
+ -Have experience of HTML/CSS/JS at the basic.
+ -Have experience of using and connecting PHP server code
+withMongoDB. 
+- Develop RESTful-API using Lumen Laravel Framewor 
+- Communicate with coworker: Front-End developer to make
+suremyAPIs return the data match with the User Interface, Back
+Enddeveloper to improve my code, update my code performance.
+INTERESTS
+Read book, Football, Travel, Music
+©

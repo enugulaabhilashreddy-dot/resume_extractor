@@ -1,0 +1,133 @@
+Trang 1 
+ 
+Senior  Data  Scientist 
+ 
+ 
+KINH NGHIỆM 
+ 6 năm kinh nghi ệm về Data Science (fintech, tài chính, 
+bất động sản, sản xuất). 
+ 5 năm kinh nghi ệm v ề Data Analysis  và Business 
+Intelligence. 
+ 15 năm giảng dạy đại học chuyên ngành trí tuệ nhân tạo. 
+HỌC VẤN 
+ Thạc sĩ công ngh ệ thông tin hệ chính quy (2000-2003) 
+trường ĐH Khoa học Tự nhiên (ĐH Quốc gia  
+ Kỹ sư điện tử hệ chính quy (1991-1996) trường ĐH Bách 
+khoa (ĐH Quốc gia  
+NĂNG LỰC 
+ Có kiến thức về cấu trúc dữ liệu & giải thuật, xác suất & 
+thống kê, mô hình & mô phỏng, tối ưu hóa. 
+ Có kiến thức về p hân tích khai phá dữ liệu (Exploratory 
+Data Analysis - EDA) 
+ Có kiến thức về máy học (Machine Learning), học sâu 
+(Deep Learning): Algorithms (Decision trees, KNN, K -
+means, Linear/ Ridge/ Lasso/ Logistic Regression, SVM, 
+Random forest, Clustering algorithms,  Association 
+rules,...); ANN (Perceptron, Hoffield,...) ; Data 
+preprocessing (feature scaling, encoding, feature 
+engineering, normalization, standalization); Ensemble 
+methods (Bagging, Boosting, Stacking). 
+ Có kiến thức về các loại  cơ sở dữ liệu (RDBMS, Graph 
+Databases, NoSQL Products) , xử lý dữ liệu phân tán  và 
+xử lý dữ liệu lớn (Hadoop, Spark,...) 
+ Có kiến thức về IoT, Sensor, ERP, CRM, Pos, Ecom, 
+VoiIP,... và ETL, Data pipline. 
+ Có kỹ năng s ử dụng tốt các ngôn ngữ lập trình C /C++, 
+Java, Python và SQL. 
+ Có kỹ năng s ử dụng tốt các thư viện cho khoa học dữ 
+liệu với Python như: Numpy, SciPy, Pandas, Matplotlib, 
+Seaborn, Scikit-learn, TensorFlow, PyTorch, Keras, 
+Scrapy, Beautiful soup,... và Google Colab. 
+ Có kỹ năng sử dụng tốt công cụ xử lý dữ liệu và trực quan 
+hóa dữ liệu Excel, Power BI, Google Data Studio. 
+ Có trải nghiệm môi trường Agile và A/B testing. 
+ 
+MR. TRẦN NGỌC TRUYỀN 
+MSC., ENG. 
+24 - 10 - 1972 
+TP. HCM 
+GIỚI THIỆU 
+Là một Data Scientist xuất  thân 
+từ giảng viên  Trí tuệ nhân tạo 
+(AI), tôi có niềm đam mê vận 
+dụng AI nhằm gia tăng năng 
+suất, hiệu quả, lợi nhuận cho 
+doanh nghiệp. 
+Tôi mong muốn được thành 
+công và có nhiều cơ hội thăng 
+tiến hơn nữa trên con đường sự 
+nghiệp của mình. 
+MỤC TIÊU 
+Trở thành nhân viên chính thức 
+của công ty, được trau dồi thêm 
+những kiến thức, kỹ năng, kinh 
+nghiệm làm việc tại vị trí Data 
+Scientist. 
+CONTACT  
+M:  
+E:   
+A:  15/9 Thạch Lam, P. Hiệp 
+Tân, Q. Tân Phú,
+
+2 
+ 
+QUÁ TRÌNH LÀM VIỆC 
+ 2021 - 2023: Data 
+Analyst, Data Scientist tại Sàn 
+giao d ịch hàng hóa phái sinh 
+SCE. 
+ 2019 - 2021: Data 
+Analyst, Data Scientist tại FLC 
+Real mảng bất động sản và vật 
+liệu xây dựng. 
+ 2017 - 2019: Data 
+Analyst, Data Scientist t ại 
+fintech Rapbank chuyên k ết 
+nối cho vay ngang hàng. 
+ 2012 - 2017: Chuyên gia 
+tư v ấn phân tích kinh doanh 
+(Business Analyst) t ại Tri Tri 
+group, tư v ấn cho các doanh 
+nghiệp khác triển khai h ệ 
+thống ERP. 
+ 1997 - 2012: Giảng viên 
+tại Trung tâm CITD r ồi t ại 
+Trường ĐH Công ngh ệ thông 
+tin (đ ều thu ộc ĐH Qu ốc gia 
+, chuyên ngành trí 
+tuệ nhân tạo. 
+CÔNG VIỆC TRỌNG TÂM 
+1) Nghiên c ứu, xây d ựng và áp d ụng các mô hình h ọc 
+máy trong việc giải quyết các vấn đề của doanh nghiệp 
+• Nghiên c ứu, phân tích s ự tương quan c ủa các 
+hoạt động. 
+• Thử nghiệm, đánh giá, đề xuất các mô hình phân 
+tích phù hợp. 
+• Áp dụng các mô hình, thu ật toán vào gi ải quyết 
+các vấn đề của doanh nghiệp. 
+• Xây dựng và phát triển các sản phẩm và ứng dụng 
+vào thực tế. 
+2) Nâng cao tính t ự động hóa và t ối ưu hóa trong các 
+hoạt động thu thập và khai thác dữ liệu: 
+• Xây dựng các giải pháp tự động hóa việc thu thập 
+dữ liệu. 
+• Xây dựng các giải pháp tự động hóa việc phát hiện 
+cơ hội, rủi ro. 
+• Xây d ựng các giải pháp tự động hóa vi ệc c ảnh 
+báo, nhắc nhở. 
+• Xây dựng các giải pháp tối ưu hóa hoạt động kinh 
+doanh, vận hành của doanh nghiệp. 
+3) Phối hợp với các nhân sự, đội nhóm khác phân tích 
+trong việc khai phá dữ liệu: 
+• Phối hợp trong việc khai phá và định nghĩa dữ liệu 
+• Phối hợp trong việc tìm kiếm insights dữ liệu 
+ 
+NHỮNG CHỦ ĐỀ ĐÃ THỰC HIỆN 
+ 
+Stt Chủ đề khai phá dữ liệu  Stt Chủ đề khai phá dữ liệu 
+1 Sự rời bỏ của khách hàng  6 Hoạt động bán chéo 
+2 Sự gian lận của khách hàng  7 Hoạt động tiếp thị 
+3 Cơ cấu và hành vi khách hàng  8 Dữ liệu quảng cáo 
+4 Hiệu suất nguồn nhân lực  9 Dữ liệu bán hàng 
+5 Tồn kho và logistics  10 Dữ liệu thanh toán 
+      ***

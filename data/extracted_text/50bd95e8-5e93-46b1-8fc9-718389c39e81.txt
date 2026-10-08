@@ -1,0 +1,199 @@
+CURRICULUM VITAE – Than Van Hai
+ –  
+        1 
+CURRICULUM VIT AE 
+I. PERSONAL  INFOMATION 
+ 
+- Full name:  THÂN VĂN HẢI 
+- Gender: Male 
+- Birthday: 10/02/1988 
+- Address: 367, District Bùi Hữu Nghĩa, Tân Van, Bien Hòa, Đồng Nai 
+- Address: 364, hamlet 4, Vĩnh Tân town, Vĩnh Cửu district, Đồng Nai province 
+- Email:  
+- Tel:  
+ 
+II. CAREER OBJECTIVE  
+- Cooperation of mutual benefit. 
+- To work in a dynamic professional environment with a growing company. 
+- To promote my career and consistent income with capacity.  
+III. WORK EXPERIENCE (Over 6 years working experience) 
+➢ 01/06/2021 to 19/10/2023: 
+▪ TNHH DMS – PATC Group Công ty TNHH Sản xuất và Thương mại Cát Thái 
+▪ Address: 55 Ich Thanh St., Truong Thanh Ward, Dist. Thu Duc, HCMC 
+▪ Website:   
+▪ Position: Application developer 
+▪ Duty:  
+- Maintain, operate, upgrade, develop Epicor 
+- Sql data query for business data analysis (myself a BA) 
+- Exchange users to know the problems users have to find ways to solve the problems users 
+face 
+- Guide new developers to access the system Epicor 
+- Research new technologies to improve the applicable system 
+) 
+▪ Skill learning: 
+- BAQ, BPM, Dashborad, DMT, Report, SSRS, Customization, SQL 
+- Build Solution, instal solution, remove solution 
+- Setup Menu, system authorization, edit PosttingRule of Finance 
+▪ Projects were deployed: 
+✓ Remove the post of the finance module to edit the business and then post it again 
+✓ Cut out the post process when Match LogAPInvoice via APInvoice 
+✓ Use UD table to develop the features required by the company 
+✓ Building a method to calculate BOM for the production module 
+➢ August 2015 – 9/2017 && 12/2017 to 31/03/2021: 
+▪ PSC – Pyramid Software & Consulting.
+
+CURRICULUM VITAE – Than Van Hai
+ –  
+        2 
+▪ Address: 5 Hoa Sua, Ward 7, Phu Nhuan district, Ho Chi Minh city 
+▪ Website: ,   
+▪ Position: Senior developer 
+▪ Duty:  
+- Maintain, operate, upgrade, develop PSC ERP 
+- Support, solving the problems of the customers related to the system. 
+- Research new technologies to improve the applicable system.  
+- Linking together the different computing systems and softwares 
+▪ Projects were deployed: 
+✓ PSC AMS (Asset management system), PSC ERP & Tools and Supplies 
+o Core: 
+▪  
+▪ Entity Framework 
+▪ MS SQL 2012, MS SQL2014, MS SQL 2016 
+▪ Devexpress UI 
+▪ Devexpress Report at runtime 
+▪ Log4net 
+▪ Microsoft Unity framework 
+▪  
+▪ CLSA 
+o Scope: 
+▪ Provides intuitive and flexible user interface 
+▪ Manages more than 50.000 asset items 
+▪ Inventory with barcode scanner. Intended scanned by smartphones 
+▪ Provides easy searching and retrieval of information across user interface 
+▪ Provides extensive standard and customizable reporting capabilities 
+▪ Enables easy management and maintenance of software modules 
+o Customer:  
+▪ Ho Chi Minh city television HTV 
+▪ Agribank Jewelry VJC 
+▪ Thu Duc college of technology TDC 
+▪ Ho Chi Minh city University of Pedagogical HCMUP 
+▪ Ho Chi Minh city University of Technology Education UTE 
+✓ Service & Time Attendance 
+o Core:  
+▪  
+▪ Web service 
+▪ WCF 
+▪ Entity Framework 
+▪ Windows service 
+▪ SQL SERVER 
+▪  
+▪ ZK Teco SDK
+
+CURRICULUM VITAE – Than Van Hai
+ –  
+        3 
+o Customer: 
+▪ Industrial University of Ho Chi Minh city IUH: HRM Data service, HRM Time 
+Attendance server 
+▪ HCMC University of Technology and Education: HRM Data service, HRM Time 
+Attendance server 
+▪ Ho Chi Minh city University of Law LUH: HRM Data service 
+▪ University of Economics Ho Chi Minh city UEH: HRM Data services 
+▪ Khanh Hoa goverment: HRM Data service 
+ 
+✓ Research SignalR and build a chat server with that technology: 
+o Core: 
+▪ WCF service 
+▪ SignalR 
+▪ Memcached 
+▪ RaptorDB 
+▪ Redis backplane 
+➢ January 2015 to June 2015: 
+▪ ASIASOFT Business Software Solutions. 
+▪ Address: 730/126 Lê Đức Thọ, P.15, Q.Gò Vấp 
+▪ Website: ; 
+▪ Position: Staff deployment 
+▪ Duty:  
+- Install software SIMBA ACCOUNTING, ASIA STANDARD, ASIA ENTERPRISE 
+- Customer training 
+- Support 
+- Edited at the request of customers 
+➢ 10/2017-11/2017: 
+▪ Thép Lá Mạ Sóng Thần - Công Ty TNHH Thép Lá Mạ Sóng Thần. 
+▪ Address: Lô O Đường số 9, KCN Sóng Thần I, Dĩ An, Bình Dương 
+▪ Website:  
+▪ Position: Developer 
+▪ Duty: 
+- Maintain stable operating software system with accurate data. 
+- Develop new functions to meet the actual job requirements of the company. 
+- User manual, decentralized to exploit and troubleshoot the software system. 
+Skill learning: 
+- Know programming skills, object oriented programming. 
+- Know SQL language (SQL Server or Oracle) 
+- Know .NET programming language (Priority to know Powerbuilder language) 
+- Prioritize to know business administration (ERP)
+
+CURRICULUM VITAE – Than Van Hai
+ –  
+        4 
+IV. DEGREE OBTAINED 
+- Degree: Bachelor of Information Technology 
+- Subject: Software technology 
+- Year: 2010 – 2014 
+- University: Industrial University of Ho Chi Minh City - IUH 
+V. LANGUAGES 
+- Vietnamese: Mother tongue. 
+- English: Intermediates level. It’s good to research the new technology document. 
+VI. TECHNICAL SKILL 
+➢ Knowledge intensive:  
+- C# .Net 
+- Entity framework 
+-  
+- SQL: store procedure, function, view, replication, trigger, link server, CLR Assembly 
+- Windows Applications 
+- DevExpress: UI, Report 
+- Infragistics UI 
+- SQL Server: 2008, 2012, 2014, 2016 
+- Microsoft Unity Framework: Inversion of Control (IoC), Singleton (Si), Dependency Injection 
+(DI) 
+- WCF service 
+- Web service 
+- ClickOne auto update 
+➢ Understand skills: 
+- SignalR 
+- Log4net 
+- Web OData service 
+- Web Api 
+-   MVC4 Razor syntax  
+- HTML and HTML5 
+- CSS2 – CSS3 
+- Javascript 
+- jQuery 
+- AngularJs, Bootstrap, Ajax 
+- Kendo UI 
+- Crystal Report 
+- Reporting 
+- 
+➢ Understanding basic: 
+- Android SDK, Android Studio, Xcode 
+- Java, Netbeans, Eclipse 
+- C++, Objective C 
+- Devexpress: XPO, XAF 
+➢ Use forming tools: 
+- MS Visual Studio 2008, 2010, 2012, 2013, 2015, ,2017, 2022 
+- SQL Management Studio 2008, 2012 ,2016, 2017
+
+CURRICULUM VITAE – Than Van Hai
+ –  
+        5 
+- MS Team Foundation Server 2012 
+- MS SourceSafe 
+- Red Gate 
+- Android Studio 
+- Netbeans, Eclipse 
+ 
+ 
+ 
+ 
+Thank and Best Regards! 
+Than Van Hai

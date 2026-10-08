@@ -1,0 +1,81 @@
+/
+Phạm Thành Luân
+c
+
+
+
+
+
+Quality Control
+Nam
+m
+52/1B Nguyễn Đình Chiểu, 
+phường 3, quận Phú Nhuận, 
+Mục tiêu nghề nghiệp:
+Áp dụng những kinh nghiệm về việc kiểm tra chất lượng phần mềm để đảm 
+bảo sản phẩm sau khi bàn giao cho khách hàng thật tốt 
+03 Kỹ năng chính: 
+ 
+Kỹ năng khác: 
+- Kỹ năng giao tiếp 
+                           - Kỹ năng tư duy phản biện 
+                           - Kỹ năng máy tính 
+                           - Kỹ năng làm việc với hệ quản trị cơ sở dữ liệu SQL Server 
+ - Kỹ năng làm việc nhóm, khả năng tương tác 
+                           -  Khả năng làm việc ngoài giờ và onsite tại khách hàng  
+KỸ NĂNG
+02
+THỜI GIAN: 
+Mô tả công việc:
+Thành tích đạt được:
+THỜI GIAN: 
+Mô tả công việc:
+Công ty TNHH Tiến Bộ Sài Gòn - ASCVN
+THỰC TẬP
+- Viết tài liệu đặc tả yêu cầu của dự án VietGoal.
+- Viết các testcase để kiểm thử các dự án VietGoal
+- Kiểm thử chất lượng của sản phẩm của dự án VietGoal
+- Tìm hiểu hệ thống PMT-SCHOOL
+- Hỗ trợ khách hàng vận hành hệ thống
+- Tham gia dự án VietGoal
+Công ty TNHH Tiến Bộ Sài Gòn - ASCVN
+NHÂN VIÊN TRIỂN KHAI DỰ ÁN
+- Khảo sát nghiên cứu yêu cầu của dự án VietGoal
+- Triển khai hệ thống PMT-SCHOOL, VietGoal
+- Viết các testcase kiểm thử hệ thống PMT-SCHOOL, VietGoal
+- Kiểm thử chất lượng hệ thống PMT-SCHOOL, VietGoal
+- Viết tài liệu hướng dẫn sử dụng phần mềm PMT-SCHOOL, Vietgoal
+KINH NGHIỆM
+LÀM VIỆC
+01
+THỜI GIAN: 
+Tên bằng cấp: 
+Chuyên ngành: 
+Đang theo học tại trường Đại học Nguyễn Tất Thành
+Đại Học
+Kỹ Thuật Phần Mềm
+HỌC VẤN
+
+Thành tích đạt được:
+- Tiếp nhận, hỗ trợ xử lý kỹ thuật trong quá trình sử dụng phần mềm PMT- 
+SCHOOL, Vietgoal của khách hàng.
+- Viết tài liệu đặc tả phát triển các tính năng mới cho phần mềm PMT SCHOOL.
+- Triển khai module học trực tuyến của hệ thống PMT-SCHOOL
+- Triển khai module thi trực tuyến của hệ thống PMT-SCHOOL
+- Triển khai module học trực tuyến đến với các trường
+- Hỗ trợ vận hành hệ thống VietGoal
+- Tham gia dự án trục dữ liệu tỉnh Khánh Hòa
+TIN HỌC
+Words    
+Excel    
+Power Point    
+Outlook    
+Phần mềm khác: SQL Server
+TIẾNG ANH
+Nghe    
+Nói    
+Đọc    
+Viết    
+SỞ THÍCH
+- Đọc sách
+- Đá bóng

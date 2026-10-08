@@ -1,0 +1,449 @@
+1
+Tran Trong Son 
+PERSONAL DETAILS 
+ 
+Name  Trần Trọng Sơn  
+Nationality  Vietnamese  
+Gender Male 
+ 
+Birth year 1992  
+ 
+Email  
+Mobil 
+Fb 
+ 
+SUMMARY 
+•  More than 5-year experience in software development specially in Team Lead, web 
+development both front-end and back-end, Android development(Native xamarin), 
+IOS development(Native xamarin), Flutter(IOS,Android) 
+•  Python, NET developer, experienced with Angular , Python, Django, Odoo frameworks, 
+IOS and Android app development. 
+•  Strong experience in design, proposal architecture & implementation of web 
+applications  
+•  With results-oriented and team work-oriented attitude, really keen on Web 
+Development. I can play in role of “full-stack” web developer. 
+•  Performed several roles as core developer, researcher with highly motived of self-
+study. 
+ 
+EDUCATION & CERTIFICATION 
+•  2011 - 2016: Engineer of Information Technology, Vinh University. 
+•  THE DEGREE OF ENGINEER INFORMATION TECHNOLOGY(Degre e classification: 
+Good )
+
+2
+LANGUAGES 
+  English:  Intermediate level 
+Vietnamese:  Mother tongue  
+ 
+TECHNICAL SKILLS 
+•  Programming Languages:  Python, TypeScript, Dart, C# 
+•  Databases etc : PostgreSQL, MongoDB, SqlServer, Redis.  
+•  Programming Tools: Visual Code, Xcode, Android Studio, Visual Studio. 
+•  App server / Middleware :Centos(Docker), Microsoft IIS. 
+•  Framework/CMS : FastAPI, Django, Flutter(GetX, Bloc), Angular, Odo o, Net MVC, Net 
+Core. 
+•  Configuration Management tools : Git 
+•  Browsers : Chrome, Firefox, IE  
+•  OS : MACOS, Windows  
+ 
+PROFESSIONAL EXPERIENCES  
+2019/01 – 2023/03 
+Development, Smart Life Company 
+ 
+Project: CDN 
+Using the CDN simplifies resource management for multip le websites, as distribution and 
+management can be executed from a single platform.  Using the CDN can reduce operational 
+costs for multiple websites by requiring one data reposi tory and distribution service, and 
+distributing the associated bandwidth and storage costs to multiple sites. 
+•  Upload image. 
+•  Upload multi image. 
+•  Upload file, docs.. 
+•  Upload multi file , docs. 
+•  Save file mongo db(GridFs). 
+Technologies :  
+•  Gridfs, PIL. 
+•  FastAPI. 
+•  DB: Mongo(Shared cluster, load balancing). 
+•  Server: Centos 7. 
+•  Docker. 
+•  Python 3 coding. 
+•  Oddo CMS(Tasks Assign). 
+•  Git version control. 
+Responsibilities : 
+•  Team Lead 
+•  Build core
+
+3
+•  System design 
+•  Review code 
+•  Merge code 
+•  Python develop 
+•  Test Application 
+ 
+Project: Plant 4.0 
+Building an agricultural 4.0 system to serve the digi talization process in agriculture. Target 
+customers are farmers, cooperatives. Helps record each step of the care process from planting 
+to harvesting. There by creating a diary of each pro duct from planting to harvesting. 
+Warehouse management, management of agricultural materials,management of plant varieties, 
+management of machine and equipment. Smart farming refers to managing farms using 
+modern Information and communication technologies to  increase the quantity and quality of 
+products while optimizing the human labor required. Among the technologies available for 
+present-day farmers are sensors for soil scanning and water, light, humidity and temperature 
+management. 
+•  Commons management: tree, employee, warehouse, production of unit, unit, material.. 
+•  Employee management  roles, permissions. 
+•  Partner management : add, update information. 
+•  Task Assign to employess includes: planting, diary, harvest. 
+•  Warehouse management: import, export, tranfer, adjusment 
+•  Invoice: Using Harvest's invoicing feature, create an invoice for the  harvest. 
+•  Create schedule, process of crop. 
+•  Report : 
+o Inventory levels 
+o Revenus 
+o Profit of loss 
+o Employee 
+•  Agricultural documents management. Document includes: 
+o Ocop techniques 
+o Gardening techniques 
+o Planting techiques 
+o Pets of plants 
+o Fertilizer for plants 
+•  Fundbill management: Receipts, Pay Slip 
+•  Connect traceability 
+o Regiter user 
+o Register product 
+o Register production of unit 
+o Register Transaction(planting, diary, harvest) 
+•  Weather forecast  
+•  IOT  
+Technologies :  
+•  Backend: FastAPI 
+•  DB: Posgrestsql
+
+4
+•  Flutter (GetX) 
+•  Web for Angular 
+•  Multitenant DB 
+•  Tasks Assign (Oddo CMS) 
+•  Docker 
+•  Git version control 
+Responsibilities : 
+•  Team Lead 
+•  Build core 
+•  Python developer 
+•  Review code 
+•  Merge code 
+•  System design 
+•  Features implementation 
+•  Test application 
+•  Deploy backend to Centos(Docker) 
+•  Support other team members 
+•  High performance tuning 
+•  Critical issue solving. 
+•  Testing 
+ 
+Project: Produce 
+Is an application dedicated to production and processi ng facilities to help manage processing 
+activities, update traceability information for prod ucts in real time. (very suitable for Ocop 
+product production facilities). A traceability system for manufacturing tracks production in 
+real-time, providing a detailed view of the manufac turing process, from raw materials to 
+finished products 
+•  Establish regulations for monitoring the quality of each specific item. 
+•  Check the quantity of goods, the origin of the batch, barcodes, and ingredients. 
+•  Decide to accept or reject raw materials or products that comply with the standards. 
+•  Print inspection and approval certificates in accorda nce with the industry's general 
+regulations. 
+•  Monitor the process of importing goods from suppliers and report to the system on any 
+issues. 
+•  Partner management 
+•  Processing process management 
+•  User management: add, update, delete, roles, permissions. 
+Technologies :  
+•  Backend: FastAPI 
+•  DB: Posgrestsql 
+•  Flutter apps for Android + iOS(GetX) 
+•  Docker 
+•  Git version control 
+•  Tasks Assign(Oddo CMS)
+
+5
+Responsibilities : 
+•  Team lead 
+•  Python developer 
+•  System design 
+•  Review code 
+•  Merge code 
+•  Features implementation 
+•  Test application 
+•  Deploy to centos 
+ 
+Project: GRPC  Client-Server 
+GRPC serve-client 
+Synchronize data between servers:  
+•  Account: sync user information, active user, remove user. 
+•  Application: sysc application information, active application, remove application. 
+•  Contract: sysnc contract information, renew. 
+Technologies :  
+•  Backend: Python FastApi 
+•  Docker  
+•  DB: Posgrestsql 
+•  Git version control 
+•  Tasks Assign(Oddo CMS) 
+Responsibilities : 
+•  Team Lead 
+•  Build core 
+•  Python developer 
+•  System design 
+•  Review code 
+•  Merge code 
+•  Authorization and authentication implementation(RSA key) 
+•  Test application 
+ 
+Project: UserCenter   
+Using kerberos authentication. The Authentication Server(AS) performs one function: receive 
+a request containing the username, password of the clie nt requesting authentication, and 
+return an encrypted Ticket Granting Server(TGS) for  that user. Then, the client can use this 
+Ticket Granting Server (the TGS) to request further tickets for other services. When a client has 
+no Kerberos tickets cached, or tickets that have expired, then the client must communicate with 
+the Authentication Server to get an initial ticket to the Ticket Granting Server. This typically 
+happens at the beginning of each day, as most Kerberos implementations default to 8-10 hour 
+ticket lifetimes. User management, App registration m anagement, system access rights 
+management, registration management all company apps. 
+•  Contract management: retrieve, update, renew.
+
+6
+•  User management: The Manager User service is responsible for managing user accounts, 
+which include adding, removing, active, updating, and retrieving user information. This 
+service stores user data such as usernames, password… 
+•  Ticket Management: generate ticket, update,check authentication, check permissions. 
+•  Application store : register all applications of the sy stem, update app, active app, 
+generate key Rsa. 
+•  Roles management: the manager role access apps, add, update, remove role access. 
+•  Encrypt, descrypt data. 
+Technologies :  
+•  FastAPI 
+•  Angular  
+•  RSA(Encryptor) 
+•  DB: Posgres 
+•  Git version control 
+•  Docker 
+•  Deployment on Centos 
+•  Tasks Assign(Oddo CMS) 
+Responsibilities : 
+•  Team Lead 
+•  Build core 
+•  System design 
+•  Review code 
+•  Merge code 
+•  Python develop 
+•  Tests app 
+ 
+Project: Traceability   
+Traceability is the ability to track the steps or processes of a product or service from origin to 
+consumer. Traceability plays an important role in monitoring the production process, ensuring 
+food safety, protecting the environment and meeting customer requirements. Traceability 
+includes collecting and storing information related to products or services, including location, 
+time, origin, production process, transportation and post-use processing.  Traceability plays a 
+very important role in fields such as food, environment, health care and manufacturing. It helps 
+increase transparency, provide important information and plays an essential role in ensuring 
+product safety and quality of service. 
+•  Product resgister: product information, variety 
+•  Production unit : production unit infomation 
+•  User register: user infomation 
+•  Transaction register: planting, diary, crop, harvest, ware house. 
+Technologies :  
+•  Django 
+•  DB: Mongo 
+•  Git version control 
+•  Deployment on Centos
+
+7
+•  Tasks Assign(Oddo CMS) 
+Responsibilities : 
+•  Development python  
+•  Maintain 
+•  Tests app 
+ 
+Project: SmartPost  
+Sales process, including inventory management, customer  relationship management, and 
+financial management. Set up new stores quickly and e asily with just an internet connection. 
+Then use your Point of Sale everywhere, anytime. Odoo POS is based on a smart interface that 
+any retail company can use without difficulty. Because it's extremely flexible, you can configure 
+Odoo POS to meet your precise needs. Reward your loy al customers with points, gifts and 
+discounts with Odoo loyalty programs. Inventory app au tomatically inputs any transaction 
+from the POS in the stock. 
+•  Session management 
+•  Product Management: The POS system must have a compreh ensive list of products, 
+including their price, stock levels. 
+•  Inventory Management: The POS system should update inv entory levels in real-time 
+when products are sold. Inventory Management is the process of managing, monitoring 
+and controlling the inventory. 
+•  Order Management: The POS system should be able to pro cess orders quickly and 
+accurately, accepting payments and issuing receipts while updating inventory levels in 
+real-time. 
+•  Customer management: allows retailers to manage their customer information in a 
+centralized database, enabling them to track customer  purchases, preferences, and 
+contact information. 
+•  Report: profit of loss, inventory levels, customer.. 
+•  Inventory Management: A warehouse must track inventor y effectively, keep accurate 
+records of the stock levels, and monitor for low stock levels. This helps in avoiding 
+stockouts 
+Technologies :  
+•  BE: Python odoo 12 
+•  Tasks Assign(Oddo CMS) 
+•  FE: Odoo 12 
+•  Posgrestsql 
+•  Flutter for apps(Flutter bloc) 
+•  Git version control 
+ 
+Responsibilities : 
+•  Development python 
+•  Test application 
+•  System design 
+•  Development Flutter 
+ 
+Project: SmartSales
+
+8
+Application to run your process product management, w arehouse, invoice, report. help 
+retailers manage their business operations more effectively, including: 
+•  Inventory management: KiotViet allows retailers to tr ack their inventory in real-time, 
+manage stock levels, and receive alerts for low stock l evels. It also enables retailers to 
+create purchase orders and manage their suppliers. 
+•  Sales management: provides retailers with a range of t ools to manage their sales, 
+including the ability to create invoices, process paym ents, and handle returns and 
+refunds. 
+•  Customer management: allows retailers to manage their customer information in a 
+centralized database, enabling them to track customer  purchases, preferences, and 
+contact information. 
+•  Reporting: provides a range of reports to help retail ers monitor their business 
+performance, including sales reports, inventory reports, and customer analytics. 
+•  Manage promotion programs and product prices 
+•  Manage customers, employees and suppliers… 
+Technologies :  
+•  NET Core 
+•  Angular (kendo UI) 
+•  Sql server 
+•  Git version control 
+Responsibilities : 
+•  Develop both FE and BE 
+•  Test app 
+•  System design  
+ 
+Project: Book 
+Outsource in house. Develop web app and  Develop a mo bile app (iOS+Android) for e-book 
+reading.  
+This app is built for Japanese customer with one backend using Djnago. Mobile using Flutter. 
+This Application includes: 
+•  Category management: novel, short story… 
+•  Post management 
+•  User management: register, update, active user, roles, permissions, reward. 
+•  Settings: theme, font, notification… 
+Technologies :  
+•  Django/Python 
+•  Bootstrap/Jquery/HTML/Javascript 
+•  Postgresql 
+•  Flutter(Bloc) 
+•  Docker  
+Responsibilities : 
+•  Coding back-end tasks using Python and Django framework  
+•  Coding front-end using Python  Django. 
+•  UI Front-end development using Django, jQuery, bootstrap,
+
+9
+•  Flutter App(Bloc) 
+•  Test application 
+ 
+Project: Dentistry 
+•  Treatment planning: The dentist must conduct a thorough examination of the patient's 
+oral health to recommend the appropriate treatment.  Treatment planning includes 
+diagnosis, prognosis, treatment options, and patient ed ucation. Dental professionals 
+must recommend only the necessary treatment to the pat ient while considering the 
+patient's financial capacity. 
+•  Appointment scheduling: Proper appointment scheduling  is crucial in ensuring that 
+patients are seen on time, and the dentist's time is used efficiently. Dental professionals 
+must manage their appointments using an effective scheduling system that allows them 
+to optimize their schedule while minimizing waiting times for patients. 
+•  Customer management 
+•  Eployee management 
+•  Report: profit of lot, warehouse.. 
+•  Invoice ….. 
+Technologies :  
+•  BE: Python FastApi 
+•  FE: Angular 
+•  Postgresql 
+•  Flutter 
+•  Docker  
+•  Server Centos 
+•  Git 
+Responsibilities : 
+•  Dev BE Python FastApi 
+•  Dev FE Angular 
+•  Build core(FE, BE) 
+•  Design (View, system, structure) 
+•  Test application 
+ 
+10/2017 – 3/2018 
+Development, Tima Group 
+ 
+Project: HRM  
+•  Create user accounts: Create user accounts for all employees, managers, and other staff 
+members who need access to your HRM system. This includes setting up usernames and 
+passwords, and assigning them roles and permissions according to their job functions. 
+•  Manage user access: Consider the access levels and permissi ons granted to each user, 
+depending on their job responsibilities. You may need t o give different levels of access 
+to different employee groups, such as managers, human resources staff, and regular 
+employees.
+
+10 
+•  Set up user profiles: Once the user is created, set up their user profile, which may include 
+a photo, contact information, job title, and any other relevant information. 
+•  Track user activity: Monitor user activity within the HRM system to ensure compliance 
+with company policies and procedures. This may include tracking access logs, login 
+histories, and other system-related activity. 
+•  Tasks Assign to department in the company 
+•  Manage the work schedule, leave schedule of each individual in the company. 
+•  File management, company upload documents. 
+•   Schedule, work plan of all employees in the company. 
+•  Off-boarding employees: As employees leave the organization, remove their access to 
+HRM systems, and securely delete their user account data. 
+Technologies :  
+•  NET Core 
+•  Angular 4 
+•  Sql server 
+•  Git version control 
+Responsibilities : 
+•  Develop both FE and BE 
+o User management 
+o Roles, permission management 
+o Application for leave 
+•  Test application 
+ 
+7/2016 – 7/2017 
+Development, REDSAND Company 
+ 
+Project: Foody 
+Application that helps users find places to eat, drink,  restaurants, cafes and other locations in 
+Vietnam. You can also provides user s with information about dining 
+locations such as address, price, images and comments from  other users. In addition, 
+Application  also has features such as TV collections, blogs and promotions. 
+•  Restaurant and Menu Management: The Application is de signed to help restaurants 
+attract and retain customers by providing a user-friendly interface for managing menus 
+and restaurant information. Restaurants can update the ir menu, add new dishes or 
+promotions, and set pricing for each item. 
+•  User Management: Application allows users to create and  manage their accounts, save 
+their favorite restaurants and dishes, and leave reviews to share their experiences. User 
+profiles also help the platform personalize the experi ence for each user, suggesting 
+relevant restaurants and dishes based on their preferences. 
+•  Rating and Reviewing:  rating and reviewing mechanism enables users to rate and leave 
+feedback on menu items and restaurants. 
+Technologies :  
+•  NET MVC5 
+•  Sql server 
+•  Git version control
+
+11 
+Responsibilities : 
+•  Dev Net MVC5 
+•  Restaurant and Menu Management: design, add, update. 
+•  Test application

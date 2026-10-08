@@ -1,0 +1,286 @@
+Phạm Tri Thức
+Team Leader/Project  Developer
+
+✉
+ 202 Pham Van Hai, Tan Binh, HCM
+OBJECTIVE 
+- Short-term goal: Finding a job related in research and development product in 
+competitive environment to increase income, challenge my potential and gain more 
+experience in various fields. In addition, seeking chance to accompany with 
+multinational companies in order to bring added value to the organization, service and 
+customers.
+ - Long-term goal: Fluent in English. Obtaining more professional knowledge to 
+develop my capacity work experience. Step by step finding a higher level like 
+manager position through my knowledge, my foreign language skills and my 
+experience. 
+SUMMARY
+• Former employee of HOAN CAU SOFTWARE CO., LTD from Jan 2018 to Dec 
+2022
+• 2.5 years of experience as a Web Developer.
+• 2.5 years of experience as a Project Manager.
+• Able to design databases, and have worked with both Database First and Code 
+First.
+• Have strong base understanding principles and fundamentals of software 
+engineering.
+• Experienced in  Software processes, especially Agile and Scrum. Familiar with 
+Azure DevOps.
+• Can leads project, takes over full responsibility
+• May handle multiple projects simultaneously. Prepares project plan, manages the 
+plan, and prepares and implements job procedures.
+•  English reading comprehension level.
+•  Hardworking, responsible, and sociable.      
+EDUCATION 
+Nov 2019 - Nov 2022
+MASTER DEGREE IN INFORMATION 
+TECHNOLOGY MAJOR
+University of Information Technology - 
+VNUHCM 
+GPA: 8.03/10
+Aug 2013 - Mar 2018
+BACHELOR IN SOFTWARE ENGINEER 
+MAJOR
+University of Information Technology - 
+VNUHCM 
+GPA: 8.02/10
+SKILLS 
+Leadership
+Time management 
+Planning Strategy
+Multi - tasker
+Problem solving
+Flexible and adjust to new technology 
+and stack
+Logical thinking 
+Leadership
+Time management 
+Planning Strategy
+Multi - tasker
+Problem solving
+Flexible and adjust to new technology and 
+stack
+Logical thinking
+REFERENCE
+Mr. Phan Trung Hieu - General Director of HOAN CAU SOFTWARE CO., LTD -
+
+PROJECT
+gAMSPro_HungThinh
+June 2022 - Present 
+Customer: Hung Thinh Corp
+Team size: 10
+MY ROLES: PROJECT MANAGER 
+Project descriptions: Asset Management Systems and Real Estate for Hung Thinh 
+Corporation. Synchronization data between departments such as HR (CITIZEN software), 
+administration (E-office software), accounting (FAST software)
+Achievements:
++ Allow to track and monitor every asset of company in one central location.
++ Manage assets from any location in mobile app
++ Standardize the asset management acoss the business
+TECHNOLOGIES 
+Net Core 2.x.x, SQL, Angular 8
+gAMSPro_CTGroup
+May 2022 - Oct 2022 
+Customer: CTGroup Corp
+Team size: 5
+MY ROLES: PROJECT MANAGER 
+Project descriptions: Asset Management Systems and Warehouse for CTGROUP Corporation. 
+System integration with accounting software (TAVICO)
+Achievements:
++ Allow to track and monitor every asset of company in one central location.
++ Manage assets from any location in mobile app
++ Standardize the asset management acoss the business
+TECHNOLOGIES 
+Net Core 2.x.x, SQL, Angular 8
+Loyalty web for Fristi 
+Jan 2022 - May 2022 
+Customer: FRISTI
+Team size: 8
+MY ROLES: PROJECT MANAGER 
+Project descriptions: A website for accumulating points and redeeming gifts for loyal 
+customers. The application integrates with Zalo, SMS, and Firebase
+Achievements:
++ More than 100.000 users have used it
++ Daily active users: more 1000 users/day
++ Nearly 20 million codes
++ System is deployed on the AWS infrastructure
+TECHNOLOGIES 
+NestJS, Angular, My SQL, Firebase, Zalo API, SMS API
+Fristi Tet 
+Dec 2021 - Jan 2022 
+Customer: FRISTI
+Team size: 5
+MY ROLES: PROJECT MANAGER 
+Project descriptions: A website allow users choose "Săn lì xì" (Take Lucky Money) and 
+watch videos to answer quiz questions for Tet promotion.
+Achievements:
++ More than 40.000 users have used it
++ System is deployed on the AWS infrastructure
+TECHNOLOGIES 
+PHP, Angular, My SQL, Firebase
+AIREVIEW 
+Sept 2021 - Apr 2022 
+Customer: AIREVIEW
+Team size: 4
+MY ROLES: PROJECT MANAGER AND SOFTWARE ARCHITECTURE 
+Project descriptions: A website and mobile app for using sentiment to classify the aspect of 
+domain smartphones and headphones. After that, assign a score to evaluate the product's 
+quality.
+Responsibilities: Design System Architecture 
+Achievements: Build an automated sentiment analysis system from data collection, labeling, 
+scoring and visualization to web and mobile
+TECHNOLOGIES 
+ Zero, Python, Razzle, MSSQL, Bootstrap.
+
+GAMSCLOUD_SUMITOMO 
+April 2021 - Aug 2021 
+Customer: SUMITOMO
+Team size: 4
+MY ROLES: RESEARCH AND PROJECT MANAGER
+Project descriptions: Vehicle management system for Sumitomo Corporation
+Responsibilities: 
++ Assign teams to develop new technologies base  ZERO, Syncfusion
++ Technology Consulting
++ Design and Development of Multi-Tenant Web Framework
+Achievements:
++ Consulting and helping teams build new Framework
+TECHNOLOGIES 
+ Zero, MSSQL, Syncfusion.  
+CLINIC MANAGEMENT 
+SYSTEM 
+Jan 2021 - Mar 2021 
+Customer: Demo for sell
+Team size: 5
+MY ROLES: PROJECT MANAGER 
+Project descriptions: 
++ Manage appointment scheduling, receiving, medical
+ examination, receipt, pharmaceutical warehouse.
++ Design and Development of Multi-Tenant Web Framework.
++ Allows users, managers to have an overview of the entire medical examination and 
+treatment process of the patient, the import and export process of medicinal herbs.
++ Installation and delivery of software as a service
+TECHNOLOGIES 
+Net Core 2.x.x, SQL, Angular 8 
+JOYWORK WEBSITE 
+Jan 2021 - Mar 2021 
+Customer: JOYWORK 
+Team size: 4
+MY ROLES: PROJECT MANAGER 
+Project descriptions: 
++ JoyWork creates a platform where Candidates can seek a job while Company can search for 
+a potential employee.
+  + Project has three domain: Candidate, Company, and Admin
+Achievements:
++ The website is fully responsive, high-performance and SEO friendly
+TECHNOLOGIES 
+ Zero, React, Razzle, MSSQL, Bootstrap.     
+CREDIT RECORDS 
+MANAGEMENT SYSTEM - 
+BIDV 
+Sep 2020 - Jan 2021 
+Customer: BIDV 
+Team size: 5
+MY ROLES: PROJECT MANAGER 
+Project descriptions:
+   Develop credit file management and credit disbursement software for BIDV.
+Achievements:
++ All information related to credit records is managed on the software system.
++ Control the status of credit application processing, implementation time, the whole process 
+of credit application.
+TECHNOLOGIES 
+Net Core 2.x.x, SQL, Angular 8 
+VAAR 
+May 2020 - Sep 2020 
+Customer: CMC
+Team size: 4
+MY ROLES: PROJECT MANAGER
+Project descriptions: 
+The project's objective is to analyze consumer data to develop a digital system for 
+Sacombank. The VAAR uses the Oracle Database and the Oracle Data Integrator(ODI) tool to 
+ETL data
+Responsibilities: 
++ Managing the project team, collaborating with CMC, ZERA 
+Achievements:
++ Complete the ETL data
+TECHNOLOGIES 
+Oracle, ODI, SDI
+
+GAMSCLOUD FOR UIT AND 
+MCV AND HOSPITAL 175 
+Apr 2020 - Nov 2020 
+Customer:
+UIT University and MCV 
+Corporation and Hospital 175 
+Team size: 4
+MY ROLES: PROJECT MANAGER
+Project descriptions: 
++ Rental system development Software as a Service (SaaS)
++ Asset management software development for UIT University and MCV Corporation
++ Vehicle management system for Hospital 175
+Achievements:
++ Create an automatic clone web app and database system on Azure platform 
+TECHNOLOGIES 
+Azure, Net
+DOCUMENT MANAGEMENT 
+SYSTEM 
+Apr 2020 - Jul 2020 
+Customer: Development 
+Team size: 5
+MY ROLES: TEAMS LEADER
+Project descriptions: 
++ Developing an administrative document management software
+ for Ho Chi Minh City Police Department to store and follow up the process of document.
++ Creating statistic dashboards
+TECHNOLOGIES 
+Net Core 2.x.x, SQL, Angular 8
+EMAIL MARKETING SYSTEM 
+Mar 2019 - Jan 2020
+Customer: GOB
+Team size: 4
+MY ROLES: BACKEND DEVELOPER 
+Project descriptions: 
++ Building an Email Marketing System through API from SendGridCreating administrative 
+pages for users to track parameters' marketing campaign: bounce rate, open, click...
++ Building tools for collecting and categorizing emails
++ Integrate drag & drop editor to create an email template
+Responsibilities:
++ Analysis and design database
++ Develop feature
++ Support fix bug, optimizing code, estimate time.
++ Software deployment on IIS and azure servers.
+Achievements:
++ Build a tool to crawl email data and classify by field
++ The system can connect with many mail API providers
++ The system is capable of synchronizing statistics with large numbers
+TECHNOLOGIES 
+HangFire, Dapper,  Zero, Angular , HTML, CSS, Multi API SendMail
+GWEBBOT AND GWEBSITE
+Jul 2018 - Mar 2019
+Customer: End User
+Team size: 3
+MY ROLES: FULLSTACK DEVELOPER 
+Project descriptions: 
++ Keyword volatility management tool
++ Build a page for end users to register for an account and pay automatically
+Responsibilities:
++ Analysis and design database
++ Develop feature
+Achievements:
++ Many users register and pay
+TECHNOLOGIES 
+  MCV , Angular, Winform
+LOYALTY CUSTOMER AND 
+EXCHANGE RATE
+Jan 2018 - Jul 2018
+Customer: SACOMBANK
+Team size: 4
+MY ROLES: FULLSTACK DEVELOPER 
+Project descriptions: 
++ Synchronized data from database warehouse
+Responsibilities:
++ Analysis and design database
++ Develop feature
+
+p
+Achievements:
++ The project is deployed on the subdomain of Sacombank
+TECHNOLOGIES 
+  MCV , jQuery, Data Warehouse

@@ -1,0 +1,156 @@
+MỤC TIÊU NGHỀ NGHIỆP
+Mong muốn trở thành một chuyên gia trong lĩnh vực công nghệ, mang đến nhiều giá trị cho công ty. 
+ 
+KINH NGHIỆM LÀM VIỆC
+Trần Văn Mơ CHUYÊN VIÊN CAO CẤP TRIỂN KHAI PHẦN MỀM
+01/02/1989 Nam
+ 
+685/30/45 Xô Viết Nghệ Tĩnh  P.26 Quận
+Bình Thạnh - TP Hồ Chí Minh
+
+NHÂN VIÊN TRIỂN KHAI PHẦN MỀM
+01/2014 - 08/2016
+CÔNG TY JUNSKY
+- Tư vấn giải pháp ERP cho doanh nghiệp 
+- Nắm vũng quy trình các Module chính : 
+- Quản lý sản xuất : Định mức sản xuất, Kế hoạch nguyên vật liệu,
+lênh sản xuất. 
+- Quản lý gia công : Nguyên liệu ký gởi, Lệnh gia công, nguyên liệu 
+- Quản lý bán hàng : Đơn đặt hàng từ kế hoạch nguyên liệu / sản xuất,
+tồn kho 
+- Quản lý mua hàng : Lên kế hoach mua hàng theo nhu cầu sản xuất,
+quản lý tồn kho, tình trạng đơn đặt hàng 
+- Tiếp nhận yêu cầu, phân tích, đưa ra giải pháp phù hợp nhất- Phát
+triển sản phẩm mới dựa trên yêu cầu người dùng 
+- Hỗ trợ hướng dẫn sử dụng phần mềm ERP. 
+- Làm tài liệu hướng dẫn sử dụng, hỗ trợ vận hành 
+- Thiết kế các báo cáo bằng Fast Report, SSRS, BI sử dụng thành
+thạo SQL Server. 
+QUẢN LÝ DỰ ÁN
+09/2016 - 08/2020
+CÔNG TY CỔ PHẦN GIẢI PHÁP TINH HOA
+- Hệ thống phần mềm HRPRO7 
+- Lên kế hoạch và quản lý kế hoạch, nguồn lực triển khai dự án 
+- Lấy yêu cầu chi tiết và thống nhất yêu cầu với khách hàng 
+- Cài đặt phần mềm lên server khách hàng 
+- Tư vấn giải pháp tối ưu 
+- Phát triển tính năng mới : Viết chi tiết tài liệu giải pháp đặc tả của dự
+án. 
+- Phát triển công thức lương chi tiết : Lương thời gian, lương sản
+phẩm cho cá nhân hoặc theo nhóm. 
+- Phát triên báo cáo nhân sự, chấm công, tính lương theo yêu cầu 
+- Thành thạo SQL Server để truy vấn data 
+QUẢN LÝ DỰ ÁN
+09/2020 - 05/2022
+TẬP ĐOÀN CÔNG NGHỆ FPT
+- Hệ thống phần mềm IHRP 
+- Lên kế hoạch và quản lý kế hoạch, nguồn lực triển khai dự án 
+- Lấy yêu cầu chi tiết và thống nhất yêu cầu với khách hàng 
+- Cài đặt phần mềm lên server khách hàng 
+- Tư vấn giải pháp tối ưu 
+- Phát triển tính năng mới : Viết chi tiết tài liệu giải pháp đặc tả của dự
+án.
+
+CÁC DỰ ÁN TIÊU BIỂU
+- Phát triển công thức lương chi tiết : Lương thời gian, lương sản
+phẩm cho cá nhân hoặc theo nhóm. 
+- Phát triên báo cáo nhân sự, chấm công, tính lương theo yêu cầu 
+- Thành thạo SQL Server để truy vấn data 
+CHUYÊN VIÊN CAO CẤP VẬN HÀNH DỰ ÁN
+NHÂN SỰ
+05/2022 - Nay
+TẬP ĐOÀN NOVALAND
+- Hệ thống phần mềm ERP SAP , SAP Success Factor 
+- Phát triển dự án nhân sự tập đoàn EC (Employee Central) OB, RMK 
+- Thiết kế - CODE (Phiên bản SAP) 8 Trang Website tuyển dụng cho 8
+tổng công ty thuộc tập đoàn Novagroup. 
+- Vận hành phần mềm và hỗ trợ C&B tính lương cho tập đoàn qua hệ
+thống SAP HCM (Nội bộ) 
+- Vận hành và hỗ trợ phân quyền cho user hệ thống SAP ERP 
+-Vận hành và hỗ trợ hệ thống hóa đơn điện tử Viettel 
+CHUỖI CỬA HÀNG TIỆN LỢI GS25
+12/2018 - 06/2019
+CÔNG TY GS25 VIỆT NAM
+Mô tả :  
+- Phần mềm HRPro7   
+- Nhân sự 
+- Chấm công  
+- Quản lý tiền lương,  
+- Portal : Đăng ký nghỉ phép, công tác, nghỉ bù, tăng ca  
+- Số lượng : 800 nhân viên 
+Vị trí công việc : Quản lý dự án 
+Công việc : 
+- Lên kế hoạch triển khai và quản lý kế hoạch tiến độ dự án 
+- Quản lý nguồn lực triển khai, quản lý team dự án 
+- Xây dựng hệ thống ca cho khối cửa hàng (ca dịch vụ, ca gãy dành
+cho nhân viên làm partime) 
+- Xây dựng công thức lương cho khối cửa hàng và khối văn phòng 
+- Hướng dẫn sử dụng và chuyển giao dự án cho khách hàng. 
+TINIWORD
+09/2016 - 11/2016
+CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ THIẾU NHI MỚI
+Mô tả :  
+- Phần mềm HRPro7  (Nhân sự, chấm công)  
+Số lượng : 2000 nhân viên 
+Vị trí công việc : Nhân viên triển khai phần mềm 
+Công việc : 
+- Cài đặt và hướng dẫn sử dụng phần mềm 
+- Xây dựng các báo cáo bảng chấm công cho khách hàng 
+- Xây dựng hệ thống ca cho khối cửa hàng (ca dịch vụ, ca gãy dành
+cho nhân viên làm partime) 
+- Viết tài liệu hướng dẫn sử dụng và bàn giao dự án cho khách hàng 
+THỦY SẢN CÀ MAU
+07/2018 - 09/2018
+CÔNG TY CỔ PHẦN THỦY SẢN CÀ MAU
+Mô tả :  
+- Triển khai phần mềm HRPro7  (Nhân sự, chấm công, chấm công
+audit )  
+Số lượng : 400 nhân viên 
+Vị trí công việc : Quản lý dự án 
+Công việc :  
+- Lên kế hoạch triển khai và quản lý kế hoạch tiến độ dự án 
+- Nắm vững và xây dựng các ca làm việc theo đặc thù của ngành
+thủy sản.
+
+KHÁC
+HỌC TẬP
+- Backend : NODE JS  
+- Fontend : VUE JS 
+- C# 
+KỸ NĂNG
+SỞ THÍCH
+- Nắm vững nghiệp vụ hệ thống chấm công, tính lương, audit 
+- Viết tài liệu hướng dẫn sử dụng và bàn giao dự án cho khách hàng 
+ĐẠM CÀ MAU
+12/2018 - 06/2019
+CÔNG TY CỔ PHẦN ĐẠM CÀ MAU
+Mô tả :  
+- Triển khai phần mềm (ACCESS CONTROL - KIỂM SOÁT RA VÀO
+BẰNG HỆ THỐNG FLAP)  
+Số lượng : 1200 nhân viên 
+Vị trí công việc : Quản lý dự án 
+Công việc :  
+- Lên kế hoạch triển khai và quản lý kế hoạch tiến độ dự án 
+- Quản lý và điều phối nguồn lực chia công việc cho team để đảm bảo
+tiến độ dự án. 
+- Viết báo cáo nhân viên ra vào các khu vực cấm và nhân viên đang  
+- Hướng dẫn sử dụng và chuyển giao dự án cho khách hàng. 
+- Thành thạo SQL server truy vấn data để báo cáo 
+- Nắm vũng nghiêp vụ ERP, quy trình sản xuất gia công,
+mua hàng bán hàng, kho. 
+-  7 Năm trong lĩnh vực quản lý phần mềm nhân sự
+chấm công, tính lương. 
+- Kinh nghiệm vận hành và phát triển hệ thống phần
+mềm. 
+- Phân tích data báo cáo trực quan để các nhà quản lý
+đưa ra quyết định kinh doanh tốt. 
+Có kinh nghiệm vận hành phần mềm 
+- Nắm vững kiến thức SQL Server (Thành thạo) 
+- Nắm vững và thiết kế báo cáo cho dự án : 
++ Reporting services (thiết kế nhiều báo cáo cho phần
+mềm) 
++ Fast Report 
++ BI
+Đá bóng MMO
+Biết chạy Google ADS Chạy FB ADS
+©

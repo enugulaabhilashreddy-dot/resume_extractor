@@ -1,0 +1,88 @@
+Sept 2018 - Dec 2018 Nhat Nghe Education JSC
+Specialized: PHP & MYSQL DEVELOPMENT
+Graduation classified pretty good.
+Aug 2017 - Sept 2017 Nhat Nghe Education JSC
+Specialized: SEARCH ENGINE OPTIMIZATION (SEO)
+Graduation classified pretty good.
+Sept 2015 - Dec 2015 Nhat Nghe Education JSC
+Specialized: BASIC NETWORK
+Graduation classified pretty good.
+Oct 2012 - May 2014 Ky Nghe II Vocational College
+Specialized: NETWORK ADMINISTRATOR
+Graduation classified pretty good.
+July 2022 - Feb 2023 ezCloud Technologies Pte. Ltd
+FRONT-END DEVELOPER
+- Analyze customer's product and provide solution
+- Coordinate with PM to create idea of new product, make wireframes
+based on customer's data
+- Work with BA to solve customer's problems
+- Verify the feasibility of a design file.
+- Write e2e automation test code with Cypress 
+- Code HTML/CSS design template.
+- Fix bug all product company.
+- Code logic javascript layout using VUEJS
+- Follow the Scrum process
+*What technology/skills did I use here?
+Phạm Minh Tuấn
+FRONT-END DEVELOPER
+Date of birth:  2 January 1996
+Gender:  Male
+Phone:
+Email:
+Address:  Ho Chi Minh City, Vietnam
+Website:
+JOB SKILLS
+HI, I'm Tuan - A Frontend Developer. I have 3 years of experience working with JQuery and VueJS in which I have
+created many dynamic web applications and integrated them with other APIs.I also work hard to learn other
+technologies and update my knowledge to become a professional web developer.
+EDUCATION
+WORK EXPERIENCE
+
+- VUEJS 3, VUE COMPOSITION API, VUE Typescript, HTML/CSS,
+Ant Design UI, Bootstrap 4, Flutter, Web Design · UX Research ·
+Material-UI, Cypress
+April 2021 - June 2022 ROWBOAT SOFTWARE COMPANY
+FRONT-END DEVELOPER
+- Code HTML/CSS design template 
+- Fix bug all product company.
+- Code logic javascript layout using VUEJS
+- Follow the Scrum process
+*What technology/skills did I use here?
+- VUEJS 3, VUE COMPOSITION API, VUE Typescript, HTML/CSS,
+Ant Design UI, Bootstrap 4.
+July 2020 - April 2021  JSC
+FRONT-END DEVELOPER
+- Handling tasks taken down from superiors.
+- Programming interfaces and web applications according to customer
+requirements.
+- Fix bugs arising in the project.
+- Convert Template PSD, Figma to HTML/CSS and loop data.
+- Write Javascript ES6 - Jquery code to build scripts for the web.
+- working with api php.
+July 2017 - Dec 2019 ABM DISTRIBUTION COMPANY
+SEO & WEBMASTERS
+*Seo onpage and offpage for company website: 
+- Long-term planning and conduct seo onpage on the company
+website with .Net system. 
+- Keyword planning and research to conduct S.E.O offpage. 
+- Optimize and build backlinks on web 2.0 and forums.
+- Content seeding to get more traffic to the web.
+ *Administration and redesign of the site under the direction of
+superiors: 
+- Make a list of items and functions that need to be redesigned into
+excel file and send to outsourcing partners to complete the website. 
+- Adjust the subject by HTML / CSS code as required by superiors. 
+- Manage hosting services and domain names of corporate websites
+*Manage e-commerce platforms (Shopee, Lazada, Sendo, Tiki): 
+- Research policies of e-commerce merchant providers. 
+- Post the company's products into e-commerce vendors. 
+- Working with the e-commerce provider's e-commerce partner via
+phone and zalo. 
+- Optimize e-commerce goods
+Computer Word, Excel, Powerpoint
+Programming Language Html/CSS, Javascript ES6, PHP & MySQL, Vuejs, jQuery,Github.
+Bootstrap 4, Sass
+Tools Design Photoshop, Figma, XD
+SKILLS
+
+©

@@ -1,0 +1,88 @@
+K E Y  S K I L L S
+L E  D U C  N A M
+F R O N T E N D  D E V E L O P
+I N T R O D U C T I O N
+I am a strong, skillful and self-organized Dev engineer with 3.5 years of experience in
+platform development of web and application related components, optimizing existing
+environments. Strong logical thinking and knowledge. Understand the programming
+concepts that frontend and backend need.
+Ho Chi Minh City
+E D U C A T I O N
+VIETNAM - KOREA University of Information
+and Communication Technology
+Engineer of computer science
+Ngu Hanh Son, Da Nang City
+Tool/Programming language
+Framework/Library
+Soft Skill
+RDBMS
+Virtual environment
+Image creation software
+Used OS
+Angular, ReactJs, NextJs, VueJs.
+React Native, Flutter.
+Chakra Ui, Boostrap, Buefy, Vuetify, Tailwind, MUI.
+Leadership, Teamwork, Time Management, Communicate.
+My SQL, SQL Server, Oracle, PostgreSQL.
+Vmware.
+Photoshop, Figma, Illustutrator.
+Android, Ios, Mac OS, Window server 2008.
+W O R K  E X P E R I E N C E S
+Together with the leader and PM, give ideas for interface design of web and app
+Logical analysis and problem solving of the system and suggest appropriate programming
+language for the project
+Responsible for frontend leader in both web and app
+Access and learn new blockchain language, and use smart contract to perform transactions in
+blockchain on Metamask and Walletconnet
+Combine with BE to connect api to app and web
+July 2022 - June 2023QTS Smart Software company limit
+Frontend developer
+
+Trained in-depth knowledge of React
+Build web and app based on UX/UI of the designer
+Analyze projects together, learn about related languages to meet requirements, and program to
+create products
+Jan 2022 - June 2022FPT Complex
+Frontend developer
+Eye-catching user interface design, easy to use.
+Create your own data and write API to connect between app and web.
+Use flutter and android programming tools to make real projects
+As a member of a cross-functional team, perform special tasks as required by the IT Manager.
+Perform maintenance and updates to existing client sites.
+Integrate websites with Facebook, Twitter and YouTube.
+Oct 2020 - Dec 2021NetBiz Company
+Frontend developer
+P R O J E C T
+Description: Food ordering application and the dishes
+are changed continuously according to time and days of
+the week.
+Written in ReactJS (web), React native (App)
+DAILYMEALORDER
+Description: Vehicle tracking and management
+application. Track distance traveled and stopped. Notify
+when will run out of gas and damage.
+Web: ReactJS, Application: React native.
+CARPAQ
+Description: Website use drag and drop interface to
+create a simple website in 5 minutes. Users can buy
+templates and rent domains at the website.
+Written in ReactJS and Strapi
+5-MINUTEN
+A W A R D S
+L A N G U A G E S
+English  
+Vietnamese
+3rd |
+SCIENTIFIC RESEARCH
+Vietnam - Korea University
+of informationand
+Communication Technology
+Description: This project is horse racing game. Simulate
+the state of the racecourse, informative and full of
+nuance of each horse. Bet on each horse, if you win, get
+a reward. 1:1 exchange rate with coins at blockchain
+exchanges.
+Link: 
+Web: ReactJS
+Application: React native
+GAIN BETTING

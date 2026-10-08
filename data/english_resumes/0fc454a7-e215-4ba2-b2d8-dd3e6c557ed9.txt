@@ -1,0 +1,115 @@
+Private and Confidential 1  
+ 
+ 
+AX DEVELOPER 
+ 
+ 
+PERSONAL INFORMATION  
+Full Name: NGHIEM DANG MINH NHAT (Mr.) 
+ 
+DOB: 11th February 1990 
+ 
+Marital Status: Married 
+ 
+Nationality: Vietnamese 
+ 
+Languages: Vietnamese (Native), English (Fluent)  
+Address: Tan Binh District, HCMC 
+Email:  
+Phone:  
+EDUCATION  
+2008 – 2012: INDUSTRIAL UNIVERSITY OF HO CHI MINH CITY 
+ 
+Faculty Of Information Technology 
+SKILLS / ASSESSMENTS  
+• Mr. Nhat is hard-work, flexible, open-minded, professional, and keen on with more than 04 
+YEARS’ of experience working in the development application MS Dynamics AX 2012 R2 
+with internal customers and external vendors to develop functional business system design, 
+solutions in which 2+ years’ working with ODOO V14 (Python). 
+• He’s working with members of the whole team to find out the best practices around AX 
+programming and the AX system. 
+• Good communication skills in English. 
+• Good ability to do research and apply new technology to current systems 
+• Good analysis/ review of new system functions/ requirements 
+PROGRAMMER LANGUAGES: 
+• Languages: X++, .NET C#, Python, SQL, XML, SSRS 
+• Odoo V14 Framework. 
+DATABASE: 
+ 
+• Knowledge about T-SQL, stored procedures 
+• Experience in a relational database, SQL Server, SSRS 
+• Experience in Microsoft SQL Reporting Services 
+RELATED TOOLS:
+
+Private and Confidential 2  
+• Dynamics AX 2012 MorphX IDE. 
+• Visual Studio 2010 and 2013, SQL Server 2008 R2, 2012. 
+• Git, Pycharm IDE 
+SUMMARY OF EXPERIENCE  
+    
+2018 – 2022: ILA VIET NAM 
+ 
+Business Application Executive (AX 2012 and Python) 
+ 
+   2010 – 2018: SEARCHING WORLD LTC. CO 
+ 
+SEO manager 
+PROFESSIONAL EXPERIENCE  
+2018 – 2022: ILA VIET NAM 
+ 
+One the most well-established and one of the leading providers of 21st-century English 
+Language programs in Vietnam. With over 38 centers across Vietnam expanding, we pride  
+ourselves in our modern facilities, the diversity and wide range of courses available to 
+students, and offering an educational experience of the highest quality. 
+Business Application Executive 
+ 
+✓ Microsoft Dynamics AX 2012 and Python 
+ 
+Achievement: 
+ 
+• Successfully built and developed “School Management” - new version - This is the student 
+management module, from finding customers in CRM to registering for courses, paying 
+tuition, publishing e-invoices, scheduling lessons for teachers, calculating revenue... 
+• Successfully built and developed “ILO Module” for the Kindergarten management module. 
+ 
+ 
+Duties: 
+• Meeting with the departments to analyze and design workflow for a new  sale process and 
+enhancement. 
+• Building and developing a new register and payment process for the sales department. 
+• Build reports for accountants and sales teams to control their work. 
+• Design and create a new database that matches management requirement 
+• Customize and develop new modules in Microsoft Dynamics AX 2012 R2, based on customer 
+requirements for changing business 
+• Using Excel and Word macros to create Microsoft Dynamic AX 2012 R2 process automation. 
+• Query data from SQL to do business reports 
+• Build integration of e-invoices for payment through API with operations such as issuing, 
+canceling, and adjusting invoices. 
+• Demonstrated experience with performance tuning of customized code and monitoring
+
+Private and Confidential 3  
+practices to ensure ongoing performance. 
+• Manage the research of technical solutions to meet strategic business objectives. 
+• Hands-on designing, implementing, modifying, troubleshooting, testing, and debugging 
+Microsoft Dynamics AX 2012 ERP software product using X++ programming language 
+• Demonstrate the ability to work systematically and logically to analyze situations, resolve 
+problems, identify causes, and anticipate implications. 
+• Break down functional requirements into technical designs and development tasks  and 
+execute to completion. 
+• Ability to prioritize work and spend time on the most important, business-identified concerns 
+• Maintain regular contact with internal customers to anticipate, identify and respond to their 
+needs and expectations. 
+• Support to training end users. 
+ 
+ 
+2010 – 2018: SEARCHING WOLRD LTC. CO. 
+Business Application Supervisor 
+Duties: 
+• Meeting the customer to build the SEO chains by requirement. 
+• Analyze data and look for ways to keep a website's search rating among the top three on 
+Google's search results pages 
+• Managing SEO team to write and build trendy content on website, and Facebook for 
+partners. 
+• Using Photoshop, and Illustrator to design logo and WordPress website themes 
+• Developing plugins, add on WordPress framework 
+• Fixing and solve issues on WordPress framework.

@@ -1,0 +1,57 @@
+Phan Thanh Dat
+S Y S T E M S  E N G I N E E R
+Proﬁle
+Accustomed to handling IT support, managing IT projects, and supporting resolve 
+customer issue with IT tools and applications for over three years. Wanting to 
+change and improve myself with new challenge in new role. 
+Working with all concentration and responsibility. Committed to working as a 
+collaborative and positive team member, striving to utilize my knowledge and 
+expertise for optimal engineering results.
+Employment History
+System Administrator, Vietnix, Ho Chi Minh
+A U G U S T  2 0 1 8  —  P R E S E N T
+- Supporting the customer resolve their issue.
+- Deploying and operating and monitoring private cloud - OpenStack with CEPH 
+Storage.
+- Deploying monitor traffic in/out in network for Switch (Using ELK Stack)
+- Working on Linux over 3 years (CentOS and Ubuntu), almost in CentOS.
+- Working on hyper-vision (VMWare Esxi, Proxmox,...)
+- Working on Hosting like Cpanel, DirectAdmin, VestaCP, AApanel.
+- Preventing attack DDoS at layer 3 and layer 7 ( with Iptables and NGINX).
+- Experience on NGINX, Apache, HA-proxy.
+Education
+HCMC University of Science, Ho Chi Minh
+A P R I L  2 0 1 4
+GPA 7.0
+Courses
+Preparing for Google Cloud Certification: Cloud Engineer Specialization, 
+Coursera
+N O V E M B E R  2 
+1  —  P R E S E N T
+ Elastic Google Cloud Infrastructure: Scaling and Automation, Coursera
+N O V E M B E R  2 0 2 1  —  P R E S E N T
+References
+Doan Duy Thuc from Vietnix
+Details
+103/15/4 street 18 ward 8 
+district Go Vap
+Ho Chi Minh, 700000
+Vietnam
+D AT E  O F  B I R T H
+22/05/1996
+Links
+LinkedIn - Certificates
+Skills
+Linux
+Network
+IT Troubleshooting
+Bash Scripting
+Python
+C++
+Docker
+Cloud Computing
+Google Cloud Platform
+Languages
+English
+
++

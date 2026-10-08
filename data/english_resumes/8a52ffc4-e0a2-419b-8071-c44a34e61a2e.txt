@@ -1,0 +1,166 @@
+1 
+NGUYEN THI MY THANH 
+352 Ten Lua Street, Binh Tri Dong B Ward, Binh Tan District, Ho Chi Minh City. 
+ 
+PERSONAL INFORMATION 
+Full name : Nguyen Thi My Thanh   
+Date of birth : August 4,1991  
+Place of birth : Binh Duong Province 
+Mobile phone : 
+Email address :  
+ 
+CAREER OBJECTIVE 
+- I would like to become a good manager in a professional bank or an international 
+Organization. 
+GENERAL INFORMATION 
+- 3 years of working experience as a Business Analyst. 
+- 7 years of working experience in banking, of which 2 years of working experience as Leader 
+of Chargeback and Risk Management Team. 
+- Good knowledge of card payments such as MasterCard, Visa, JCB, and Napas. 
+- Strong knowledge of E-Banking. 
+- Good knowledge of payment such as e-commerce, ATM, Interfund transfer, online 
+transaction, etc. 
+- Good knowledge of transaction processing flow both Card and E-Banking. 
+- Experience in the implementation Card Management System Project. 
+- Experience in working and testing with many partners such as Moca, VNPay, and Napas. 
+- Good knowledge of Banking Accounting. 
+- Strong knowledge of Chargeback Guide. 
+- Strong knowledge of specification documents about settlement in banking. 
+- Ability to understand IT technical language (ISO 8583). 
+- Experience working according to the Agile model and Scrum process. Proficient in creating 
+and managing requirements on relevant project management tools such as Jira, and Gitlab. 
+- Good knowledge of E-commerce such as inventory, products, price, and Omnichannel. 
+SKILLS: 
+- Communication skills. 
+- Ability to manage requirements of customers and partners.
+
+2 
+- Capable of analyzing and evaluating the importance of each request to determine the order 
+of priority 
+- Good at writing documents and training employees. 
+- Studying by myself. 
+- Ability to work in groups and work independently. 
+- Ability to work in high pressure and challenging environment 
+EDUCATION 
+- Lac Hong University Finance major (2009-2013) 
+- Completed Management for Middle Managers Course (40 hours in 2017 – PACE) 
+EXPERIENCE RECORD 
+1) From 07/2022 to 08/2023: Haravan Technology Joint Stock Company. 
+Title: Senior Business Analyst Specialist 
+Key achievements: 
+- Receiving all requests from customers. 
+- Analyzing and evaluating the importance of each request to determine the order of priority. 
+- Always update new information and propose optimal solutions for customers. 
+- Planning solution design, business design for functions, modules according to customer 
+requirements and developing use cases. 
+- Writing URD, FSD. 
+- Participate in product prototyping and mockups. 
+- Communicate regularly with the technical team to clarify business requirements. 
+- Support the QC team during testing. 
+- Assist in the testing and verification of bugs and issues with the client. 
+- Report weekly work or upon request from management. 
+Key skills gained: 
+- Good knowledge of business analysis from e-commerce projects such as inventory sync, 
+product sync, order sync, and API integration with 3rd parties. 
+- High sense of responsibility. 
+- Communication skills and teamwork. 
+- Ability to work in different working environments. 
+2) From 05/2021 to 07/2022: AlttekGlobal Joint Stock Company (ATG). 
+Title: Business Analyst. 
+Key achievements: 
+- Receiving, surveying and analyzing all requirements from customers to define business 
+scope 
+- Analyze all business requirements.
+
+3 
+- Planning solution design, business design for functions, modules according to customer 
+requirements. 
+- Always listen to suggestions from management and colleagues to improve the solution. 
+- Writing SRS, URD, FSD. 
+- Work with QC to verify that all requirements of the system are fulfilled. 
+- Assist in the testing and verification of bugs and issues with the client. 
+- Report weekly work or upon request from management. 
+Key skills gained: 
+- Strong knowledge of business analysis from IT projects such as Core Banking and Core 
+Card, as well as other payment technologies. 
+- High sense of responsibility. 
+- Communication skills and teamwork. 
+- Always keep calm under high pressure. 
+3) From 07/2019 to 03/2020: Hoa Binh Investment Technology Trading Service Co., Ltd. 
+Title: Business Analyst. 
+Key achievements: 
+- Receiving, surveying, and analyzing all requirements from partners and users 
+- Analyzing requirements and data, describing business processes, and developing use 
+cases 
+- Build and agree with project teams about functional and business descriptions and 
+specifications for products and services. 
+- Participate in product prototyping and mockups. 
+- Ensure that solutions are in line with objectives, business strategies, and company 
+technology standards. 
+- Test product quality, support UAT testing, and deploy training for users. 
+- Acting as the communication point between the client and the software development team 
+(DEV). 
+- Stay up to date on new business analysis trends and best practices, and share my 
+knowledge with others. 
+Key skills gained: 
+- Ability to work in different working environments. 
+- Good knowledge about electricity collection, water collection, fee collection (SCC), 
+Cooperative business, etc. 
+4) From 08/2017 to 06/2019: Card Center - Orient Commercial Joint Stock Bank (OCB) 
+Title: Team Leader of Chargeback and Risk Management. 
+Key achievements: 
+- Receiving all requests from customers and other Banks.
+
+4 
+- Analyzing and evaluating the importance of each request to determine the order of priority. 
+Give feedback to customers and other Banks. 
+- Lead the team to resolve disputes daily, monitoring transactions to prevent fraud and risk. 
+- Check transaction data and make payment to organizations such as Mastercard, JCB, 
+Napas, Moca, and Vnpay daily, and weekly. 
+- Make monthly & quarterly & annual reports as required by Card Organizations.  
+- Working with Technical teams and partners to update new features and payment utilities for 
+customers. 
+- Participate in a new card management system project. 
+- Make a task list, and discuss it directly with the technical teams and partners to build. 
+- Writing documents and training. 
+Key skills gained: 
+- Strong knowledge of cycle EOD of the card system. 
+- Ability to manage requirements 
+- Good knowledge of Banking Accounting and understanding of IT technical language. So I 
+have been improving problem analysis and evaluation skills while working with other 
+departments. 
+- Ability to work in a high-pressure environment 
+- Good at planning and teamwork. 
+5) From 01/2014 to 07/2017: Card Center - NAM A Bank 
+Title: Chargeback and Risk Management Specialist 
+Key achievements: 
+- Receiving all complaint requests from customers in many channels such as e-commerce, 
+purchase on pos, purchase via app, cash withdrawal ATM, and Interbank fund transfer. 
+- Understand transaction data flow through all payment channels. 
+- Check transaction data and make payment to organizations such as Mastercard, Napas, 
+Vnpay, etc. 
+- Contact other Banks to check the transactions online and offline. 
+- Check invoice and settlement to Mastercard. 
+- Resolve disputes daily, monitoring transactions to prevent fraud and risk. 
+- Participate in a new card management system project. 
+Key skills gained: 
+- Communication skills 
+- Technical skills 
+- Analytical skills 
+- Problem solving skills 
+- Negotiation and persuasion skills 
+- Testing and Training skills
+
+5 
+6) From 01/2013 to 12/2013: Card Center - NAM A Bank 
+Title: Accountant 
+Key achievements: 
+- Carrying out the checking and reconciliation of card transaction data and clearing payment 
+balances with MasterCard and Napas. 
+- Accounting for settlement. 
+- Balance data ATM. 
+- Payment of annual fee 
+Key skills gained: 
+- Honestly at work. 
+- Knowledge of accounting and card payment. 
+- Communication skills and teamwork.

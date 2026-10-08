@@ -1,0 +1,124 @@
+Vo Tran Dang Khoa
+FRONT-END DEVELOPER
+- 4+ years of strong hands-on working
+experience in Web applicationdevelopment.
+- Experienced in developing complex web
+applications.
+- Experienced in designing, implementing, and
+provisioningbusiness-critical web applications
+with high availability, low-latencyand cost
+constraints.
+- Good team player, sharing knowledge,
+learning from peers.
+Currently, I'm a Middle Developer. I'm interested
+in developing website and web-app. Desire to
+ﬁnd a place to work long-term stability. My
+goal is to become a professional and dynamic
+developer. But not stop there, I will try my best
+to learn and improve my knowledge, my skill to
+become a Technical Leader.
+Contact information
+Date of birth July 19, 1996
+Gender Male
+Phone
+Email
+.com
+Address 146/37/16 Vu Tung,
+Ward 2, Binh Thanh dist.
+Ho Chi Minh City
+Website
+oa
+Summary
+Career Objective
+Education
+Saigon Technology University
+Major: Software Engineer
+Programing Language: HTML, CSS, JAVASCRIPT.
+Programming libraries:  Redux.
+Framework: Express ( . 
+9/2014 - 7/2019
+Work experience
+Intern
+Intern Software Engineer
+At Camino Information Services 
+205A Nguyen Xi,  Ward 26, Binh Thanh Dist. Ho Chi Minh city  
+ 
+Main responsibilities: 
+- Learn about software production process. 
+- Learn about .Net MVC and Entity Framework. 
+- Learn about Bootstrap, KendoUI and AngularJS. 
+- Learn about Framework of the company, How to work in teamwork
+(division of work, manage source code with TortoiseSVN). 
+-Participate in a small project of the company. 
+March 2018 - April 2018
+Intern Front-end Developer
+Intern Front-end Developer
+At FPT Software 
+Sai Gon Hi-tech Park, District 9, Ho Chi Minh City
+ 
+Main responsibilities:
+- Leanrning Framework/Libraries/Tools: Angular Framework and
+Material-UI.
+- Learn about software production process.
+- Participate in a small project of the company. 
+October 2018 - March 2019
+Front-end Developer
+Front-end Developer
+September 2019 - October 2021
+
+S3Corp.: 
+- Project Name: Anne 
+- Develop and Maintain Razer Synapse 4, a gamer peripheral tool. 
+- Location: Singapore 
+Apps Cyclone Technology JSC.: 
+- Project Name: amai POM (Pre-Order Manager, Pre-Order
+Manager Design Tools, Pre-Order Manager UI System
+Components) 
+- Link:
+- Apps Description:
+- Shopify app store:
+Develop and Maintain Pre Order Manager Shopify Application &
+At S3Corp. 
+307/12 Nguyen Van Troi, Ward 1, Tan Binh dist, Ho Chi Minh city.  
+ 
+Main responsibilities:
+- Framework/Libraries/Tools: React, Redux.
+- Management Tools: BitBucket, Git, Jira & Symbli.
+- Development Tools: VS Code, Windows/Git Terminal.
+- Git client Tools: Fork, Git Graph. 
+- Communication Tools: Skype. 
+- Communicate with Client by Skype and based on Jira tickets to
+resolve bugs and issues. 
+- Create new components and re-use old components to gluing into
+devices.
+- Develop UI following the design on Symbli.  
+- Apply changes for all devices need to be ﬁxed. 
+Front-end Developer
+Front-end Developer
+At Apps Cyclone Technology JSC. 
+AC Building - 168/6 Bui Thi Xuan, Ward 3, Tan Binh dist, Ho Chi Minh
+city.
+website:  
+ 
+Main responsibilities:
+- Framework/Libraries/Tools: React, Redux...
+- Management Tools: BitBucket, Git, Jira and Figma.
+- Developement Tools: VS Code, Linux/Windows Terminal.
+- Expert operating systems: Windows, Linux Ubuntu. 
+- Communication Tools: Microsoft Teams, Slack. 
+- Take responsibilities to manage and develop a Shopify’s application
+name AmaiPreorder Manager that is listed on top of Shopify App
+Store and currently usedby more than 7000 shops.
+- Estimate and analytic new features , estimate time and workﬂow to
+assure thetime and quality of the project.
+- Develop UI following the design on Figma. 
+- Work directly with BE team to discuss APIs.
+- Develop and maintain all packages included inside the main project. 
+November 2021 - Present
+Projects & Other Activities
+
+Tools. 
+- Location: Singapore 
+Present: 
+-  
+- TypeScript.

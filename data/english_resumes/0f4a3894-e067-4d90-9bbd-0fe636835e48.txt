@@ -1,0 +1,80 @@
+Tin Tran
+Phone: (+84)
+Email:
+Linkedin:tranthanhtin
+I'm a Web Developer with more than 10 years of experience. I have in-
+depth knowledge of HTML, CSS, JavaScript.
+I like to read the Technology Magazines and try it to optimize the
+working process, improve my skill and build several mini web-application
+with it.
+Major technical skills and tooling
+Backend development: NodeJS,
+HapiJS
+Frontend development: ReactJS,
+VueJs, AngularJS (ver 1.x),
+ES5, ES6+, TypeScript, Grunt,
+Gulp, Webpack.
+Version control: Git using
+Github, Bitbucket, GitLab
+Tasks management/
+documentation: Jira, Trello,
+Confluence
+Database: MongoDB (Mongoose),
+MySQL
+Mobile app development: React
+Native
+Desktop app development:
+ElectronJs
+Testing: Unit Test with Chai,
+Moca, End to End test with
+Jest, Enzyme, Puppeteer
+Third-party Integration: Twilio
+Send Grid, Sentry, Mail Gun,
+Google Analytics.
+Experience
+Aug/2021 - Present
+Self-employed /Nha Trang, Viet Nam
+Achievements/Tasks:
+Build web application with NodeJS.
+Build HTML templates.
+
+Feb/2020 - Jul/2021
+Ruby on Rails Developer /Job Ready
+Achievements/Tasks:
+Work as a full-stack developer using Ruby on Rails, Active Record.
+Work in a process using Agile with Scrum methodology.
+Aug/2017 - Mar/2020
+Self-employed /Nha Trang, Viet Nam
+Achievements/Tasks:
+Create a desktop app using Electron, HapiJs, MongoDB and Puppeteer to
+automate repeatedly tasks.
+Build web application with NodeJS.
+Build HTML templates.
+Apr/2014 - Aug/2017
+Font-End Developer and Team Leader /Bizzon
+Achievements/Tasks:
+Research new technologies and training to team members.
+Build Front-End structure to write HTML, CSS, JavaScript faster using
+Grunt, Gulp, Webpack, Yeoman...
+Build some mini games using HTML Canvas with PixiJS, Phaser...
+Proficient in creating animations for web-application using GSAP.
+Optimize Web-Application for maximum speed and scalability.
+Lead a team with 5 developers in outsourcing multiple websites that
+run digital marketing.
+Support team members.
+May/2011 - May/2014
+ Developer /TQ Design
+Achievements/Tasks:
+Build websites for E-commerce, Real Estate and Tourism using
+
+Mar/2010 - Apr/2011
+, PHP Developer /Tin Long
+Achievements/Tasks:
+Build websites/plugins for E-commerce, Real Estate and Tourism using
+Joomla, 
+Certifications
+ Web Development Certificate.
+Interests
+Fishing
+Swimming
+Coding

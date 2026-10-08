@@ -1,0 +1,270 @@
+HUỲNHTHANHTÙNG
+–
+Address:239BinhLoiStreet,Ward13,BinhThanhDistrict,HCMC
+DOB:27Dec1990
+SUMMARY
+Ihaveover5yearsofexp.asaTeamLeader,3yearsofexp.asaBackendDeveloper&1yearsof
+exp.asaProjectLeaderrole.MygoalistobecomeaSeniorBackendDevinthenext2years.
+Ihavesoftwareprojectimplementationskillsfromanalysistodevelopmentandimplementation.
+HavingknowledgeofdevelopmentandreleaseMobileapplication,Website.
+HavingknowledgeofeCommerceonAmazon,Ebay,Walmart,Shopify,USPS,UPS,Shipworks…
+HavingprogrammingskillsandexperienceindevelopingMobileapplication,Frontend,Backend,
+Setupserver&maintenanceservices.
+WORKEXPERIENCES
+FREELANCER(04/2024–Now)
+FULLSTACKDEVELOPER(TheRoomforRentmanagementwebsite)
+Teamsize:1members
++ Research&analyzecustomerrequirements.
++ Buildingthemanagementsystemwebsite.
++ Setuphosting&domaintodeploycode.
++ Developmodules:User,Room,Citizen,Contract,Invoice…
++ Services:SendEmail,TaskScheduling,GeneratePDFﬁle…
+Techs:Laravel11,Bootstrap5,jQuery,MySQL,Nice-Admin,Git,GoogleOfﬁce…
+NEXACORNJSC(05/2022–03/2024)
+PROJECTLEADER(TheAIfashionshoppingmobileapplication)
+Teamsize:11members
++ Analyze&deployprojectaccordingtotheScrummodel.
++ Manage,assigntasks,check&evaluatetheworkoftheDevelopersandTesters.
++ TestandreleasetheMobileapplicationonGooglePlay,AppStore.
++ DesigntheDatabasestructure.
++ DesigntheAPItoserveFrontend,Backend&Mobileapplication.
++ DesigntheUI/UXfortheAdministratorwebsite.
++ Setup&maintenance:Linuxserver(Ubuntu),Nginx,FTP,SSL,Rediscacheserver.
++ Setup&maintenance:MongoDB,MongoAtlas,MySQLserver.
++ SetupTIGstackmonitoringsystem(Telegraf–Inﬂuxdb–Grafana).
+
++ ManagetobuildtheCompanylandingpage
++ ConﬁguretheCrontab/ScheduleonLinux,Windows.
++ HaveknowledgeofFirebase(in-appmessaging,cloudmessaging,remoteconﬁg).
++ HaveknowledgeofFacebookAPI,GA4,ADJUST,Sentry.
++ Haveknowledgeofimageanalysis&comparisonalgorithmsusingPythonalgorithms.
++ HaveknowledgeofVectorDB(Pinecone).
++ Interviewing,recruiting.
+Techs:Jira,ReactJS,ReactNative,Python,Selenium,Figma,Github, GA4,Adjust,Sentry,
+MongoDB,MongoAtlas,CodeIgniter,NestJS,RedisCache,Queue,FacebookApi,Firebase,
+Jenkins,Swagger,Postman,GoogleOfﬁce…
+VITOXLLC(07/2020–12/2021)
+PROJECTMANAGER(outsource)
+Teamsize:4members
++ Buildingthemanagementsystemforenterprisesspecializinginanalyzing&assessing
+thequalityofproductscirculatingintheUSAmarketthatmeetstandardsofProp-65CA.
++ Research&analyzecustomerrequirements.
++ PlanningtoexecutetheprojectaccordingtotheAgile&Scrummodel.
++ Performserverconstruction,conﬁguration&projectdeployment.
++ Managing,checking&summarizingthetasksofteammembers.
++ Deployprojecttoproduction.
+Techs:Laravel,VueJS,Git,GoogleOfﬁce,Trello…
+HMDITJSC(2015-2021)
+TEAMLEADER
+Teamsize:7members
++ BuildingaTAteamtogatheruserrequirements,research,analyze,deployprojects.
++ BuildingaQAteamtoperformsoftwarequalitycontrol&improvement.
++ MakeaprojectimplementationplanaccordingtotherequirementsoftheManagement
+andtheBoardofDirectors.
++ Analyze&deployprojectsaccordingtotheAgile&Scrummodel.
++ Manage,check&evaluatetheworkoftheemployeesinthegroup.
++ Supportsuperiorsinorientingthedevelopmentofthedepartmentinlinewiththe
+company'sdirection.
++ Draftingtechnicaldocuments,processes&regulationsoftheITdepartment.
++ BuildingBackendBusinessoperatingsystem.
++ Setup&maintenanceserver:Website,Api,GitDeploy…
++ Interviewing,recruiting.
+Techs:CodeIgniter,AngularJS,Laravel,VueJS,Git,OpenProject,OneNote,GoogleOfﬁce...
+
+UNILEVER
+VIETNAM
+(06/2017
+–
+06/2018)
+BACKEND
+DEVELOPER
+(outsource)
++
+Building
+Backend
+System
+which
+is
+the
+News,
+Gift,
+Product,
+Inventory,
+Order
+management
+and
+Report
+website…
++
+Building
+API
+System
+to
+serve
+Frontend,
+Backend,
+Mobile.
++
+Combine
+sending
+SMS
+to
+API
+System
+to
+execute
+OTP
+veriﬁcation.
++
+Support
+&
+maintenance
+system.
+Techs
+:
+CodeIgniter,
+AngularJS,
+CodeIgniter
+&
+Restful
+API
+Extension,
+Git,
+Trello...
+YES4ALL
+LLC
+(2013
+-
+2015)
+BACKEND
+DEVELOPER
++
+Building
+Backend
+System.
++
+Building
+Business
+support
+modules:
+o
+Purchasing,
+NPI,
+Logistics,
+Shipping...
+o
+Personnel,
+Timesheet…
+Techs
+:
+CodeIgniter,
+Jquery,
+Joomla...
+SOFT
+SKILLS
++
+Management
+of
+Middle
+Managers
+–
+MMM.
++
+Have
+knowledge
+&
+skills
+in
+Project
+management
+based
+on
+Agile
+&
+Scrum
+model.
++
+Participate
+in
+software
+architecture
+design
+&
+data
+structure.
++
+Gather
+user
+requirements
+&
+perform
+analysis
+of
+the
+requirements.
++
+Research
+&
+apply
+techniques
+that
+ensure
+user
+requirements.
++
+Ability
+to
+communication
+skill,
+mindmap,
+brand
+storming,
+coaching
+&
+interview.
+EDUCATION
+Management
+of
+Middle
+Manager
+(MMM
+certiﬁcate)
+Linux
+server,
+Mongo
+Atlas
+Laravel,
+VueJS,
+Git
+Python,
+AngularJS
+1.x
+TOEIC
+500
+PHP
+and
+MySQL
+Server
+Advance
+Bachelor’s
+Degree
+in
+Computer
+Networking
+CCNA,
+MCSE
+Hobbies
+&
+Interests:
++
+Reading
+Books
++
+Technology
+Research
++
+Photography
++
+Portable
+audio
+devices

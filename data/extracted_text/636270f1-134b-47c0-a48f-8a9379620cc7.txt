@@ -1,0 +1,94 @@
+/
+  
+ 
+LƯƠNG ĐÌNH NGHĨA
+Nam
+Hà Nội
+Đơn xin tuyển dụng
+MỤC TIÊU NGHỀ NGHIỆP
+ Không ngừng học hỏi trao dồi kiến thức về công nghệ thông tin để phát triển kỹ năng chuyên môn.
+Mục tiêu dài hạn: trở thành chuyên gia trong lĩnh vực của mình.
+
+KINH NGHIỆM LÀM VIỆC
+Mô tả
+Thành tích đạt được
+Mô tả
+Thành tích đạt được
+LẬP TRÌNH VIÊN JAVA
+CÔNG TY CỔ PHẦN SONIC VIỆT NAM
+Lập trình hệ thống quản lý đấu thầu
+Kỹ năng chuyên môn áp dụng trong công việc: 
++/ Ngôn ngữ sử dụng: JAVA
++/ IDE: Eclipse
++/ Mô hình: MVC
+Hệ thống được chào hàng với bộ Y Tế
+KỸ SƯ PHÁT TRIỂN PHẦN MỀM
+TỔNG CÔNG TY VIỄN  THÔNG VIETTEL
+Lập trình các sản phẩm phần mềm bằng JAVA, PHP
+Tham gia quản trị dự án, viết giải pháp và phát triển các hệ thống theo yêu cầu nghiệp vụ kinh doanh.
+Các dự án tham gia cụ thể:
++/ Dự án Upro
+- Đây là dự án cổng kết nối tải game và thanh toán các ứng dụng game trên thiết bị di động sử dụng mạng Viettel.
+- Tham code một số module PHP trong dự án.
+- Lập trình PHP
++/ Dự án Vas Dealer
+- Đây là dự án cho phép các cá nhân tham gia bán hàng cho Viettel. Khi khách hàng bán hàng thành công sẽ được 
+hưởng hoa hồng theo chiết khấu.
+- Vai trò: quản trị dự án và viết giải pháp + code
+- Ngôn ngữ sử dụng: Java, PHP
++/ Dự án Vas Marketing
+- Đây là dự án dự vào các hành vi của người dùng như gọi điện, truy cập 3G, hết data để gửi các tin quảng cáo hoặc 
+telesale giới thiệu các dịch vụ Viettel tương ứng cho khách hàng nhằm làm tăng số lượng khách hàng sử dụng dịch vụ.
+- Vai trò: quản trị dự án, viết giải pháp + code
+- Ngôn ngữ sử dụng: Java, PHP
++/ Dự án TV360
+- Đây là dự án truyền hình di động Viettel.
+- Vai trò: nghiên cứu hỗ trợ DevOps các công nghệ Docker, Kubernetes cho đội dự án.
+- Sử dụng Spring Boot, Docker, K8s.
+
+
+- Kỹ năng quản trị dự án và viết giải pháp cho các hệ thống
+- Sử dụng các ngôn ngữ Java (Spring Boot), PHP (Yii2),  Docker, K8s
+TIẾNG ANH
+NGHE NÓI
+ĐỌC VIẾT
+
+KỸ NĂNG
+Kỹ năng chính: 
+Kỹ năng khác: 
+ 
+Lập trình Java ( 10 năm) 
+PHP (4 năm) 
+C++ (2 năm) 
+Spring boot (2 năm) 
+K8s (1 năm) 
+Docker (1 năm) 
+Sử dụng Database (MariaDb, Oracle), noSql 
+(MongoDb,Redis, ElasticSearch), Kafka 
+ 
++ Có tư duy logic, kỹ năng thuyết trình, giao tiếp, trình bày 
+văn bản. 
++ Có kỹ năng lập kế hoạch, giải quyết vấn đề, tổ chức, sắp 
+xếp phối hợp với các thành viên. 
+SỞ THÍCH
+Nghe nhạc
+Đá bóng
+Du lịch
+Chụp ảnh
+
+HỌC VẤN
+Chuyên ngành: 
+Bằng cấp: 
+Loại tốt nghiệp: 
+Chuyên ngành: 
+Bằng cấp: 
+Loại tốt nghiệp: 
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG                           
+Hệ thống thông tin
+Kỹ sư công nghệ thông tin
+Giỏi
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+Khoa học máy tính
+Thạc sỹ khoa học máy tinh
+Khá
+

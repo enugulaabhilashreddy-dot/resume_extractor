@@ -1,0 +1,120 @@
+gjfgj` 
+ 
+ 
+ 
+  1  
+• 8 years of experience on POS system testing. 
+Information Technology Solutions 
+ 
+NGUYEN THI TRUC THUY 
+LEADER QC 
+ 
+ 
+PERSONAL DETAILS 
+• Date of Birth:    Jan 06, 1988 
+• Place of Birth:   Tien Giang 
+• Gender:   Female 
+• Marital Status:  Married 
+• Objective:   Leader QC  
+• Phone 
+• Email:    
+Education 
+▪ 3/2010 – 9/2011: Graduated from Natural of Science University , 
+specialized in Information Technology. 
+Languages 
+▪ English: Medium 
+▪ Vietnamese: Native
+
+gjfgj` 
+ 
+ 
+ 
+  2  
+• 8 years of experience on POS system testing. 
+Information Technology Solutions 
+ 
+NGUYEN THI TRUC THUY 
+LEADER QC 
+ 
+ 
+Summary 
+• 8 years of experience in POS system testing. 
+• 8 years of experience in testing electronic wallet system. 
+• 5 years of experience connect Bank integration on POS: VTB, BIDV, VCB, 
+STB, EIB … 
+ 
+Skill 
+• Soft Skills 
+o Good team work. 
+o Ability to work well under pressure. 
+o Open-minded, hard-working and fast learning 
+ 
+• Testing Skills 
+o   Received requests, research, analyze, write documents that 
+detailed descriptions of technical requirements. 
+o Designing Test plan. 
+o Analyzing and designing Test-case, checklist. 
+o Deploy service, web, Gateway, integration in POS:  Payoo app, and 
+app bank. 
+o Log bug, report bug on Jira, Trello, PHP Bug Tracker, Gitlab…. 
+o Executing test connect API with a partner such as Paycode, Paybill, 
+Paytopup,  service of Payoo.  
+o Writing user guide 
+o Drafting technical acceptance minutes: banking integration, 
+partner integration
+
+gjfgj` 
+ 
+ 
+ 
+  3  
+• 8 years of experience on POS system testing. 
+Information Technology Solutions 
+ 
+NGUYEN THI TRUC THUY 
+LEADER QC 
+ 
+ 
+Experience 
+Jul  2013 – Present       Vietuion - Payoo 
+QC  
+▪ Project:  The Payoo POS system 
+▪ Project Description:   
+Payoo has a large network of payment channels and supports a variety of payment 
+services: utility bills, tuition fees, insurance, public fees, and financial bills  
+POS System has series of pos that Payoo provides to stores, supermarkets, 
+apartments, medical stores. Customer not only makes sale transactions but also 
+many other types of transactions.  
+- Payoo POS as POS: hooked up with well-know customers 
+o SSC School Payment System. 
+o Hanoi Bus system 
+o Saigon Waterbus system. 
+o mPOS system 
+o ACS system 
+o Paytouch system 
+- Payoo POS  as link POS: integrates with convenience store pos system such as 
+o Circle K 
+o Family mart 
+o MINISTOP 
+▪ POS work with: PAX, Ingenico, Nexgo   
+▪ Project Team Size:  100 
+▪ Responsibilities:  
+- Communicated with a client, partner, bank to verify the specification. 
+- Do acceptance test, write test acceptance test case with bank. 
+- Testing functions following the specification and business. 
+- Plan and manage tasks of members of the team. 
+- Review test cases, checklists, regression test of the team.
+
+gjfgj` 
+ 
+ 
+ 
+  4  
+• 8 years of experience on POS system testing. 
+Information Technology Solutions 
+ 
+NGUYEN THI TRUC THUY 
+LEADER QC 
+ 
+ 
+Verify the new flow related with current business Payoo services

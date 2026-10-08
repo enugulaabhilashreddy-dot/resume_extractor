@@ -1,0 +1,123 @@
+PHẠM TUẤN ANH
+THÔNG TIN CÁ NHÂN
+
+
+
+
+
+31-10-1983
+Nam
+294/66 Xô Viết Nghệ Tĩnh, 
+Phường 21, Quận Bình Thạnh
+TIN HỌC
+Word
+Excel
+PowerPoint
+Outlook
+TIẾNG ANH
+Nghe
+Nói
+Đọc
+Viết
+SỞ THÍCH
+- Bóng đá, bơi lội
+NGƯỜI LIÊN HỆ
+- Tên người liên hệ:
+- Công ty:
+- Chức vụ người liên hệ:
+- Số điện thoại:
+Hồ Kim Trí
+Công ty TNHH MTV TMDV Cuộc 
+Sống Mới
+Phó tổng giám đốc
+TRƯỞNG PHÒNG CÔNG NGHỆ THÔNG TIN
+MỤC TIÊU NGHỀ NGHIỆP
+Với kinh nghiệm làm việc hơn 10 năm trong ngành công nghệ thông tin, tôi mong muốn 
+được áp dụng những hiểu biết và kinh nghiệm làm việc của mình đóng góp vào sự phát 
+triển của công ty và ổn định nghề nghiệp phát triển bản thân.
+HỌC VẤN
+Chuyên ngành học:
+Loại tốt nghiệp:
+ - 01-2008 01-2015
+ĐẠI HỌC KHOA HỌC TỰ NHIÊN – ĐẠI HỌC QUỐC GIA TPHCM
+Công nghệ thông tin
+Trung bình khá
+Cử nhân
+KINH NGHIỆM LÀM VIỆC
+ - 
+ - 
+05-2023 06-2023
+PHÓ PHÒNG CNTT
+CÔNG TY CỔ PHẦN VIỄN THÔNG ACT - TRUNG TÂM KHU VỰC PHÚ MỸ HƯNG
+- Quản lý vận hành hệ thống mạng văn phòng 
+- Quản lý vận hành hệ thống giám sát core các nhà mạng, và hệ thống giám sát 
+- Quản lý, lập trình và vận hành hệ thống Quản lý khách hàng (CRM), quản lý thu tiền, 
+hóa đơn.. 
+- Lập trình xây dựng các chức năng phần mềm để các phòng ban hoạt động theo quy 
+trình chung tương tác với CRM. 
+- Quản lý và vận hành hệ thống Callcenter.
+04-2019 04-2023
+PHÓ PHÒNG CÔNG NGHỆ THÔNG TIN
+CÔNG TY TNHH MTV TMDV CUỘC SỐNG MỚI
+- Xây dựng, Quản lý và chịu trách nhiệm thống mạng, máy chủ của công ty NL. 
+- Quản lý hệ thống core network cung cấp dịch vụ cho khách hàng. 
+- Xây dựng và cài đặt các công cụ giám sát hoạt động hệ thống mạng. 
+- Xây dựng và triển khai hệ thống tổng đài Call Center ( VOIP ) chăm sóc khách hàng 
+cho nội bộ qua phần mềm Asterisk. 
+- Xây dựng và hệ thống Domain controller, Share file, email server, firewall. 
+- Xây dựng hệ thống dự phòng, backup định kỳ dữ liệu của cty. 
+- Am hiểu về Windows Server và Linux Server (Centos, Ubuntu..) 
+- Xây dựng và quản lý hệ quản trị cơ sở dữ liệu: MySQL, MS SQL và Oracle. 
+- Am hiễu về ngôn ngữ lập trình: PHP, .Net 
+- Xây dựng và lập trình phần mềm Quản lý nhân sự, hợp đồng, chấm công... 
+- Xây dựng và lập trình phần mềm quản lý mua sắm. 
+- Quản lý hệ thống Database khách hàng tại NL.( nền tảng Linux và Oracle ) 
+- Xây dựng, lập trình và vận hành phần mềm quản lý khách hàng (CRM)  
+- Tham gia triển khai xuất hóa đơn điện tử thông qua hệ thống API của Viettel và VNPT 
+hàng loạt 
+- Kết nối hệ thống gửi mail và SMS Brandname để gửi thông báo khách hàng hàng 
+loạt.
+
+- 
+ - 
+ - 
+- Quản lý các Service banking gạch nợ cước tự động của NAPAS và Payoo. 
+- Phối hợp Payoo xây dựng báo cước có thanh toán nhanh mã QR 
+- Xây dựng phương án quản lý rủi do dụ phòng backup và phục hồi thảm họa theo tiêu 
+chuẩn
+01-2014 04-2019
+TRƯỞNG NHÓM IT
+CÔNG TY CỔ PHẦN PHÚ THẾ HƯNG
+- Quản lý và chịu trách nhiệm thống mạng, máy chủ của công ty PTH và 20 chi nhánh 
+thuộc PTH hoạt động liên tục. 
+- Xây dựng và quản lý hệ thống cung cấp dịch vụ Internet trên truyền hình cáp của 
+công ty. 
+- Quản lý hệ thống core network cung cấp cho khách hàng. 
+- Xây dựng và triển khai hệ thống tổng đài Call Center ( VOIP ). 
+- Xây dựng và hệ thống Domain controller, Share file, email server, firewall. 
+- Xây dựng, triễn khai và quản lý hệ thống kết nối từ xa VPN site to site. 
+- Xây dựng hệ thống dự phòng, backup định kỳ dữ liệu của cty. 
+- Am hiểu về Windows Server và Linux Server 
+- Am hiểu về hệ quản trị cơ sở dữ liệu: MySQL, MS SQL và Oracle. 
+- Am hiễu về ngôn ngữ lập trình: PHP, .Net 
+- Xây dựng và lập trình phần mềm Quản lý nhân sự. 
+- Xây dựng và lập trình phần mềm quản lý mua sắm. 
+- Lập trình hệ thống phần mềm quản lý khách hàng tích hợp với các đối tác như tra cứu 
+thông số, trạng thái, thanh toán..
+06-2007 12-2013
+TRƯỞNG NHÓM IT
+CÔNG TY LBC
+- Quản lý thiết bị, bảo trì và sửa chữa: Máy chủ,máy trạm, máy chiếu, máy tính xách 
+tay, máy tính xách tay, máy tính để bàn, máy in mạng. 
+- Triển khai và quản trị các mạng hệ thống LAN, WAN, Internet, không dây và hệ thống 
+điện thoại (PABX). 
+- Quản lý phòng máy chủ: Bộ định tuyến, chuyễn mạch, Máy chủ Domain 
+Controller,Máy chủ web, Máy chủ thư, Tường lửa. 
+- Quản lý giám sát từ xa các thiết bị CCTV. 
+- Xây dựng và cập nhật nội dung website.
+04-2004 05-2007
+NHÂN VIÊN IT
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MAI LINH(MLG)
+- Sửa chữa sự cố máy tính cho văn phòng chính và các văn phòng chi nhánh 
+- Xây dựng và triễn khai hệ thống mạng LAN, WAN 
+- Tư vấn thiết kế và cài đặt hệ thống máy chủ Windows server.

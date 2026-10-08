@@ -1,0 +1,143 @@
+Gender: Male. 
+ 
+Date of birth: 17/02/1993. 
+ 
+Address: 16/28 Thanh Loc 19,  
+Thanh Loc Ward, District 12, Ho Chi Minh City. 
+ 
+Git Hub: 
+Phone: + .  
+Email: 
+Marital Status: Married. 
+ 
+SUMMARY 
+Experienced as: 7+ years in programming. 
+• Mobile Android App: 3 years. 
+• Full-Stack Developer (.NET, .NET Core): 2 years. 
+• Full-Stack Developer (ReactJS, NodeJS): 2 years. 
+Specialties: 
+• Can adapt quickly to new project. 
+• Design and implement UI layout, apply knowledge about UI/UX. 
+• Develop RESTful API. 
+• Deploy product (IIS, ubuntu server). 
+• Teamwork and communicate. 
+• Clean code and debug. 
+Industry Experience: 
+• Experience in domains: IOT, HRM, Education, Medical, Government Organizations. 
+TECHNICAL STACKS  
+• Programming Languages: Javascript, Java, C#. 
+• Web application (traditional): Web API, Restful API. 
+• SPA: JS, ReactJS. 
+• Package management: npm, Yarn, NuGet, Maven, Gradle. 
+ 
+HUYNH NGOC HOANG MINH 
+Full Stack Developer
+
+• Database: SQL Server, MySQL, MongoDB. 
+• Query Language: SQL, GraphQL, LINQ.  
+• ORM: Entity Framework. 
+• Reporting: Jira, Azure DevOps. 
+• Testing: Postman, Browser DevTools, Redux DevTools, VS code plugins (REST Client). 
+• IDE: Android Studio, Visual Studio, Visual Studio Code, NetBeans. 
+• Coding principle: follow best practices, design pattern, clean code, apply coding principles: 
+SOLID. 
+• Architectural patterns: MVC, MVVM. 
+• Methodology: Agile, Scrum. 
+• SCM: Git. 
+• Other: Ubuntu Server, Ubuntu Desktop, PowerShell ISE, Task Scheduler. 
+EDUCATIONAL BACKGROUND 
+1. Graduated University 2011 – 2016 (4.5 years training system) 
+Faculty of Information Technology - Sai Gon University 
+Diploma: Good Type 
+2. English Certificate B 
+Diploma: Good Type 
+3. Completed the course “Xamarin Cross-Platform Programming” – 2017 
+Issued by: DVLUP – Xamarin Authorized Consulting Partner 
+4. Completed the course “ Core 3.1” – 2020 
+Issued by: NhatNghe Education SJC 
+EXPERIENCE & PROJECTS PARTICIPATED 
+Saigon Hi-Tech Park Training Center  Full-time 2016 – 2019 
+Website:
+1. Android Developer: (Android Studio, MQTT, Java, Wi-Fi, Bluetooth) 
+▪ SHTPPROJOB – An application provide jobs inside and outside the SHTP. 
+▪ Applications controlled via Bluetooth using HC-05 circuit, via Wi-Fi using ESP-8266 
+circuit to support IOT training, execute integrated programs inside the Robot arms. 
+2. Full Stack Developer .NET: (C#, QR Code, Serial/COM port) 
+▪ Application to access and open CorelDraw design files quickly via QR  Code using 
+camera/webcam.
+
+▪ Applications for communication and control of the Robot arm via Serial/COM port to 
+support training. 
+3. Web Service - Full Stack: (Javascript, HTML, CSS, MQTT, Wi-Fi) 
+▪ Communicate with ESP-8266 circuit via Wi-Fi (using MQTT) to support IOT training. 
+UBERYTE Corporation   Full-time 2019 – 2020 
+1. Cross-platform Mobile Developer : (C#, Xamarin Android, Xamarin IOS,  publish app to 
+Google Play and App Store, Google Maps API) 
+▪ PHR – An application storage electronic medical records, medical appointments, call 
+SOS. 
+2. Full Stack Developer  (C#, Entity Framework,  MVC, MVVM, upload & 
+download file from FTP Server, deploy application to IIS). 
+Ocean Net Software Limited Company Full-time 2020 - Now 
+1. Full Stack Developer - Plaza Home Mortgage Project  (1+ years) : (C#, L INQ, Entity 
+Framework,  SQL Server, Powershell scripts) 
+▪ A project about renting/buying houses, using MVC, VueJS, SQL Server and 
+synchronizing data with PowerShell scripts. 
+o VueJS: Funding Utility - a tool that helps process funding requests for loans 
+from customers. 
+o MVC  – Full Stack: Application for managing rental/purchase loans 
+using MVC.  
+o PowerShell: Implement & schedule automatic execution of data 
+synchronization tasks and related processes. 
+2. Full Stack Developer - Raptor Vision Camera Project  (1+ years) : (ReactJS, NodeJS , 
+GraphQL, MongoDB, RabbitMQ, WebSocket , send SMS & MMS by Twilio, send email by 
+SendGrid API) 
+▪ A project about anti-theft camera, using ReactJS, NodeJS, MongoDB. In this project  
+includes small modules connected. 
+o Proxy: 
+➢ Using http-proxy-middleware to build a proxy server that forwards through 
+internal ports. 
+➢ Forward request to log user access information (access time, IP...). 
+o Admin Portal – Full Stack (work with Tech Lead): 
+➢ Front-end: Implement UI according to mockup/design or create UI by 
+myself if there is no mockup, interact with API, Web Socker.
+
+➢ Back-end: Write API, implement mail & SMS sending function using 
+Twilio SendGrid. 
+o VMS -Full Stack (work with another member): 
+➢ Front-end: Implement UI according to mockup/design or create UI by 
+myself if there is no mockup, interact with API, Web Socker. 
+➢ Back-end: Write API, process data via Web Socket. 
+o AiT – Front-end: 
+➢ Implement UI according to mockup/design or create UI by myself if there 
+is no mockup, interact with API, Web Socker. 
+➢ Get stream from a video file. 
+➢ Get stream from camera. 
+o Webhook – Back-end: 
+➢ Write API. 
+➢ Process data via Web Socket, RabbitMQ. 
+o Play Media HDMI – Back-end: 
+➢ Upload and play default video/image when there is no alarm. 
+➢ Live stream from camera when there is an alarm using ffplay/ffmpeg. 
+o Stick – Front-end: Implement UI according to mockup/design or create UI by 
+myself if there is no mockup. 
+o ASC – Full Stack: 
+➢ Implement feature activate license: 
+❖ Front-end: Implement UI according to mockup/design,  interact 
+with API. 
+❖ Back-end: Process tasks RabbitMQ.
+
+OTHER EXPERIENCE & PROJECTS PARTICIPATED 
+Bach Khoa Computer Solutions Co., Ltd (BAKCO)  Part-time 2017 – 2019 
+Website:  
+1. Android Developer: (Android Studio, Google Maps API) 
+▪ VKHealth - An application that allows users to: make a call SOS, Learn health 
+knowledge through video, video call with doctors, medical appointments, family 
+doctors. 
+Google Play:  
+Titkul Co., Ltd Part-time 2020 – 2021 
+Website:  
+1. Full Stack Developer: (ReactJS & NodeJS) 
+▪ TK Smart Vision Edu. 
+▪ Digital Card. 
+2. Back-end Developer: (C#, .NET Core)  
+▪ Human Resources Management (TK HRS)

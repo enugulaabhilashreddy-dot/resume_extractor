@@ -1,0 +1,155 @@
+Nguyễn Khương Phúc
+Product manager
+
+✉
+ 1/8/47/12 Tổ 56, KP4, Tân Thới Nhất 22, Phường 
+Tân Thới Nhất, Quận 12, TP. Hồ Chí Minh
+MỤC TIÊU NGHỀ NGHIỆP
+Trở thành quản lý dự án chuyên nghiệp, linh động và sáng tạo trong tất cả lĩnh vực của ngành công nghệ.
+KINH NGHIỆM LÀM VIỆC
+Công ty cổ phần Thế Giới Di 
+Động
+08/2011 - 03/2023
+DEVELOPER, DATABASE ADMINISTRATOR 
+Chức vụ: Nhân viên phát triển phần mềm
+  Nghiệp vụ:
+  - Developer: Phát triển hệ thống Chăm sóc khách hàng (CRM) trên nền tản  (c#, 
+MS Sql)
+  - Developer database: Quản lý hệ thống dữ liệu của hệ thống CRM và hệ thống nội bộ sử 
+dụng nền tản MS Sql server, Oracle.
+ Kinh nghiệm làm việc:
+  - Phát triển chức năng theo yêu cầu của hệ thống trên Webapp sử dụng các công cụ 
+, C#, Html.
+  - Quản lý vận hành dữ liệu: viết store procedure theo chức năng yêu cầu, tối ưu store 
+procedure bằng cách sử dụng index, partition index, tối ưu câu truy vấn, thiết kế cấu trúc dữ 
+liệu theo chức năng. 
+  - Sử dụng các phần mềm quản lý source code: SVN
+ Ngôn ngữ lập trình: , C#, Javascript, MS Sql server, Oracle, My SQL.
+ Phần mềm quản lý dự án: SVN, Jira. 
+Công ty cổ phần Con Cưng
+03/2023 - 12/2016
+DATABASE ADMINISTRATOR
+Chức vụ: Trưởng bộ phận quản lý dữ liệu
+  Nghiệp vụ:
+  - Database Administrator: 
+   + Quản lý toàn bộ hệ thống quản trị dữ liệu liên quan đến các phần mềm. Quản trị phân 
+quyền và phân quyền cho hệ thống và các thành viên có nhiệm vụ liên quan.
+   + Nhận yêu cầu và đưa ra phân tích và giải pháp cho hệ thống lưu trữ dữ liệu.
+   + Quản lý và phân công công việc cho các thành viên trong nhóm Database.
+   + Hướng dẫn và đưa ra các giải pháp cho các thành viên trong nhóm.
+   + Backup, restore hệ thống dữ liệu theo định kỳ, phát hiện và khắc phục sự cố nhanh 
+liên quan đến dữ liệu và server lưu trữ dữ liệu. Kiểm tra và xác nhận nghiệp vụ của thành viên 
+khi triển khai tính năng (tạo chỉnh sửa table, store procedure, view, trigger, index....).
+  - Phân tích nghiệp vụ:
+   + Nhận thông tin yêu cầu nghiệp vụ của các phòng ban, đánh giá mức độ khả thi, thiết 
+kế tài liệu đặt tả theo yêu cầu.
+   + Phân tích chức năng, đề xuất các giải pháp nhầm đáp ứng tính khả thi của hệ thống.
+ Kinh nghiệm làm việc:
+
+- Quản trị cơ sở dữ liệu trên nền tản MS Sql server.
+  - Vận hành và kiểm tra tính ổn định của server lưu trự dữ liệu.
+  - Kiểm tra báo cáo các thông tin liên quan đến việc các chức năng tương tác đến hệ 
+thống dữ liệu.
+  - Kiểm tra, phát hiện, đánh giá xử lý các vấn đề liên quan đến tính ổn định của dữ liệu: 
+Deadlock, timeout, treo session, Performance.
+  - Tham gia trực tiếp vào phát triển hệ thống vận hành nội bộ: ERP, CRM, Report, Website.
+ Ngôn ngữ lập trình: MS Sql server, Oracle, My SQL.
+ Phần mềm quản lý dự án: SVN, Trello, Jira. 
+Công ty cổ phần quốc tế 
+Topcom 
+12/2016 - 12/2019
+TRƯỞNG BỘ PHẬN IT
+Chức vụ: trưởng phòng IT
+  Nghiệp vụ:
+  - Chịu trách nhiệm quản lý toàn bộ hệ thống vận hành công ty, báo cáo trực tiếp với quản 
+lý cấp cao.
+  - Nhận thông tin yêu cầu trực tiếp từ các phòng ban, phân công công việc cho các bộ 
+phận phát triển hệ thống.
+  - Đặt lịch phát triển, triển khai hệ thống. Quản lý thông tin tiến độ của các bộ phận IT. 
+  - Tham gia vào việc mở rộng hệ thống với các đối tác, đề xuất và xác nhận liên kết các hệ 
+thống.
+ Kinh nghiệm làm việc:
+  - Sử dụng các phần mềm quản lý dự án như: Trello, Jira.
+  - Phát triển hệ thống vận hành: Erp, Crm, CMS website, website bán hàng của công ty, 
+phần mềm POS bán hàng tại các điểm bán hàng.
+  - Quản lý nhóm, phân công và kiểm tra công việc của các thành viên.
+  - Làm việc nhóm, lắng nghe và chia sẻ kinh nghiệm công việc, nghiệp vụ.
+ Ngôn ngữ lập trình: , C#, Javascript, MS Sql server, Oracle, My SQL.
+ Phần mềm quản lý dự án: SVN, Trello, Jira. 
+Công ty Cổ phần EBOOKING 
+01/2021 - 06/2021
+QUẢN LÝ HỆ THỐNG DỮ LIỆU VÀ PHÂN TÍCH NGHIỆP VỤ 
+Chức vụ: Quản lý hệ thống dữ liệu và phân tích nghiệp vụ.
+  Nghiệp vụ: 
+  - Quản lý hệ thống dữ liệu cho các sản phẩm phần mềm cung cấp cho khách hàng.
+  - Kiểm tra bảo trì và đề xuất tối ưu hóa hệ thống.
+  - Nhận thông tin yêu cầu phát triển phần mềm, đưa ra các giải pháp và phân tích nghiệp 
+vụ.
+ Kinh nghiệm làm việc:
+  - Làm việc với nhóm phát triển sản phẩm phần mềm, đề xuất và đánh giá các chức năng 
+phần mềm.
+  - Chịu trách nhiệm chính trong việc vận hành hệ quản trị cơ sở dữ liệu, nhằm đảm bảo hệ 
+thống hoạt động tốt và xuyên suốt.
+  - Tham gia họp, làm việc và tương tác với khách hàng, để xử lý và đề xuất phương án và 
+giải pháp phần mềm tốt nhất cho khách hàng.
+ Ngôn ngữ lập trình: MS Sql server, Oracle, My SQL.
+ Phần mềm quản lý dự án: SVN, Trello, Jira. 
+Công ty cổ phần công nghệ 
+Cyber
+QUẢN LÝ HỆ THỐNG DỮ LIỆU VÀ PHÂN TÍCH NGHIỆP VỤ
+
+06/2020 - hiện tại Chức vụ: Trưởng bộ phận quản lý dự án.
+  Nghiệp vụ:
+  - Nhận thông tin yêu cầu dự án từ khách hàng.
+  - Phân tích nghiệp vụ cho từng dự án, lên tài liệu thiết kế, tài liệu đặt tả để phát triển 
+phần mềm.
+  - Lặp kế hoạch phát triển và triển khai dự án.
+  - Đề xuất giải pháp và làm việc trực tiếp với khách hàng.
+ Kinh nghiệm làm việc:
+  - Tham gia và chịu trách nhiệm phát triển hệ thống quản lý bán lẻ cho các công ty.
+  - Triển khai và đào tạo hướng dẫn sử dụng hệ thống cho khách hàng.
+  - Nhận thông tin phản hồi và xử lý các vấn đề với khách hàng.
+  - Phát triển một số hệ thống: hệ thống bán lẻ (sử dụng Barcode, RFID), hệ thống quản lý 
+kho, hệ thống quản lý bán hàng đa kênh. 
+DỰ ÁN
+Hệ thống quản lý bán hàng 
+online
+11-2018 - hiện tại
+Khách hàng
+Công ty Cổ phần may Việt Tiến
+Số lượng người tham gia 5
+VỊ TRÍ QUẢN LÝ DỰ ÁN
+Tham gia và chịu trách nhiệm phát triển hệ thống quản lý bán lẻ cho các công ty.
+Triển khai và đào tạo hướng dẫn sử dụng hệ thống cho nhân viên cửa hàng
+Nhận thông tin phản hồi và xử lý các vấn đề liên quan đến vận hành hệ thống.
+Phát triển một số hệ thống: hệ thống bán lẻ (sử dụng Barcode, RFID), hệ thống quản lý kho, hệ 
+thống quản lý bán hàng đa kênh. 
+CÔNG NGHỆ SỬ DỤNG
+,  MS Sql server, c#, Javascript
+HỌC VẤN
+2005 - 2010
+CÔNG NGHỆ PHẦN MỀM
+Trường Đại Học Hồng Bàng
+Học tập và nghiêm cứu các môn học liên quan đến lập trình và 
+phân tích phát triển hệ thống 
+2009 - 2010
+LẬP TRÌNH VIÊN QUỐC TẾ
+FPT APTECH HỒ CHÍ MINH 
+Học tập và nghiêm cứu các môn học liên quan đến lập trình: 
+C#, Java, MS Sql.
+Lập trình phát triển: website, winform, app mobile, backend 
+(API getway, Windows service....)
+CÁC KỸ NĂNG
+Chuyên ngành phân tích phần mềm
+Tham gia nhóm cùng học hỏi và phát triển các giải pháp để 
+phát triển phần mềm.
+Phát triển một số dự án nhỏ đáp ứng mục đích học hỏi và 
+nghiên cứu trong quá trình học.
+
+DANH HI Ệ U VÀ GI Ả I TH Ư Ở NG CH Ứ NG CH Ỉ NG Ư Ờ I GI Ớ I THI Ệ U
+HO Ạ T Đ Ộ NG
+-
+S Ở  THÍCH
+Nghe nh ạ c, ch ơ i game, tìm hi ể u phân tích 
+thông tin.
+THÔNG TIN THÊM

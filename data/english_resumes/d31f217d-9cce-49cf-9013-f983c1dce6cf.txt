@@ -1,0 +1,134 @@
+Nguyen Dang Thai
+Senior Mobile Developer
+Email
+Address Tan Binh, Ho Chi Minh, Viet Nam
+Phone
+Date of birth 14-01-1985
+OBJECTIVE
+• Develop yourself to become a potential developer, bring many useful technology products to the
+community.
+• Enhance work experience in an effective scientific way to become a leader in professional work.
+SUMMARY
+• Mobile Software Developer with 10 years of experience developing mobile(6 years Android, 3.5
+years Flutter,0.5 year IOS).
+• I am oriented to develop mobile programming with Flutter, i will to support Android and Ios platforms
+when the company needs me.
+EXPERIENCE
+Ho Chi Minh, Viet Nam
+May 2020 - Jun 2023
+Senior Flutter Developer
+Netacom
+• Manage, build application development.
+• Manage the work of team members, responsible
+for reporting work results to the director,
+manager.
+• Learn new functions.
+• Working directly to exchange work between
+groups, APIs, Tester ..., giving directions for
+processing solutions.
+• Research Search understand and development
+the new features for upgrade the interactive
+features of the operating features.
+• Submit the app to the Apple Store and Google
+Store.
+• Support everyone in the group.
+• Training new flutter developer.
+• Review and merge code from members.
+• Requirements analysis and mockup design
+project.
+Ho Chi Minh, Viet Nam
+Sep 2017 - May 2020
+Senior Android Developer
+Propzy
+• Manage, build application development.
+• Manage the work of team members,
+responsible for reporting work results to
+the director, manager.
+• Learn new functions.
+• Working directly to exchange work
+between groups, APIs, Tester ..., giving
+directions for processing solutions.
+• Research Search understand and
+development the new features for upgrade
+the interactive features of the operating
+features.
+• Submit the app to the Google Store.
+• Review and merge code from members
+
+Ho Chi Minh, Viet Nam
+Oct 2016 - Aug 2017
+Staff Developer Android
+Redefine
+• Android application development
+• Working in a team and researching new
+techniques, new frameworks and solutions to
+apply to our project.
+• Make reports of project every day.
+• Acting as a role model for junior ITstaff
+Ho Chi Minh, Viet Nam
+May 2015 - Aug 2016
+Staff Developer Android
+SSGroup
+• Android application development
+• Working in a team and researching new
+techniques, new frameworks and solutions to
+apply to our project.
+• Make reports of project every day.
+Ho Chi Minh,Viet Nam
+Dec 2013 - Apr 2015
+Staff Developer Android
+FileString
+• Improve Research Skill.
+• Android application development
+• Working in a team and researching new techniques, new
+frameworks and solutions to apply to our project.
+EDUCATION
+Ho Chi Minh, Viet Nam
+University of Information Technology
+University of InfomationTechnology University HCMC
+SKILLS LANGUAGES
+• Teamwork
+• Flutter: Dart, RxDart
+• Flutter: Bloc, Provider, GetX
+• Android: Kotlin, Java
+• Android: Jetpack
+• Android: Kotlin Coroutines, ViewBbinding
+• Android: Dagger, RxAndroid, RxJava
+• Android: Retrofit, Fast Networking
+• Ios: Swift, RxSwift, Auto layout
+• Structs: MVC, MVP, MVVM
+• Tools: Visual Code, Xcode, Android studio
+• Git, Github, FVM, SourceTree
+PROJECTS
+English: Read and write
+Intermediate
+LOMO APP(Flutter)
+LOMO was built with the desire to create a healthy and interesting dating and friendship space for the
+-Get familiar with any account you want:
+• With just 1 simple click you can follow any account that impresses you.
+• The smart filtering system makes it possible to find the right puzzle pieces for you.
+-Unlimited texting and calling:
+• , call, video call.
+
+• Lovely sticker system, regularly updated to help you convey messages more easily.
+-Get daily candies, redeem favorite gifts:
+• New users will always have a gift for logging in and using Lomo.
+• You can completely exchange virtual candy for lovely gifts such as stickers, bracelets, teddy be
+TELEMED APP(Flutter)
+trusted healthcare to your family online, in the
+office and at home:
+• Unlimited chat with our care providers for your questions and care needs.
+•
+• On the go? Consult with doctors via chat, video, and voice calls.
+• Get Home lab tests and receive your test results on your phone, same day.
+• Secure access to your medical records and prescriptions, anytime, anywhere.
+• Receive real-time updates whenever your doctor updates your chart.
+SSTruyen Official(Flutter)
+• Read stories online, save stories to read Offline
+• Search Stories by Name, Genre, Author with Advanced Story Filters
+• Ranking of Top Good Stories, Hot Stories, Many Reads, New Stories
+• Save history, favorite stories, read on easily
+• Customize theme, font size, font style, background color, light and dark mode, read stories without eye
+strain.
+REFERENCES
+Ho Van Trong - Chief Technology Officer at Netacom - +

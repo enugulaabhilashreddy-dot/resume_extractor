@@ -1,0 +1,224 @@
+LÂM VĂN CẢNH                                 
+                                                                                                
+Address: 260/8/16A Lưu Hữu Phước, 
+Quận 8,  
+ 
+ 
+Mobile:
+Email:
+ 
+ 
+Personal Information  
+Date of birth: January 28, 1986.  
+Height: 163cm 
+Character: 
+● Enthusiasm 
+● Happy 
+● Sociable 
+● Confident 
+● Honest 
+ 
+Strengths 
+ 
+● Able to work well in groups 
+● Able to work independently 
+● Have good problem solving ability 
+● There is creativity at work 
+● Able to withstand high pressure 
+● Diligent and honest in work 
+ 
+ 
+CAREER GOALS:
+
+Desire to work together to build products, be able to apply the knowledge and experience 
+learned and have the opportunity to learn and improve understanding. Thereby, you can 
+contribute to the company's development professionally.  
+ 
+ STUDY PROCESS: 
+2006-2010:   Can Tho University : Higher Diploma in Software Engineering 
+ 
+ FOREIGN LANGUAGE: 
+Communicate in English, read and understand specialized documents  
+ OTHER SKILLS: 
+✔ Have good communication skills. 
+✔ Know how to manage time. 
+✔ Work with a clear plan. 
+✔ Learn and adapt to a professional working environment quickly. 
+✔ Can work well with many people with different characteristics. 
+✔ Has high logical ability. 
+ 
+ 
+PROGRAMMING LANGUAGE TECHNIQUES: 
+1.  Programming language: 
+● Proficient: React JS, Vus JS, Dot net Core, Python, Node Js, C#, JQuery, 
+, PHP, HTML, CSS, React Native, 
+2.   Database: 
+SQL server, My SQL, PostgreSQL, MongoDB, Bigquery, Cloud Google Looker 
+3. Framework: 
+Next JS, Nuxt JS, Django, Fast API
+
+WORK EXPERIENCE: 
+1. SEO online 
+❖ Time: from September 2010 - February 2011 
+❖ Company: Mien Tay 24h Solutions 
+❖ Project description and responsibilities: 
+⮚ Support upgrading key words (increasing searchability) on Google via 
+Facebook application. 
+⮚ Development languages: PHP and MySQL. 
+2. Project Team Leader 
+❖ Time: from June 2012 - December 2012  
+❖ Company: Media Networld  
+❖ Project description and responsibilities:  
+⮚ Building applications on Facebook for Sony and Samsung corporations about 
+Marketing. 
+⮚ Development languages: PHP, MySQL,  SQL 200 8 
+3. Project Team Leader 
+❖ Time: from December 2012 - 2019  
+❖ Company: Twin Company )  
+❖ Project description and responsibilities:  
+⮚  12/2012 – 02/2014:  
+o Participating position: Developer. 
+o Development languages: PHP and MySQL. 
+⮚ 03/2014 – 07/2014:  
+o Build the OH VAC section
+
+o Find locations to place Dat Viet advertising spots 
+o Building human resource management software for HTVC center in 
+Phu My Hung, District 7. 
+o Participating position: Programming. 
+o Development languages: Open ERP, Postgre SQL, Python. 
+⮚ 02/2014 – 06/2015:  
+o Building an operational ERP project for iCare Benefit Vietnam. 
+o Participating position: Project Developer 
+o Development languages: C#, MVC4, SQL SERVER 2008, Kendo UI. 
+o Training project for Hoa Binh Joint Stock Company 
+⮚ 06/2015 – 06/2016:  
+o Building real estate project management solutions for real estate 
+companies URV, Todds Realty,... 
+o Position: Programming team leader. 
+o Development languages: C#, MVC4, SQL SERVER 2008, Kendo UI. 
+⮚ 06/2016 – 09/2016:  
+o Building ERP project management at SaiGonFord system. 
+o Position: Programming team leader. 
+o Development languages: C#, MVC4, SQL SERVER 2008, Kendo UI. 
+⮚ 09/2016 – 06/2019  
+o Build project management system at 
+o 24h Joint Stock Company:
+o Position: Programming team leader. 
+o Development languages: C#, MVC4, SQL SERVER 2008, Kendo UI, 
+Google DFP
+
+o Quick job search joint stock company  
+o Position: Programming team leader. 
+o Development languages: C#, MVC4, SQL SERVER 2008, Kendo UI. 
+Google DFP 
+o Cong Minh Green Tree Joint Stock Company 
+o Position: Programming team leader. 
+o Development languages: C#, MVC4, SQL SERVER 2008, Kendo UI. 
+o Coteccons Construction Joint Stock Company, 
+o Mitsubishi Vietnam 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch C#, MVC5, SQL 
+SERVER 2012, Kendo UI, MongoDB, Vus js, 
+ 
+   06/2019 – 10/2021  
+o Project: 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js 
+o Project: 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js 
+o Project: Phu My Hung apartment purchase and sale management 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, C#, MVC5, SQL SERVER 
+2012, Kendo UI, ReactJS, MongoDB, Vus Js 
+o Project: Lavender
+
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js 
+o Project: Management system of Coteccons construction company 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js 
+o Project: Eco pharma vaccination management system 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js 
+o Based on HD Bank equipment import and export management project 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js, Nuxt js 
+o Project: eCommerce
+o Position: Programming team leader. 
+o Development languages: .PHP, MySQL 
+o Product:
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js 
+o Project based: VNVC vaccination management 
+o 
+o Position: Programming team leader. 
+o Development languages: .Net Core, Elasticsearch, Vus js, Nuxt 
+❖ Time: from October 2019 - October 202 
+❖ CCompany: FPT Software 
+❖ Project description and responsibilities: 
+❖ Build internal projects.
+
+o Project: FIS INSIGHT 
+o Description: An application for FPT Information System with modules: 
+timekeeping, Electronics, Medical declaration, Leave request form 
+o Position: Programming team leader. 
+o Development languages: React Native, ReactJS, MongoDB, .Net Core, 
+Elasticsearch 
+o Project: SOVICO PEOPLE APP 
+o Description: An application for FIS with modules: time keeping, eLeaning, 
+medical declaration, leave request form 
+o Participating position: Full-stack 
+o Development languages: .Net Core, Elasticsearch, React Native, ReactJS, , 
+MongoDB 
+❖ Time: from October 2021 - Present  
+❖ Company: DGV Digital Joint Stock Company  
+❖ Project description and responsibilities:  
+❖ Report:Cloud Google Looker , Bigquery,  Software Engineer  
+❖ Build internal projects. 
+❖ Project: DPOINT 
+❖ API 
+%2 
+0Data%20API%20-%20v2  
+❖ Project:  
+❖ IOS:C3%ADch-
+%C4%91i%E1%BB%83m-%C4%91%E1%BB%95i-qu%C3%A0/id1598070223?l=vi
+
+❖ Android:  
+❖   
+❖ Description: An application for loyalty points for businesses 
+❖ Position: Programming team leader. 
+❖ Development languages: .Net Core, Elasticsearch, React Native, ReactJS, 
+MongoDB, 
+❖ Project: Nutifood  
+❖ Position: Programming team leader. 
+❖ Project:
+❖ Development languages: .Net Core, Elasticsearch, React Native, ReactJS, 
+❖ Project: Copenhagen  
+❖ Position: Programming team leader. 
+❖ Project:
+❖ Development languages: .Net Core, Elasticsearch, React Native, ReactJS, 
+❖  Project: strongbow  
+❖ Position: Programming team leader. 
+❖ Project:
+❖ Development languages: .Net Core, Elasticsearch, React Native, ReactJS, 
+❖ Project: VITADAIRY  
+❖ Position: Programming team leader. 
+❖ Project:
+❖ Development languages: .Net Core, Elasticsearch, React Native, ReactJS, 
+❖ Project: IDP 
+❖ Position: Programming team leader.
+
+❖ Project : 
+❖ Development languages: .Net Core, Elasticsearch, ReactJS, 
+❖ Product: DHUB 
+❖ Position: Programming team leader. 
+❖ Project:
+❖ 
+❖ Development languages: .Net Core, Elasticsearch, ReactJS, 
+ 
+ 
+ 
+SỞ THÍCH: 
+❖ Đá bóng.

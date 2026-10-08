@@ -1,0 +1,173 @@
+THÔNG TIN CÁ NHÂN 
+ 
+Họ tên: Nguyễn Thị Phượng 
+ 
+Ngày sinh: 20-09-1987 
+ 
+Giới tính:  Nữ 
+ 
+Số điện thoại: 
+ 
+Địa chỉ:  Đông Anh – Hà Nội 
+ 
+Email:   
+ 
+ 
+MỤC TIÊU NGHỀ NGHIỆP 
+ 
+Hoàn thành khoá học chuyên sâu CMMI. 
+Từ đó, vận dụng kiến thức đã học thực 
+hiện xây dựng hệ thống quy trình phù hợp 
+tại công ty phần mềm. Đây là công việc 
+tôi yêu thích và tôi xác định gắn  bó lâu 
+dài với nó. Với công việc này tôi có thể 
+dành nhiều thời gian nghiên cứu, hoàn 
+thành công việc và phát triển tốt hơn. Tôi 
+rất kỳ vọng được hợp tác lâu dài và cùng 
+công ty phát triển. 
+ 
+KINH NGHIỆM LÀM VIỆC 
+ 
+❖ 01/2021 ~ Hiện tại: Công ty Cổ phần Công nghệ phần mềm 
+ và nội dung số OSP  
+ 
+Vị trí: QA Team Leader 
+- -     Xây dựng quy trình, hướng dẫn và checklist audit quy trình  
+- tại các giai đoạn của dự án. 
+- -     Thực hiện đào tạo quy trình cho các phòng ban liên quan. 
+- Theo dõi và đánh giá công việc tại các phòng ban theo quy 
+trình đã thiết lập.  
+- Ghi nhận các vấn đề bất cập và đề xuất cải tiến để tối ưu  
+quy trình. 
+- Đào tạo nghiệp vụ cho nhân viên mới, phân công công việc 
+và giám sát nhân sự tại phòng QA. 
+- Hỗ trợ PM và phòng ban khác công việc liên quan tới quy 
+trình khi tracking dự án. 
+- Review tài liệu của dự án bao gồm: project plan, SRS, test 
+plan, testcase, tài liệu đào tạo khách hàng, hướng dẫn sử 
+dụng… 
+- Thực hiện audit dự án hàng tuần và đôn đốc dự án khắc phục 
+các điểm không phù hợp. 
+- Cảnh báo rủi ro và đề xuất phương án phòng ngừa rủi ro 
+trong quá trình follow dự án. 
+ 
+TRÌNH ĐỘ HỌC VẤN   
+▪ Tốt nghiệp trường: Học Viện công Nghệ Bưu Chính Viễn 
+Thông  
+▪ Chuyên ngành: điện tử viễn thông 
+▪ Loại tốt nghiệp: Khá
+
+KINH NGHIỆM LÀM VIỆC 
+ 
+- Kiểm soát task, bug và tài liệu dự án trên các tool Jira, 
+Redmind, SVN… 
+- Đánh giá phần mềm trước khi bàn giao cho khách hàng. 
+- Follow quá trình tiếp nhận lỗi từ khách hàng tại bộ phận 
+Chăm sóc khách hàng. Yêu cầu cán bộ liên quan điều tra 
+nguyên nhân và hành động khắc phục tránh lặp lại lỗi 
+đảm bảo sự tin tưởng của khách hàng đối với sản phẩm 
+đã bàn giao. 
+- Tổng hợp báo cáo về tình hình thực hiện quy trình của 
+các dự án. Đưa ra các vấn đề bất cập và đề xuất giải 
+pháp. 
+ 
+❖ 10/2013~ 01/2021: Công ty sản xuất linh kiện điện tử của 
+Nhật Bản 
+Vị trí: Nhân viên cấp cao phòng QA 
+ 
+- Thiết lập quy trình, tài liệu hướng dẫn tại các công đoạn. 
+- Ban hành tài liệu và triển khai quy trình tới các bộ phận. 
+- Quản lý việc sử dụng, lưu giữ hồ sơ, tài liệu tại các bộ 
+phận. 
+- Lập kế hoạch audit công đoạn và tiến hành audit theo kế 
+hoạch. 
+- Tổng hợp kết quả sau audit gửi cho các bộ phận yêu cầu 
+điều tra nguyên nhân đối sách với các vấn đề bất thường. 
+- Tổ chức cuộc họp triển khai thông tin liên quan tới các 
+bộ phận trước khi có khách hàng đến audit. 
+- Chuẩn bị hồ sơ, tài liệu phục vụ cho việc đối ứng khách 
+hàng. 
+- Tiếp nhận thông tin lỗi và gửi báo cáo điều tra lỗi cho 
+khách hàng. 
+ 
+ 
+KỸ NĂNG 
+ 
+   Microsoft office 
+   Xây dựng quy trình 
+   Quản lý nhân sự 
+   Làm việc nhóm 
+   Làm việc độc lập 
+   Phân tích 
+   Báo cáo 
+   Thuyết trình 
+   Quản lý thời gian 
+   Giám sát 
+   7 công cụ quản lý QC
+
+KINH NGHIỆM LÀM VIỆC 
+ 
+- Tổ chức họp triển khai sản phẩm mới trước khi sản 
+xuất. 
+- Follow công việc chuẩn bị các hạng mục liên quan đến sản 
+phẩm mới của các bộ phận theo đúng thời hạn. 
+- Tiến hành lập kế hoạch đánh giá sản phẩm và thực hiện đánh 
+giá theo kế hoạch. 
+- Lập kế hoạch đánh giá nội bộ, tổng hợp kết quả đánh giá và 
+follow việc thực hiện đối sách của các bộ phận. 
+- Chuẩn bị hồ sơ, tài liệu phục vụ cho việc đánh giá IATF. 
+- Đào tạo nhận thức chung về chất lượng và chính sách chất 
+lượng của công ty cho toàn bộ công nhân viên. 
+- Lập kế hoạch đào tạo định kỳ nâng cao kỹ năng phân tích 
+5Why, 4M, xử lý bất thường cho nhân viên các bộ phận khác. 
+- Tổng hợp báo cáo tháng về kết quả các hạng mục công việc 
+đảm nhiệm. 
+ 
+ 
+THÔNG TIN THÊM 
+ 
+✓ Nhiệt tình, cẩn thận 
+✓ Có trách nhiệm cao trong công việc 
+✓ Có thể làm việc dưới áp lực cao 
+✓ Có khả năng làm việc theo nhóm hoặc  
+làm việc độc lập 
+✓ Nhiệt tình giúp đỡ đồng nghiệp trong công việc 
+✓ Thích tìm tòi, học hỏi những kiến thức mới 
+ 
+ 
+ 
+ 
+THÀNH TÍCH, CHỨNG CHỈ 
+ 
+ 
+1. Chứng chỉ Canon Master năm 2016 
+2. Chứng chỉ ISO 9001:2015&ISO 
+14001:2015&45001:2018 
+3. Chứng chỉ đánh giá viên nội bộ ISO 
+9001:2015&ISO 
+14001:2015&45001:2018 
+4. Đạt giải nhất nhóm QCC tại công ty 
+FUKOKU năm 2020 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+SỞ THÍCH 
+ 
+ 
+✓ Chăm sóc cây cảnh, động vật 
+ 
+✓ Đọc báo 
+ 
+✓ Xem thời sự 
+ 
+✓ Nấu ăn 
+ 
+✓ Đi bộ 
+ 
+✓ Du lịch 
+ 
+✓ Giao lưu với bạn bè, đồng nghiệp

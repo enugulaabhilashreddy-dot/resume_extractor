@@ -1,0 +1,97 @@
+Hao Dang
+Project Manager  - 13 Years of Experience
+117/80 Ho Van Long Street, T an T ao Ward, Binh T an, Ho Chi Minh, Vietnam
+SUMMARY I have more than 12 years of experience in software development and software 
+implementation projects, mainly in e-government domain. Currently, I intend to 
+participate in the digital transformation in the enterprise segment. With the Project 
+Management Professional knowledge, including waterfall and agile methods, i am 
+ready to contribute to the success of your company.
+Birthday 12/10/ 
+ - Current (7 months)
+I do monitoring and supporting almost all the projects of the company. Beside that, I 
+do training for the project managers of the company with knowledge, tools, techniques, 
+etc, so that they can do project management better.
+Beside that, I manage the software projects for customers in banking and real estate 
+:elds.
+Some typical projects are 
+•••••A••Customise and implement the zsset Management System for Hung Thinh 
+Corporation, CT Group, Vietbank. The team siQe  9 members. The technologies used  
+.Net Core, zngular, Ionic, MS SDL Server.
+•••••A••Oevelope the Insurance Management System for Sacombank. The team siQe  8 
+members. The technologies used  MVC 4, Fracle OBMS.
+•••••A••Oevelope the Stationery Management System for Sacombank. The team siQe  7 
+members. The technologies used .Net Core, zngular, Fracle OBMS.
+Project Manager
+RSI T echnology Oevelopment and Trading Investment
+04/2022 - 06/2022 (3 months)
+I manage the customers projects. The outstanding technology is FCE (Fptical 
+Character Eecognition).
+Project Management Consultant
+Rreelancer
+06/2021 - 03/2022 (10 months)
+I worked as an project management consultant for some companies. I did the project 
+management training courses for employees (more than 25 members). Beside that, 
+I studied about 'EP ('nterprise Eesource Planning) as my interests. I studied SzP 
+and Fdoo. I could do Fdoo implementation and customiQation basically. I have basic 
+experience with 10 modules in SzP S/4HzNz (MM, PP, SO, RI, CF, WM, 'zM, PS, 
+HCM, DM) by reading the case study documents and exercising in the SzP S/4HzNz 
+learning system.
+Project Manager
+
+VietInfo T echnology
+10/2016 - 05/2021 (4 years 8 months)
+Manage the software development and implementation projects for customers. 
+Manage the company products.
+Some typical projects and products 
+•••••A••The  product. The system supports users in managing, directing and 
+collaborating tasks, using web browsers or mobile app. The product was implemented 
+to more than 12 hospitals in Ho Chi Minh City. My role was product manager. I managed 
+all the feature requirements of the product. I  worked with the team to design, develope 
+and deploy released builds to the production environment. The team siQe  8 members. 
+T echnology  Rlutter, OotNetNuke, WCR, MS SDL Server, .Net Rramework 4.5.
+•••••A••The project of implementation of the document management system for 
+the PeopleXs Committee of Oistrict 11. The system supports cadres in document 
+management, directing and working collaboratively on the application. My role was 
+project manager.   I identi:ed the objectives, stakeholders, scope of the project. I 
+developed the project plan, acquired the resources, collaborated with the third party 
+(infrastructure provider), engaged the stakeholders, controlled the change requests, 
+managed the project knowledge, led the team to the project goal. The team siQe  6 
+members. T echnology  Uamarin, OotNetNuke, WCR, MS SDL Server, .Net Rramework 
+4.5.
+•••••A••The project of development and implementation of the '-Government System 
+for the Oepartment of Transport of Ho Chi Minh City. The system provides online 
+public services for people and businesses, and application to support the operation 
+and administration of of:cials and employees. The team siQe  9 members. T echnology  
+Ionic, OotNetNuke, zngular, WCR, MS SDL Server, .Net Rramework 4.5, SDL Server 
+Oata T ools (used to build Oata Warehouse).
+•••••A••The project of development and implementation of the satisfaction assessment 
+system of people and businesses. It was implemented to the PeopleXs Committee 
+of 24 districts and 19 Oepartments of Ho Chi Minh city. The team siQe  6 member. 
+T echnology   MVC, MS SDL Server, .Net Rramework 4.5.
+Software Engineer, Project Manager
+RPT Information System
+09/2008 - 09/2016 (8 years 1 month)
+Software developer and implementer, project manager. Collect requirement, develope, 
+implement softwares for customers. Oevelope software products. Main products  
+'-government system , Land management system, T ax management system, etc.
+Some typical projects 
+•••••A••The project of development and implementation of e-government system for the 
+Oepartment of T ourism of Ho Chi Minh City.
+•••••A••Projects of development and implementation of '-government System for 
+customers in provinces  Long zn, Oong Thap, Can Tho, Tra Vinh, T ay Ninh, Duang 
+Ninh.
+•••••A••Project of developing the land management system.
+•••••A••Project of developing and implementing the tax calculation and management 
+system for the T ax Oepartment of Binh T an Oistrict.
+EDUCATION Information T echnology
+Bachelors - Can Tho Jniversity
+09/2004 - 08/2008 (4 years)
+
+LANGUAGES 'nglish Intermediate
+SKILLS Planing T eam Management Communication Management
+Microsoft Project Microsoft Visio Eedmine ztlassian Iira Fdoo 'EP
+SzP S/4HzNz
+CERTIFICATIONS PMI-ACP (Agile Certide) Practitioner2
+PMI (Project Management Institute) - 2021
+PMP (Project Management Professional2
+PMI (Project Management Institute) - 2020

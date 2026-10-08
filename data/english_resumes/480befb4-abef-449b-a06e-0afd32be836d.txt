@@ -1,0 +1,60 @@
+STUDY PROCESS
+SOFTWARE DEVELOPMENT EXPERTISE
+FPT Polytechnic College | 2020 - 2022
+Graduated with honors in the Software Application
+major from FPT polytechnic college
+GPA: 8.9/10
+PROJECT POLYSOCIAL
+Technology: Spring boot, Spring Security, SQL Server, Redis,
+Micro service                                                                                  
+Description: The FPOLY social networking project helps connect
+lecturers and students together. With functions such as a social
+network and management of assignments and student information
+Link Github: 
+Java Developer
+PROFILE
+Full name: Phan Nguyễn Đăng Trường
+Birthday: 08-08-2002
+Quote: A winner never stop trying
+2021 : Top 100 excellent students in the
+whole school. Participating in the final of
+FPT EDU RESEARCH FESTIVAL contest.
+2022: Excellent  Edu
+Hackathon Consolation Prize
+2023: Students who achieve academic
+excellence in graduation exams
+REWARD
+CONTACT 
+SKILL
+Front-End
+Back-End
+Database 
+Framework
+Tools
+Soft skills
+      HTML5 & CSS3, Angular
+      Java.
+      MySQL, SQL Server, PostgreSQL
+      Bootstrap, AngularJS, Hibernate, JPA, 
+      Spring Boot
+      Visual Studio Code, Eclipse, SQL 
+      Server, MySQL Workbench, DevC++,   
+      Netbeans, Microsoft Office.
+      Good presentation skills. Good                  
+      management and administration skills
+Tien Lan 12, Hoc Mon District, HCMC
+WORK EXPERIENCE
+Experience 6 months working at Amit Group Joint Stock Company
+Participated projects: SOGUS (Product)
+Role: Back end & Support Front end
+Description: This is a project for employers to use to assess
+candidates' competencies
+Reference information:   
+Name: Luong Gia Khang
+Role: Product Owner 
+Phone: 
+FACTORY MANAGEMENT
+Technology: Spring boot, Spring Security, Redis, Postgresql...               
+Description: The back end project works on the
+management of repair work of workers
+Link Github:

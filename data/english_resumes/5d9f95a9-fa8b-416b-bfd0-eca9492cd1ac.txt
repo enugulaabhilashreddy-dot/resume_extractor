@@ -1,0 +1,156 @@
+TRAN AI VAN 
+ 
+Date of birth:  February 9, 1977 
+Address:  187/1 An Binh, District 5, Ho Chi Minh City 
+Mobile:     
+Email:                         
+  
+ 
+ 
+ 
+WORKING EXPERIENCE: 
+ Jan 2023 – Present: SOS Children’s Villages Vietnam 
+Position: National ICT Coordinator 
+ Ensuring the operation of above 50 IT networks and providing nearly 300 co-workers and above 800 
+endpoints with technical support in order to access and work with the IT system. 
+ Planning, testing, and implementing an Asset management system to manage the assets of all the 
+facilities. 
+ Implementing cloud-based Desktop and Mobile Device management tool - Microsoft Intune. 
+ Enhancing system security by installing the Data encryption tool – BitLocker and Installing antivirus 
+– SentinelOne. 
+ Configuring, managing, and monit oring Meraki network devices  including Firewall, Switch , and 
+Access Point.    
+ Equipping and installing firewall devices – SafeGate School solution at Hermann Gmeiner School 
+and Vocational Training Center. 
+ Installing CCTV Camera systems for all the facilities. 
+ Tracking, monitoring, and fixing security vulnerabilities to ensure information security for the entire 
+system by Nessus, Meraki, PRTG, and Intune. 
+ Establishing scheduled tasks to backup data and system for emergency disaster recovery. 
+ Planning and monitoring IT budgets in the facilities. 
+ Searching, piloting, and deploying  Action1 tools - OS and A pplication vulnerability patching tools 
+include Risk-based Patch Management, OS and Third-Party Patching, Software Deployment 
+Remotely, Vulnerability Management, ect. 
+ Piloting, and deploying AnyConnect VPN tool to protect  laptops using the Internet from outside the  
+office. 
+ Planning, implementing, and monitoring Centralized log management tool. 
+ Providing Information Se curity training courses for Co-workers such as Security awareness, 
+Identifying social engineering attacks, Sensitive data handling,  Identifying and reporting incidents, 
+etc. 
+ Developing IT security policies, procedures, and documents. 
+ Finding solutions to save costs. 
+ Dec 2019 – Oct 2021: AI Power Company 
+Position: IT Infrastructure & Helpdesk Leader 
+ Setting up a new office.  
+ Planning and building Network infrastructure. 
+ Configuring and managing Firewall equipment, and site-to-site VPN tunnel over the Internet. 
+ Configuring RADIUS Server for Wireless network. 
+ 
+I have above 10+ years of experience in an IT Infrastructure environment. I am working as a National ICT 
+Coordinator, and I have a Bachelor’s degree in Computer Science. I am currently looking for an IT position 
+and believe my work experience will make m e a p erfect candidate. I have a real passion for IT  that 
+combined with my always positive personality, I am convinced that I would make a good contribution to 
+your company.
+
+ Establishing schedule tasks to backup data and system. 
+ Installing and managing Domain Controller, File Server, Virtual Machine Server… 
+ Installing Servers, security tools, and email systems. 
+ Enhancing system security by installing GPO, and Antivirus Server. 
+ Setting up laptops, desktops, and software for end users. Ensuring the security of data and network 
+access. 
+ Setting up Print Server, Camera System, PABX system… 
+ Testing and piloting AI Fire Detection and Alert System with CCTV Cameras. 
+ Providing advanced support for special project requests, and serious problems. 
+ Analyzing user’s requirements and proposing solutions. 
+ Consulting IT security policies, procedures, documents, and system integration. 
+ Dealing with ISP, suppliers to provide network connections and purchase IT equipment. 
+ Aug 2011 – Oct 2019: Vietnam Food and Beverage Service Company (Dominos Pizza – 
+Popeyes – BurgerKing) 
+Position: Deputy IT Manager (Network & System Infrastructure) 
+ Responsible for all IT infrastructure including the procurement, monitoring, and integration of all 
+systems to achieve operation and stability. 
+ Planning and building Network infrastructure for Head office, Branches, and Restaurants. 
+ Planning and implementing Multisite Domain, Active Directory, and Group Policy. 
+ Installing and managing Domain Controller, Additional Domain Controller, Multi-Domain, File Server, 
+Microsoft Exchange Server, Antivirus Server, Virtual Machine Server, Azure, and Radius Server. 
+ Configuring site-to-site VPN tunnel over the Internet (Over 100 sites). 
+ Working with ERP team to setup SAP server and go live SAP system. 
+ Establishing scheduled tasks to backup data and system for emergency disaster recovery. 
+ Coordinating with the vendor to install and improve the POS system and Web ordering system. 
+ Installing and controlling the ticket system. 
+ Providing end-users with assistance solving computer-related problems such as business software, 
+hardware, system, network, and security.  
+ Installing network tools to monitor multisite networks and running regular checks on network and data 
+security. 
+ Implementing centralization of fingerprint access control and fingerprint time attendance system. 
+ Building up the capability o f the IT Department and other related departments by keeping them to 
+stay up to date with digital technology developments and technology standards. 
+ Training and coaching team members on a new IT system. 
+ Developing IT security policies, procedures, and documents. 
+ Nov 2008 – Jul 2011: Indochina Airlines 
+Position: IT System & Network Manager 
+ Setting up and maintaining IT security policies. 
+ Planning and building Network infrastructure for Head office and Branch offices. 
+ Planning and implementing Active Directory. 
+ Installing and managing File Server, Mail Exchange Server, Web Server, etc. 
+ Implementing Firewall, Proxy, and VPN connection. 
+ Enhancing system security by installing Antivirus, WSUS. 
+ Managing and troubleshooting VoIP Contact Center to support Customer Service Center. 
+ Enforcing and controlling IT standards, policies, and procedures for security. 
+ Apr 2005 – Oct 2008: AVON Cosmetics Vietnam Company 
+Position:  IT Specialist 
+ Setting up, maintaining, and improving network infrastructure.
+
+ Configuring and managing Cisco routers, switches, and firewalls. 
+ Configuring secure wireless devices such as Linksys, and Cisco Access point. 
+ Enhancing system security by installing Antivirus, WSUS. 
+ Installing, managing, troubleshooting, and m onitoring Windows 2003 Domain Controller , DNS, 
+DHCP, FTP, File Server, Mail Lotus Notes, Printer Server, Remote Desktop, NAT, Radius Server. 
+ Collaborating with global to install and go live Microsoft Dynamics Axapta system. 
+ Maintaining and repairing computers and the PABX system. 
+ April 2004 – March 2005: Social Insurance Ho Chi Minh City Company 
+Position: IT Specialist 
+ Enhancing system security and fault tolerance by installing server and client Antivirus ( Symantec 
+Antivirus), and patch management solutions for servers and workstations. 
+ Installing, maintain ing, and monitor ing Windows 2003 Active Directory Server, Printer Server, 
+Microsoft Office … 
+ Controlling all user accounts by creating and monitoring under a very tight policy. 
+ Supporting end-users to solve problems of software (Microsoft Office, Insurance software …) and 
+hardware (PCs, Fax, Printer…). 
+ Repairing computer hardware and installing software. 
+ November 2002 – March 2004: Railway Communication Signal Saigon Company  
+Position:  IT Officer 
+ Supporting end users to solve problems of software (Microsoft Office, Switchboard Software) and 
+hardware (PCs, Fax, Printer, PABX …). 
+ Repairing computer hardware and installing software. 
+ Solving applications related to problems. 
+ Programming PABX. 
+QUALIFICATIONS:  
+ Certified Web Developer Frontend (HTML, JavaScript, React, WordPress)  and Backend (Nodejs, 
+Python) of Matrix Master Academy in The Netherlands. 
+ Bachelor’s degree in computer science of Ho Chi Minh City Open University in Vietnam. 
+ Certified MCITP-EA (equivalent MCSE) of Microsoft. 
+ Certified CCNA of Cisco. 
+ Certified JRMS & RMSWEB (POS System) of STMPI Corporation. 
+SKILLS:  
+ Expert in operating systems, network configuration and repair computer hardware. 
+ Experience in Multisite Domain, Active Directory, Group Policy. 
+ Master in cloud system such as Microsoft Office 365, Azure, Intune, etc. 
+ Good experience with virtualizing technology (VMWare Server, Hyper-V). 
+ Strong working knowledge storage.  
+ Mail Server Systems: MS Exchange Server 2013 & 2016, MDaemon, and G-Suite. 
+ Strong deploying Security system solutions, and Anti-Virus server solutions such as Centralized log 
+management, Data loss preventions (DLP), Vulnerability scanning, TrendMicro, Trellix, SentinelOne, 
+ect. 
+ Excellent working knowledge of backup software like Symantec Backup Exec, and Veeam backup. 
+ Database: MS SQL Server 2016, and MongoDB. 
+ Strong understanding with PABX, Ticket system, Access control, Fire alarm.  
+ Web Development: HTML, CSS, JavaScript, jQuery, Nodejs, WordPress, React.
+
+LANGUAGES:  
+ Vietnamese: native speaking.  
+ English: Intermediate. 
+ABILITIES:  
+ Hard-working, responsible, and patient. 
+ Work under pressure and challenges.  
+ Strong teamwork, organization, and priority skills.  
+ Able to demonstrate a high level of integrity and initiative.

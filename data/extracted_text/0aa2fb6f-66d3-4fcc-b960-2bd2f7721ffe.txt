@@ -1,0 +1,98 @@
+Hà Bùi
+Nhân viên lập trình phần mềm  - 7 Năm Kinh Nghiệm
+MỤC TIÊU NGHỀ NGHIỆP
+Đôi nét về tư duy và cách làm việc
+     •  Bắt nhịp và chuyển đổi các công 
+việc khác nhau nhanh.
+     •  Luôn tự nghiên cứu công nghệ 
+và áp dụng vào sản phẩm.
+     •  Thường viết framework dùng 
+chung cho nhiều sản phẩm.
+Kinh nghiệm làm việc
+     •  Có 6 năm kinh nghiệm trong 
+xây dựng và triển khai phần mềm hệ 
+thống ERP.
+     •  Tạo tool test tự động, test API.
+     •  Làm Full-Stack trong backend và 
+frontend.
+     •  Có kinh nghiệm lập trình gửi và 
+nhận dữ liệu với hệ thống IOT.
+     •  Phân tích và xây dựng MES cho 
+quản lý và hiển thị dữ liệu thời gian 
+thực cho các nhà máy sản xuất.
+THÔNG TIN CÁ NHÂN
+Ngày sinh 16/11/1994
+Quốc tịch Việt Nam
+Tình trạng hôn nhân Độc thân
+Giới tính Nam
+NGOẠI NGỮ
+Tiếng Anh Sơ Cấp
+KỸ NĂNG
+HTML5 CSS3
+.NET Entity Framework
+ReactJS jQuery AJAX
+JavaScript jQuery
+React Native AngularJS
+.Net Core Python 3 HTML
+KINH NGHIỆM LÀM VIỆC
+Trưởng phòng R&D
+EASTERN SUN
+01/2018 - 01/2024 (6 năm)
+Thực hiện lên kế hoạch công việc
+     •  Xử lý công việc được phân công từ giám đốc, lập trình xử lý các 
+bài toán của khách hàng trong hệ thống ERP
+     •  Tối ưu các chức năng đã tạo trước đó nhằm tăng hiệu suất và 
+giảm thời gian xử lý
+     •  Tham gia các buổi họp để tư vấn giải pháp cho khách hàng
+Công việc chức vụ
+     •  Xử lý các bài toán khó mà các đồng nghiệp gặp khi lập trình
+     •  Tạo các pattern dùng cho cho các dự án
+     •  Lên kiến trúc khung cho hệ thống ERP của công ty
+     •  Nghiên cứu các công nghệ mới như runtime và lưu trữ để đưa 
+ra phương án nâng cấp phần mềm phù hợp với nhịp độ phát triển 
+của công nghệ hiện đại
+Nhân viên lập trình
+EASTERN SUN
+09/2016 - 01/2024 (7 năm 4 tháng)
+Thực hiện lập trình theo sự phân công của trưởng phòng
+     •  Lập trình các module chức năng trên ngôn ngữ C# MVC core 
+2.1
+     •  Viết API RESTful trên ngôn ngữ C#
+     •  Thực hiện xây dựng giao diện HTML kết hợp javascript ,jquery-
+  và angularjs
+     •  Lập trình các module trên Sharepoint
+     •  Thực hiện lập trình app winform ngôn ngữ C# giao tiếp với máy 
+làm hệ thống MES
+     •  Lập trình mobile trên C# với xamarin
+     •  Lập trình mobile trên react native buid cho Android và IOS
+HỌC VẤN
+Khoa học máy tính
+Cử nhân - Đại học Công Nghiệp Hà Nội
+01/2012 - 12/2016 (4 năm 11 tháng)
+HOẠT ĐỘNG
+Nghiên cứu và phát triển hệ thống IOT
+ - Người nghiên cứu
+01/2018 -
+
+.Net Core Python 3 HTML
+SQL Server 2012 Winforms
+Test Automation Tools
+MVC C#
+THÔNG TIN LIÊN HỆ
+Minh Khai, Bắc Từ Liêm, Hà Nội, Quận 
+Cầu Giấy, Hà Nội, Việt Nam
+Tự nghiên cứu và phát triển thành công hệ thống API cùng thiết 
+bị phần cứng tích hợp làm server giành cho ngành IOT, dự án tại 
+NGƯỜI THAM KHẢO
+Dương Văn Minh
+Nhân Viên developer - Nhân viên developer - EASTERNSUN
+ - + 
+Lê Thị Hạnh
+Trưởng nhóm triển khai - Trưởng nhóm triển khai - EASTERNSUN
+- + 
+Phùng Mạnh Tiến
+Nhân viên - Nhân viên developer - EASTERNSUN
+ - + 
+Vũ Thị Chi
+Nhân viên tester - EASTERNSUN
+ -

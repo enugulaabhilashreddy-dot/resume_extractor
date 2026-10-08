@@ -1,0 +1,77 @@
+LÊ MINH TUẤN
+Chuyên gia chính sách an ninh thông tin
+
+LÊ MINH TUẤN
+Chuyên gia chính sách an ninh thông tin
+ lmt
+ 141/7/51 Đường số 11, phường Bình Hưng Hòa, Binh T an Dist rict , Ho Chi Minh, Viet nam
+Gender : Male
+Birthday : 20/05/1980
+Marital status : Married
+Nationality : Vietnamese
+Country : Vietnam
+Address : 141/7/51 Đường số 11, phường Bình Hưng Hòa, Binh Tan District, Ho Chi Minh, Vietnam
+Level : Team Leader / Supervisor
+Salary : 35,000,000 - 40,000,000 VND
+Job type : Full time
+Industry : IT - Hardware / Network
+Location : Ho Chi Minh
+Trở thành chuyên gia, nhà quản lý cao cấp về lĩnh vực an toàn thông tin
+04/2019 - Now : Trường bộ phận Chính sách An ninh thông tin - Ngân hàng TMCP Việt Nam Thương Tín - Full time
+Lên kế hoạch công việc, phân công, hướng dẫn và đôn đốc các công việc thuộc bộ phận thực hiện các công việc: 
+1. Xây dựng và thực hiện kiểm tra tuân thủ các văn bản lập quy về an toàn thông tin của Ngân hàng 
+2. Xây dựng, quản lý các chính sách, quy trình, quy định, hướng dẫn... về quản trị rủi ro công nghệ thông tin theo tiêu 
+chuẩn của Ngân hàng Nhà nước ( Thông tư 09/2020/TT-NHNN, 35/2016, 47/2014/TT-NHNN, Nghị định 13/2023/NĐ-
+CP...) và tiêu chuẩn quốc tế như: PCI-DSS, ISO 27001, ITIL, CSP Swift... 
+3. Tiếp nhận các văn bản, thông báo của cơ quan nhà nước (Cục Công nghệ thông tin, Bộ Thông tin & Truyền thông...)
+để tổ chức triển khai việc thực hiên và lập báo cáo gửi đến cơ quan Nhà nước. 
+4. Thường xuyên theo dõi cập nhật các quy định, chính sách về quản lý rủi ro CNTT phù hợp với tình hình hoạt động của
+ngân hàng. 
+5. Xây dựng và triển khai chương trình đào tạo nhận thức an toàn thông tin cho toàn thể cán bộ nhân viên toàn hệ thống. 
+6. Phối hợp, tham mưu cho các đơn vị khác trong việc xây dựng các quy trình, quy định, hướng dẫn tác nghiệp để đảm
+bảo tuân thủ chính sách nội bộ về an toàn thông tin đã ban hành 
+7. Tham gia các dự án đánh giá tuân thủ theo tiêu chuẩn quốc tế như: PCI-DSS, CSP Swift, ISO 27001 
+8. Rà soát, đánh giá tuân thủ an toàn thông tin các hệ thống thông tin đang hoạt động và an toàn thông tin tại chi nhánh,
+phòng giao dịch. 
+9. Làm việc với đối tác trong việc thực hiện tấn công kiểm thử về an toàn thông tin, đánh giá mức độ an toàn bảo mật
+của hệ thống CNTT ngân hàng. 
+10. Giám sát hệ thống SIEM để phát hiện các hành vi bất thường vi phạm chính sách an toàn thông tin, các hành vi gây
+PERSONAL PROFILE
+CAREER INFORMATION
+OBJECTIVES
+EXPERIENCE
+Year(s) of Experiment: 16
+Current Level: Team Leader / Supervisor
+
+mất an toàn thông tin và đưa ra cảnh báo đến các đơn vị, cá nhân liên quan.
+03/2008 - 04/2019 : Chuyên viên An toàn bảo mật - Chuyên viên quản trị mạng, systems. - Ngân Hàng TMCP Sài Gòn
+Thương Tín (Sacombank) - Full time
+1. Thực hiện rà quét điểm yếu hệ thống thông tin, phân tích và đưa ra các kiến nghị, cải tiến và khắc phục điểm yếu an
+toàn thông tin của hệ thống đến các phòng ban liên quan. 
+2. Vận hành va giám sát hệ thống SIEM để đưa ra cảnh báo vi phạm chính sách tuân thủ ATTT và các hành vi, dấu hiệu
+mất an toàn thông tin từ bên ngoài. 
+3. Xây dựng và thực hiện kiểm tra tuân thủ các văn bản lập quy về an toàn thông tin của Ngân hàng 
+4. Xây dựng, quản lý các chính sách, quy trình, quy định, hướng dẫn... về quản trị rủi ro công nghệ thông tin theo tiêu
+chuẩn của Ngân hàng Nhà nước ( Thông tư, nghị đinh...) và tiêu chuẩn quốc tế như: PCI-DSS, ISO 27001, ITIL, CSP
+Swift... 
+5. Rà soát kiểm tra tuân thủ an toàn thông tin tại Hội sở và Chi nhánh. 
+6. Vận hành, quản trị hệ thống mạng LAN, Mail server, AD , Swift, SAN của Ngân hàng
+02/2005 - 03/2008 : Nhân viên quản trị mạng - Cty TNHH Losco Việt Nam - Full time
+1. Quản trị, vận hành toàn bộ hệ thống mạng, máy chủ, ứng dụng của Công ty khách hàng: Router, switch, ISA server, mail
+server. 
+2. Hỗ trợ cài đặt, xử lý các sự cố CNTT cho các nhân viên công ty 
+3. Quản lý, cài đặt, vận hành hệ thống tổng đài điện thoại, Voice IP
+Completion date 05-2006
+Bachelor - Đ ại học Khoa học Tự nhiên TPHCM
+Đã học về công nghệ thông tin tại Trường ĐH Khoa học Tự nhiên TPHCM
+Lead auditor ISO 27001:2022
+BSI
+08/06/2023 - 08/06/2028
+EDUCATION
+Highest Degree Level: Bachelor
+OTHER CERTIFICATES
+Làm việc độc lập, làm việc nhóm tốt
+SKILLS
+English - Elementary
+LANGUAGES
+©  Care e rVie

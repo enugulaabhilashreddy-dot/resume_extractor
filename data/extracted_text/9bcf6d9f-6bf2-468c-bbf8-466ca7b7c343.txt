@@ -1,0 +1,145 @@
+10/2011 - 05/2015 Viện đại học Mở Hà Nội
+Chuyên ngành: Tin học ứng dụng
+Tốt nghiệp loại Khá, điểm trung bình 7.4
+06/2015 - Hiện tại Công ty Giáo dục thông minh VietED
+Lập trình viên
+- Nghiên cứu, phát triển hệ thông phần mềm của công ty.
+- Báo cáo công việc
+Hệ điều hành - Sử dụng thành thạo hệ điều hành window và ubuntu
+Phần mềm - Sử dụng thành thạo các công cụ Word, Excel, Power Point,
+photoshop.
+Nguyễn Văn Được
+ 14/05/1993  
+Nam
+ 
+ Mỹ Đình, Nam Từ Liêm, Hà Nội  
+MỤC TIÊU NGHỀ NGHIỆP
+Chung tay cùng công ty tạo nên sản phẩm tốt nhất cho khách hàng
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+CÁC KỸ NĂNG
+SỞ THÍCH
+Thích code và nghe nhạc
+DỰ ÁN
+UMS
+(2017 - đến nay)
+Khách hàng Sản phẩm của công ty VietED
+Mô tả dự án - Hệ thống quản lý giáo dục và đào tạo cho trường đại học
+Số lượng thành viên 5
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống
+- Phát triển module
+- Tối ưu code
+- Sửa lỗi
+
+Công nghệ sử dụng
+- PHP
+- Redis
+- MongoDB
+- ReactJS
+- React Native
+LMS
+(
+2018
+ 
+- 
+đến nay
+)
+Khách hàng
+Sản phẩm của công ty VietED
+Mô tả dự án
+- Hệ thống học tập trực tuyến.
+Số lượng thành viên
+10
+Vị trí công việc
+Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống
+- Phát triển module
+- Tối ưu code
+- Sửa lỗi
+Công nghệ sử dụng
+- PHP
+- Redis
+- MongoDB
+- ReactJS
+- Android
+SchoolConnect
+(
+2018
+ 
+- 
+đến nay
+)
+Khách hàng
+Tinado
+Mô tả dự án
+- Ứng dụng quản lý học tập cho học sinh
+Số lượng thành viên
+3
+Vị trí công việc
+Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống
+- Phát triển module
+- Tối ưu code
+- Sửa lỗi
+Công nghệ sử dụng
+- React Native
+Xpeak
+(
+2015
+ 
+- 
+đến nay
+)
+Khách hàng
+Sản phẩm của công ty VietED
+Mô tả dự án
+- Ứng dụng học tiếng anh giao tiếp online
+Số lượng thành viên
+1
+Vị trí công việc
+Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống
+- Phát triển module
+- Tối ưu code
+- Sửa lỗi
+Công nghệ sử dụng
+- Java, Android
+Học vẹt
+(
+2016
+ 
+- 
+đến nay
+)
+Khách hàng
+Sản phẩm của công ty VietED
+Mô tả dự án
+- Ứng dụng học tiếng anh giao tiếp online
+Số lượng thành viên
+3
+
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống
+- Phát triển module
+- Tối ưu code
+- Sửa lỗi
+Công nghệ sử dụng - Java, Android
+Tmark
+(2017 - 2018)
+Khách hàng Tinado
+Mô tả dự án - Ứng dụng chấm điểm cho các bài thi trắc nghiệm
+Số lượng thành viên 2
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống
+- Phát triển module
+- Tối ưu code
+- Sửa lỗi
+Công nghệ sử dụng - Java, Android
+©

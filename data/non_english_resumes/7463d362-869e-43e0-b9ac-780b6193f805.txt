@@ -1,0 +1,116 @@
+Phan Van Binh 
+Vị trí ứng tuyển: 
+Giảng Viên CNTT 
+ 
+Ngày sinh : 20 - 10 -1991. 
+•  Được bạn bè và đồng nghiệp 
+đánh giá cao về khả năng 
+chuyên môn, tác phong làm 
+việc, kỹ năng ứng xử. 
+•  Khả năng tự học tốt, có khả 
+năng thích ứng phù hợp với 
+nhiều môi trường làm việc. 
+Liên hệ 
+Điện thoại: 
+ 
+Địa chỉ: 
+946 Hùng Vương, tt. Chư Sê, tỉnh Gia 
+Lai. 
+ 
+Email: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ĐÀO TẠO 
+ Đại học khoa học tự nhiên TP HCM – 224, đường Nguyễn 
+văn cừ, Quận 5. 
+ Chuyên ngành : Công nghệ thông tin. 
+ Niên khóa : 2009 – 2013. 
+ Điểm trung bình : 6.8. 
+ Dự án nổi bật : Quản lý hệ thống bán vé máy bay, Giả lập 
+Bittorent, Tự động quản lý hệ thống mạng công ty. 
+ Course Highlight :  Quản lý cơ sở dữ liệu với Sql server, 
+Nhập mông lập trình, Lập trình Java, Lập trình hướng đối 
+tượng, Quản trị hệ thống doanh nghiệp.  
+Aprotrain Aptech – 32, D2, quận Bình Thạnh, TP HCM. 
+ Chuyên ngành: Lập trình máy tính. 
+ Niên khóa: 2011 – 2013. 
+ GPA: 78%. 
+ Dự án: 78% dự án quản lý hệ thống bán hàng bằng Java, 
+79% hệ thống quản lý doanh nghiệp. 
+ Môn học: Quản trị cơ sở dữ liệu cùng my sql, Quản trị hệ 
+thống thông tin cluster, Lập trình Java, lập trình C#, lập trình 
+WEB. 
+ 
+KINH NGHIỆM 
+•  Từ 2014 đến 2015 : 
+o 3 tháng thực tập tại DTSC 
+ Tham gia phát triển hệ thống quản trị ngân 
+hàng Đông Á. 
+o 6 tháng làm việc tại MOCA. 
+ Phát triển hệ thống thanh toán điện tử 
+MOCA. 
+•  Từ  2015 đến 2018: 
+o 3 năm làm việc tại Rakus. 
+ Chức vụ: Full stack developer. 
+ Phát triển hệ thống quản lý nhân sự Raku 
+Raku seisan dựa trên công nghệ Java swing. 
+ Xây dựng hệ thống báo cáo nhân sự về quản 
+lý lương, báo cáo thuế. 
+•  Từ 2018 đến 2020: 
+o 3 năm làm việc tại Groovy. 
+ Phát triển hệ thống đặt hàng liên quốc gia 
+dựa trên công nghệ .Net Core và Xamarin. 
+ Xây dựng hệ thống báo cáo doanh thu và khả 
+năng tiếp cận khách hàng.
+
+•  Từ  2021 đến 2022: 
+o Giảng viên hợp đồng dạy trực tuyến ngoài giờ tại 
+FPT Polytechnic Tây Nguyên. 
+ Giảng dạy về lập trình java, Node JS, cơ sở dữ 
+liệu, lập trình HTML. 
+•  Từ  2022 đến nay: 
+o Làm việc tại tập đoàn THACO AGRI 
+ Quản lý cơ sở dữ liệu nhân sự tại tập đoàn. 
+ Quản lý nhóm 3 người và trực tiếp xây dựng 
+phát triển module quản lý nhân sự gồm: 
+ Hệ thống kiểm tra sửa lỗi nhập liệu dựa trên 
+nền tảng Python pandas, áp dụng OpenAI để 
+phát hiện lỗi nhập liệu. 
+ Thực hiện module điểm danh, quản lý chấm 
+công, tính tiền lương dựa trên công nghệ 
+Node Js (Express) và React. 
+ Thực hiện module quản lý nhân sự về phép, 
+tính phép, tính lương cho nhân sự nước 
+ngoài dựa trên công nghệ Node Js (Express) 
+và React. 
+•  Freelancer: 
+o Trang web tin tức
+o Phần mềm android chibilite 
+ 
+TỔNG QUAN CÔNG NGHỆ 
+ 
+ 
+ Hệ quản trị cơ sở dữ liệu : My SQl, Microsoft SQL 
+Server, SQL Server, Oracle, PostgreSQL, MongoDB 
+ Ngôn ngữ lập trình : Java, C#, C/C++, SQL, Java Script, 
+HTML, CSS, Python, PHP, Type Script, …  
+ Hệ điều hành : Linux windows, Mac 
+ Ngoại ngữ : Tiếng Anh. 
+ Deloy – Server: linux, windows server, VPS, AWS, 
+Docker . 
+ Quản lý source code:  SVN, Git 
+ 
+0.8 
+0.8 
+0.5 
+0.9 
+Qu ản tr ị dữ li ệu
+Programing 
+UI/UX Design 
+Basic 
+Tự đánh giá khả năng cứng về công nghệ

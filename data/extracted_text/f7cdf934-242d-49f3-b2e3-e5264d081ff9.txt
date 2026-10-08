@@ -1,0 +1,92 @@
+Ỳ Ũ Ị
+D.O.B: Feb 19th, 1994 (Male)
+Objective
+Work in a professional environment where there are opportunities to expose my own knowledge and management skills
+besides a sustainable career path and plan to groom myself into the company staff team.
+Expected Profession: Team Leader/ Business Analyst
+Career Overview
+Has extensive experience in analyzing customer's business activities and providing solutions to solve problems in the most effective
+, organization,
+relationships with colleagues, negotiate and influence well, be responsible
+Professional Experience
+1. GIMASYS CO., Ltd JULY 2023 – NOW
+Business Analyst
+● Analyze the sales process, analyze gaps and make recommendations for changes as well as prevent high
+risks that occur during the process of applying the sales process to the system
+● Plan to complete tasks on time and on schedule, manage team members, track completion progress and
+estimate appropriate time for each member
+● Verify team output (usability testing, validate “before” and “after” results from the changing system,
+acceptance testing...).
+● Support pre-sale projects
+● Analyze the integration process between Salesforce CRM to another system (ERP, User’s system..)
+● Handle documents (URD, Design…)
+● Support the creation of user guides.
+● Perform verification & UAT testing.
+● Tool: DrawIO, XMind, Axure
+● Platform: Web
+● Work on Project:
+ONE IBC: Manage the sales process, find and take care of potential customers and sales opportunities
+, document and
+products, receiving and handling customer requests and complaints.
+2. AVENUE JOIN STOCK COMPANY JUN 2019 – JULY 2023
+Business Analyst
+
+● Verify team output (usability testing, validate “before” and “after” results from the changing system,
+acceptance testing...).
+● Support the creation of user guides.
+● Manage change requests.
+● Perform verification & UAT testing.
+● Tool: Visio,
+● Platform: Web, Mobile
+● Work on project:
+BSR: Manage maintenance procedures as well as purchase products related to production machines.
+Manage employees, teams and processes related to shift reporting and safety management activities.
+life cycle, research (risk) in the
+maintenance work, maintenance of production operating equipment to help businesses limit and
+prevent unnecessary risks.
+BDPOC: Manage budgets, perform tasks related to purchasing materials, equipment, and tools for
+Project Manager:
+● Develop a plan, orient the work that needs to be done to allocate human resources and time in a
+reasonable and effective manner.
+● Support the team in handling work as well as connecting the parties together to reach a common voice
+during the project implementation.
+● Manage the resources, time, and people in the team to ensure the best quality for the parties.
+● Capturing factors affecting jobs including risk, completeness, and responsiveness to new requirements to
+provide the optimal solution.
+● Ensure the completion schedule of the work and the project implementation schedule.
+● Manage change requests.
+● Platform: Web
+● Work on project:
+logic, and settings on the CMMS system so that the API can thereby meet the needs of use on the SAP
+system.
+3. GENUWIN SOLUTION JULY 2018 – MAY 2019
+Technical Consultant
+● Capture business requirements in the chain of business operations.
+● Analyze requirements, create a bridge between the customer and the product development team.
+● Finding the best solution to solve customer problems.
+● Based on customer contracts to analyze the project size.
+● Develop a project plan, develop ideas to implement the requirements in an optimal way.
+● Ensure projects are on the correct scale and comply with customer requirements.
+● Ensure the accuracy of the editing functions as required.
+● Work in project: Developing, consulting and deploying software and application management solutions on the IT
+cycle, working process, purchasing raw materials, selling products.
+4. FAST SOFTWARE COMPANY OCT 2016 – JUN 2018
+
+Technical Consultant
+● Capture business requirements in the chain of business operations.
+● Analyze requirements, create a bridge between the customer and the product development team.
+● Finding the best solution to solve customer problems.
+● Based on customer contracts to analyze the project size
+● Develop a project plan, develop ideas to implement the requirements in an optimal way.
+● Ensure projects are on the correct scale and comply with customer requirements.
+● Ensure the accuracy of the editing functions as required.
+● Work in project:
+Development, consulting and implementation of IT-based application managementsoftware and solutions in Human Resource Management, including modules related to personnel,timekeeping, salary calculation, tax and social insurance.
+Additional Work Experience
+1. Import and export collaborators – SAIGON AQUATIC PRODUCTS TRADING JOINT STOCK COMPANY
+Qualifications/ Education
+University of Banking, Ho Chi Minh City, Vietnam 2012 – 2016Bachelor of technology informationLanguage: Vietnamese (Fluent), English (Fluent)Computer Skills: Deep understanding Microsoft Office (Excel expert), able to use many kinds of Software, Database. (SQLOracle, MS Visio.)Personal Skills: negotiation skill, problem solving and self-motivation.
+Additional Information
+Health: Good, non-smoking.Interests: Sport/Volleyball, Food, Travelling, Listen to Music, Reading Book
+Certificates
+- Salesforce Administration- IBM Certified Advanced Deployment Professional - Maximo Asset Management v7.6- IBM Certified Deployment Professional - Maximo Asset Management v7.6 Functional Analyst- IBM Certified Infrastructure Deployment Professional - Maximo Asset Management v7.6

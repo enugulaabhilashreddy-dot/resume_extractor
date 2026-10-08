@@ -1,0 +1,180 @@
+Họ và tên   : Nguyễn Lương Bình 
+    Ngày sinh  : 26/12/1984 
+    Giới tính    : Nam 
+    Điện thoại  :  
+    Email         :  
+    Địa chỉ thường trú: ú Phong – H.Tây Sơn – Tỉnh Bình Định 
+    Địa chỉ tạm trú      :Nguyễn Thị Tú,  B,  Q.Bình Tân- TPHCM 
+ 
+ 
+    2003-2008 :  Sinh viên Khoa Điện Tử Viễn Thông Trường ĐHBK . 
+    2006 :  Học lấy chứng chỉ Tin Học tại Trung Tâm Tin Hoc Huy Hoàng.  
+    2007 : Lấy chứng chỉ BÁC SĨ MÁY TÍNH THỰC THỤ của Trường Cao Đẳng Nghề iSPACE. 
+    2009 : Học chứng chỉ MCSA của Trung Tâm Tin Học Nhất Nghệ.  
+    2010 : Học chứng chỉ CCNA của Trung Tâm Tin Học VNPro   
+ 
+ 
+ 
+o Hoạt động triển khai và vận hành: 
+- Cài đặt duy trì, vận hành phần cứng, phần mềm và cho các hệ thống : máy tính, máy chủ, thiết bị mạng, 
+hệ thống mạng,camera, máy chấm công, tổng đài điện thoại ,Faxserver. 
+- Quản lý vận hành hệ thống và ứng dụng: Domain, Phần mềm nhân sự, Microsoft Dynamics AX, Phần 
+mềm bán lẻ, SAP B1, CRM, MS365.. 
+- Quản lý dự án triển khai dự án phần mềm, lập kế hoạch triển khai xác định mục tiêu và phạm vi dự án, 
+kiểm soát đảm bảo tiến độ và chất lượng thực hiện dự án theo kế hoạch. 
+- Lập kế hoạch dự phòng đảm bảo hệ thống hoạt động liên tục. 
+- Xây dựng website, Quản trị Hosting, quản lý mail server. 
+- Hướng dẫn sử dụng phần mêm, đào tạo nhận thức về an ninh thông tin. 
+- Giám sát hợp đồng và hoạt động phòng CNTT:  internet, Photocopy, thiết bị công nghệ thông tin. 
+- Giám sát lập kế hoạch phân công công việc cho nhân viên đảm bảo dịch vụ hỗ trợ người dùng tốt nhất. 
+- Xây dựng KPI đánh giá công việc phòng, giám sát chi phí và tối ưu hóa ngân sách sử dụng CNTT cho 
+công ty. 
+- Quản lý sử dụng phần mềm và các tools: IIS, Reportview,SQL Server, MS SSRS, Reporting tool, 
+PostgreSQL, Cloud Azure, Vmware, Vsphere, Ms Project, BI, ... 
+o An ninh thông tin: 
+- Thiết lập chính sách, quy trình về An toàn thông tin theo chuẩn ISO27001:2013 
+- Theo dõi giám sát bảo mật  của hệ thống. 
+- Xây dựng qui định, qui trình biểu mẫu sử dụng của công nghệ thông tin.. 
+ 
+          BẢNG TÓM TẮT THÔNG TIN CÁ NHÂN 
+Vị trí ứng tuyển: Quản lý IT, Vận hành ứng dụng 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           QUÁ TRÌNH HỌC TẬP 
+ 
+ 
+ 
+          TÓM TẮT KINH NGHIỆM LÀM VIỆC
+
+CTY CỔ PHẦN TIN HỌC LẠC VIỆT (lĩnh vực hoạt động: Công nghệ thông tin) 
+ 
+ 
+ 
+ 
+ 
+Thời gian làm việc: 2015 – 12/2022  
+Chức danh: Trưởng nhóm Tư vấn và triển khai mềm. 
+Mô tả công việc : 
+ Lập kế hoạch dự án, thực hiện triển khai dự án theo tiến độ. 
+ Trao đổi nôi qui, qui chế, qui trình ,nghiệp vụ ở các phân hệ Tuyển 
+dụng, Nhân sự , Chấm công, BHXH, Tiền lương, Đào tạo, Đánh giá 
+với khách hàng, từ đó viết hồ sơ các qui trình nghiệp vụ mà công ty 
+đang vận hành. 
+ Thiết lập các nghiệp vụ vào phần mềm: 
+- Quản lý hồ sơ nhân viên, quản lý Hợp đồng lao động, biểu mẫu.. 
+- Danh mục loại công, ca làm việc và bảng chấm công. 
+- Danh sách tham gia BHXH, và danh sách trích nộp…. 
+- Tính lương thời gian, lương sản phẩm, lương khoán… 
+- Qui trình tuyển dụng, đào tạo, đánh giá. 
+- Phân tích báo cáo, thiết lập báo cáo. 
+-  Hướng dẫn vận hành và kiểm thử số liệu và các cách tính lương, 
+in bảng lương, chi trả lương. 
+ Các phần mềm sử dụng: IIS, Reportview,SQL Server, MS SSRS, 
+Reporting tool, Cloud Azure, Vmware, Ms Project, BI … 
+ Kết quả đạt được: 
+* Hỗ trợ tập đoàn, doanh nghiệp với nhiều công ty thành viên, chi 
+nhánh, số lượng nhân viên > 4500. 
+* Hỗ trợ doanh nghiệp quản lý tập trung thông tin nhân viên, thông tin 
+phúc lợi, quản lý năng suất và năng lực, hỗ trợ chiếc xuất báo cáo… 
+* Hoàn thành kế hoạch và mục tiêu theo từng giai đoạn của dự án, 
+đảm bảo doanh thu theo kế hoạch. 
+ * Các dự án đã thực hiện như: Cty CP Dược Imexpharm, Cty CP 
+Hàng Không Vietjet air, Tổng công ty thương mại Sài Gòn, Bệnh viện 
+S.I.S Cần Thơ … 
+ 
+ 
+ 
+CTY CỔ PHẦN GROUPE SEB VIỆT NAM ( lĩnh vực hoạt động: Sản xuất quạt & kinh doanh điện gia 
+dụng). 
+ 
+Thời gian làm việc: 2010 – 2014. 
+Chức danh: Trưởng nhóm IT, Ủy viên Ban Chấp Hành Công Đoàn. 
+Mô tả công việc: 
+ Quản trị Domain (DNS, DHCP, File Server, DFS, …)  
+ Cài đặt và hỗ trợ phòng ban các phần mềm: HR; Microsoft 
+Dynamics AX, SAP business one ,Bravo…  
+ Tham gia triển trai phần mềm quản lý bán hàng POS.  
+ Tham gia xây dựng hệ thống mạng kết nối các Nhà Máy, Văn 
+Phòng.  
+ Quản trị Cổng thông tin điện tử công ty.  
+ 
+           QUÁ TRÌNH LÀM VIỆC
+
+ Quản trị hệ thống: Hosting, Mailserver, quản trị và thiết kế website. 
+ Lập lịch backup database SQL… 
+ Triển khai hệ thống mạng,camera, máy chấm công, Faxserver . 
+ Quản lý, hồ sơ, thiết bị công nghệ thông tin.  
+ Tham gia xây dựng chính sách, ngân sách sử dụng công nghệ thông 
+tin.  
+ Hỗ trợ người dùng và các chi nhánh/kho trên toàn quốc.  
+ Liên hệ IT vùng Groupeseb để tạo tài khoản domain, email và các 
+phần mềm của tập đoàn. 
+ Kết quả đạt được: 
+* Xây dựng và quản lý hệ thống thoại, mạng, máy tính, mail,server,  
+faxserver, scan..) 
+* Hỗ trợ vận hành ứng dụng và làm việc với đối tác triển khai ứng 
+dụng: Nhân sự , Kế toán, ERP Microsoft Dynamics AX, POS . 
+* Thiết kế & Xây dựng website nền tảng opensource. 
+* Tham gia xây dựng qui định an toàn, bảo mật thông tin, phòng 
+chống virus... 
+* Phối hợp các bộ phận liên quan để hoàn thành tốt các dự án, chiến 
+lược công nghệ thông tin được giao.. 
+* Đề xuất xây dựng, duy trì chính sách công nghệ thông tin của công 
+ty. 
+* Kiểm soát bảo mật và phân quyền truy cập theo đối tượng. 
+* Xây dựng hệ thống dự phòng đảm bảo hệ thống hoạt động liên tục. 
+* Tham gia xây dựng quản lý ngân sách phòng CNTT. 
+* Giám sát lập kế hoạch phân công công việc cho nhân viên đảm bảo 
+dịch vụ hỗ trợ người dùng tốt nhất. 
+ 
+CÔNG TY TNHH NOBLAND VIỆT NAM ( lĩnh vựt hoạt động: May mặc) 
+ 
+Thời gian làm việc: 2007 – 2009. 
+Chức danh: nhân viên 
+Mô tả công việc: 
+ Cấu hình mạng và xử lý sự cố về mạng..  
+ Khắc phục các sự cố của 300 máy tính để bàn và gần 50 
+notebook,  máy in LaserJet, máy in Barcode, máy in kim, máy 
+scaner...   
+ Kiểm tra và xử lý các sự cố về máy chấm công, tổng đài điện thoại, 
+và thiết lập line cho từng cá nhân, phòng ban..  
+ Hỗ trợ cài đặt phần mềm quản lý sản xuất và hỗ trợ sử dụng NTIS,  
+phần mềm Nhân sự; phầm mềm diệt virus..  
+ Hỗ trợ người dùng: email exchange 2007, web, office....       
+ Có kiến thức về VoiIP và thiết bị Conference, hệ thống camera, 
+chấm công, chống trộm….  
+ Kết quả đạt được: 
+ 
+* Cài đặt, khắc phục sự cố, hỗ trợ người dùng: Phần mềm,Máy tính, 
+máy in, mạng, điện thoại, camera… và các thiết bị ngoại vi. 
+ 
+ 
+ 
+ 
+ 
+           MỤC TIÊU NGHỀ NGHIỆP
+
+−  Mong muốn được hỗ trợ và thúc đẩy nâng cao kỹ năng công nghệ thông tin trong công ty. 
+     −  Hỗ trợ công ty, doanh nghiệp chuẩn hóa qui trình và chuyển đổi số hữu ích và hiệu quả. 
+     −  Mong được góp sức vào sự phát triển của công ty . 
+ 
+                                      
+ 
+    − Năng động và thân thiện. 
+    − Kỹ năng giao tiếp tốt, tổ chức ( tham gia tổ chức phong trào cho cty: du lịch, 8/3, Hội thi Karaoke, 
+Hội thao..).  
+    − Kỹ năng đàm phán nghiệm thu dự án, thuyết trình đào tạo. 
+    − Nói viết và đọc hiểu tiếng Anh  
+    − Có tinh thần trách nhiệm cao trong công việc. 
+    − Thành thạo tin học văn phòng và các phần mềm hỗ trợ công việc. 
+ 
+ 
+ 
+ 
+ 
+           KỸ NĂNG CÁ NHÂN

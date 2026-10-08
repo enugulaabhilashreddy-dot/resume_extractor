@@ -1,0 +1,93 @@
+Le Minh Xuan Commune,
+Binh Chanh District, HCM
+City
+SKILLS 
+HTML, CSS, SASS/SCSS.
+Bootstrap, Material-UI.
+jQWidgets, DevExtreme.
+jQuery, Javascript, TypeScript.
+AngularJs, ReactJs, Redux,
+Redux-Thunk.
+C#,  NodeJs.
+SQL Server, MySQL.
+VÕ HOÀNG THÁI
+WEB DEVELOPER
+CAREER OBJECTIVE
+Have motivation and goals to constantly develop skills
+and long-term career orientation. Sociable, enthusiastic,
+and ready to learn new technology.
+Participate in DMS software development, and solve the
+problem of goods distribution (jQuery, C#, SQL server).
+Hospital Information System Development (Javascript,
+AngularJs, ReactJs, NodeJs).
+Building software to manage export product information.
+(C#)
+WORK EXPERIENCE
+Richy  
+Web Developer
+Jan 2023 - Present
+Built-in facial recognition function for AI timekeeping.
+Integrate store recognition function for employees to
+come to the store to sell with AI, replacing GPS.
+Integrate product brand recognition function, and count
+the number of products in images with AI. 
+Develop the function of running automatic image
+scoring according to promotions.
+Database design interface and functions development
+for promotions.
+Develop reports as required by departments.
+One Health
+Web Developer
+Sep 2021 - Jan 2023
+Analyze requirements, research, and develop new
+features.
+Develop web applications with Javascript, Bootstrap, and
+jQWidgets.
+Maintain functions that already exist.
+Tracking performance, improving connection speed,
+customizing SQL statements to improve query database
+performance.
+LANGUAGES
+English
+EDUCATION
+Open University HCMC,
+Vietnam, 2009 - 2013
+    Bachelor of Computer Science.
+
+Vascara Franchise Group  
+Sales manager
+Apr 2015 - Apr 2020
+Evaluate product code samples before ordering
+promotions, analysis of inventories, operational costs of
+the store to enter profitable goods.
+ Business monitoring, inventories, program proposals to
+increase revenue.
+Contract and finance management with partners.
+Training store manager to deploy programs, use the
+software and support sales resolve issues related to
+stores.
+Quang Minh Cooperative
+ IT helpdesk & Software Developer
+Oct 2013 - Apr 2015
+Create domains, decentralize users, centrally manage
+server data.
+ Manage equipment, install software for departments.
+Deploy product management software - Winform
+Application.
+Analysis of operational processes: obtaining customer
+requirements, designing databases.
+Implement features to create, read, update, delete,
+search for product information for departments to use, 
+Side project Apr 2020 - Sep 2020
+Booking movie:
+Feature:
+- Get information movies, schedule movies by theaters.
+theaters, details box office, sign up, login, validation form.
+- Change information profile, change password, get history
+booking, CRUD movies.
+Analyze requirements, research and develop new
+features.
+Develop features and fix bugs, resolve impediments.
+Develop interface web applications with Javascript,
+ReactJs, Bootstrap, Material UI.
+ Igrows  |  Front-End Developer Sep 2020 - Sep 2021

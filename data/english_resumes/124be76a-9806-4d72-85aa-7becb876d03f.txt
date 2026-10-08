@@ -1,0 +1,128 @@
+NGUYEN HOANG NAM
+Full stack Developer
+Date of birth: 26/03/ 1996
+Gender: Male
+Phone:
+Email:
+Address: District 1 , Ho Chi Minh City
+OBJECTIVE
+In my 6 years of programming experience, I have worked in various roles such as mobile, front-end, and back-end
+developer,
+new domains and contribute to the long-term growth of the company.
+, Sql Server, PostgreSQL, Elasticsearch, RabbitMQ, Html, Css, Js, Angular, Ionic, Jenkin, Jira,
+Redmine, SiemDC, Ranchers
+In addition, I also possess skills such as: ReactJs, Flutter, MongoDB, NodeJS.
+I want to learn, accumulate, share more experiences. I will do my best and become a key employee of the company
+for many years to come.
+EDUCATION
+2014 - 2017 Ho Chi Minh City Vocational College
+Software applications
+WORK EXPERIENCE
+05/2022-Now SEN DO TECHNOLOGY JOINT STOCK COMPANY
+Software Engineer
+- Building warehouse management software for Sendo Farm
+- Receiving and executing tasks under the direct guidance of the team leader
+- Ensuring that the requirements and expectations of the management team are met
+within specified deadlines and with a high level of quality
+- Monitoring the operational process during feature deployment to production, checking
+for errors, and troubleshooting issues when incidents occur
+08/2021 - 05/2022 RENOVATION TECHNOLOGY
+Software Engineer
+- Building app and webite for cryptocurrency software on the blockchain platform.
+- Receiving tasks from the leader.
+- Participating in planning sessions to thoroughly understand project requirements
+- Optimize speed and minimize errors occurring in production
+03/2018 - 08/2021 DIGITAL SYSTEMS
+Software Engineer
+- Building app and web app transportation management software.
+- Receiving and analyzing requests from customers
+- Plan the construction for each module
+- Build source code, setup CI/CD
+- Assign tasks to the team
+- Code
+- Coordinate with stack holder for UAT plan, software deployment
+
+09/2017 - 03/2018 VIETINFO TECHNOLOGY CORPORATION
+Fresher
+- Building apps Public Service Management Software.
+- Receiving tasks from the leader.
+- Research, build features for software.
+SKILLS
+Front-end Html, Css Js, Angular
+Back-end .NET, NodeJs
+Mobile Ionic, React, Flutter
+Database SQL Server, PostgreSQL, Elasticsearch, MongoDB
+Source Management Github, Gitlab
+Project Management Jira, Redmine
+PROJECTS
+Warehoue Management Software
+(2022 - Now)
+Customer Sendo Farm
+Description - Web application for managing food raw materials, including tasks such as
+preprocessing, inventory checking, picking, reporting incidents, and handing over to
+stations
+Team size 5
+My position Back-end Developer
+My responsibilities
+- Receiving and executing tasks under the direct guidance of the team leader
+- Ensuring that the requirements and expectations of the management team are met
+within specified deadlines and with a high level of quality
+- Monitoring the operational process during feature deployment to production, checking
+for errors, and troubleshooting issues when incidents occur
+Technologies used - .Net Core MVC, Sql Server, PostgreSQL, Elasticsearch, RabbitMQ, Jenkin, Jira,
+SiemDC, Rancher
+Buy/Sell NFTs on BlockChain network Software
+(2022 - 2022)
+Customer Product RNT
+Description - Website and App for customers to buy/sell NFTs
+Team size 7
+My position Full stack Developer
+My responsibilities
+- Build features by documents
+- Research and development of features
+Technologies used - React, Flutter, NodeJS, MongoDB, Redmine
+
+Buy/sell tokens and Participate in ICOs on the BlockChain network
+(2021 - 2022)
+Customer Product RNT
+Description - Website and App for customers to buy/sell tokens, participate in ICO,
+deposit/withdraw tokens.
+Team size 7
+My position Full stack Developer
+My responsibilities
+- Build features by documents
+- Research and development of features
+Technologies used - React, Flutter, NodeJS, MongoDB, Redmine
+Car Rental Software
+(2020 - 2021)
+Customer Thanh Buoi
+Description - Website and App for customers to book a car, view prices, track booking status,
+pay,ment, report, statistics
+Team size 5
+My position Full stack Developer, Leader
+My responsibilities
+- Receiving and analyzing requests from customers
+- P l a n t h e c o n s t r u c t i o n f o r e a c h m o d u l e
+- B u i l d s o u r c e c o d e , s e t u p C I / C D
+- A s s i g n t a s k s t o t h e t e a m - C o d i n g
+- Coordinate with stack holder for UAT plan, software deployment
+Technologies used - Angular, .NET Core, Ionic, SQL Server, GitLab, Jira, Redmine
+Logistics Software
+(2018 - 2021)
+Customer Thanh Buoi, Vietstar Express, GSDP, Nasco Express, Tasetco, Ship Nhanh, Flash Ship
+Description
+- Website and App for customers to create delivery requests, track orders, reports,
+statistics
+- Website for employees to receive requests from customers, assign vehicles to pick
+up, transit, delivery, receive money, calculate salaries, report, statistics
+- App for shipper to confirm pick-up points, transit, delivery, receive money from
+customer
+Team size 5
+My position Full stack Developer, Leader
+My responsibilities
+- Receiving and analyzing requests from customers
+- P l a n t h e c o n s t r u c t i o n f o r e a c h m o d u l e
+- B u i l d s o u r c e c o d e , s e t u p C I / C D
+- A s s i g n t a s k s t o t h e t e a m - C o d i n g
+- Coordinate with stack holder for UAT plan, software deployment
+Technologies used - Angular, .NET Core, Ionic, SQL Server, GitLab, Jira, Redmine

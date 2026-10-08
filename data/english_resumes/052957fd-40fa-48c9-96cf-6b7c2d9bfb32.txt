@@ -1,0 +1,125 @@
+•  Fullname : LÊ QUANG SÁNG  
+•  Phone Number: 
+•  Date of birth : 02/10/1993 
+•  Email :   
+•  Instant message: Skype : shinichi_vt99 
+Current job position: Data Engineer 
+Professional education level: University Economics and Laws – VNU - HCM (Management 
+Information System) 
+General introduction: 5+ years of experience. 
+ 
+About me :  
+•  Ability to work independently with high self-motivation and self-management. 
+•  Always be proactive at work. High responsibility in work. 
+•  Not afraid of hard work, not afraid to increase work (Overtime). 
+•  Ready to help team members. Listening and absorbing knowledge, respect for all people. 
+•  Sociable and cheerful. 
+ 
+PROFESSIONAL CAPACITY 
+Main competencies (forte, specialized, proficient)  
+•  Language: SQL, PL/SQL. 
+•  Database: MS SQL Server, Oracle. 
+•  ETL t ool: SQL Server Integration Services (SSIS), ODI. 
+•  Reports, BI t ool: SSRS, OBIEE, BI power. 
+Secondary competency: able to do and have knowledge but not proficient  
+•  Language: Python
+
+SUMMARIES OF SKILLS 
+ 
+ 
+  
+Time Job position Project Name Knowledge and experience gained 
+09/2016 
+– 
+04/2017 
+BI 
+Consultant 
+•  Build and maintain, turning BI 
+system. 
+•  Size: 10 members 
+•  Experience in Oracle database, OBIEE, ODI, 
+BI administrator tool. 
+04/2017 
+– 
+04/2020 
+Data 
+Engineer 
+•  HoSE (Web deployment support 
+for Ho Chi Minh Stock Exchange 
+to manage all information and 
+documents of internal and 
+external organizations.)  
+•  Size: 23 members 
+•  Experience in SQL database, SSIS tool, SSRS 
+tool. 
+•  Increase the ability to communicate and explain 
+problems. 
+•  Step by step control the system, fix bugs when 
+necessary. 
+•  Friendly working environment, the members 
+are very sociable and happy, helping 
+themselves to have conditions to improve their 
+communication skills. 
+04/2020 
+- Now 
+Data 
+Engineer 
+•  Sacombank (Credit Risk 
+Modeling ) 
+•  Size: 22 members 
+•  Experience in Oracle database, ODI tool. 
+•  Increase the ability to communicate and explain 
+problems. 
+•  Friendly working environment, the members 
+are very sociable and happy, helping 
+themselves to have conditions to improve their 
+communication skills.
+
+DETAILED EXPERIENCE AND WORKING PROCESS 
+ 
+Time Job 
+position 
+Companies and customers Work details in the project 
+09/2016 
+– 
+04/2017  
+BI 
+Consultant 
+•  Company : Gymasys 
+Co., Ltd 
+•  Client : Masan 
+Consumer 
+•  Build and turning OBIEE. 
+•  Support customers to build report and dashboard. 
+•  Reports status and issues. 
+04/2017 
+– 
+04/2020  
+Data 
+Engineer 
+•  Company :  CMC Sai 
+Gon Technology & 
+Solution (CMC TSSG) 
+•  Client :  Ho Chi Minh 
+Stock Exchange (HoSE) 
+•  Receipt of new requirements and written documentation. 
+•  Documents detailed designs. 
+•  Build and maintain d atabase.  
+•  ETL data using SSIS tool.  
+•  Build and maintain reports, dashboard using SSRS.  
+•  Communicate with customers. 
+•  Customer support. 
+•  Reports status and issues. 
+04/2020 
+- Now 
+Data 
+Engineer 
+•  Company : CMC Sai 
+Gon Technology & 
+Solution (CMC TSSG) 
+•  Client : Sacombank 
+•  ETL data using ODI tool. 
+•  Documents detailed designs: Datamart, Technical Spec. 
+•  Support team to resolve issues. 
+•  Communicate with customers. 
+•  Reports status and issues.

@@ -1,0 +1,31 @@
+VO VAN KHANH    Thu Duc City | |  
+29/09/2002 
+ 
+IT Support/Networking 
+ 
+Professional summary  
+Accumulating months of experience in the IT sector, specializing in security. Oversight of IT/OT, network 
+systems, vulnerability scanning, and conducting tests and exploitations. Implementation of mitigation 
+strategies, including patch updates and configuration of Firewalls and VPNs. 
+Experience  
+Data Science intern | Wisdom Robotics | 05/2023-08/2023 
+• Make Report, provide AI, Data mining solutions 
+• Crawl, process data from commercials and industry, building dashboard 
+• Build AI model such as Spam Detection, Recommendation System 
+Cyber Security Fellowship | OPSWAT | 09/2023-11/2023 
+•  Monitor, identify vulnerabilities among IOT/OT systems, IT server and application 
+•  Work as Penetration tester conduct exploitation over the system 
+•  Assess vulnerabilities, provide mitigations and create ad-hoc report 
+ 
+Skills 
+Python C++ JavaScript SQL  
+English communication - TOEIC 835 
+Database PostgreSQL SQLite 
+Excel PowerBI Tableau Tools 
+Software Development  
+Networking 
+ 
+Education 
+Embedded system and IOT | HCM UNIVERSITY OF TECHNOLOGY & EDUCATION | 08/2020 - 2024 |
+
+2

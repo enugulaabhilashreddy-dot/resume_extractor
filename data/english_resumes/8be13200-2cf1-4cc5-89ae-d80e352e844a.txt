@@ -1,0 +1,281 @@
+Empower organization 
+with the power of 
+applying technology to 
+achieve more
+9 
+Y ears
+Experiences in 
+consulting, 
+implementing and 
+managing information 
+system and Business 
+Intelligence.
+Live in 
+Ho Chi Minh City 
+Since 2011
+PERSONAL
+On weekends I like spending 
+time with my family.
+When I have some time for 
+myself, I do exercise and 
+reading book. 
+Dong Hoang
+Information System and Business Intelligence Manager
+Email: 
+Phone
+Credentials
+View
+Experiences
+Education
+2011-2015
+UEH (University of 
+Economics HCM City)
+Bachelors in Accounting & 
+Auditing
+2018-2020 Microsoft
+Microsoft Certified Power BI 
+Data Analyst Associate
+2020-2021 Microsoft
+Microsoft Certified Trainer
+Expertise
+Global Projects
+System: SAP, Dynamics 365 BC, BST Global, Budget and Forecast
+Cloud: Azure, Microsoft 365, Microsoft SharePoint Online
+Data Analyst: Power BI, Excel Power Pivot, Power Query
+Programing: Power Platform Fx, Python, VBA, DAX, SQL
+Company/Role Main Duties Achievement
+Ernst & Young Vietnam 
+Limited (“EY”)
+Dec 2014 to Mar 2017
+Auditor Assistant
+• Review business process of client.
+• Review financial report of client and 
+raise adjustment.
+• Outstanding Staff of 
+the Year 2015
+NaviWorld Vietnam Co., 
+Ltd (“NWV”)
+Apr 2017 to Dec 2019
+ERP&BI Application 
+Consultant
+• Design to be process for Finance 
+and Supply Chain Module
+• System Configuration and Testing
+• Training for Client
+• UAT and Go-live Support
+• Top Employee of the 
+Month
+OrthoLite Vietnam 
+Company Limited (“OVN”)
+Jan 2020 to Oct 2021
+ERP&BI Supervisor
+• ERP Vendor Assessment
+• PMO for Dynamics 365 BC 
+Implementation Project
+• Lead Power BI in house 
+Implementation Project
+• Reduce Reporting 
+Process
+• Reduce Finance 
+Month End Effort
+• Save Cost
+B+H Architect (“B+H”) – A 
+member of the Surbana 
+Jurong Group
+Nov 2021 to current
+Information System and 
+Business Intelligence 
+Manager
+• ERP Vendor Assessment
+• PMO for SAP S4 Hana 
+Implementation Project
+• Lead Power BI in house 
+Implementation Project
+• Key member in Business Process 
+Optimize Project
+• Reduce Reporting 
+Process
+• Reduce Finance 
+Month End Effort
+• Save Cost
+• Increase Revenue
+Circle with left arrow outline
+Circle with left arrow outline
+Circle with left arrow outline
+Circle with left arrow outline
+View
+View
+View
+View
+View
+View
+View
+View
+Data Platform: SSIS, SSAS, Microsoft Fabric 
+2023-2024 Microsoft
+Microsoft Certified: Fabric 
+Analytics Engineer Associate
+
+EY
+NWV
+NWV
+OVN
+OVN
+B+H
+B+H
+Home with solid fill
+Report to: Audit Manager
+Tasks
+Deliverables
+• Perform audit procedures for Cash, Account Receivable, Account 
+Payable, Fixed Asset, Inventory, Costing, Sales, Expenses, Payroll, 
+Loans.
+• Review separate and consolidate financial report process include 
+Balance Sheet, Profit and Loss, Cash Flow. 
+• Analysis Cash, Account Receivable, Account Payable, Fixed Asset, 
+Inventory, Costing, Sales, Expenses, Payroll, Loans to identify risks 
+which effect to financial statement. 
+• Review business process to identify deficiency.
+Client:
+• Hoang Anh Gia Lai Group, 
+• Pomina Steel Corporation, 
+• Jotun Paint Vietnam, 
+• Intel Vietnam, 
+• California Fitness and Yoga Center, 
+• Nidec Corporation.
+Document and Reports:
+• Business Process Document. 
+• Risk and Control Document.
+• Adjusted Financial Statement 
+Reports.
+
+EY
+EY NWV
+OVN
+OVN
+B+H
+B+H
+Report to: Project Manager
+Tasks
+Deliverables
+Client:
+• Anh Khue Sai Gon, 
+• Trung Nguyen, 
+• MoMo, 
+• FES,
+• PanFood
+Document and Reports:
+• To be Process Document. 
+• System Design Document.
+• UAT Test Script Document.
+• User Guide.
+• Profit and Loss Analysis Report.
+• Inventory Aging Report.
+• AR and AP Aging Report.
+• Gather business requirements.
+• Analysis and prepare functional require document. 
+• Perform fit-gap analysis.
+• Prepare solution design document and test scripts.
+• Build financial management reports.
+• Configure system for Training and UAT.
+• Train users and support UAT testing.
+• Go-live support.
+Application:
+• ERP system
+• Power BI App
+Home with solid fill
+
+EY
+EY
+NWV
+NWV OVN
+B+H
+B+H
+Staff: 1 IT Business AnalystReport to: Head of IT
+Tasks
+Deliverables
+ERP:
+• Review solution proposed by Vendor.
+• Conduct ERP vendor assessment.
+• Project Management during implementation.
+Business Intelligence:
+• Prepare Project Plan and Budget.
+• Gather business requirements via internal workshops.
+• Analysis and identify metrics and data source.
+• Develop ETL, Data Model.
+• Visualize dashboards and reports.
+• Managing team member.
+• Create documentation and provides user orientation and training.
+• Report project status to stakeholders.
+Application:
+• Power BI App for PMO,HR and 
+Production.
+• ERP system
+Document and Reports:
+• ERP Vendor Assessment Report. 
+• ERP Project Management 
+Dashboard.
+• BI Implementation Plan
+• BI System Document.
+• Financial Analytic Dashboards.
+• HR Analytic Dashboards.
+• User Guide Document.
+Home with solid fill
+
+EY
+EY
+NWV
+NWV
+OVN
+OVN B+H
+Staff: 1 Shared Service Staff
+Tasks
+Deliverables
+Report to: Global Finance Director
+Document and Reports:
+• ERP Vendor Assessment Report. 
+• ERP Project Management Dashboard.
+• BI Implementation Plan.
+• BI System Document.
+• Financial Analytic Dashboards.
+• Project Performance Analytic Dashboards.
+• Sale Analytic Dashboards.
+• Utilization Analytic Dashboards.
+• SOP Document.
+Strategic Planning and Implementation: Develop and implement System and BI strategies that 
+support organizational goals.
+Leadership and Management: Lead and manage the System and BI subdepartments, including staff 
+recruitment, development, and performance management.
+ Operations Management: Oversee the day-to-day operations of IT systems, and BI solutions. Ensure 
+the reliability, security, and scalability of IT systems and BI services.
+Budgeting and Financial Management: Develop and manage the IT Systems and BI yearly budgets, 
+ensuring cost-effective use of resources.
+Data Management and Analytics: Act as the Data Architect responsible for implementing a Data 
+Warehouse, Financial Automation Reports and an Enterprise Power BI App for the company. Oversee 
+data governance, data quality, and data integration efforts. 
+Security and Risk Management:  Manage IT systems and data risks and ensure compliance with 
+relevant group regulations and standards. 
+Stakeholder Communication and Collaboration:  Act as a liaison between the IT Systems/BI 
+departments and other business units. Communicate IT Systems and BI initiatives and 
+performance to senior management and stakeholders. Coordinate with IT Internal Auditors 
+during the Yearly Audit.
+Vendor and Contract Management: Oversee relationships with external vendors and service 
+providers. Negotiate contracts and ensure the delivery of high-quality IT Systems and BI services.
+Application:
+• Enterprise Power BI App for BOD and 
+Project Managers.
+• Enterprise Data Warehouse.
+• ERP , CRM system
+Home with solid fill
+
+Credentials
+
+Credentials
+
+Credentials
+BOD – Entity Financials
+BOD – Account Receivables
+
+Credentials
+BOD – Revenue and Profit
+BOD – Sale Opportunities

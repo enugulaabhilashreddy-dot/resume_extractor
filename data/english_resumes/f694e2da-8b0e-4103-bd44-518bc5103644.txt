@@ -1,0 +1,84 @@
+Huong Nguyen
+Front-end Developer
+ngochuongvnn
+ngochuongvnn
+60/21 So 4 Street, Truong Tho 
+Ward, District Thu Duc, HCM
+I am looking for a dynamic, professional and challenging environment where I can apply 
+my skill and expertise to build truly awesome apps to develop the opportunities to gain 
+experience, improve knowledge and promotion is the ultimate aim that I am seeking.
+“HTML5/CSS3/SCSS/Responsive, ReactJS, Javascript ES6, Jquery basic, Animation 
+CSS3, Boostrap 4, SVN Tortoise, Git, Sketch, Figma, XD, Psd, AI ”
+EDUCATION
+INTRODUCTION
+COMPUTER SKILLS
+EXPERIENCE
+I n d u s t r y a n d  T ra d e  Two  Co llege
+Information Technology 
+Ho Chi Minh City University Of Education
+Information Technology 
+11/2019-  Currently
+Axon Active VietNam
+Software Engineer
++ Develop and  edit change defect based on requirements.
++ Create the high quality, cross browser, reponsive site layout in HTML5/CSS3 & Javacript from Figma or mockups and 
+designs with preprocessor SASS.
++ Occasionally I have work with Figma.
+About company:  Axon Active VietNam is company software development  - 
+outsourcing and IT services.. .
+-   Experience front-end programming in preferably large-scale
+-   Experience in HTML5/CSS3, SCSS, JavaScript ES6, ReactJS, Jquery basic, Animation CSS3, Boostrap 4. 
+-   Have knowledge about SVN Tortoise, Git.
+-   Create the high quality, cross browser, reponsive site layout in HTML5/CSS3 & Javacript from PSDs or mockups and      
+ with preprocessor SASS.
+-   Strong UI/UX, Photoshop, Illustrator, Sketch, Figma, XD.
+Advantage
+-   Develop and orient products.
+-   Work under pressure.
+-   Have a spirit of learning.
+-   Teamwork and good communication.
+-   Comfortable working on MacOS, Jira, Slack, Bitbuket.
+
+11 2019
+Vng Corporation - 
+Senior HTML Developer - web design
++ Create the high quality, cross browser, reponsive site layout in HTML5/CSS3 & Javacript from PSDs or mockups and 
+designs with preprocessor SASS.
++ Design UI / UX for App mobile, Web Pc.
++ Export images for app on devices (Android, iOS).
+About company:  The company specializes in building games, social networking App, App online billing, internal Software, 
+computer lab management software, social networking site, ecommerce site, .... For Vietnam market China and the World 
+09 2009
+T echnology services company K & G  - JAPAN -  
++ website design, software interface, and interface layout, html, css responsive.
+ + Flash banner, design brochure, logo and name card ...
+1.  Name Project: System web Klara - Company: AxonActiveVietNam
+-    Project about the system provides website templates for sales,...
+-    Position: Font-end work with Javascript, html/scss, jquery, SVN Tortoise, Jira, Slack, Bitbuket, Figma. 
+2.  Name Project: App Diver HoangDo  - Company: AxonActiveVietNam
+-    Hoang Do App is an online transportation application for the Australian market.
+-    Position: Font-end work with Javascript, html/scss, jquery, SVN Tortoise, Jira, Slack, Sketch. 
+3.  Name Project: GENKIMIRU - Japan  
+-    GENKIMIRU is a mobile application. Its content are for managing health, height, weight, ... Users will provide personal 
+health information, and app will give advice.
+-    Position: Font-end work with Javascript, html/scss, jquery, SVN Tortoise, Jira, Slack, Bitbuket, Figma. 
+4.  Name Project: ZaloPay   - Company: VNG
+-   ZaloPay is a mobile payment application, such as electricity bill, water bill, phone card recharge, ....
+-    Position: Font-end work with Javascript, html/scss, jquery, SVN Tortoise, Jira, Sketch
+5.  Name Project: App Zingme   - Company: VNG
+-   Zingme is a social network....
+-    Position: Font-end work with Javascript, html/scss, jquery, SVN, Jira, photoshop, Illustrator.
+6.  Name Project: Gcafe   - Company: VNG
+-   Gcafe is a manager application, such as electricity bill, water bill, phone card recharge, ....
+-    Position: Font-end work with Javascript, html/scss, jquery, SVN, Jira, Psd.
+7.  Name Project: CommonwealthBank   - Company: Dormer
+-   CommonwealthBank is a web bank in Australia ....
+-    Position: Html/scss, jquery, SVN, Psd. 
+  
+11 2012
+Kreston Dormers Company - Australia
+web design
++ Cut html5, css3 for Web of customer responsive on all devices.
++ UI/UX website design, software interface, and interface layout.
+About company: The company specializes in construction management software and provides information technology 
+SOME TYPICAL PROJECTS HAVE INVOLVED

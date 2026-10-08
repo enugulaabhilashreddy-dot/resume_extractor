@@ -1,0 +1,135 @@
+CURRICULUM VITAE 
+PERSIONAL DETAIL 
+ 
+ Name   NGUYEN VAN CUONG 
+ Nationality   Vietnamese 
+ Sex   Male 
+ Marital status Single 
+ Date of Birth   03/04/1995 
+ Mobile 
+ Email   
+ Education  HaNoi University Of Industry 
+ 
+PROFESSIONAL SUMMARY   
+ 4 years of experience :  
+ 
+Svn ,Jira , Gitlab , CI/CD, Jenkins , Docker 
+ 
+Microservice , Saga( Choreography  - Orchestration ) 
+Kafka, activceMQ , JMS 
+ 
+Angular 
+ReactJs 
+ 
+Zuul GateWay ( some thoughts ) 
+Redis 
+ 
+Spring( boot , security , oauth2 , JWT, Timer , schedule-task ) 
+Jpa , Hibernate  , Mybatis , JDBC 
+ 
+UnitTest : Junit5, Mockito 
+ 
+Keycloak  (My guideline ) 
+ 
+JasperReport  
+Oracle , MySql , Postgresql 
+ 
+FileStorage & management : Minio , FTP, SFTP
+
+LANGUAGES 
+ 
+Language Level Note  
+English Nomal Reading, self-
+introduce 
+ 
+PROJECT LIST 
+ 
+ERP-ViettelStore (9/2020 – 6/2021) 
+Project  Description Ecomerce website for Viettel.  
+Company Viettelimex  
+Team size 31 
+Responsibilities: Techonogy dispartment 
+Programming 
+Languages: Angular 10 , Java  
+Tools Intellij, VScode , Oracle , Svn , Jira, Gitla b 
+Used technologies: 
+CI/CD 
+Docker 
+Microservice 
+Kafka 
+Saga 
+Angular 
+Zuul GateWay  
+Redis 
+Springboot 
+Jpa 
+Hibernate 
+Keycloak 
+JasperReport 
+Oracle
+
+OneConnect (1/2020 – 9/2020) 
+Project  Description: Build a loan module in the ba nking website. 
+Company CMC Global 
+Team size 10 
+Responsibilities: Dev 
+Programming 
+Languages: ReactJS , Java , Oracle , Mysql , Gitlab , Jira  
+Tools Intellij ,WebStome  
+Used technologies: 
+Microservice 
+SpringBoot 
+Oracle 
+ReactJs 
+Mybatis 
+Redis 
+ 
+RMHub (1/2019– 12/2019) 
+ 
+Project  Description: 
+RMHUB is an extensible and modern system for 
+motorway management. It is a complex and 
+modular software system that captures gathering 
+information from roadside devices. 
+Company CMC Global 
+Team size 30 
+Responsibilities: dev 
+Programming 
+Languages: Java  
+Tools Intellij ,postgresDB , Jira , Git 
+Used technologies: 
+Spring Security  
+Junit5 
+Mockito 
+Jpa 
+Hibernate 
+Microservice 
+Spring boot 
+Kafka 
+Jpa 
+Redis
+
+Dịch vụ công (1 /2018) 
+ 
+Project  Description 
+It is an online public service software designed to 
+solve public administrative procedures for people, 
+businesses and assist officials to solve 
+administrative procedures quickly, towards 
+publicity, transparency, Simple, clear and lawful 
+Company Ecoit 
+Team size 10 
+Responsibilities dev 
+Programming 
+Languages Java, Postgres 
+Tools Eclipse, Postgres 
+Used technologies 
+Liferay 
+Bootstrap 
+HTML 
+CSS 
+JS  
+ 
+ 
+ 
+Thanks for watching my curriculum vitaee.

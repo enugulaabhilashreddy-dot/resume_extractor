@@ -1,0 +1,109 @@
+Tran Thuy Nguyen | Software Engineer 
+ 
+Phone:  | Email: 
+Address: Bui Van Ba, District 7, Ho Chi Minh city 
+ 
+Summary 
+I am a software engineer with four years of experience in server and application 
+development, worked in both client and server to ensure the best network performance . 
+ 
+I want to apply to be a Server Architect / Backend Developer. 
+I am confident in Java / C# /TypeScript server development: Amazon web service, 
+Azure, real-time data transfer, Lambda, SQS, Google cloud server with auto scaling and 
+performance in mind. 
+ 
+I have worked with large-scale Unity projects / universal server support for games using 
+HTML5 / .Js / .IO systems, with experiences developing client application for server 
+interaction. 
+ 
+I worked with multi-flatform system: Linux / Ubuntu / Android / IOS, with a 
+background of both Coding and System designing 
+Skills 
+ Typescript, C#, Java, JS 
+ Azure, AWS, Digital 
+Ocean 
+ Kubernetes, Playfab 
+ Spring Boot (REST / 
+Protobuf) 
+ Data stream optimization 
+ Maven, Tomcat, MySQL, 
+SQL Server, PosgreSQL, 
+Oracle, Dynamo, Cosmos 
+ Service Bus, Redis 
+ CSS, HTML 
+ DDOS protection 
+ Unity 
+Work History 
+SOFTWARE DEVELOPER – FPT Software
+
+September 2018 – June 2019 
+ 
+ Smart Device embedded .NET: Building embedded software for home smart devices 
+that can automatically do tasks through voice control. 
+ 
+ Spring Boot Java Server: Develop human resources management system “Red gate” 
+for the company. 
+ 
+WEB DEVELOPER – Starboard Asia, Ho Chi Minh city 
+August 2019 – June 2020 
+ 
+ Flash to Java: Translate a fully working system from Flash to Spring Java, manage a 
+Cloud Server when working with the project. 
+ 
+ Oracle to Posgre SQL: SQL queries that only works with Oracle, to work with Posgre. 
+Handling SQL rewrite and optimize based on new structure and customer demand. 
+ 
+ Spring Boot Java Server: MVC structured, Restful annotation-based java system. 
+Active real-time chat/data stream system to manage automatic employee tracking 
+website.  
+ 
+UNITY DEVELOPER – Independent 
+June 2020 – December 2020 
+ Create multiple Animated Sprites and meshes from Dragonbones. originally created 
+from Clip studio Paint. 
+ Create prototypes of famous games like: Plant vs zombie / ping pong/ space shooter,… 
+with critical features included using C#. 
+ I have experience using Cocos (Javascript), but the tool is not my strong point. 
+ Developed using Unity2D, multi flatform supported. 
+ Planning multi mechanic and core gameplay for next project. 
+ 
+GAME DESIGNER – Head Capital 
+April 2021 –July 2021 
+ Design open-world market game for the company using OLA currency as an NFT 
+trading environment. 
+ Work for casual/hypercasual games. 
+ Intended for large quantity of customer from existing market.
+
+SERVER DEVELOPER – GNT / SKYDOS 
+September 2021 – March 2022 
+ Develop Real-Time game server: SkyDOS - Live MMORPG. 
+ multi flatform server, can be deployed on Linux / Ubuntu and Window. 
+ Develop Crypto game server with Amazon Web Service. 
+ Create AWS logic structure / Lamda services for casual games. 
+ Intended for large quantity of customer from existing market with secure system. 
+ 
+SERVER DEVELOPER – VNG CORPORATION 
+April 2022 – September 2022 
+ Develop Metaverse Game Platform with great scale. 
+ Using Playfab and kubernetes as scalable, powerful server system as backbone 
+ Future Market / NFT support with it’s own economic 
+ 
+SOLUTION DEVELOPER – Rnd4u / PriceFX 
+January 2023 – September 2023 
+ Developing dynamic price calculation logic for large commerce system 
+ Maintaining and upgrading server logics using C# and Java 
+ Setting environments for SAP E-Commerce project 
+ 
+Qualifications 
+FPTU GRADUATION  CERTIFICATE  – SOFTWARE ENGINEER 
+(completed June 2019) 
+IELTS CERTIFICATE  – 6.5 
+(completed July 2018) 
+ENGLISH SPEAKING CER TIFICATE  – INTERMEDIATE 
+(completed July 2016) 
+ 
+Interests 
+In my spare time I enjoy games and comic. I have international discord channel which connect people 
+from all over the world. 
+I like to meet new people especially with gaming habit. 
+I can draw comic and do illustration, so far with series of web comics from various online games.

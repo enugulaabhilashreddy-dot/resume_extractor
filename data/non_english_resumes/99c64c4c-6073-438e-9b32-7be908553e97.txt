@@ -1,0 +1,114 @@
+Nguyễn 
+Phong Phú
+BACKEND WEB DEVELOPER
+7 Năm Kinh Nghiệm
+Mục Tiêu Nghề Nghiệp
+- Mục tiêu ngắn hạn : Tìm được công việc lập trình web thương mại 
+điện tử.Học hỏi và trao dồi kinh nghiệm.
+- Mục tiêu dài hạn :  Kiếm được công việc mức lương tốt
+Kinh Nghiệm Làm Việc
+Backend Web Developer
+CÔNG TY CỔ PHẦN JAPANA VIỆT NAM
+12/2022 - 02/2024 (1 năm 2 tháng)
++ Mô tả công việc :
+- Viết code cho các dự án website thương mại điện tử sử dụng ngôn 
+ngữ PHP
++ Thành tích đạt được:
+- Quản lý chương trình khuyến mãi trực tiếp sản phẩm
+- Quản lý chương trình khuyến mãi đơn hàng tự động
+- Quản lý chương trình khuyến mãi voucher
+- Rule nghiệp vụ cho từng khuyến mãi
+- Kết nối api chức năng cho source bán lẻ
+- Kết nói api  chức năng cho source app Android / IOS
+- Hỗ trợ các phòng ban xử lý lỗi phát sinh của hệ thống.
+Backend Web Developer
+CÔNG TY CỔ PHẦN JAPANA VIỆT NAM
+08/2020 - 05/2021 (9 tháng)
++ Mô tả công việc :
+- Viết code cho các dự án website thương mại điện tử , dự án về 
+CMS,ERP, CRM sử dụng ngôn ngữ PHP
++ Thành tích đạt được:
+- Dự án CMS : Viết API Khuyến mãi trực tiếp , chương trình khuyến mãi 
+(CRUD)
+- Dự án ERP : Viết api thêm xóa sửa , xuất 3le excel và nghiệp vụ xử lý 
+về kho lưu trữ
+Thông Tin Cá Nhân
+Ngày sinh 07/0Đ/1989
+Quốc tịch Việt Nam
+Tình trạng hôn nhân âộc n
+Giới tính Nam
+Ngoại Ngữ
+Tiếng Anh
+Thông Tin Liên Hệ
++84778ặ4578ặ
+Dương Quãng Hàm , Gò Vấp, Quận 
+Gò Vấp, Hồ Chí Minh, Việt Nam
+Kỹ Năng
+Zend
+CodeIgniter
+Laravel
+ReactJS
+MySQL
+Git
+Lập Trình PHP
+
++ Quản lý kho , kho tạm , kho kế toán
++ Nhà cung cấp , tiêu chí đánh giá
++ Quản lý đLt hàng : ịập phiếu mua hàng, danh sách đLt hàng , lXch sử 
+đLt hàng
++ Nhập kho
++ ểuất Kho
+- Dự án CRM : Viết api CRUD cho khách hàng, viết api tích điqm cho 
+khách hàng
+Backend Web Developer
+NịS Tech
+02/2020 - 07/2020 (5 tháng)
++ Mô tả công việc :
+- Dự án thương mại điện tử Moord: ịàm chức năng dashboard admin 
+viết chức năng hiện danh sách , thêm , xóa , sửa, scan Wrcode 
+, sendmail, giỏ hàng , tích hợp thanh toán momo- Dự án google 
+assistant voice:  dựng hỗ trợ giọng nói kết hợp giữa android + 
+3rebase + google assistant.- Dự án miniprogram úechat:  dựng 
+demo calendar ( viết sự kiện lấy ngày khi click và thêm ghi ch  vào và 
+sau đó gửi nội dung lấy được gửi vào slack )
++ Thành tích đạt được:
+- CRUDj- Scan Wrcode
+- Send mail
+- Chức năng giỏ hàng
+- Sử dụng được 3rebase và nodeBs
+- Sử dụng được google assistant , actions console
+- ầiết sử dụng wechat devtools + kết hợp leancloud db
+Backend Web Developer
+Indo Trans ịogistics - Itl Corporation 
+05/2017 - 01/2020 (2 năm 8 tháng)
++ Mô tả công việc :
+- Viết code cho các dự án website thương mại điện tử , dự án về kho 
+sử dụng ngôn ngữ PHP
+- Tối ưu hóa website theo tiêu chuẩn SEO
+- Tái cấu tr c lại các website theo yêu cfu
+- Thực hiện các công đoạn đq đưa website vào hoạt động như upload 
+dữ liệu lên host, xử lý lỗi, sự cố liên Wuan
++ Thành tích đạt được:
+- Dự án thương mại điện tử Mymall , myỹace : ịàm chức năng báo cáo 
+thống kê , dashboard Wuản lý mymall.
+- Dự án eúMSjwarehouse MịC :  dựng layout dashboard và viết 
+module Wuản lý admin , viết chức năng Outbound , viết chức năng hiện 
+danh sách , thêm , xóa , sửa, báo cáo , viết cronBob API syned data
+- Dự án eúMS warehouse ICD :  dựng layout dashboard và viết 
+module Wuản lý admin , viết chức năng hiện danh sách , thêm , xóa , 
+sửa, báo cáo...
+- Dự án eSME : viết chức năng Wuản lý chung ( user contact , user 
+warehouse, change password , reset password , register user , get 
+price ỹor booking .... )
+
+Freelancer Developer
+Viện Thẩm MẮ MỌT NGởC
+01/2015 - 04/2017 (2 năm Đ tháng)
++ Mô tả công việc :
+- Viết code cho các dự án website sử sụng ngôn ngữ PHP, mã nguồn 
+m| wordpress
+Học Vấn
+Khoa học máy tính
+Cử n - âại Học Tôn âức Thắng
+09/2011 - 09/2015 (4 năm)
+âạt loại khá

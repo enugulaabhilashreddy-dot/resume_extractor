@@ -1,0 +1,198 @@
+Profile of 
+                  Nguyễn Thế Anh 
+ 
+PERSONAL INFORMATION 
+Full name Nguyen The Anh 
+Date of birth
+Gender Male 
+Marital status Married 
+Address Nam Tu Liem-Ha Noi 
+Email 
+Cell phone
+Position Assistant Manager/Lead Engineer 
+ 
+LANGUAGES 
+Vietnamese: Mother tongue 
+English:  
+Reading /Writing : Good 
+Korea:  
+Topik 1 
+Experience in Trip:  
+Korea, Malaysia, ThaiLand
+
+Working Experience (in oldest to latest order) (8 years) 
+ 
+No Company Name From-To 
+1 Samsung Electronic Viet Nam – SVMC 6/2014  ~ 3/2020 
+2 WooriBank Việt Nam    3/2020  ~ Today 
+ 
+ 
+Overall skills 
+Category Details Experience year(s) 
+Programming 
+languages 
+good at android Java Kotlin 6 
+good at Python 2 
+UML diagram 2 
+ good at HTML, PHP, CSS, Bootrap,  XML 2 
+ good at  C,C++ 2 
+Operating systems Windows, ubuntu  
+Tools Eclipse, phpstorm, Visual Studio .NET, Android Studio, 
+Pycharm, Visual Studio Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DUCATION
+Hanoi University of Science and Technology 
+Degree : Bachelor of Information Technology Sciences 
+Major: Information System. 
+Grade  :  Good
+
+Other Skills: 
+ 
+o Soft skills: learning to learn, listening skills, problem solving skills, creative thinking skills… 
+o Can work under high pressure 
+o Can work independent and take part in work group 
+o Can analyze, design and management software 
+o Good thinking ability and creativity in work. 
+o Hard working and “Can-do” ability 
+o Ability to find out and research new technologies 
+o Have sense of responsibility in the work 
+o Sociable and enthusiasm. 
+o Understanding about 3G, 4G,   
+o Skill about trace code and  trace log, and fix bug  
+o WVCS – VSD 
+o UML diagram 
+o Code Tool Auto (for Facebook, Stock, Amibroker ..) 
+ 
+ATTENDED PROJECTS: 
+ 
+  Samsung VietNam Mobile R&D Center (SVMC) 
+  
+Team RIL and IMS 
+Project Duration From    6/2014                               To  6/2017  
+Project Size    10 Persons 
+Project Technical Details Checking problem , Analysis problem and Resolving problem 
+Use: Notepate ++, P4( same GIT),,Quickbuild,Reviewing… 
+Position Developer  
+Language Used Java, C, C++ 
+Job 
+RIL: Radio Interface Layer: 
+o  Is layer community between AP Layer and CP layer 
+(firmware) 
+o  Regarding to Radio, Network (send and receive Data, 
+information…) 
+IMS: IP Multimedia Sub-System. 
+o  Regarding to 3G 4G. 
+o Help to community quickly  
+o Use IP package 
+o Community with AP , RIL, Protocol 
+ 
+Team Project Leader  
+Project Duration From    6/2017                               To : 3/2020  
+Project Size 200 persons 
+Position Project Leader of A510F , A520F , A720F, A910F , A750F,A405FN..
+
+Key Objective 
+ 
+o Setup schedule,draw risks and systematically manage to 
+conduct the project successfully 
+o Draw and systematically manage items to approve to 
+commercialize the product 
+o Conduct overall activities regarding software requirement 
+analysis, software testing, change point management and 
+etc. 
+Key Tasks 
+ 
+o [Product approval] Participate in tasks related to approval 
+required for commicialization 
+o [Requirement analysis and change management] 
+Participate in managing the analyzed project-related 
+requirement,change and output 
+o [Branch management] Release software versions by 
+securing and managing the stability of software branch 
+o [Responding to QA(Quality Assurance) Set schedule for 
+verifying software project and participate in responding to 
+issue detected during software testing 
+o [Responding to VOC (Voice of Customer) Check and respond 
+to customer’ voices on the software project and prepare 
+the software and participate in distributing it 
+You do this project for 
+□Company (please write name) : Samsung Electronic Viet Nam 
+□University/Institute 
+□Individual Business 
+ 
+  Công ty TNHH WooriBank Việt Nam 
+Project Duration From    3/2020                               To : Today  
+Project Name    1.  EmoiBank – Android App 
+Position Developer 
+Key Objective 
+o Implement new function 
+o Fix bug 
+o Modify interface 
+Language Used Kotlin, Java 
+Technical Used 
+MVVM,  
+Webview, 
+Observer,  
+Resful API, 
+Retrofit, 
+RxKotlin 
+RESTful API 
+Glide, 
+SmartSVN 
+Room, 
+Dependency Injection,
+
+FireBase 
+Project Name    2. QR for Napas– Android App 
+Position Developer 
+Key Objective o Integrate this to Bank App 
+Language Used Kotlin 
+Key Task 
++ Create QR image from User Information 
+(accountNumber/CardNumber, BankCode, NapasCode, 
+ServiceCode, Amount, Remark…) 
++ Decode information from QR Image 
+Technical Used Zxing library 
+Project Name    3.  VSD System – Securities Depository System 
+Position Maintenance man 
+Key Objective 
+o Maintenance Sysstem 
+o Fix bug 
+o Modify interface 
+Language Used Java, C 
+Key Task 
++ Maintain the server to receive data VSD 
++ Check display wrong relate to UI 
++ Check Error relate to Logic 
++ Add more UI 
++ Modified report 
++ Compare Data returned from VSD and Data in System  
+Technical Used 
+JSP ,  
+C,  
+Jeus, 
+Tibero 
+Project Name    4.  Insert Data from File Exported of Core to DB of E-Invoice 
+Position Developer 
+Key Objective o Implement New Project 
+Language Used C# 
+Key Task 
++ Read File from Folder . 
++Import Data to Tibero Database 
++ Make application automotic run everyday.  
+You do this project for □Company (please write name) : Wooribank Viet Nam 
+ □University/Institute 
+ □Individual Business 
+ 
+ 
+ 
+ 
+ Applicant 
+(Sign and write full name) 
+Nguyen The Anh

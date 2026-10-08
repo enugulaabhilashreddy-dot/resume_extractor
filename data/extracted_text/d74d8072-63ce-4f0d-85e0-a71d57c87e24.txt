@@ -1,0 +1,165 @@
+CURRICULUMN VITAE 
+ 
+Contact information 
+Name: Viet, Tran Hoang 
+Address: 64/6b So 6, Go Vap, TpHcm  
+Phone: 
+ 
+Personal information 
+Date of Birth: 3   mark, 1983 
+Gender: Male 
+ 
+Optional Personal information 
+Marital Status: Married 
+Employment History 
+•  100do.  (from 6/2020 – now) 
+o Position:  developer 
+o Responsibilities:  
+ Maintain payment service and website. Interact new payment agent. 
+ Research Kubernetes to deploy new projects. 
+ 
+o Projects 
+o Team size:  2 
+ 
+•  Seldat. (from 6/2016 – 5/2020) 
+o Position:  Technical leader 
+o Responsibilities:
+
+ Design system, database, technical and implement. 
+ Interview and training new member. 
+ Deploy project, configuration server. 
+ Analyze requirement of project and release solution.  
+ 
+o Projects 
+1 . WMS (warehouse management software): 
+•  Language  :  PHP 
+•  Cache   :           redis 
+•  Queue   :           redis, rabbitmq 
+•  Database  :  mysql 
+•  Web Server  : Nginx 
+•  OS    : unbuntu server 
+•  Architect system:         SOA 
+•  My role: 
+- Design system, server, database and project structure for product. 
+- Receive requirement from PM, after that analyze and release solution. 
+- Descripting, training, explaining workflow, process for team member 
+(included: BE, FE and mobile develop).  
+- Merge code, review code and deploy to server. 
+- Support customer when project has issue. 
+- Furthermore, I work on my task as senior developer.  
+- Architect system:         SOA 
+•  Team size:  ~30 
+ 
+•  SOXES. (from 3/2015 – 6/2016) 
+o Position:  Senior PHP Programmer 
+o Responsibilities:  
+ Programming web application using PHP. 
+ Database design for using mysql, sqlite 
+ 
+o Projects 
+1. Outletking Project. 
+This is Ecommerce product. 
+ My role: 
+- Work directly with PM (foreign PM) and do task from him. 
+- Manage source code and release to server. 
+2. Horus.
+
+This is application allow user find lost people, thing, animal (I provide api  
+service for frontend app). 
+3. Carletto 
+4. Lucullus 
+Carletto and Lucullus are ecommerce project written by Magento 
+o Team size: 2 
+ 
+•  DRCOM HEALTH ASIA. (2/2012 – 3/2015) 
+o Position: Senior PHP Programmer 
+o Responsibilities:  
+ Programming web application using PHP. 
+ Database design for using mysql, sqlite 
+ 
+o Projects 
+1. Relation Platform Projects. 
+This is managerment project write by symfony framework. Provide admin tool for 
+user and api for web run on IOS. Development new feature for this project. 
+Optimizer functions and queries for it. 
+•  Language  :  PHP 
+•  Database  :  mysql, sqlite 
+•  Web Server  : Apache 
+•  OS    : unbuntu server 
+•  My role: 
+- Code, fix bug maintain system. 
+- Create database structure, make solution for new feature. 
+•  Teamsize  :  5 
+ 
+•  SUTRIXMEDIA JSC. (6/2011– 2/2012) 
+o Position: PHP Programmer 
+o Responsibilities:  
+ Programming web application using PHP. 
+ Database design for using orange background service.
+
+o Projects 
+1. Orangev3.3 Projects. 
+Maintain orange and fixed bugs. Develop version 3.3.  
+•  Language  :  PHP 
+•  Database  :   orange background service 
+•  Web Server  : Apache 
+•  OS    : Microsoft Windows 
+•  Team size  :  4 
+ 
+•  DFS ( digital fashion software). (from 1/2011 – 6/2011) 
+o Position: PHP Programmer. 
+o Responsibilities:  
+ Programming web application using PHP. 
+ Database design for using MSSQL and MySQL. 
+ 
+o Projects 
+1.  dropshipinc Projects. 
+This is a web business. It's created by ecommerce Magento. It's used to buy 
+company's products (wholesale) and dropship 
+•  Language  :  PHP 
+•  CMS    :  Magento 
+•  OS    : Microsoft Windows   
+•  Team size   :  3 
+ 
+•  Xanh Biec (from 3/2008 – 9/2010) 
+o Position: C#, PHP Programmer. 
+o Responsibilities:  
+ Programming application using C#, php. 
+ Database design for using MSSQL, mysql, postgres, access 
+ 
+o Projects 
+1. Kintaikanri  Projects. 
+This is a accounting application.  
+•  Language  :  C#, crystal report
+
+•  Database  :  MSSQL 
+•  OS   :  Microsoft Windows 
+•  Team size  :  5 
+   
+2. Orose  Project 
+This is website for show products 
+•  Database : Mysql 
+•  Language : PHP 
+•  OS  : Ms windows 
+ 
+3. Busschedule  Project 
+This is website manage schedule of bus 
+•  Language : Php 
+•  Database : Mysql 
+•  OS  : Ms windows 
+•  Team size :  2 
+  
+                             
+Education 
+•  LT Aptech : Bachelor of Information Technology – 12/2007 
+Professional Qualifications  
+•  Languages & Scripting :  Visual Basic, VBA, VBScripts, Javascript, C Sharp, PHP. 
+•  Operating Systems: Windows XP/2000/98, Linux 
+•  Databases: SQL Server, MySQL, Access, POSTGRES, SQLite 
+•  Web Servers:  IIS, Apache 
+•  Configuration Management Tools: SVN, CVS, GIT 
+•  Development Tools: Microsoft Visual Studio 6.0, Microsoft Visual Studio 2005, 
+NetBeans, Eclipse, Zend Studio, Dreamweaver 
+•  Testing Tools: PHPUnit 
+•  Methodology: Business Modeling, Requirements, Analysis and Design, 
+Implementation

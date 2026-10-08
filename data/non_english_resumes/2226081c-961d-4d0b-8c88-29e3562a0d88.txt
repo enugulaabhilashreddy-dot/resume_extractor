@@ -1,0 +1,115 @@
+Nguyễn Văn Khải
+.Net Developer
+Trong khoảng 3 năm qua tôi đã làm việc ở một số công ty và đã có những kinh 
+nghiệm trong một số lĩnh vực   Core,  Framework, RESTful API, 
+JavaScript/JQuery/ReactJs, Sql Server. Nếu như được lựa chọn vào vị trí lập trình 
+viên .Net, tôi hy vọng sẽ đóng góp được một phần công sức của mình vào sự phát 
+triển của công ty. Tôi sẽ cố gắng tích lũy thêm nhiều kinh nghiệm bằng cách sử 
+dụng những kiến thức và kinh nghiệm tôi có để cùng đồng nghiệp xây dựng tốt hệ 
+thống. Một môi trường làm việc mới với những đồng nghiệp mới vừa thách thức vừa 
+là cơ hội để tôi cố gắng hơn trong việc hoàn thiện các kiến thức, kỹ năng chuyên 
+môn. Mục tiêu 3 năm tới của tôi là trở thành một nhân viên xuất sắc và là một lập 
+trình viên của công ty. 
+THÔNG TIN CÁ NHÂN
+ 24/10/1999
+✉
+
+ 58/5, Trần Bình, Mai Dịch, Cầu Giấy, 
+Hà Nội 
+
+utc 
+
+HỌC VẤN
+ĐẠI HỌC GIAO THÔNG VẬN TẢI
+CÔNG NGHỆ THÔNG TIN
+2017 - 2022
+Tốt nghiệp loại Khá, điểm trung bình môn 
+7.64
+CÁC KỸ NĂNG
+KỸ NĂNG CỨNG:
+• Lập trình, Core, 
+MVC, Web API, phát triển web phía 
+máy khách, SQL Server, 
+JQuery/JavaScript
+• Có kinh nghiệm làm việc với ReactJs, 
+NodeJs
+KỸ NĂNG MỀM:
+• Quản lý thời gian,
+• Kỹ năng giao tiếp
+• Kỹ năng làm việc nhóm
+KINH NGHIỆM LÀM VIỆC
+03/2021 - Hiện tại
+CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT
+SỐ FPT
+.NET DEVELOPER
+• Phân tích yêu cầu, giải pháp, tối ưu hệ thống
+• Nghiên cứu và phát triển hệ thống web 
+• Nghiên cứu và phát triển hệ thống giỏ hàng và các cổng thanh toán
+• Triển khai chiến dịch kinh doanh, ra mắt sản phẩm, LandingPage
+03/2020 - 03/2021 
+CÔNG TY CỔ PHẦN CODELOVERS
+VIỆT NAM
+FRESHER WEB
+• Phân tích yêu cầu và giải pháp (đối tác Thông tấn xã Việt Nam)
+• Nghiên cứu và phát triển phần mềm Quản trị doanh nghiệp ISO-Online (IDAS-ISO)
+05/2019 - 12/2019
+CÔNG TY CỔ PHẦN NGHIÊN CỨU VÀ
+PHÁT TRIỂN FABBI
+INTERN WEB
+• Nghiên cứu và phát triển hệ thống web đăng ký lịch OverTime
+
+DỰ ÁN
+01/2023 - Hiện tại
+Hệ thống Web , Landing Page
+Số lượng người tham gia 4
+VỊ TRÍ PRODUCT MANAGER/DEVELOPER
+• Đảm bảo duy trì hệ thống
+• Phát triển tính năng mới và chiến dịch kinh doanh, ra mắt sản 
+phẩm mới
+• Quản lý task và tiến độ hoàn thành dự án
+• DevOps
+CÔNG NGHỆ SỬ DỤNG
+•  Core 5.0, WEB API, ReactJs
+• SQL Server, Redis
+03/2021 - Hiện tại
+Giỏ hàng Web 
+Số lượng người tham gia 1
+VỊ TRÍ DEVELOPER
+• Đảm bảo duy trì hệ thống
+• Phát triển tính năng mới và chiến dịch kinh doanh
+• Hợp tác và phát triển hệ thống với đối tác và cổng thanh toán: 
+TPBank, Lazada, ZaloPay, VNPay, AlePay,...
+• DevOps
+CÔNG NGHỆ SỬ DỤNG
+•  Core 5.0, WEB API, ReactJs
+• SQL Server, Redis
+03/2020 - 03/2021
+Phần mềm Quản trị doanh nghiệp ISO-Online
+(IDAS-ISO)
+Số lượng người tham gia 7
+VỊ TRÍ FRESHER
+• Phân tích yêu cầu và giải pháp (đối tác Thông tấn xã Việt 
+Nam)
+• Nghiên cứu và phát triển phần mềm 
+CÔNG NGHỆ SỬ DỤNG
+•  Core 3.1, WEB API, ExtJS
+• SQL Server
+05/2019 - 12/2019
+Hệ thống Web đăng ký lịch OverTime
+Số lượng người tham gia 1
+VỊ TRÍ INTERN
+• Phân tích yêu cầu
+• Nghiên cứu và phát triển phần mềm
+CÔNG NGHỆ SỬ DỤNG
+•  Core 3.1, WEB API, JQuery/AJAX
+• SQL Server
+CHỨNG CHỈ
+2021
+Chứng chỉ ngoại ngữ bậc 3
+DANH HIỆU VÀ GIẢI THƯỞNG
+2022
+Nhân viên xuất sắc trung tâm hệ thống thông tin ISC
+2023
+Nhân viên xuất sắc trung tâm hệ thống thông tin ISC
+
+© topcv.vn

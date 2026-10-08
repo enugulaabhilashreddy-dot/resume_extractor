@@ -1,0 +1,291 @@
+CURRICULUM VITAE 
+NGUYEN DAI QUANG 
+ 
+PERSONAL DETAILS 
+ 
+Full Name : NGUYEN DAI QUANG 
+Job Titles: Business Ananyst 
+Date of Birth : May 8th, 1986 
+Place of Birth : Ha Noi 
+Gender :  Male 
+Marital Status : Married 
+Home Address :  Ba Trieu, Le Dai Hanh, Hai Ba Trung, Hanoi. 
+Email :                           
+ Mobile: (+  
+ 
+SUMMARY INFORMATION 
+ More than 3 years of working experience as Business Analyst 
+ More than 3 years experience using various web / object -oriented technologies (both Windows and Web)  using  (Web & Windows), 
+ MVC, SQL, Entity Framework, AngularJS/JavaScript/Bootstrap, Web Services. 
+ Have knowledge in using C, C++, Java/JSP. 
+ Set up prototype development system to support program testing and migration of client data. 
+ Experienced in negotiating/managing projects and leading small teams. 
+ Prefer a team-oriented environment utilizing Agile Methodologies. 
+ Outstanding Communication Skills 
+ Have experience in planning & decision making, problem solving skills 
+ Knowledge of Office Equipment (Copier/Fax) 
+ Basic Computer Maintenance 
+ 
+EDUCATION HISTORY 
+From: 2005 
+To: 2010 
+University/School: Hanoi Open University 
+Degree/Qualifications: Bachelor of Information Technology 
+ 
+EMPLOYMENT HISTORY 
+From:  2015 
+To: 2016 
+Company: iPay88 Malaysia 
+Job Title: Business Analyst 
+Job Description:
+
+ To document the business process by identifying the requirements. 
+ Preparing excellent documentation on business requirements. 
+ Handling various activities of the project like information gathering, analyzing the information gathered, 
+documenting the functional or business requirements. 
+ To make the Test plan for the testing team. 
+ To do the User acceptance testing in the final project. 
+ Interviewed the stakeholders and preparation of documents defined architectural components. 
+ Managed relationship with programmers and bridged communication between end users and development 
+team 
+ Involved in preparing Process Flow Diagram & other UML Diagrams using MS Visio 
+ Helped the developing teams in mapping the data 
+ Clarified issues with developers during efforts to validate designs and functional specifications 
+ Actively Participated in internal presentations 
+ Conducted the project meetings successfully by coordinating all users, technical staff 
+ Supported in QA testing 
+ Involved in all requirement gathering and impact analysis activities. R eviewing the Client Requirements and 
+Business Specifications, analyzing the impacts and feasibility. 
+ Design Process Diagram, Activity Diagram, Use Cases, end to end data flow and also preparing the screen 
+mock ups and design and develop the application architecture. 
+ Review the application structure and database design with development and testing teams. 
+ Review the Statement of Understanding Document [SoU] and User Requirement Specification 
+ (URS) Document, System Requirement Specification (SRS) Document with PwC. 
+ Provide the support to development by reviewing the Application Design document and testing team by 
+reviewing the Test Cases during development and testing phase. 
+ Involved in all requirement gathering and impact analysis activities. Reviewing the Cli ent Requirements and 
+Business Specifications, analyzing the impacts and feasibility. 
+ Design end to end data flow with the help of BPM and also preparing the screen mock ups and design and 
+develop the application architecture. 
+ Review the application structure and database design with development and testing teams.  
+ Provide the support to development by reviewing the Application Design document and  testing team by 
+reviewing the Test Cases during development and testing phase. 
+ Methodologies UML, RUP, SDLC, Waterfall, Agile. 
+From:  2014 
+To:  2015 
+Company: iPay88 Malaysia. 
+Job Title: Project Coordinator 
+Job Description:  
+ Established procedures, and directed testing, operation, maintenance, and repair of transmitter equipment 
+ Planned and directed oil field development, gas and oil production, and geothermal drilling 
+ Scheduled, directed, and assigned duties to engineers, technicians, researchers, and other staff 
+ Prepared and administered budget, approved and reviewed expenditures, and prepared financial reports 
+ Conferred with scientists, engineers, regulators, and others to plan and review projects, and to provide 
+technical assistance 
+ Advised and assisted in obtaining patents and other legal requirements 
+ Coordinated successive phases of problem analysis, solution proposals, and testing 
+ Planned and directed research, development, and production activities of chemical plant
+
+ Reviewed project activities, and prepared and reviewed research, testing, and operational reports 
+ Conferred with and prepared reports for officials and spoke to public to solicit support 
+ Administered highway planning, construction, and maintenance, and reviewed and recommended and 
+approved contracts and cost estimates 
+ Plannedanddirectedinstallation,maintenance,testing,andrepairoffacilitiesandequipment 
+ Directed, reviewed, and approved product design and changes, and directed testing 
+ Evaluated contract proposals, directed negotiation of research contracts, and prepared bids and contracts. 
+ Monitor implementing project for Solution Team 
+ Keep the PM and others be updated on the current status of projects. 
+ Monitor project expense and man-day calculation for implementing a project. 
+ Coordinate with other functional team to implement a project plan accordingly. 
+ Meeting and daily, weekly reporting to customer, team on project, issues supporting. 
+ Implement and other’s vendor’s solutions 
+ Consult the customer on the environment requirements for the project.  
+ Be on-site, join with the team to implement the solutions. 
+ Daily, weekly report to team on the project’s plan, issues, risk… 
+ Co-ordinate with the vendor professional to implement and troubleshoot the issues (if any).  
+ Prepare the solution’s document 
+ Project plan and handover sign. 
+ Project document: URD, UAT, Pilot, Handover, Manual 
+ Weekly project report. 
+ Prepare completion certificates and ensure all required project close out documents are obtained. 
+ Daily issue support 
+ Meeting and reporting to customer and team on issue status. 
+ Issue troubleshooting (co-ordinate with functional team: software team, vendor…) 
+From:  2013 
+To:  2014 
+Company: iPay88 Malaysia 
+Job Title: Assistant Project Coordinator  
+Job Description:  
+ Assisted Project Manager in day to day duties of project's administration. 
+ Worked closely under the guidance of project coordinator and project manager 
+ Conducted research and gave suggestions in solving different problems and interferences as well as errors 
+and omissions 
+ Prepared drawings and sketches to support construction work 
+ Coordinated periodic job related activities 
+ Obtained quotations for notices 
+ Maintained up to date purchase and sales logs 
+ Assisted in preparing grant proposals 
+ Received, reviewed and coordinated and replied to the inquiries related to program 
+ Assisted in coordinating program staffs data for accountability and to measure performances 
+ Performed other related duties and responsibilities as required 
+From:  2010 Company: FPT Software
+
+To:  2013 Job Title: Developer 
+ 
+ 
+APPENDIX -   PROJECT REFERENCE AND SKILL SET 
+ATTENDED PROJECTS 
+From: 11/2013 
+To: 9/2014 
+Project Name: iPay88 Payment Gateway 
+Company: iPay88 Malaysia 
+Client: Internal project 
+Project size: man-month 
+Position: Project Coordinator 
+Responsibilities: 
+ Coordinate activities, resources, equipment and information 
+ Liaise with clients to identify and define project requirements, scope and 
+objectives 
+ Make certain that clients’ needs are met as the project evolves 
+ Help prepare project proposals, timeframes, schedule and budget 
+ Monitor and track project’s progress and handle any issues that arise 
+ Act as the point of contact and communicate project status adequately to 
+all participants 
+ Use project management tools to monitor working hours, budget, plans 
+and money spend 
+ Issue all appropriate legal paperwork 
+ Report and escalate to management as needed 
+ Create and maintain comprehensive project documentation, plans and 
+reports 
+Project  Description: 
+ iPay88 offers merchants comprehensive online payment options such as 
+credit/debit cards, bank transfers and alternative online payments such 
+as Alipay and Philippines payment options.  
+ The payment process uses a redirect approach, customers will be 
+redirected a secure iPay88 page where they will make a payment and then 
+be returned to your store. 
+Used Programming Languages: C#, 
+Used Technologies: MVC 4 
+From: 3/2015 
+To: 3/2016 
+Project Name: Grocermart 
+Company: iPay88 Malaysia 
+Client: Nano System/ Grocermart 
+Project size: man-month 
+Position: Business Analyst 
+Responsibilities: 
+ Assisting with the business case 
+ Planning and monitoring 
+ Eliciting requirements 
+ Requirements organization 
+ Translating and simplifying requirements 
+ Requirements management and communication 
+ Requirements analysis 
+ Implement advanced strategies for gathering, reviewing and analyzing 
+data requirements 
+ Prioritize requirements and create conceptual prototypes and mock-ups 
+ Master strategic business process modeling, trac eability and quality 
+management techniques 
+ Apply best practices for effective communication and problem-solving 
+ Successfully compete for the most sought-after business analyst jobs
+
+Project  Description: 
+ This is an e-market place and has a powerful admin part with intensive use 
+of AJAX.  
+ I have created plug-ins for Fire Fox and Internet Explorer for the quick deal 
+postings.  
+ Users can share their deals, post comments to the posts, can 
+communicate via integrated webmail.  
+ Although the site is not completely filled with content, as the customer 
+doesn't make a lot of planned advertising.  
+ I'm sure this site will be very popular after the proper advertising.  
+ The site has unlimited categories nesting, stars rat ing (like yahoo has), 
+tags (like gmail and  have), power search engine, black 
+list words filtering.  
+ Dealbundle also uses XML and a lot of JavaScript to make the site quick 
+and user-friendly. 
+Used Programming Languages: PHP 
+Used Technologies: PHP/MySQL/Ajax/ 
+ 
+INFORMATION TECHNOLOGY SKILLS 
+Experiences: 0:  0 month 2:  6 – 12 months 4:  2 – 5 years 
+ 1:  1 – 6 months 3:  1 – 2 years 5:  > 5 years 
+Last used: Last year used   
+Expert level: 1:  Beginner Level 3:  Sometimes have to use manuals 5:  Expert Level 
+ 2:  Always have to use manuals 4:  Can solve problems  
+Experiences Last use Expert level 
+  x   
+ Sun Solaris        
+ AIX        
+ AS/400        
+ Windows 4 2016    x  
+ Symbian OS        
+ SOA platform IBM        
+ SOA platform JBoss        
+         
+ SOA platform Skyway Software        
+ 
+Database 
+ DB2 
+- MySQL, PostgreSQL, Lotus Notes. 
+1 2016   x   
+ Oracle 
+   x  
+ Sybase        
+ MySQL 2 2016   x   
+ PostgreSQL 2 2016   x   
+ Lotus Notes        
+ 
+Web Application server 
+ II 
+  x   
+ C/C++ 1 2014   x   
+ 4 2015    x  
+ VB
+
+PHP 2 2016  x    
+  0       
+ ASP 2 2014   x   
+ 4 2015    x  
+ Delphi        
+ Perl        
+ JavaScript 4 2016    x  
+ XML/XSL 2 2015   x   
+ Python        
+ 
+Tools 
+ Rational Rose        
+ Rational XDE        
+ RAD        
+ Eclipse 1 2015   x   
+ ERWin        
+ 
+ 
+Oracle Design 
+ 
+       
+ 
+ 
+ 
+Others 
+ 
+          
+         
+ 
+OTHER SKILLS 
+Experiences: 0:  0 month 2:  6 – 12 months 4:  2 – 5 years 
+ 1:  1 – 6 months 3:  1 – 2 years 5:  > 5 years 
+Last used: Last year used   
+  Experiences Last used Yes No 
+Process 
+ Presentation skill 4 2016 x  
+ Agile/ Scrum 2 2016 x  
+ 
+FOREIGN LANGUAGE 
+Experiences: 0:  0 month 2:  6 – 12 months 4:  2 – 5 years 
+ 1:  1 – 6 months 3:  1 – 2 years 5:  > 5 years 
+Last used: Last year used   
+Expert level: 1:  Beginner 3:  Fluent 5:  Translator 
+ 2:  Conversational 4:  Expert  
+  Expert level 
+   x

@@ -1,0 +1,56 @@
+Ton Duc Thang University
+Bachelor in Telecommunications Engineering
+EDUCATION
+Language: English
+Programming: C/C++, Verilog , HTML
+Teamwork
+Sociable
+CAREER GOALS 
+I aspire to leverage my knowledge and
+background in code design to actively pursue
+my goals and create a positive impact. My aim
+is to continuously enhance my knowledge
+and skills, enabling me to contribute to the
+progress of society and accomplish significant
+milestones in the future.
+CONTACT
+15/03/1999
+66 Hòa Bình, Phường 5, Quận 11
+ri.
+H&H ELECTRONIC COMPONENTS AND
+EQUIPMENT COMPANY
+Installed and repaired computer equipment,
+ensuring optimal functionality and
+performance.
+Conducted thorough hardware warranty
+checks to verify the integrity and
+compatibility of computer components.
+EXPERIENCE
+ACTIVITIES
+2017  | Automated device design contest 
+ | School football tournament 
+ELECTRONICS &
+TELECOMMUNICATION
+ĐẶNG NGỌC MINH  TRÍ
+SKILLS
+ IC DESIGN COURSE BASIC - SEMICON CENTER
+Theory of Basic CMOS Structure
+Apply CMOS to design basic gate in
+digital circuit
+ASIC Design Flow
+Verilog language
+Apply Verilog to describe digital design
+Design a basic IP Core and build
+simulation env by using Linux
+Manual test & Automation test
+Knowledge for ASIC Design
+CERTIFICATES
+2023 | APTIS 137/200
+English
+Microsoft Office Specialist 
+2018 | MOS WORD
+2018 | MOS EXCEL
+Cisco Certified Network Associate
+Semicon Certificate
+TECHNICAL STAFF 
+2023 | Elementary IC Design

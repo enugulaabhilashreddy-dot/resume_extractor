@@ -1,0 +1,117 @@
+/
+NGUYỄN MINH THÔNG
+
+
+
+
+
+JS DEVELOPER
+Nam
+02-03-1996
+97 Phú Định, Phường 16, Quận 8, TP HCM
+KINH NGHIỆM
+ - 
+Vị trí:
+Mô tả:
+ - 
+Vị trí:
+Mô tả:
+Thành tích đạt được:
+CÔNG TY START-UP 
+ASAP SOLUTION
+03-2020 12-2021
+JS Developer
+- Frontend web với ReactJS, Typescript, NodeJS, NextJS, responsive với 
+bootstrap, react-bootstrap... 
+- Frontend game với Javascript (ES6) và Cocos Creator (Cocos 2d-x). 
+- Làm trailer game 2D/3D với Cinema4D, thành thạo Photoshop. 
+- Có kinh nghiệm làm việc với CI/CD (GCP), Bitbucket Pipelines, thành thạo GIT 
+source control và làm việc với Agile tools.
+- Sử dụng thành thạo Jira, Bitbucket, Sourcetree, GIT commands... Có khả năng 
+tự chia nhỏ task, estimate story point... 
+- Hiểu biết cơ bản về ExpressJS (viết middleware). 
+- Các projects đã tham gia: 
+ 1.  
+ 2.  
+ 3.  
+ 4.  
+ 5.  
+ 6.  
+... 
+CÔNG TY CỔ PHẦN 
+GONSA
+04-2019 03-2020
+.NET Developer, IT Solution
+- Full-stack .NET, chỉnh sửa, thêm chức năng, tối ưu phần mềm ERP của công ty. 
+- Viết stored procedure cho ERP trong MSSQL. 
+- Vận hành web server và datacenter trên Windows Server 2016 R2. 
+- Tìm hiểu và đưa ra các giải pháp về IT cho các vấn đề của công ty. 
+"Nhân viên xuất sắc nhất phòng IT năm 2020"
+
+/
+ - 
+Vị trí:
+Mô tả:
+ - 
+Vị trí:
+Mô tả:
+ - 
+Vị trí:
+Mô tả:
+FREELANCE
+01-2018 03-2020
+Freelancer
+- Lập trình phần mềm POS với .NET, MSSQL.
+- Làm web bằng Wordpress, JS, MySQL. 
+- Thành thạo: C#, HTML, CSS, Wordpress, Woocommerce, MSSQL, MySQL. 
+- Thiết kế phần mềm POS, liên kết với web bán hàng Wordpress. 
+- Thiết kế logo, chỉnh sửa hình ảnh bằng Photoshop. 
+CÔNG TY CP-TM HI-
+FOODS
+07-2018 04-2019
+IT Admin
+- Quản lý hệ thống phần cứng, phần mềm của chuỗi 14 cửa hàng tại Hà Nội và 
+ 
+- Quản lý, thi công hệ thống camera. 
+- Quản lý hệ thống máy tính, máy in, mạng và các phần cứng khác trong công ty. 
+- Quản lý mail server, data server. 
+- Làm việc trực tiếp với các đối tác cung cấp phần mềm, phần cứng để giải quyết 
+các vấn đề trong quá trình vận hành. 
+CÔNG TY CP TM-DV 
+PHONG VŨ
+04-2017 07-2018
+Nhân Viên IT
+- Kỹ thuật viên sửa chữa, thay thế phần cứng, cài đặt phần mềm cho các thiết bị 
+của khách hàng, doanh nghiệp (máy tính, điện thoại, máy in...). 
+- Tư vấn các cấu hình pc, laptop, máy in, và các thiết bị tin học khác phù hợp với 
+nhu cầu của khách hàng, doanh nghiệp. 
+- Bảo trì hệ thống mạng nội bộ, các thiết bị mạng. 
+- Thực hiện các nhiệm vụ khác do cấp trên trực tiếp chỉ đạo, trong phạm vi công 
+việc của phòng và khả năng của nhân sự. 
+HỌC VẤN  - 
+Trường:
+Chuyên ngành:
+Loại tốt nghiệp:
+Trình độ:
+04-2014 04-2017
+Cao Đẳng Kinh Tế Công Nghệ TPHCM
+Công Nghệ Thông Tin
+Khá
+Cao Đẳng
+KỸ NĂNG Làm việc nhóm 
+Làm việc độc lập 
+Giải quyết vấn đề 
+Ra quyết định 
+Quản lý dự án 
+Học hiệu quả
+
+TIẾNG ANH Nghe
+Nói
+Đọc
+Viết
+TIN HỌC Word
+Excel
+Powerpoint
+Outlook
+SỞ THÍCH Xem phim, leo núi, du lịch, chơi bóng rổ, bóng bàn, bóng đá, cầu lông, CSGO, 
+DotA 2

@@ -1,0 +1,140 @@
+2014 - 2019 UNIVERSITY OF TRANSPORT AND COMMUNICATIONS
+Major: Engineering
+Languages : English B1
+2018 - 2019 APTECH INTERNATIONAL IT EDUCATION SYSTEM
+Main Subject: Software Developer
+June 2022 - present MOR Software SJC
+Web Developer
+Main responsibilities: 
+• Requirement Analysis
+• Design and Development
+• Programming and implementation testing
+• Performance Optimization
+• Maintenance and Bug Fixing
+• Q&A and Communication with clients.
+• Adhering to project development processes (Agile, Scrum, Waterfall). 
+September 2019 - May 2022 Global Technology Solutions Co., Ltd
+Web Developer
+Main responsibilities:
+• Transferring banking domain knowledge to new team members. 
+• Requirement Analysis
+• Design and Development
+• Programming and implementation Unit Test
+• Performance Optimization
+• Maintenance and Bug Fixing
+• Q&A and Communication with clients. 
+ 
+Hoang Xuan Quy
+Web Developer
+Date of birth:  13-03-1996
+Gender:  Male
+Phone:
+Email:
+Address:  Ha Noi
+Website:
+ABOUT
+With 3.5+ years of web development experience, specializing in both domestic and Japanese markets, I have extensive
+knowledge in developing web applications for both product and outsourcing environments. Currently, I am actively
+seeking full-time job opportunities in web development.
+EDUCATION
+WORK EXPERIENCE
+
+Databases  - SQL Server, MySQL, SQLite, Oracle, Redis
+Programing Language  - PHP, JavaScript
+Framework  - BE: Laravel,Laravel Livewire, CakePHP, RESTful API
+ - FE: VueJS ,InertiaJS,Tailwin CSS, Bootstrap
+Data Visualization  - Charts, PowerBuilder
+Testing - PHPUnit ,UnitTest
+Version Control - Git, SVN
+Language  - English communication basic
+ - Basic level (research and technical documentation)
+Other - Documentation: writing technical documentation, user guides, and
+development documentation for projects (Basic design, Details design) 
+- Business Knowledge in Banking Operations (LOAN,Deposit,LC...)
+- Understanding about OOP, MVC, Design Pattern, SOLID,
+Dependency Injection
+- Good understanding software design, database design
+- Good time management, presentation and teamwork skills .. 
+- Understanding and experience in working with Agile development
+methos such as Scrum or Waterfalls.
+ 
+SKILLS
+PROJECTS
+GlobalTech Solution
+(September 2019 - October 2020)
+Customer Korean Credit Institutions in Vietnam (Lotte, KEB Hana, Busan...)
+Description A project providing internal reporting solutions for state-owned banks in Vietnam.  
+Team size 7
+My position Developer
+My responsibilities
+• Receive tasks and estimated completion time 
+• Maintenance and bug ﬁxing 
+• Develop new features 
+• Implement Unit Test 
+• Data normalization and improved query performance 
+• Create functional guides for each developed feature 
+• Communication with clients to requirements for feature development 
+• Participate in daily meetings and provided progress reports 
+Technologies used PHP Laravel, Ajax, Java Script, SQL Server ,Queues job
+GlobalTech Solution
+(August 2021 - April 2021)
+Customer A real estate leasing corporation in Japan (Daiwa House Group)
+Description System maintenance and management for the leasing system and overall business
+operations of the corporation.
+
+Team size 5
+My position Developer Backend and Frontend
+My responsibilities
+• Performa maintenance and bug ﬁxing 
+• Develop new features 
+• Manage batch and crontab according to schedule 
+• Synchronize data and indexed for Elasticsearch (ES) 
+Technologies used Cake PHP, Ajax, jQuery, MySQL, Elasticsearch,  
+Vagrant + VirtualBox, Docker
+GlobalTech Solution
+(May 2021 - May 2022)
+Customer A CRM system in Japan (CYDAS).
+Description Develop a new module within the Customer Relationship Management (CRM) system of
+corporation.  
+Team size 12
+My position  Developer Backend and Frontend
+My responsibilities
+• Work with team leader to capture and receive requirement from customers 
+• Maintenance and ﬁx bugs 
+• Develop features  
+• Data normalization, Improve query performance 
+• Deﬁne Test Case, Implement UnitTest with Fake data, Mocking data  
+Technologies used Laravel Sanctum, RESTful APIs, Vue JS ,TailwindCSS, MySQL, 
+Docker, AWS: SQS, S3, CI/CD 
+MOR Software SJC
+( November 2022 - January 2023)
+Customer Hokkaido Nippon-Ham Fighters
+Description A project for managing a baseball stadium in Hokkaido, Japan. 
+Team size 7
+My position Developer Backend and Frontend
+My responsibilities
+• Daily meetings and daily reports 
+• Receive tasks and estimated completion time 
+• Built new functionalities of the web app using Laravel. 
+• Work with BrSE requirement accepted 
+• Maintenance and ﬁx bugs 
+• Develop features 
+• Refactor code, Improve query performance 
+Technologies used Laravel Livewire, Chart JS, JavaScript, MySQL
+MOR Software SJC
+( January 2023 - present)
+Customer A business providing survey services and advertising campaigns Japan.
+Description System for managing advertising campaigns and surveys of a Japanese business.  
+Team size 16
+My position Developer Backend and Frontend
+My responsibilities • Daily meetings and daily reports 
+• Receive tasks and estimated completion time 
+• Maintenance and ﬁx bug 
+• Develop new features 
+• Data normalization and improved query performance 
+• Write test cases and implemented unit tests for each deployed feature
+
+• Create design documentation (Basic design, Detailed design) 
+• Create functional guides for each developed feature 
+Technologies used Laravel, VueJS (InertiaJS), Oracle
+©

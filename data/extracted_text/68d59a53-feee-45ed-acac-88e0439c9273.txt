@@ -1,0 +1,250 @@
+Curriculum Vitae of Nguyen Manh Luan 
+1 
+ 
+CURRICULUM VITAE 
+ 
+ 
+I. POSITIONS:  
+•  Principle/Senior Software Engineer 
+ 
+II. PERSONAL DETAILS: 
+Name:   NGUYEN MANH LUAN  
+Gender:    Male 
+Day of Birth:  29 November 1987 
+Address:  704/29/21 Truong Sa Street, Ward 14, District 3, HCMC 
+Mobile:    
+Marital status:  Married 
+Email:    
+Skype :  nhatlang19 
+ 
+III. SKILLS: 
+Proficient or familiar with a vast array of programming languages, concepts and technologies, 
+including: 
+1. Programming languages:  
+a.  PHP: Laravel, Cakephp, Codeigniter 
+b.  Mobile: Android, React Native, Flutter 
+c.  Python, NodeJs, Golang, Dart, C++ 
+d.  Blockchain: Solidity, Web3, Truffle, Ganache, MetaMask, Infura 
+2. Technologies: 
+a.  OOP,  Design Pattern, Microservices(Saga, Event Sourcing, Message Broker) 
+b.  OAuth2, OpenID 
+c.  Javascript: Jquery, ReactJs, VueJs, FabricJS 
+d.  Cloud Computing Service: AWS (EC2, S3, Elastic Cache, Elastic Search, …). 
+GCloud  
+e.  TDD, BDD, Codeception
+
+Curriculum Vitae of Nguyen Manh Luan 
+2 
+ 
+f.  Database : MySQL, SQL Server, PostgresSQL 
+g.  NoSQL: Redis, MongoDB 
+h.  Cache: Memcached, Redis 
+i.  Message Broker: RabbitMQ 
+j.  Monitoring: Sentry, AWS Cloudwatch, Prometheus, Datadog, Vegeta 
+k.  Email: Crisp, SendGrid 
+l.  Marketing Platform: Klaviyo, Hubspot 
+m.  Optimize Image: Imagify 
+n.  Notification: OneSignal 
+3. OS: Window, Linux(Centos, Ubuntu)  
+4. Tools: 
+•  FireBug, VMWare, TortoiseSVN, Mantis, redmine, Jira, Pivotal tracker 
+•  Vagrant, Docker 
+•  Eclipse, Sublime Text, Netbeans, Zend Studio, MySql Browser, PyC harm, 
+PHPStorm, VSCode, GoLand 
+•  Microsoft Visual Studio, Microsoft Expression Blend, Dotnetbar 8.0 
+•  Microsoft Office, Visio 
+•  IBM Rational Rose 
+•  Adobe Dreamweaver  CS5, Photoshop CS5 
+5. Others: 
+•  Independent or team work. 
+•  Communication and interpersonal skills.       
+•  Sense of responsibility. 
+•  Ability to work under high pressure. 
+•  English: Intermediate. 
+ 
+IV. WORKING EXPERIENCES: 
+July 2020 – Present 
+Position:   Technical Leader 
+Company:    DOA ) 
+Responsibility: -    Building Personalize app on EKS Fargate and GCloud 
+- Integrate system with CustomCat, ShineOn
+
+Curriculum Vitae of Nguyen Manh Luan 
+3 
+ 
+- Building Personalize Wordpress plugin 
+- Create a design technical solution for all system 
+- Support and training for team members  
+- Review other developer's code and provide feedback on 
+improvement and compliance with acceptance criteria. 
+Techies/Tools: -    Applying Micro-services Architecture 
+- Languages: Golang, PHP (+7.4), Typescript, Javascript, Nodejs, 
+GraphQL, Python, HTML/CSS. 
+- Framework/Lib: VueJS, Laravel, FabricJS, NestJS, Flask, Gin 
+- Database: MySQL, Elasticsearch, Redis. 
+- Payment System: Stripe 
+- Services: Docker, Kubernetes, Gitlab, RabbitMQ, GCloud, AWS. 
+ 
+ 
+May 2018 – July 2020 
+Position:   Senior Software Engineer 
+Company:    GO1 ) 
+Responsibility: -   Work alongside a team of engineers to implement new product 
+features  
+- Create a design technical solution for small and medium features,  
+and assist the Technical  Architect to design big features. 
+- Coach back-end engineers on learning back-end tasks respectively 
+- Peer review other developer's code and provide feedback on 
+improvement and compliance with acceptance criteria. 
+- Adhere to: test-driven development. Help develop and adhere to 
+software engineering guidelines and standards. 
+- Working closely with the Product Manager and Product Designer in 
+Australia during the discovery and delivery phases to fully 
+understand product requirements. 
+- Involved in the fortnightly sprint showcase, demo the sprint goal, 
+and collect feedback from the Product Manager and stakeholders. 
+- Review code team members 
+- Improve current features 
+- Contribute to develop MS TEAMS
+
+Curriculum Vitae of Nguyen Manh Luan 
+4 
+ 
+ 
+Techies/Tools: -    Applying SaaS, Micro-services Architecture 
+- Languages: Golang, PHP (+7.4), Typescript, Javascript, Nodejs, 
+GraphQL., Neo4j 
+- Framework/Lib: Angular, ReactJs, Symfony, Silex, Slim. 
+- Database: MySQL, Elasticsearch, Redis 
+- Services: Docker, Gitlab, RabbitMQ, Azure, AWS 
+ 
+December 2012 – May 2018 
+Position:   Senior Software Engineer 
+Company:    LHV Software  
+Responsibility: -     Investigate and analysis for new features in Expense system 
+- Create a design technical solution for small and medium features 
+- Coach front-end engineers and back-end engineers on learning front-
+end and back-end tasks respectively 
+- Review other developer's code and provide feedback on 
+improvement and compliance with acceptance criteria. 
+- Support and training for team members 
+ 
+December 2011 – November 2012 
+Position:   PHP developer 
+Company:    International Digital Media Vietnam (  ) 
+ 
+April 2011 – November 2011 
+Position:   PHP developer 
+Company:    Playsoft ( ) 
+ 
+March 2009 – April 2011 
+Position:   Freelance  
+ 
+May 2008 – March 2009 
+Position:   PHP developer 
+Company:    Vina Design Joint Stock Company (  )
+
+Curriculum Vitae of Nguyen Manh Luan 
+5 
+ 
+ 
+V. FAVORITE PROJECTS: 
+ 
+Project Assignment:  DASTOMIZE 
+Skill Set Utilized:  PHP 7.4, Docker, RabbitMQ, Mysql, Python, Nodejs, 
+ElasticSearch, VueJS, GraphQL 
+Framework: Laravel, NestJS 
+Third party AWS. GCLOUD, Crisp, Jira, WOO, Shopify 
+Project Duration:  Nov 2020 – At present 
+Members 4 members 
+Roles:  Technical Leader 
+ 
+Project Assignment:  GO1 
+Skill Set Utilized:  PHP 7, Docker, RabbitMQ, Mysql, Neo4j, Golang, Nodejs, 
+ElasticSearch, ReactJS, GraphQL 
+Framework: Silex 
+Third party GrayLog, Nat, DataDog, Scorm, LTI 
+Project Duration:  May 2018 – At present 
+Members More than 20 members 
+Roles:  Senior Software Engineer  
+ 
+ 
+Project Assignment:  Expense Cloud V4 
+Skill Set Utilized:  PHP 5.6, MySQL, Vagrant, Java
+
+Curriculum Vitae of Nguyen Manh Luan 
+6 
+ 
+Framework: Cakephp 3.0 
+Third party Finicity API, Hubspot CRM, Dwolla, Intacct, Netsuite, 
+Quickbooks 
+Project Duration:  June 2015 – Jan 2018 
+Members 8 
+Roles:  Senior Software Engineer + Component Leader 
+ 
+ 
+Project Assignment:  SSO Tool 
+Skill Set Utilized:  Java, JUnit, Mockito 
+Project Duration:  June 2016 – July 2016 
+Members 1 
+Roles:  Senior Software Engineer 
+ 
+Project Assignment:  Expense Cloud + Trinet Marketplace 
+Skill Set Utilized:  PHP/MySQL, HTML/DHTML, CSS Style, JavaScript  
+Framework: Cakephp 
+Project Duration:  October 2013 – June 2015 
+Members 8 
+Roles:  Senior Software Engineer 
+ 
+Project Assignment:   Elearning Online 
+Skill Set Utilized:  PHP/MySQL, HTML/DHTML, CSS Style, JavaScript
+
+Curriculum Vitae of Nguyen Manh Luan 
+7 
+ 
+Framework: Codeigniter 
+Project Duration:  2016 –  2018 
+Members 1 
+Roles:  Software Engineer 
+ 
+Project Assignment:  Fanlabz 
+Skill Set Utilized:  PHP/MySQL, HTML/DHTML, CSS Style, JavaScript , 
+Titanium 
+Framework: Cakephp(API) + Titanium (Mobile)  
+Project Duration:  December 2012 – October 2013 
+Members 2 
+Roles:  Leader 
+ 
+ 
+Project Assignment:  IDM Analytics  
+Skill Set Utilized:  PHP/MySQL, HTML/DHTML, CSS Style, JavaScript  
+Framework: Zend  
+Project Duration:  Jan 2012 – Septemper  2012 
+Members 5 
+Roles:  Senior Software Engineer 
+ 
+Project Assignment:  Travelily, Love Live Travel 
+Skill Set Utilized:  PHP/MySQL, HTML/DHTML, CSS Style, JavaScript
+
+Curriculum Vitae of Nguyen Manh Luan 
+8 
+ 
+CMS: Joomla 
+Project Duration:  August 2011 –  April 2012 
+Members 4 
+Roles:  Software Engineer 
+c1h6EaxMyKOOuxLRVM/edit?usp=sharing  
+ 
+ 
+VI. EDUCATION: 
+2011 – 2014 Master in Information Technology 
+University of Science (227 Nguyen Van Cu Street, District 5,  HCMC)  
+  
+2008 – 2011 Bachelor in Information Technology (university) 
+University of Science (227 Nguyen Van Cu Street, District 5,  HCMC) 
+ 
+2005 – 2008 Bachelor in Information Technology (colleges) 
+University of Science (227 Nguyen Van Cu Street, District 5,  HCMC)  
+ 
+VII. HOBBIES: 
+Entertainment: Reading books, football, Chinese chess, playing games, karaoke, traveling.

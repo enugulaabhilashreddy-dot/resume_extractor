@@ -1,0 +1,302 @@
+CV – TRẦN VĂN TOÁN  
+ 
+THÔNG TIN CÁ NHÂN 
+Họ tên TRẦN VĂN TOÁN  
+Công việc Lập trình viên 
+Ngày sinh 25/02/1988 
+Nơi sinh Nam Định. 
+Giới tính  Nam.  
+Tình trạng hôn nhân Đã kết hôn 
+Địa chỉ liên hệ Bạch Mai, Hai Bà Trưng, Hà Nội 
+Email:                          
+Số điện thoạ 
+I. Học vấn 
+STT Tên trường Chuyên ngành Xếp loại Năm TN 
+1 Trường Đại Học Kinh Doanh 
+Và Công Nghệ Hà Nộ 
+Công nghệ thông tin Trung Bình Khá 2013 
+ 
+II. Kỹ Năng và chuyên môn 
+- 7 năm kinh nghiệm làm việc trong lĩnh vực phát triển w eb và ứng dụng 
+trên nền tảng c#. 
+- Có kiến thức về ngôn ngữ, nền tảng và công nghệ như: 
+Window Service, Console, HTML, CSS, JS, REST, WinForm, WebForm, 
+ MVC, core, SQL Server, React Native, JSON,  XML,   
+Web Api, SPA( angular js, Vuejs, Angular, Blazor) 
+- Có kinh nghiệm làm việc với các nền tảng tương đương s au: 
+C#  (web form, mvc, net core), window( form, se rvice, 
+console),Microservice. 
+Mobile Hybrid Application: React Native 
+Web application: Javascript, Jquery, AngularJs, Kendo UI 
+Datbase: SQL server, MySQL, Postgresql, SQLite 
+IDE: Visual Studio, Visual studio code, Postman, Sql Management, 
+Photoshop, PgAdmin4. 
+- Mô hình làm việc Scrum.
+
+- Sử dụng word, excel, powerpoint, Jira, Trello,Slack, Postman, GitLab, 
+GitHub, Jenkins, Docker. 
+- Design partent: Factory method, Singleton, Strategy P attern, Repository. 
+- Principles: SOLID, RESTFULL 
+- Có thể học hỏi công nghệ mới một cách nhanh chóng 
+- Có thể làm việc độc lập và theo nhóm. 
+- Chịu khó học hỏi và tìm tòi. 
+III. Kinh nghiệm 
+Thời gian Công ty 
+Từ: 5/2020 
+Đến: Hiện tại 
+Công ty: VISECURITIES 
+Vị trí: Full Stack developer. 
+Mô tả công việc: phát triển web, dịch vụ window 
+Từ: 9/2017 
+Đến: 5/2020 
+Công ty: VPBOX. 
+Vị trí: Full Stack developer. 
+Mô tả công việc: phát triển web, console 
+Từ: 2/2017 
+Đến: 9/2017 
+Công ty: VIVU. 
+Vị trí: Full Stack developer. 
+Mô tả công việc: Phát triển web, dịch vụ window 
+Từ: 6/2016 
+Đến: 2/2017 
+Công ty: F88. 
+Vị trí: Full Stack developer 
+Mô tả công việc:  
+• Phát triển web, dịch vụ window. 
+Từ: 5/2015 
+Đến: 6/2016 
+Công ty: Zopost. 
+Vị trí: Application. 
+Mô tả công việc:  
+• Phát triển web, dịch vụ window, console   
+Từ: 4/2014 
+Đến: 5/2015 
+Công ty: IBCT. 
+Vị trí: Full Stack developer 
+Mô tả công việc:  
+• ứng dụng web.  
+ 
+IV. Dự án đã tham gia 
+Thời gian Tên dự án Mô tả dự án
+
+Từ: 5/2020  
+Đến: hiện tại 
+Tên dự án Hệ thống giao dịch trái phiếu 
+Vị trí FullStack 
+Mô tả công việc 
+Fix bug, nâng cấp tính năng giao dịch trái phiếu, hiệu chỉnh Database.  
+Xử lý cuộc gọi đến DVKH. 
+Mô tả dự án Giao dịch trái phiếu 
+Ngôn ngữ 
+C# 
+SQL Server 
+HTML/CSS  
+Javascript 
+MySQL 
+Oracle 
+Kỹ thuật 
+Jquery 
+Bootstrap 
+RabbitMq 
+Singalr 
+SQL-StoreProc 
+SQL-Function 
+SQL-View  
+Công ty Chứng khoán quốc tế Việt Nam 
+Khách hàng Nội bộ và đối tác OCB. 
+Từ: 9/2017  
+Đến: 5/2020  
+Tên dự án:  English E-Learning 
+Vị trí:  Full-stack developer 
+Mô tả công việc:  
+Phân tích  
+Phát triển 
+Tối ưu code, tối ưu Database  
+Triển khai 
+Fix-bug  
+Mô tả dự án:  
+ 
+Học, ôn luyện, thi tiếng anh. 
+ 
+Ngôn ngữ 
+C# 
+SQL Server 
+HTML/CSS
+
+Javascript  
+Kỹ thuật 
+MVC 5 
+Bootstrap  
+Jquery  
+Signalr  
+Entityframework  
+Phaser 
+Angularjs 
+Konva js 
+Stackoverflow Redis 
+Công ty: VPBOX 
+Khách hàng: Cho học sinh trong nhà trường, người mu ốn học tiếng Anh 
+Từ: 2/2017 
+Đến: 6/2017  
+Tên dự án:  ViVu travel 
+Công ty:  Vivu 
+Khách hàng:  Cho các khách sạn 
+Quy mô dự án:  6-8 tháng 
+Vị trí:  Full-stack developer 
+Mô tả dự án:  Đặt phòng, mua đồ, điều khiển thiết bị phòng 
+Ngôn ngữ 
+C# 
+SQL Server 
+Javascript 
+HTM/ CSS 
+C 
+Kỹ thuật 
+MVC 4 
+Window service 
+Jquery 
+Boostrap 
+Fontawesome 
+Arduino IDE  
+Từ: 6/2017 
+Đến: 9/2017 
+Tên dự án: HR 
+Khách hàng: Nội bộ  
+Quy mô dự án: 6 tháng
+
+Vị trí: Full-stack developer  
+Mô tả dự án: Châm công, tính công, tính lương.  
+Used  
+Programming Languages: 
+C# 
+SQL Server 
+Javascript 
+HTM/ CSS  
+Kỹ thuật 
+MVC 4 
+Window service 
+Jquery 
+Boostrap 
+Fontawesome  
+Từ: 6/2016 
+Đến: 2/2017  
+Tên dự án:  Hệ thống cầm đồ 
+Công ty:  F88 
+Khách hàng:  Nội bộ 
+Quy mô dự án:  8 tháng 
+Vị trí:  Full stack developer. 
+Mô tả dự án:  Quản lý nhân sự, trung tâm giao dịch, giao dịch cầm đồ, bảo mật. 
+Ngôn ngữ 
+C# 
+SQL Server 
+Javascript 
+HTM/ CSS 
+Kỹ thuật 
+MVC 4 
+Window service 
+Jquery 
+Boostrap 
+Fontawesome 
+SQL-StoreProc 
+SQL-Function 
+SQL-View 
+Từ: 7/2015 
+Đến: 1/2016 
+Tên dự án:  SMS Gateway 
+Công ty:  Zopost 
+Khách hàng:  Các đối tác của sim Bông Sen  
+Quy mô dự án:  10-12 tháng
+
+Vị trí:  Back-end developer. 
+Mô tả dự án:  Nhận nạp tiền điện thoại, game.., gửi tin nhắn. 
+Ngôn ngữ 
+C# 
+SQL Server 
+Kỹ thuật 
+Window service 
+Rabbit MQ 
+Redis 
+ServiceStack  
+Từ: 2/2016 
+Đến: 6/2016 
+Tên dự án: Hệ thống phân phối và bán lẻ nông thôn BTCOM 
+Công ty: Zopost  
+Khách hàng: Internal  
+Quy mô dự án: 20-30 tháng  
+Vị trí: Full Stack developer.  
+Mô tả dự án: Bán hàng, quản lý kho, quản lý vận chu yển.  
+Ngôn ngữ 
+C# 
+SQL Server 
+HTML/CSS 
+Javascript 
+Redis  
+Kỹ thuật 
+MVC 4 
+Jquery 
+Boostrap 
+Fontawesome 
+Kendo UI 
+ServiceStack  
+Từ: 4/2014 
+Đến: 8/2014 
+Tên dự án:  Cổng thông tin IBCT 
+Công ty:  IBCT 
+Khách hàng:  Internal 
+Quy mô dự án:  2 tháng  
+Vị trí:  Full stack developer. 
+Mô tả dự án:  Cổng thông tin công ty 
+Ngôn ngữ 
+SQL Server 
+HTML/CSS 
+C#
+
+Javascript 
+Kỹ thuật 
+MVC 3 
+Jquery 
+Từ: 8/2014  
+Đến: 12/2014  
+Tên dự án:  IBCT Golf 
+Khách hàng:  Internal 
+Quy mô dự án:  3 tháng 
+Vị trí:  Full stack developer 
+Mô tả dự án:  Lưu trữ thông tin giải đấu, điểm số, tính điểm, xếp hạng các golf thủ. 
+Ngôn ngữ 
+SQL Server 
+HTML/CSS 
+C# 
+Javascript 
+Kỹ thuật 
+MVC 3 
+Jquery 
+Bootstrap 
+Từ: 12/2014  
+Đến: 5/2015 
+Tên dự án: Whole sales Talk PC Version  
+Khách hàng: Our source for BMX 
+Quy mô dự án: 5 tháng 
+Vị trí: Back-end developer 
+Mô tả dự án: Quản lý thông tin người dùng, quản lý thanh Đếnán giao dịch. 
+Ngôn ngữ 
+SQL Server 
+HTML/CSS 
+C# 
+Javascript 
+Kỹ thuật 
+MVC 3 
+Jquery 
+Bootstrap 
+Fontawesome 
+ 
+V. Mong muốn 
+- Công việc ổn định, thu nhập và đãi ngộ xứng đáng với công sức bỏ ra. 
+- Đồng nghiệp hoà đồng. 
+- Làm giờ hành chính, có thể OT nếu cần. 
+- Không làm việc sai pháp luật. 
+- Môi trường làm việc tốt. 
+VI. Người liên hệ
+
+Họ tên: Trần Xuân Trường 
+Công ty: VISECURITIES 
+Vị trí: Trưởng phòng 
+Điện thoại:

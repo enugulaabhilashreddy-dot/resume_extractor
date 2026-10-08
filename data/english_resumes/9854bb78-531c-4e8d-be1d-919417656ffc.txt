@@ -1,0 +1,125 @@
+Personal Profile  
+ 
+Full Name  : Doan Minh Hoang  
+Birthday :  Jan 03 st 1983  
+Years old : 40  
+Address : 128/55/1/22 Ly Van Sam street, Bien Hoa city, Dong 
+Nai province. 
+Tell   : 0251 3 813 856  
+Hand phone  :  
+Email address:  
+Sex  : Man  
+Marital status: Married  
+Folk  : Kinh  
+Nationality : Viet Nam. 
+ 
+Experience Summary 
+ Database System: RDBMS SQL Server, PostgreSQL, MySQL, Oracle 
+ Administration system:  Windows OS Server, Linux OS Server, ERP system 
+ Program language:  C#, Java script,  Core, Artificial Intelligence 
+ IT Infrastructure: Lan, Wan, TCP, Wireless, Load balance, Firewall, 
+Cluster, IIS Server, Mail Server,  Linux OS Server, Modbus over TCP/IP, 
+Cloud Server, VM Server, VM vSphere ESXI/VCenter 
+Experience 
+On 2024 
+ School: Nguyen Tat Thanh Universiry 
+ Address: 12 District, Ho Chi Minh City. 
+ Position: Lecturers information technology department - Artificial Intelligence 
+ Description Job: Teaching subjects of artificial intelligence.  
+On 2022 November to 2023, November 
+ Company: IConTech Company Limited 
+ Address: 7 District, Ho Chi Minh City. 
+ Position: IT Manager 
+ Description Job 
+ Lead Mobile Team
+
+o Development App, fix-bug, upgrade version with flutter platform, Swift 
+Code language.  
+o Deployment App to App Store (IOS) and Google Play Store (Android). 
+ Lead WebApp Team. 
+o Development software, Website, WebApp,  and fix-bug ERP system 
+ Lead and programing backend, API Restfull programming, Database 
+programming, MS SQL Server administration, Server Cloud management 
+ Management Network-Server System 
+On 2018, May to Now  
+ School: Hoa Binh Xuan Loc College 
+ Address: Trang Bom district, Dong Nai province 
+ Position: Lecturers information technology department 
+ Description Job: Teaching specialized information technology subjects 
+On 2019 May to 2022, November  
+ Company: Dien Quang Lamp Joint Stock Company (Dien Quang) 
+ Address: High tech industrial zone 
+ Position: IT Management  
+ Description Job  
+ Lead Mobile Team  
+o Development App, fix-bug, upgrade version with android java, Xamarin 
+C# language.  
+o Deployment App to App Store (IOS) and Google Play Store (Android). 
+ Lead WedApp Team 
+o  Development WebApp, build and fix-bug homecare eco system, 
+DienQuang CRM 
+ Backend programming, API Restfull programming, Database programming, 
+RDBMS,  NoSQL administration 
+ CloudServer, Network-Server management; Router, Firewall management 
+ eCommercial system management 
+On 2017,  October to 2019, May  
+ Company  : Dong Tien Joint Stock Company (Dovitec) 
+ Address  : Amata industrial zone , Bien Hoa city, Dong Nai province 
+ Position : IT System Supervisor 
+ Description Job:  
+ Handling, Controll Network Computing: Lan, Wan to Conect betwent branchs 
+ DataBase Administrator: SQL Server 
+ Software Development: HR Software, ERP Bravo
+
+On 2017,  May to 2017, October  
+ Company  : Shiseido Company 
+ Address  : Amata industrial zone , Bien Hoa city, Dong Nai province 
+ Position : IT System Specialist 
+ Description Job: Programming Product Management Software  
+On 2014, September to 2017, May 
+ Company: Brother Industries Sai Gon company limited (BIL) 
+ Address  : Amata industrial zone , Bien Hoa city, Dong Nai province 
+ Position: IT Team leader 
+ Brother Industries Sai Gon company limited (BIL) 
+ Business analyst, design software, design database, programming all 
+software in company, and corporation.  
+o CPROD – CNC Production management: Automatically update 
+planning information between electronic board and server, Display 
+information about plan and performance on mobile portal and TV 
+o POM (Purchasing Order Management: Management delivery 
+time, order time, create PO, PR 
+o VASB  - Viet Nam Accounting System BISG: The company 
+make changes American's accounting system to Viet Nam's accounting 
+system 
+Education    
+ 2015 - 2017 : Master Science of Computer (MSc) 
+Scientific research: Internet of Things (IoT), Hadoop Framework with 
+MapReduce: Approximate similarity search (MapReduce) (Big Data), Data 
+mining, Business Intelligence (BI)  
+ 2003 - 2010: Bachelor Degree of Information technology. 
+Network computing, Software technology, Database administration 
+Short Courses 
+ On year 2012:  
+ Marketing social for enterprise 
+ Financial Management for Social Enterprises 
+ Leader skills 
+ Building planning and Project management 
+ Management human resource 
+ On year 2011:  
+o Course English at Sydney English Language Center. Sydney city, Australia 
+o Course Corporation Accounting  
+ On year 2010:  
+o Start up a Business 
+o Individual social applications skill to solve some social problems
+
+o Team working skills 
+Short skills 
+ Management. 
+ Leadership.  
+ English – Elementary – Read document in majors 
+ Presentation  
+Other Activity 
+ On year 2012 - Member of SSEC, CShip 
+ On year 2010 - Job counseling for disability 
+ On year 2004 - Member of VietUc Family - VietUc Scholarship 
+ On year 2003 - Member of DRD Center

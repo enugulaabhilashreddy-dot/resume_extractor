@@ -1,0 +1,133 @@
+Trần Quang Tri
+7576
+24/09/ 
+Ward 03, Go Vap District, 
+❖ Full-stack developer with 6+ Years of work experience in the software development. 
+❖ The leader with 2+ years of work manage <5 members on the team
+❖ Now I’m Head of IT with team <10 Member, extensive technical and team management experience 
+help the team grow upskill
+❖ Good spirit of learning, good at solving logical issues, handling interface, user experience and 
+performance for applications
+- Work with an IT team of over 100 members from 2 countries: VietNam, Thailand to design, develop and 
+operate the company’s products. Become the team leader of development team and acting IT manager 
+to manage team to implement service’s company
+- Manage stack: leadship,Project management, .Net, MuleSoft, Informatica, Oracle, sql server
+- Project:
+• Gofirst: [Technical lead] Successfully lead internal and outsource team develop to implement MDW 
+to change all store's POS systems of supermarket >200 stores, >500 POS physical. Contribute to the 
+success of the project as well as bring a new language into the IT team.
+• Einvoice: [Project Manager] Successfully lead internal and outsource team develop and external 
+vendor to develop new form electronic invoice with >100K items, >3 BUs
+• WMS [Project Manager] Successfully lead internal and outsource team develop to implement MDW 
+to change from manage warehouse internal to partner DHL.
+• Order Management System: [Product Manager] manage team to build online order management 
+system, manage online orders from Go's (BigC) partners: Grab, Now, Beamin, Zalo, Tiki, BigC App) 
+Using Reactjs and .Net as backend
+• Management: Manage the development team to maintain internal applications, perform services in 
+accordance with business requirements.
+• Operate: manage develop team to maintain batch jobs in-house and operation team coordination ( 
+>10 members) to monitor the service. Successfully lead biz support team to work through COVID 19.
+- Achievement:
+• Manage my employees, help them solve problems, create favorable conditions for employees to 
+learn and develop themselves according to their career path
+• Partner management ( ThaiSon, Fsoft, DHL,..)
+• Understand retail industry business model
+• Certificate of merit from the corporation for the completion of the MDW construction project.
+• Proficient in project management and plan management to ensure project progress
+Central Retail VietNam Sep 2017 – Feb 2022
+Application Lead | acting IT Manager
+- Work with an IT team of over 100 members from 3 countries: VietNam, Taiwan and China to design, 
+develop and operate the company’s products. Become the team leader of winform application projects
+- Tech stack: Powerbuilder, Talend, Oracle, Sqlite ...
+- Project:
+• Pettycash system: small expenses Management winform application using PowerBuilder.
+• AIS system: financial accounting management system winform application using PowerBuilder.
+• Integration: Integrate data between AIS and ERP, and between other systems in company 
+- Achievement:
+• Successfully to apply Talend ( ETL) in company.
+• Understand the biz user and how to solve their problems
+• Know how to manage the oracle database and how to design the new database 
+• Completed 5/6 level for the company skills test
+PouYuen VietNam Mar 2012 - Jul 2017
+Full-stack developer
+Work Experience
+Education
+VNUHCM-University Of Science
+information system
+Skills & Competencies
+Oracle | mysql | sql server | sqlite
+Powerbuilder | C# .Net
+Talend | Tibco | Informatica
+Rest API | MuleSoft
+Git | SVN | ELK | Linux
+Figma
+CIO coaching Mar 2021 – Dec 2021
+2011College
+University 2014
+Language
+Vietnamese                                English
+Native                                          Intermediate
+Interests
+Football | Technology | Travel 
+Photography | Video Games | 
+Trekking
+Leadship
+Business Analyst
+Planing
+Project management 
+Service Management
+Partner Management
+Tech
+Management
+Career objective
+- Looking for opportunities in the retail industry, applying my skills to bring value to the company
+- Short term to improve skill management, grow up to head of IT, and become the CIO in the future
+Full-stack developer 
+- Tech stack: .Net, MuleSoft, Informatica, Oracle, sql server
+- Project:
+• Contract Management System: Contract Management System manage the supplier’s contract and 
+TC Using C# winform
+• In-House reporting: implement in-house app ( web app, winform application), build reporting to user 
+needs.
+• Integration: implement the integration of all company’s internal system and external system
+• Operate: maintain batch jobs in-house and operation team coordination ( >10 members) to manage 
+the service. 
+- Achievement:
+• Understand the Business process and core system
+• Advise business solution to solve the issue
+• Analysis the business requirement and deliver product to solve the user experience 
+CIO coaching 
+( Assistant)
+Mar 2023 – Present
+KHAI PHAT INTELLIGENT MART – KPSMALL & KIMART Feb 2022 - Present
+Head Of IT
+- This is a startup company, it's like a 24h supermarket but goes in the clean food segment, organic food. 
+- Work with an IT team of 5 members and over 5 partner provide the service to design, develop and 
+operate the company’s products. Provide professional advice to departments, contribute to consulting 
+BOD to make business strategy decisions
+- Work with an MKT team of 5 members to graphic design for media channels, build content for socials, 
+analysis the data as behavior customer go to the channels.  
+- Work with CEO to design prototype by figma to provide software development outsourcing team
+- Manage stack: leadship,Project management, .Net, PHP, Flutter, angular , my sql, postgresql
+- Project:
+• Mobile Application: Manage the software development outsourcing team, ensuring they comply with 
+the design and requirements of the company. The application have submit to Appstore name like 
+“KPSMALL”, “KIMART”. 
+• WEB application: Successfully lead internal team to implement website application by Haravan 
+partner ( ).
+• WMS & TMS: Successfully lead internal, outsource team and partner team develop to implement 
+application  to manage warehouse internal.
+• Offline Store: Successfully lead team and partner team to implement system (software & hardware). 
+Contribute to the success of the project as well as bring a new business model into the company.
+• MKT: Successfully lead content & design internal team to build the channels ( facebook, tiktok, 
+youtube, SEO google).
+• Management: Manage the development team to maintain internal applications, perform services in 
+accordance with business requirements. 
+• Operate: manage team to maintain application and operation team coordination ( >10 members) to 
+monitor the service. 
+- Achievement:
+• Manage my employees, help them solve problems, create favorable conditions for employees to 
+learn and develop themselves according to their career path
+• Partner management ( TKLog, CloudAZ, getfly, kiotviet, haravan,Bitton,Inovator ....)
+• Understand retail industry business model
+• Proficient in project management and plan management to ensure project progress

@@ -1,0 +1,207 @@
+Contact Information: DUONG HUU KIEU | District 2 | Phone:  | Email:  
+DUONG HUU KIEU 
+Leader in IT Team, Expert Network System Specialist, Over 10 Years of Mastery 
+PROFESSIONAL SUMMARY 
+Up to now, with a journey of extensive experience in the field of 
+Information Technology, I am proud of the achievements I have 
+achieved in leadership roles in IT departments of large corporations. 
+My confidence stems not only from my ability to adapt quickly to a 
+diverse work environment, but also from my ability to plan, analyse 
+deeply, and solve problems intelligently. Praise from superiors and 
+respect from colleagues are things that often appear in my career. 
+Good communication skills not only help me express ideas 
+accurately but also create a positive and collaborative work 
+environment. Discipline and professionalism are qualities that I 
+always adhere to, helping me maintain respect and credibility in the 
+work environment. Furthermore, I believe that sharing knowledge is 
+not only a way to promote personal success but also a driving force 
+to promote the development of the entire professional community. 
+ 
+EXPERIENCE SUMMARY AND SKILLS 
+I am an experienced IT professional with a diverse skill set and deep expertise in various domains. Below 
+are my key achievements and skills: 
+- Server System Administration and Virtualization 
+I have vast experience in managing physical servers from leading manufacturers such as HP, Dell, IBM, as 
+well as virtualized server environments by deploy virtualization platforms such as VMware ESXi and Hyper-
+V . With many years of experience, I have participated in many important and successful projects in deploying 
+and maintaining complex server systems. In addition, I also have experience operating servers on datacentres 
+of service providers such as Viettel and FPT. 
+- Server Management for Enterprise Resource Planning (ERP) Systems 
+In the role of server management for ERP systems, including applications such as SAP, Exact Globe, Bravo 
+and MISA, I ensure that the system's operation is the system runs smoothly and stably. By carefully 
+managing servers and periodically backing up data, I ensure that important information is always protected 
+and available when needed. In addition, I also maintain connection bandwidth to the server to ensure system 
+performance is always stable and customers can access quickly and easily. 
+- Email and Server Administration 
+As an email server manager, I ensure that email services always operate smoothly and stably on physical 
+servers as well as cloud-based email platforms. like Microsoft 365. I deploy and maintain email systems like 
+MDaemon and IMail to ensure that users can send and receive emails efficiently and without interruption. 
+At the same time, I also establish and promote email usage policies to ensure that the organization's email 
+activities are consistent with the organization's goals and standards. These policies not only help protect 
+important information but also create a professional and safe working environment for all employees. 
+- Infrastructure Management 
+In infrastructure management, I not only deploy and monitor wired networks, but also manage wireless 
+network infrastructure using centralized management controllers from leading brands such as Cisco, Ruckus 
+and Aruba. I am responsible for establishing Wi-Fi usage policies for employees and customers, to ensure 
+the security and performance of the Wi-Fi network. By optimizing the infrastructure, I ensure that 
+maintenance costs are minimized, while providing a stable and quality network environment for the entire 
+organization. 
+- Network Security 
+Relying on firewall devices such as Fortinet, Cisco, Meraki, and Sophos, I can deploy many network security 
+policies. These policies include access prohibition, application control, VPN management, attack protection,
+
+Contact Information: DUONG HUU KIEU | District 2 | Phone:  | Email: 
+and data encryption. By establishing and following these policies, organizations can increase the security of 
+their network infrastructure, prevent cyber threats, and keep critical data safe. At the same time, I also deploy 
+Symantec anti-virus programs to protect the system from malicious threats. 
+- Storage Administration 
+I have diverse experience in deploying, configuring, and managing storage systems, especially SAN/NAS 
+devices from brands such as HP and Synology, to meet the storage expansion needs of businesses. Using 
+SAN/NAS solutions, I have built efficient, flexible, and scalable storage systems. At the same time, 
+optimizing performance and ensuring data availability is always a top priority in the management process. 
+- Data Security 
+For data security, I deploy diverse backup and recovery solutions, including tape, hard drive and cloud 
+storage using the most powerful backup software today such as Veeam Backup, Symantec. Additionally, I 
+have implemented backup strategies including rotating backup plans and offline storage to ensure 
+redundancy and data integrity. These measures not only protect against data loss but also enable quick 
+recovery in the event of system failure or data corruption. Furthermore, I enhance data security through 
+strong encryption protocols and meticulous access controls, ensuring that sensitive information is protected 
+from unauthorized access or modification. 
+- Budget Management 
+Regarding budget management, I undertake planning based on annual fixed costs such as system upgrade 
+plans, software license costs, and IT-related costs. I also regularly monitor and evaluate spending against the 
+annual budget to ensure that resources are allocated effectively. In addition, I also consider, and handle costs 
+incurred when implementing unplanned projects, working closely with other departments to solve 
+unexpected challenges. 
+- Project Management 
+Project management plays an important role in ensuring projects are implemented effectively and 
+successfully. I usually approach project management by planning carefully, preparing detailed plans, and 
+conducting regular progress monitoring. I also act as an intermediary, coordinating with contractors and 
+other departments in the company to ensure harmony and efficiency during project implementation. When 
+problems arise, I ensure that they are resolved quickly and accurately so as not to affect the progress and 
+quality of the project. In this way, I help bring projects to success and meet the company's business goals 
+effectively. 
+- Strategic Planning and Leadership 
+With leadership and strategic planning skills, I skilfully lead teams and assign tasks based on proposed plans. 
+I inspire and motivate team members, ensuring everyone is aligned towards our strategic goals. By making 
+smart decisions, I guide projects to successful outcomes. 
+- Problem Analysis and Resolution 
+I am good at systematically analysing and solving problems, suggesting creative solutions and monitoring 
+performance for continuous improvement. This capability also includes providing excellent user support, 
+which is consistently appreciated by colleagues. 
+ 
+WORK EXPERIENCES 
+NOVA E&C (NOV ALAND) - IT Leader       
+Ho Chi Minh City - Dec 2017 – Present 
+ Achievements & Contributions 
+- Successful Deployment of Stable Connectivity Infrastructure: Between the main office, factory, and 
+approximately 9 small sites connected to the Viettel’s datacenter, including management of domain 
+servers, centralized data storage infrastructure, and scheduled backup systems. 
+- Successful preparation and Office Relocation: Minimized disruptions during the relocation process. 
+Also, deploying network infrastructure when new projects arise. 
+ Responsibilities
+
+Contact Information: DUONG HUU KIEU | District 2 | Phone:  | Email: 
+- I am responsible for reporting on Information Technology issues to the General Manager and Director 
+and recommending Information Technology solutions. 
+- I oversee IT operations for more than 250 employees at various locations, including main offices, 
+factories, and offices in buildings under construction. 
+- I manage server infrastructure to ensure compliance with performance and security standards, including 
+monitoring servers at Viettel's datacenters and monitoring connections between office servers and 
+datacenters. materials to minimize disruption. 
+- I operate Fortinet firewall devices to monitor network performance and transmission channels, as well 
+as establish reliable VPN connections from branches into Viettel's datacenters. 
+- I manage a team of 2 members, planning, supervising, and supporting the team in the process of 
+implementing tasks from superiors as well as requests from users. 
+- I play a key role in preparing the IT department's annual budget, performing a thorough assessment of 
+project requirements, and effectively allocating resources. 
+- I work closely with the corporate IT team to ensure alignment and consistency in IT strategy and 
+initiatives. 
+ 
+TỔNG CÔNG TY PHÁT ĐIỆN 3 (EVN GENCO3) - IT Engineer 
+Ba Ria – Vung Tau Province - Jul 2016 – Nov 2017 
+ Achievements & Contributions 
+- In my role, I played a crucial part in the success of the project to transition the network infrastructure 
+from wired to wireless, alongside deploying a centralized controller system. By offering innovative 
+solutions, drafting detailed proposals, and executing the configuration and operation steps for Cisco's 
+Wi-Fi controller infrastructure, I contributed significantly to enhancing employee productivity and 
+fostering flexibility and cost savings. Within this plan, I developed a model comprising 15 access points 
+and 1 centralized controller. Additionally, I identified and configured bandwidths for user groups within 
+the system as well as for customer groups, ensuring optimal performance and network connectivity 
+experience. 
+- In addition to deploying the Wi-Fi controller solution, I also implemented a backup system using HP 
+tape drives, providing effective backup and timely recovery solutions for the business. This robust 
+backup infrastructure has ensured the security of critical organizational data and minimized the risk of 
+data loss, thereby enhancing resilience in case of incidents. 
+ Responsibilities 
+- Ensure the stable operation of the entire server infrastructure, including the domain, email server, CCTV 
+system, and SCADA transmission channel to EVN Corporation, to establish a seamless connection 
+between the office and the Vietnam Electricity Corporation. 
+- Report operational progress to the leadership team and department heads, ensuring continuously updated 
+information and coordination in work management and coordination. Simultaneously, provide support 
+to affiliated units in operations. 
+- Provide information technology support to approximately 100 users, including office staff working in 
+the factory area, to ensure seamless and uninterrupted operations. 
+- Organize online training sessions and business meetings to facilitate effective communication and 
+cooperation within the organization, among EVN Corporation, the Corporation, and its affiliated units. 
+This is achieved through managing Polycom video conferencing equipment. 
+ 
+INTERWOOD VIET NAM - IT Leader 
+Binh Duong Province - Feb 2011 – May 2016 
+ Achievements & Contributions 
+- Deployment of Wireless Network Infrastructure: I spearheaded the deployment of wireless network 
+infrastructure across the entire factory premises, aiming to enhance work efficiency and connectivity 
+between devices and systems. 
+- Cost Reduction Measures: I implemented cost reduction measures by leveraging open-source solutions 
+such as OpenOffice, effectively optimizing budgets while improving work productivity. 
+- Successful Office Relocation: I successfully organized the relocation of the main office by coordinating 
+with departments and overseeing contractor supervision, ensuring the timely completion of the project.
+
+Contact Information: DUONG HUU KIEU | District 2 | Phone:  | Email: 
+ Responsibilities 
+- Reporting to Department Head: Regularly providing updates to the Department Head, including 
+information on network activities and user support services, and collaborating to address departmental 
+needs and goals. 
+- Network Infrastructure Management: Supervising the management of network infrastructure, which 
+includes domain servers, the internal email system (IMAIL), the ERP system (Exact Globe), and other 
+IT systems such as the camera system and attendance machine system. 
+- User Support Services: Delivering high-quality support services to approximately 250 users at the main 
+office within the factory premises, ensuring they receive assistance via internal phone lines or email. 
+ 
+EDUCATION 
+- Ho Chi Minh University of Technology (HUTECH) - Year of Graduation: 2010 
+- Nhat Nghe (Certifications: CCNA, MCSA, MCSE) – 2008 
+ADDITIONAL 
+- ISO 27001: Information management and data security. 
+- Tender management and negotiation with clients. 
+- Team management and collaboration with related departments. 
+- Budget and asset management: Optimizing resources and costs. 
+- Strategic planning: Setting goals and development directions. 
+- Effective work management: Organizing and managing time and tasks flexibly and efficiently. 
+- Project management: Coordinating, monitoring, and evaluating project progress. 
+- Problem Analysis and Resolution. 
+- programming 
+- C++ programming 
+- Object-oriented programming 
+- SQL Server and database management 
+- Data structure 
+- Logical thinking 
+ 
+CAREER GOALS  
+- Become a leading expert in the field of Information Technology 
+- Master new technologies and apply them creatively and effectively. 
+- Participate in challenging projects to maximize leadership and problem-solving skills. 
+- Contribute to organizational success and promote personal development. 
+- Guide and share knowledge with colleagues and team members. 
+- Committed to continuous learning and personal development to become a visionary professional who 
+positively impacts both the organization and the community. 
+ 
+REFERENCES 
+By seeking feedback from these two individuals, you can gain a comprehensive understanding of my work 
+performance and receive evaluations regarding my professional competency. 
+ Mai Van An 
+- Position: Director 
+- Email:  
+ Nguyen Thi Trang 
+- Position: Human Resources Manager 
+- Email:

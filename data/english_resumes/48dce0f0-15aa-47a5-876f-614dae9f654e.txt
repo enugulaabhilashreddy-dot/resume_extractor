@@ -1,0 +1,118 @@
+LÝ CHÍ BẢO
+115 Pham Huu Lau, Ph inh City ·
+I'm currently a DEVOPS at Ban Vien. My main task setup deploy and maintenance CICD system
+and develop environment. As DEVOPS I can define CICD for deploy software fast and more
+stable. With skill developer from previous job I can fix hard bug or performance code, and
+with knowledge in presales IT I can build and maintenance all system, resolve error and give
+company a solution IT for work.
+EXPERIENCE
+DATES FROM 04/2013 – TO 04/2018
+NHAT TIEN CHUNG IT TELECOMS CO.,LTD
+PRESALE, IT HELP DESK, SYSTEM ADMIN
+ Development, troubleshooting system network, wifi, analog/voip phone, video
+conference, software for company and branch offices.
+ Technology advice, support for customer.
+ Training new technology for sales and colleague.
+ Other administrative duties as required by General Manager.
+DATES FROM 06/2018 – TO 05/2020
+TINHVAN CONSULTING
+DEV, IT HELP DESK, SYSTEM ADMIN, DBA
+ Maintenance system(server, network, wifi, analog/voip phone) and software(jira, visual
+SVN, gitlab, jenkins, helpdesk, VPN, ...) at company
+ Maintenance software and database environment test, uat, live
+ Suggest, deploy, training my company use Jenkins, gitlab.
+ Deploy company's software to customer.
+ Write document and technology advice, support for custommer.
+ Work as developer 9 project 8 project , 1 project
+ Work as perfomence test(using jmeter) 1 project
+ Work as system deploy 1 project.
+ Mentor new member 1 .net developer, 1 system admin
+DATES FROM 05/2020 – TO 03/2022
+SUTRIX SOLUTIONS
+DEVOPS
+ Installation, and maintenance of systems hardware and software and related
+infrastructure
+ Technical research and development to enable continuing innovation within the
+infrastructure
+ Work with many CMS framework, mobile phone app with difference programming
+language
+ Framework: wordpress, drupal, magento2, opencms, umbraco, Adobe Experience
+Manager (AEM), sitecore, salesforce, flutter, react native
+
+2
+ Setup, configure integrate log management, application monitoring
+ Project:
+ AEM: 5 project and ~4-6 project maintenance. 1 project upgrade from aem 6.3 -
+6.5. 2 project use aem cloud
+ Sitecore: 4 project(1 use xm, 3 use xp1) 2 project setup in onpremise, 2 project
+setup in azure appservice)
+ Magento2: 3 project(1 use magento cloud, 2 use onpremise)
+ IOS, andoird: 4 project(1 use fluster)
+ AWS: 2 project using ECS
+ Azure: 2 project 1 sitecore, 1 umbraco and using azure devops for deploy
+ Wordpress, drupal, umbraco, nodejs: ~45-50 project
+ Setup proxy mail, samba, github for blocking push code
+ Mentor new member 2 IT helpdesk, 2 devops
+DATES FROM 03/2022 – 04/2022
+GIANTY VIETNAM CO., LTD
+DEVOPS
+ Write a terraform project to deploy magento to aws ec2, with other service
+ Suggest solutions Varnish Cache cluster to resolve cache not hit in production a project
+with demo solutions
+DATES FROM 04/2022 – NOW
+BAN VIEN CORPORATION
+SENIOR DEVOPS
+ Join in a project of insurance client that type is project in house with microservices
+architecture.
+ Operate that software with muiltipe environment, develop team, department,
+vendors,... Define some process for operate some api core, full application. Improve
+time build, automative some process deploy, centralize runtime configure and document
+and sharing in team.
+ Define process, rewrite jenkins script to one framwork for build all api in project.
+ Define process, write a template kubernetes to generate yaml.
+ Define process, deploy distributed tracing, logs.
+ Writing some job for manage secret data, debug.
+ Setup new environment for other work stream.
+ Backup restore database.
+ Mentor a new member.
+EDUCATION
+2011-2013
+INTERMEDIATE PROFESSIONAL APPLICATIVE INFORMATICS, CAO THANG
+TECHNICAL COLLEGE
+I graduated with a very good rating
+SKILLS
+SYSTEM
+ Knowledge email, DNS, DDNS
+
+3
+ Experienced to build/implement/maintain Server(HP, Dell, IBM, Supermicro) & Storage
+solutions(NAS, SAN, DAS, tape, block storage, file storage, object storage)
+ Have capacity of managing switch, router, VoIP, analog PBX, Wi-Fi marketing, , camera
+analog/ip,...
+ Can work with operating system: windows server, ubuntu, centos, macos, Oracke Linux,...
+ Experienced in Virtualization products (VMware, Hyper-V, Citrix, KVM), able to consults
+and provide flexible solutions to customers.
+NETWORK
+ Knowledge load balancer (HAproxy, nginx), router(Cisco, HP, Draytek, Mikrotik, pfsense)
+ Network service: VLAN, DHCP, DNS, proxy
+DEVOPS
+ Experienced using and management: jenkins, gitlab, azure devops, sonar, jira, visual SVN
+server
+ Experienced database management: Oracle, MSSQL, Mysql, postgresql, mongodb, ..
+ Web server: apache2, nginx, IIS
+ Container: dockerfile, docker compose, kubernetes, docker swarm, mesos, jforg,...
+ Can use cloud: aws, azure, Hosting, VPS
+ infrastructure as code: terraform
+ Monitoring: New Relic, Application Insights, grafana, ELK, Graylog,, appdynamics
+PROGRAMMING LANGUAGE
+ OS: powershell, bash.
+ Programming: groovy, nodejs, SQL, C#, , MVC, javascript, cs, python
+ Configure, automation: groovy, terraform, ansible
+ Performance test: Jmeter
+OFFICE
+ Computer skills – MS Word, Excel, Power Point and Outlook
+ACTIVITIES
+ Reading novel and detective story
+ Listening to music
+ Running
+ Football

@@ -1,0 +1,130 @@
+/
+NGUYỄN HỮU TÙNG
+  
+ 
+LẬP TRÌNH VIÊN JAVA, .NET
+Nam
+S201.12A26 Vinhomes Smart City, Tây Mỗ, Nam Từ Liêm, 
+Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+Hơn 07 năm kinh nghiệm với 05 năm làm việc ở vị trí lập trình viên, Devlead và PM tại công ty Cổ phần Rikkeisoft, tôi 
+thành thạo Java, .Net, Laravel Framework, MySQL, Oracle, Postgresql và có kiến thức tốt về OOP.  
+Tôi mong muốn có thể sử dụng khả năng của mình, đồng hành cùng các đồng nghiệp xây dựng thành công các hệ 
+thống phần mềm tốt nhất và có thêm nhiều kinh nghiệm làm việc hữu ích. 
+Môi trường làm việc với nhiều thử thách và cơ hội phát triển là động lực để tôi phấn đấu trở thành một lập trình viên, 
+một Technical, một nhà quản lý giỏi . 
+HỌC VẤN
+Trình độ:
+Loại tốt nghiệp:
+- TRƯỜNG ĐẠI HỌC XÂY DỰNG CÔNG NGHỆ PHẦN MỀM
+Kỹ Sư
+Khá
+KINH NGHIỆM
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+-
+Mô tả
+-
+  CÔNG TY CỔ PHẦN RIKKEISOFT ONSITE VIETTEL SULOTION
+- Tham gia qui trình phát triển phần mềm các dự án, trực tiếp quản lý các nhân sự 
+sang VTS onsite 
+- Qui mô nhân sự: 20 người 
+- Framework sử dụng: zk framework, spring boot, angularJS 
+- Cơ sở dữ liệu: Oracle 
+- Các kỹ thuật liên quan: Elasticsearch, mapbox, jxls reader 
+Dự án tiêu biểu xuất sắ 
+  CÔNG TY TNHH RIKKEISOFT DEVELOPER DỰ ÁN RADA VHT
+- Tham gia phát triển phần mềm radar của hải quân, code trực tiếp bên back-end 
+- Framework sử dụng: Spring boot, spring data jpa, docker, kubernetes 
+- Cơ sở dữ liệu: Postgresql
+  CÔNG TY TNHH RIKKEISOFT MOT (PHẦN MỀM QUẢN LÝ THÔNG 
+TIN VÀ ĐẶT PHÒNG KHÁCH SẠN)
+- Tham gia maitain phát triển phần mềm, devlead đội phát triển dự án 
+- Qui mô nhân sự: 10 người
+
+/
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+-
+ Qui mô nhân sự: 10 người 
+- Framework sử dụng: Spring boot, spring data jpa, vuejs, docker 
+- Cơ sở dữ liệu: SQL server
+  CÔNG TY TNHH RIKKEISOFT CPAYMENTSYSTEM PROJECT
+- Tham gia xây dựng và phát triển phần mềm quản lý thông tin khách hàng và thông 
+tin quản lý vé tàu của khách hàng 
+- Framework sử dụng: Java Spring boot, Spring data jpa 
+- Cơ sở dữ liệu: Postgresql 
+Sau một thời gian dài onsite thì đầu năm 2019 tôi về công ty và bắt đầu chuyển sang 
+làm java và đã tìm hiểu Spring boot, một framework hỗ trợ cho rất nhiều dự án sau 
+này
+  CÔNG TY TNHH RIKKEISOFT ONSITE PANASONIC R&D VIETNAM 
+- Tham gia phát triển phần mềm LMS (Laze maker sulotion), phần mềm in mã vạch 
+lên bo vi mạch bằng máy bắn laze của Panasonic 
+- Framework sử dụng: .Net WPF, Entity framework 
+- Cơ sở dữ liệu: SQL server 
+- Sử dụng các nền tảng nhận diện hình ảnh của bên thứ 3 Halcol 
+- Kết nối với camera Keyence để xác định mã vạch 
+Onsiter việt nam xuất sắc nhất 
+  CÔNG TY TNHH RIKKEISOFT ONSITE MYTRAX VIETNAM (TP HỒ 
+CHÍ MINH)
+- Tham gia phát triển và maintain app mobile Sakenomy (Phần mềm giới thiệu các 
+sản phẩm rượu của Nhật bản) 
+- Framework sử dụng: Xamarin Platform IOS & Andoird, ASP API, Entity framework 
+- Cơ sở dữ liệu: SQL server 
+- Sang đầu năm 2017 được khách hàng tin tưởng nên đã điều vào onsite trực tiếp 
+cùng team dự án ở trụ sở tại TP Hồ Chí Minh trong 6 tháng 
+Nhân viên trẻ xuất sắc năm 
+  CÔNG TY TNHH RIKKEISOFT ONSITE NITSU SYTEM VIETNAM
+- Tham gia maintain phần mềm quản lý nhân sự của công ty 
+- Framework sử dụng: ASP Webform 
+- Cơ sở dữ liệu: SQL server 
+Khách hàng đánh giá tốt
+  CÔNG TY TNHH RIKKEISOFT ONSITE BEETSOFT VIETNAM
+- Tham gia phát triển hệ thống quản lý dữ liệu đặt bàn ăn
+
+/
+Thành tích đạt được
+Mô tả
+-
+g p g q ý
+- Sử dụng .Net WPF, Entity framework và SQL server để lưu trữ cơ sở dữ liệu
+- Nghiên cứu các kỹ thuật khó như kéo thả hình ảnh, lưu trữ xem video và xử lý dữ 
+liệu đẩy ra file .xml cho bên mobile, ipad sử dụng làm đầu vào 
+Dự án đầu tiên làm về WPF, dù phải onsite và phải làm framework hoàn toàn mới 
+những tôi đã hoàn thành dự án một cách xuất sắc, được khách hàng đánh giá cao. 
+Dự án cũng đem lại nhiều kinh nghiệm cho cả những dự án sau này
+ CÔNG TY CỔ PHẦN TẬP ĐOÀN CÔNG NGHỆ OSP PHẦN MỀM 
+QUẢN LÝ HỒ SƠ CÔNG CHỨNG UCHI
+- Tham gia phát triển phần mềm quản lý hồ sơ công chứng UCHI 
+- Sử dụng đa dạng các framework Java Struts 1, Struts 2, Spring MVC và Hibernate 
+- Sử dụng search engine lucene index để lưu trữ và hỗ trợ tìm kiếm các thông tin hồ 
+sơ công chứng 
+- Sử dụng hệ cơ sở dữ liệu MySQL 
+TIẾNG ANH
+NGHE     NÓI    
+ĐỌC     VIẾT    
+KỸ NĂNG
+- Thành thạo và nắm rõ các ngôn ngữ lập trình Java, C# 
+- Nắm rõ được các framework Spring, SpringMVC, Spring Boot, Hibernate, Spring DataJPA,  MVC,  
+WPF, Entity Framework, Search engine 
+- Thành thạo và hiểu rõ các cơ sở dữ liệu Sql server, MySql, Oracle, Postgresql 
+- Có thể làm việc trong môi trường áp lực cao, có tinh thần cầu tiến cao trong công việc 
+- Kinh nghiệm nhiều năm onsite qua nhiều công ty và nhiều vị trí khác nhau 
+SỞ THÍCH
+- Thích đi cafe và đọc sách vào những lúc rảnh rỗi 
+- Thích đi du lịch và vui chơi cùng bạn bè sau những giờ làm việc căng thẳng 
+- Tìm hiểu những thông tin thời sự, xã hội 
+- Tìm hiểu những công nghệ mới phục vụ tốt cho công việc

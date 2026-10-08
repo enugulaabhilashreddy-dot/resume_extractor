@@ -1,0 +1,85 @@
+EDUCATION
+HCMC University of Natural Resources
+and Environment (HCMUNRE)
+09/2014 - 07/2019
+Remote Sensing Information Systems
+SKILL
+Excellent
+HTML CSS
+JavaScript ReactJS
+Vue JS
+Angular Python
+Django Django REST
+Framework
+WORK EXPERIENCE
+12/2020 - 05/2024
+Web Developer | HDWEBSOFT
+PROJECT:
+Militelo | 2019
+ Tech stack: Html, CSS, Javascript, Angular
+Noir Ceasar | 2020
+ Tech stack: HTML, CSS, JavaScript, ,
+Flip Africa | 2020
+ Tech stack: HTML, CSS, JavaScript, ,
+Beewan | 2020:
+Tech stack: Html, CSS, Javascript 
+Trade In Tech | 2020
+Tech stack: Html, CSS, Javascript, React
+Crab Place X | 2021
+Tech stack: Html, CSS, Javascript, Angular
+Flexhelp | 2021 
+Tech stack: Python, Django, Django REST Framework, PostgreSQL, 
+HTML, CSS, JavaScript, TypeScript, React, , @Emotion, Ant
+Design
+Amplify Research | 2021
+Tech stack: Html, CSS, Javascript, React, , @Emotion, Ant
+Design
+Hoàng Mạnh Cường
+Web developer
+ 15/02/1996
+48/2 Phạm Văn Xảo Tân Phú , TP Hồ
+Chí Minh
+Hello! I am a web developer with skills in both frontend (FE)
+and backend (BE) development. I am passionate about
+building visually appealing and functional web applications.
+Throughout my development journey, I have worked with
+various technologies and programming languages. On the
+frontend side, I have experience with Javascript,
+Typescript, and popular frameworks such as ReactJS,
+Angular, and VueJS. I always strive to learn and apply the
+latest technologies to deliver the best user experience.
+On the backend, I have expertise in using Python and the
+Django framework, along with Django Restframework, to
+build powerful and easily maintainable APIs. I am also
+familiar with SocketIO for real-time communication.
+I enjoy taking on new challenges and collaborating with
+teams to create innovative and efficient web solutions.
+With my skill set and experience, I am confident in
+delivering high-quality projects that meet client
+requirements. Let's connect and discuss how I can
+contribute to your web development needs!
+Page 1 / 2 - ©
+
+ModernGroom | 2021
+ Tech stack: Html, CSS, Javascript, React, , @Emotion, Ant
+Design
+Hi INC | 2022
+ Tech stack: Html, CSS, Javascript, React, , @Emotion, Ant
+Design
+PureIV | 2022
+ Tech stack: Html, CSS, Javascript, React, , @Emotion, Ant
+Design
+Toofon | 2023
+Tech stack:  Html, CSS, Javascript, React, , @Emotion, Ant
+Design
+Presensa | 2023
+Tech stack:  Html, CSS, Javascript, React
+Inventoryy | 2023
+ Tech stack: Html, CSS, Javascript, React, , , @Emotion,
+Ant Design
+Booking App | 2024
+Tech stack:  Html, CSS, Javascript, TypeScript, React, , Apollo
+GraphQL, , @Emotion, Tailwind CSS, ChakraUI, MUI
+Wonderfoods | 2024
+Tech stack: Python, Django, Django REST Framework, PostgreSQL
+Page 2 / 2 - ©

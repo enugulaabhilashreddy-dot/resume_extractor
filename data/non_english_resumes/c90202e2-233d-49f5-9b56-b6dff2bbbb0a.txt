@@ -1,0 +1,97 @@
+Trang: 1 / 2 
+ 
+THÔNG TIN ỨNG VIÊN 
+Thông Tin Cơ Bản 
+Lê Đình Hưng       Điện Thoại: 
+Ngày Sinh: 12/02/1983      Email:  
+Giới Tính: Nam      Blog: 
+Tình Trạng Hôn Nhân: đã kết hôn    Địa Chỉ: 168/15 Nguyễn Thị Tú, Q.Bình Tân, 
+Mục Tiêu Nghề Nghiệp 
+❖ Phát huy sở trường, không ngừng học hỏi để mang lại giá trị thực tế cho doanh nghiệp & phát triển bản thân. 
+❖ Trở thành chuyên gia ERP, Database, BI (Business Intelligence) - hiểu biết sâu, rộng về kỹ thuật & nghiệp vụ. 
+Kinh Nghiệm Làm Việc 
+❖ 06/2022 – 09/2023: Trưởng phòng Triển khai & Vận hành Ứng dụng tại Công ty Cổ phần Tổng Công ty Nova 
+Service. Website: (thành viên của NovaGroup - MCK: NVL) 
+➢ Chủ trì triển khai, vận hành và cải tiến hệ thống phần mềm tài chính kế toán (TCKT), CRM/ POS, ERP (SAP, 
+FBO) cho Tổng Công ty và các Công ty thành viên. 
+➢ Xây dựng nguyên tắc phân quyền, quản lý dữ liệu Master Data, tích hợp API giữa các hệ thống CRM/ POS và 
+ERP. 
+➢ Xây dựng và triển khai các công cụ quản trị TCKT (Power BI, SharePoint) và chính sách/ quy định/ quy trình 
+TCKT áp dụng cho Tổng Công ty và các Công ty thành viên. 
+❖ 09/2018 – 05/2022: Trưởng nhóm phân tích dữ liệu lớn kiêm triển khai vận hành các hệ thống: Microsoft 365 E1 
+(Teams, SharePoint, Yammer, Stream, Planner, Offices…), Fast Business Online (FBO), CRM (SAP, Landsoft), 
+HRM, INV tại Công ty Cổ phần Tập đoàn Hưng Thịnh. Website: 
+➢ Xây dựng hệ thống kho dữ liệu (Data Warehouse) từ các nguồn cơ sở dữ liệu (CSDL, Database) FBO, CRM, 
+HRM, INV & bên ngoài. 
+➢ Phát triển hệ thống báo cáo (Dashboard, Report) trên nền tảng Power BI. 
+➢ Triển khai SharePoint, Teams đến từng đơn vị, khối, phòng & người dùng. 
+➢ Điều phối các thành viên, lấy yêu cầu từ các đơn vị phòng ban, tìm kiếm đối tác, lên kế hoạch thực hiện triển 
+khai & chịu trách nhiệm chính về việc đảm bảo tiến độ của các dự án. 
+➢ Tổ chức các cuộc họp giữa đối tác & các đơn vị phòng ban để khảo sát, phân tích các yêu cầu quản lý về 
+nghiệp vụ, quy trình, báo cáo. 
+➢ Xây dựng môi trường UAT, Production, các kịch bản kiểm thử tương ứng. Tổ chức đào tạo người dùng. 
+➢ Quản lý Master Data, Transaction Data trong việc chuyển đổi dữ liệu từ các hệ thống cũ qua hệ thống mới. 
+➢ Tích hợp (ETL, Replicate, API) các hệ thống để loại bỏ tác vụ thủ công. Đảm bảo hệ thống đạt các tiêu chí về 
+kỹ thuật: SSO, tích hợp Active Directory, SSL. 
+➢ Quản trị Microsoft 365 & toàn bộ các Database của Tập đoàn. Đảm bảo các hệ thống, phần mềm, dữ liệu luôn 
+ở trạng thái sẵn sàng, được sao lưu định kỳ & bảo mật. 
+➢ Xây dựng tài liệu về kỹ thuật (Technical) & nghiệp vụ (Business). 
+❖ 07/2017 – 08/2018: Quản lý vận hành hệ thống Oracle Fusion Cloud - ERP tại Công ty Cổ phần Siam Brothers 
+Việt Nam (MCK: SBV). Website: 
+➢ Phân tích, thiết kế & lập trình các Dashboard, Report (PL-SQL) trên nền tảng Oracle BI. Bao gồm cả hệ thống 
+báo cáo được thực hiện theo Report Job (Schedule, Trigger). 
+➢ Tạo & quản lý danh mục Master Data, cấu hình hệ thống, tạo & phân quyền người dùng. 
+➢ Đào tạo, huấn luyện người dùng sử dụng Oracle. Cập nhật tài liệu giải pháp, quy trình, hướng dẫn. 
+➢ Xử lý các vấn đề phát sinh hằng ngày, tổ chức các cuộc họp giữa các phòng ban liên quan đến hệ thống. 
+➢ Trực tiếp làm việc với hãng Oracle & đơn vị tư vấn triển khai (KPMG) để mở rộng chức năng, đảm bảo an 
+toàn thông tin & vận hành ổn định hệ thống ERP.
+
+Trang: 2 / 2 
+ 
+❖ 09/2015 – 06/2017: Quản lý vận hành hệ thống Oracle EBS, LEMON3-ERP kiêm trưởng nhóm Kế toán giá thành 
+tại Công ty Cổ phần Dây và Cáp SACOM (MCK: SAM). Website: 
+➢ Tạo & quản lý danh mục Master Data. Phân tích, thiết kế & lập trình hệ thống báo cáo (T-SQL). 
+➢ Xây dựng định mức BOM. Kiểm soát chi phí giá vốn & các chi phí hoạt động của doanh nghiệp. 
+➢ Thiết lập phương pháp tính giá thành, tính giá thành. Phân tích các chỉ số tài chính. Phân tích các biến đổi thực 
+tế so với định mức chi phí, nhận diện các vấn đề về quản lý chi phí thông qua số liệu kế toán & đề xuất các 
+phương án cải tiến. 
+➢ Trực tiếp làm việc với nhà cung cấp ERP để mở rộng chức năng, đảm bảo an toàn thông tin & vận hành ổn 
+định hệ thống ERP. 
+❖ 09/2007 - 08/2015: Trưởng nhóm triển khai hệ thống LEMON3-ERP tại Công ty Cổ phần Định Gia Nét 
+(DigiNet). Website: 
+➢ Tư vấn cho khách hàng về tổ chức, kiểm soát bộ máy kế toán, giá thành, sản xuất, quản lý kho, mua hàng, bán 
+hàng, quản lý nhân sự. 
+➢ Tư vấn xây dựng giải pháp cho hệ thống thông tin quản lý doanh nghiệp. 
+➢ Cấu hình, chỉnh sửa, lập trình hệ thống ERP cho phù hợp với từng khách hàng. 
+➢ Đào tạo, huấn luyện nhân viên của khách hàng sử dụng ERP. 
+➢ Điều phối các thành viên, quản lý quá trình thực hiện các dự án triển khai ERP. 
+❖ 10/2006 - 08/2007: Nhân viên Night Auditor tại khách sạn Caravelle. Website:  
+➢ Kiểm soát hóa đơn, chứng từ các bộ phận bán hàng, dịch vụ ca đêm. 
+➢ Nhập dữ liệu vào hệ thống quản lý khách sạn Fidelio. Kết chuyển & sao lưu dữ liệu mỗi tối. 
+➢ Thực hiện các báo cáo định kỳ vào mỗi buổi sáng cho Tổng giám đốc, Phó Tổng giám đốc. 
+Học Vấn & Bằng Cấp 
+❖ 09/2002 - 09/2006: Học & tốt nghiệp cử nhân hệ chính quy ngành Tài chính Ngân hàng tại Đại học Kinh Tế Tp. 
+Hồ Chí Minh. 
+❖ 12/2016 - 08/2018: Các chứng chỉ đạt được tại Đại học Khoa Học Tự Nhiên Tp. Hồ Chí Minh: 
+➢ Oracle Database 12c - SQL Fundamentals I 
+➢ Lập trình cơ sở dữ liệu SQL Server 2014 
+➢ Truy vấn cơ sở dữ liệu SQL Server 2014 
+➢ Xây dựng ứng dụng Windows Forms EF & WCF với C# (Visual Studio 2013) 
+➢ Nền tảng và lập trình hướng đối tượng với C# (Visual Studio 2013) 
+Kỹ Năng 
+❖ Kỹ thuật, chuyên nghiệp với: 
+➢ Nền tảng/ công cụ: Power BI, PBIRS, Oracle BI, Crystal Reports, SSMS, SSIS, SSAS, SSRS, SQL Developer, 
+Office 365. 
+➢ Ngôn ngữ: SQL (T-SQL, PL-SQL), Excel, .NET. 
+➢ Hệ quản trị CSDL: SQL Server, Oracle, MySQL, PostgreSQL. 
+➢ Kiến thức về System, Network: Web Server, Port, Firewall, VMware, Windows Server, Linux, LAN, WAN, 
+VPN, DNS, Domain, Hosting, Active Directory. 
+❖ Nghiệp vụ: 
+➢ ERP, CRM, POS, HRM: hiểu chi tiết các quy trình, nghiệp vụ kế toán, giá thành, sản xuất, quản lý kho, mua 
+hàng, bán hàng, quản lý nhân sự tại các doanh nghiệp sản xuất, bất động sản, xây dựng, chuỗi bán hàng. 
+❖ Phong cách: 
+➢ Tư duy hệ thống, logic, độc lập, chủ động, tích cực, làm việc nhóm. 
+➢ Tư duy phản biện, tính thẩm mỹ cao, cẩn trọng, chi tiết, khả năng tự nghiên cứu. 
+➢ Lãnh đạo, lập kế hoạch, điều phối, trung thực, trách nhiệm. 
+❖ Ngoại ngữ:  
+➢ Giao tiếp, đọc hiểu tài liệu tiếng Anh chuyên ngành CNTT, Tài chính.

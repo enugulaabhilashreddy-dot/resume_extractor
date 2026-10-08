@@ -1,0 +1,141 @@
+NGUYEN THE MANH  
+                 Backend Developer  
+  
+     Date of birth :       July 15, 1993  
+      Gender :                Male  
+    Phone :                   
+                   Email :                     
+                   Address :               Cầu giấy , Hà nội  
+    
+SUMMARY  
+My name is Nguyen The Manh and I am a Backend Developer. I'd like to work in an environment  that 
+offers a greater challenge. I am very hard-working and have a lot of experience of in C# ,Entity Framework, 
+ MVC, API Restful, .NET CORE, NodeJS , Database… Constantly learning to cultivate knowledge 
+about programming to developer professional skills. 
+My Skills: 
+• Back-end skills:  
+✓ .NET, Nodejs 
+✓ PostgreSQL, SQL Server. 
+✓ Azure Data Factory 
+• Team Work. 
+• Presentation Skills. 
+INTERESTS 
+• Playing soccer 
+• Traveling 
+• Playing Game 
+ANORTHE 
+• Trainer .NET,MSSQL at Fresher Academy ( FPT Software ) 
+ 
+EDUCATION  
+ 
+✓ Major: Mechantronic 
+✓ University: HaNoi University of industry 
+✓ Degree: Very Good 
+✓ Honors and Awards:  
+• National Mathematical Olympiad Silver Medal 2017 
+• National Mathematical Olympiad Bronze Medal 2016
+
+June 2012 – Jan 2023 
+FPT Software Company  
+Project: FSM 
+Role: Senior development 
+The number of team members: 15 
+Main responsibilities: 
+- Implement soure code 
+- Design Database 
+- Working with data. Design and create data pipelines on Azue Data Factory 
+Project detail: 
+- This product was used in customer company, the project's information is top secret. 
+----------------------------------- 
+Back-end 
+- .NET Core 
+- SQL Server 
+- Azue Data Factory 
+June 2011 – June 2022 
+FPT Software Company  
+Project: Concept_Factory Plus 
+Role: Senior development 
+The number of team members: 10 
+Main responsibilities: 
+- Implement soure code 
+- Create API 
+- Design Database 
+- Upload Excel  
+Project detail: 
+- This product was used in customer company, the project's information is top secret. 
+----------------------------------- 
+Back-end 
+- .NET Core 
+- Micro service system
+
+- SQL Server 
+ 
+May 2011 – June 2021 
+FPT Software Company  
+Project: CF++ 
+Role: Senior development 
+The number of team members: 10 
+Main responsibilities: 
+- Implement soure code 
+- Create API 
+- Design Database 
+- Upload Excel  
+Project detail: 
+- This product was used in customer company, the project's information is top secret. 
+----------------------------------- 
+Back-end 
+- .NET Core 
+- Micro service system 
+- SQL Server 
+January 2021 – May 2021 
+FPT Software Company  
+Project: CONCEPT FACTORY  
+The number of team members: 10 
+Main responsibilities: 
+- Design Function, find solution 
+- Implement source code 
+- Create API 
+- Design Database 
+- Upload Excel  
+Project detail: 
+- Research and develop web view for backend AI application 
+-----------------------------------
+
+Technology: 
+- .NET Core 
+- SQL Server 
+-    EF Core 
+ 
+Nov 2019 – Oct 2020  
+FPT Software Company  
+Project: Alpha Oil  
+Project Description:   
+- Alpha OIL is a project part of the PETRONAS Digital program at MPM, aligned to Upstream 2030 ambitions. 
+The project will enable MPM to be more data-driven in our interactions with OILs, to minimize value leakages 
+and maximize profit oil and gas  
+Customer: Petronas  
+Team Size: 15 members 
+Responsibilities:  
+- Working as backend developer.  
+- Designed database structure for module where the team working on.  
+- Developed a restful API. Technologies Used:  
+- Framework:  Express.  
+- Front-end: ReactJs  
+- Back-end: Nodejs, Postgresql  
+  
+ 2018 – Oct 2019 
+RTC Company 
+Project: IOT in Factory 
+Role: developer 
+The number of team members: 3 
+Main responsibilities: 
+- Develop function printing 
+- Research and development IOT Projects 
+- Project detail: 
+- This product was used in customer company, the project's information is top secret.
+
+- Technology: 
+Back-end 
++ .NET 
++ Winform, WPF,  
++ SQL Server

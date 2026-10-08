@@ -1,0 +1,189 @@
+Pham Minh An   
+Backend Java Developer  
+Date of birth: Nov 10, 1998 
+ 
+Gender: Male 
+ 
+Phone:    
+Email:   
+Address: 287/22 Au Duong Lan, Ward 4, District 8, Ho Chi Minh  
+City, Vietnam   
+OBJECTIVE  
+ 
+By leveraging my coding skills, experience, and understanding of the Java programming language, I aim to 
+excel as a programmer and deliver significant value to customers. Moreover, I am eager to contribute to the 
+overall growth and progress of the company. 
+ 
+EDUCATION  
+Sep 2016 - Sep 2020 Saigon University of Technology   
+Major: Computer Science  
+GPA: 3.13/4 (7.34/10)   
+ 
+TECHNICAL SKILLS  
+ 
+Programing Languages Java, PHP, Python, JavaScript   
+Frameworks / Platforms Spring Boot, Angular, Java Swing, Django, JPA, Hibernate.   
+Version control Git   
+Database Management My SQL, PostgreSQL  
+System   
+IDEs    IntelliJ IDEA, PyCharm, Phpstorm, Datagrip    
+ 
+WORK EXPERIENCE  
+ 
+01/10/2021 – Now Tech Advanced Solutions 
+ 
+Dev Java full stack (Java Spring Framework + Angular) 
+Work on Spring Framework project 
+Collaborate with members from Vietnam and India team 
+Pick up user stories, analyze, design, and discuss with the team to tackle them  
+Invoke in an Agile team 
+Participate in the development of company products and fix bugs 
+ 
+ 
+19/10/2020 – 19/10/2021       PALTech Company Limited 
+ 
+Dev Java full stack (Java Spring boot + Angular) 
+ 
+    Work on Spring Boot project 
+Collaborate with member from Vietnam 
+Pick up user stories, analyze, design, and discuss with the team to tackle them  
+Invoke in an Agile team 
+Participate in the development of company products and fix bugs
+
+8/2019 – 9/2020 RAKUMO  
+FULL STACK (Java + Python + Angular) 
+Work on Spring Framework project 
+Collaborate with members from Vietnam 
+Pick up user stories, analyze, design, and discuss with the team to tackle them  
+Participate in the development of company products and fix bugs 
+ 
+ 
+PROJECTS  
+ 
+ 
+ 
+Web RETP  
+(01/10/2021 – NOW)  
+Customer Canada Customer 
+  
+Description Web site and mobile app for traffic management 
+  
+Team size 8 
+  
+My position Developer 
+  
+My responsibilities 
+- Work on Spring Framework project 
+- Collaborate with member from Vietnam 
+- Pick up user stories, analyze, design, and discuss with the team to tackle them  
+- Invoke in an Agile team  
+  
+Technologies used Spring Boot, Rest API, … 
+ 
+ 
+Web Merito   
+(01/02/2021 – 30/09/2021)  
+Customer Foreign customers 
+  
+Description Web site for computational processing 
+  
+Team size 10 
+  
+My position Developer 
+  
+My responsibilities 
+- Work on Spring Framework project 
+- Collaborate with member from Vietnam 
+- Pick up user stories, analyze, design, and discuss with the team to tackle them  
+- Invoke in an Agile team  
+  
+Technologies used Spring Boot, JDBC template, Hibernate, Rest API, Microservice, … 
+  
+ 
+  
+  
+ 
+ 
+Web AQS  
+(19/10/2020 – 30/12/2021)  
+Customer Foreign customers 
+  
+Description Web site and mobile app for computational processing 
+  
+Team size 6 
+  
+My position Java BE, Angular FE  
+  
+My responsibilities 
+- Work on Spring Framework project 
+- Collaborate with member from Vietnam 
+- Pick up user stories, analyze, design, and discuss with the team to tackle them  
+- Invoke in an Agile team
+
+Technologies used Spring Boot, Angular 9, Hibernate, Rest API, Microservice, … 
+ 
+  
+  
+ 
+WEB RAKUMO  
+(09/03/2020 - 09/2020)  
+Customer RAKUMO 
+  
+Description Participate in the development of company products and fix bugs 
+  
+Team size 9 
+  
+My position Java BE Developer, Python BE Developer 
+  
+ - Work on Spring Framework project with a huge legacy source code. 
+My responsibilities 
+- Work on Django project with a huge legacy source code. 
+- Working with Japanese team 
+ - Write code learn from the leader and improve the code after being reviewed. 
+ - Fix Bugs 
+  
+Technologies used Spring Framework, Django, Google App Engine, Angular, Dojo 
+  
+ 
+DESTOP APPLICATION MANAGE PURCHASE AND SALE ITEM GAME  
+(24/01/2020 - 27/01/2020)  
+Customer Individual Customers 
+  
+Description Manage, Process, Statistics, Calculate, Sort, Search, Record All Sales 
+Transactions  
+  
+Team size 1 
+  
+My position Analyst, Dev Desktop Developer 
+  
+ - Analyze the client's problem and propose a solution to address it. 
+My responsibilities 
+- Design data structures and algorithms to solve the problem of storing buy -and-sell 
+transactions with the priority condition of selling items purchased at the lowest price 
+first. 
+- Optimize code during development and while the customer is using the 
+application, fixing some errors that arise due to changing user requirements. 
+  
+  
+Technologies used Java Swing 
+  
+ 
+Web DS SERVICE  
+(08/2019 - 02/2020)  
+Customer DS SERVICE 
+  
+Description Participate in the development of company products and fix bugs 
+  
+Team size 3 
+  
+My position Java BE Developer 
+  
+ - Work on Spring Framework project with a huge legacy source code. 
+My responsibilities 
+- Receive task from leader, exchange and give solution and how to do. Write code 
+and Design tables in database to implement assigned task. 
+- Convert the delivered html CSS code into jsp code to communicate with the server 
+rendering site 
+- Fix Bugs  
+  
+Technologies used Spring MVC, JSP, Hibernate, My SQL...

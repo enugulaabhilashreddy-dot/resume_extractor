@@ -1,0 +1,150 @@
+Phạm Quang Khanh  
+Trưởng nhóm | Nam | 28/04/1984 
+ 
+ 
+ 
+ 
+Kinh nghiệm làm việc 7 năm 
+Công ty gần đây nhất Trưởng nhóm tại Công ty VTĐL&C NTT - 
+Tập đoàn Điện lực Việt nam 
+Bằng cấp cao nhất Kỹ sư 
+Email  
+Điện thoại  
+Địa chỉ Ngõ 143 Đê Trần khát Chân - Hai Bà 
+Trưng, Thành phố Hà Nội 
+ 
+ 
+THÔNG TIN CHUNG 
+1. Ký năng chuyên môn: 
+- Có kinh nghiệm phát triển các ứng dụng trên ngôn ngữ C#, ,  
+- Có kinh nghiệm làm việc với các loại cơ sở liệu: SQ L Server, Oracle, 
+MySQL,.. 
+- Có kinh nghiệm làm việc với xây dựng triển khai các  hệ thống Cổng 
+thông tin trên nền tảng Sharepoint 2007, 2010 của Microsoft 
+- Có am hiểu về cơ sở hạ tầng, thiết kế xây dựng kiến trúc ứng dụng
+
+- Có khả năng nghiên cứu tìm hiểu các công nghệ mới 
+2. Kỹ năng mềm 
+- Có khả năng tư duy, giải quyết vấn đề 
+- Có khả năng viết, trình bày 
+- Có khả năng làm việc theo nhóm, quản lý nhóm, quản lý công việc, 
+khả năng làm việc độc lập khi cần thiết 
+3. Kinh nghiệm làm việc 
+- Đã từng tham gia nhiều dự án CNTT với các vai trò k hác nhau: Lập 
+trình, phân tích thiết kế, trưởng nhóm, trưởng dự án 
+- Tham gia xây dựng, triển khai nhiều dự án về các Cổng thông tin  trên 
+nền tảng Sharepoint của Microsoft(Cổng thông tin đi ện tử Hải dương, 
+Cổng thông tin Pháp chế EVN, Hồ chữa thủy điện, Hồ sơ thầu của 
+vinaconex,ERP) 
+- Tham gia nghiên cứu triển khai công cụ quản lý dự án: Project Server 
+- Tham gia giảng dậy và thiết kế bài giảng cho khóa đ ào tạo lập trình 
+, Sharepoint(2007, 2010). 
+4. Xây dựng các framework cho Web CMS  
+5. Tính cách 
+- Chăm chỉ, nhiệt huyết với các công việc, quyết đoán 
+- Luôn luôn chia sẻ trong công việc 
+- Luôn luôn học hỏi 
+ 
+ 
+ 
+KỸ NĂNG 
+ 
+- Lập trình 
+- Quản lý nhóm 
+- Tư vấn, thiết kế kiến trúc hạ tầng
+
+- Phân tích yêu cầu 
+ 
+KINH NGHIỆM LÀM VIỆC 
+Từ 2015 đến nay: Tự thành lập lớp dạy lập trình viên cho  lứa tuổi thanh, 
+thiếu  niên từ 9 đến 15 tuổi  trương trình học dựa trên nền tảng “Scratch” 
+mục tiêu là để cho trẻ em ở khu vực nông thôn tiếp cận với CNTT từ sớm 
+tang khả năng tư duy và sáng t 6 năm giảng dạ y dần đi vào ổn 
+định. 
+06/2011 – đến 2015 
+Trư ởng nhóm 
+Công ty VTĐL&CNTT - Tập đoàn Điện lực Việt nam 
+1. Công tác phát triển phần mềm/website 
+- Tham gia phân tích, thiết kế, lập trình các trang web phục vụ nội bộ và 
+các đơn vị trong ngành các công cụ phục vụ sản xuất, các Cổng thông 
+tin cho Tập đoàn và các đơn vị 
+- Lập kế hoạch thực hiện công việc dự án 
+- Lập dự toán dự án 
+- Lập các tài liệu, văn bản trình ký 
+- Điều phối công việc giữa các thành viên 
+- Xây dựng các giải pháp phần mềm 
+2. Công tác nghiện cứu công cụ, công nghệ 
+- Nghiên cứu và xây dựng các framework cho các bộ phậ n phát triển 
+trên nền tảng C#, 
+- Nghiên cứu các giải pháp công nghệ: 
+o Cổng thông tin: Sharepoint 207,2010 
+o Tích hợp giữa các phần mềm với nhau: sử dụng Webse rivce,  
+3. Công tác vận hành 
+- Vận hành các công cụ cho phát triển phần mềm: Quản lý lỗi,Phân 
+quyền, hỗ trợ người dùng, xử lý sự cố liên quan đến  hệ thống, xây
+
+dựng các giải pháp để nâng cao hiệu năng công cụ, xử lý các sự cố 
+- Vận hành các phần mềm, cổng thông tin cho Tập đoàn 
+4. Công tác khác 
+- Lập tờ trình, báo cáo, công văn 
+- Tham mưu cho lãnh đạo về các giải pháp công nghệ 
+5. Các dự án nổi bật đã tham gia 
+a. Phần mềm quản lý hồ chữa thủy điện EVN 
+- Mô tả dự án: Dự án với mục đích xây dựng công cụ ph ục vụ công tác 
+báo cáo của đơn vị cho Tập đoàn, xây dựng công cụ q uản lý nội bộ 
+phục vụ công tác điều hành nội bộ trong cơ quan tập  đoàn, xây dựng 
+các ứng dụng nghiệp vụ chuyên môn cho các Ban, thực  hiện tích hợp 
+SSO, tích hợp các báo cáo từ các phần mềm khác lên Cổng thông tin. 
+Quy mô triển khai cho tất cả các đơn vị trong Tập đ oàn với khoảng 
+2000 người sử dụng, chạy trọng mạng nội bộ và ngoài Internet. 
+o Dự án được xây dựng trên nền tảng , cơ sở d ữ liệu 
+Sql 
+- Qui mô: 5-10 người 
+- Vai trò: Trưởng nhóm, xây dựng kế hoạch 
+- Nhiệm vụ: Xây dựng kế hoạch, khảo sát phân tích yêu  cầu, xây dựng 
+kiến trúc, hạ tầng, cài đặt triển khai hạ tầng, lập trình phát triển 
+b. Phát triển phần mềm quản lý hồ sơ thầu cho công ty 
+Vinaconex  
+- Mô tả dự án: xây dựng hệ thống các đối tác tham ra thầu xây dựng 
+cho tập đoàn Vinaconex  
+- Qui mô: 3-5 người 
+- Vai trò: Trưởng nhóm 
+- Nhiệm vụ: Khảo sát, phân tích, thiết kế, tư vấn kiế n trúc hạ tầng, cài
+
+đặt triển khai, lập trình và đào tạo  
+- Qui mô: 4-5 người 
+- Vai trò: Trưởng nhóm, xây dựng kế hoạch, 
+- Nhiệm vụ: Xây dựng kế hoạch, khảo sát phân tích yêu  cầu, xây dựng 
+kiến trúc, hạ tầng, cài đặt triển khai hạ tầng, lập trình phát triển 
+10/2009 - 03/2010 
+Trưởng nhóm 
+Công ty Isphere Software Solution  
+- Viết tài liệu đặc tả yêu cầu 
+- Viết tài liệu thiết kế chức năng, CSDL 
+- Lập trình các chức năng theo yêu cầu 
+- Tham gia cài đặt triển khai, hỗ trợ người sử dụng 
+- Quản lý nhóm, lập kế hoạch thực hiện, hướng dẫn, hỗ  trợ các thành 
+viên 
+- Các dự án nổi bật thực hiện: Xây dựng triển khai ERP cho Công ty nội 
+thất Xuân Hòa,Lồi Hơi: Xây dựng trên nền tảng Winform sử dụng C# 
+ 
+07/2008 - 10/2009 
+Trư ởng nhóm 
+Công ty Cổ phần Tập đoàn Trí tuệ Việt 
+- Viết tài liệu đặc tả yêu cầu 
+- Viết tài liệu thiết kế chức năng, CSDL 
+- Lập trình các chức năng trên nền tảng Web 
+- Quản lý nhóm, lập kế hoạch thực hiện, hướng dẫn, hỗ  trợ các thành 
+viên 
+- Xây dựng các framework lập trình trên nền tảng Srping & Hibernate sử 
+dụng ngôn ngữ C#,
+
+- Các dự án nổi bật thực hiện: 
+o Cổng thông tin điện tử Hải dương: Phát triển trên nền tảng 
+Sharepoint 2007 và C#, 
+o Phần mềm quản lý đào tạo Cao đẳng nghề Phú châu: S ử 
+dụng  và C# 
+o Báo điện tử Hải dương: Sử dụng  và C# 
+o Phần mềm quản lý sửa chữa bảo hành cho Viettel: Xâ y dựng 
+trên framework Spring&Hibernate, sử dụng ngôn ngữ 
+, C#

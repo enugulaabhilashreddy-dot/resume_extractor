@@ -1,0 +1,160 @@
+EDUCATION
+Hanoi University of Industry
+08/2008 - 06/2012
+Computer Science
+SKILL
+Excellent
+Networking Cloud
+Linux AWS
+Docker Kubernetes
+Intermediate
+MySQL MongoDB
+CERTIFICATE
+From Code to Production with VMware
+Tanzu
+10/2023
+VMware LEARNING
+LFS169 - Introduction to GitOps
+10/2023
+The Linux Foundation
+LFC108 Cybersecurity Essentials
+10/2023
+The Linux Foundation
+WORK EXPERIENCE
+10/2022 - Now
+IT TEAMLEADER | DANH KHOI REAL ESTATE SERVICES JOINT
+STOCK COMPANY
+●        Manage the IT Team: Assign tasks, supervise, and evaluate the
+performance of team members. Build and maintain a positive work
+environment, encouraging creativity and teamwork.
+●        Manage Network Infrastructure: Design, deploy, and maintain LAN, WAN,
+and WIRELESS network infrastructure based on devices such as Cisco,
+Peplink, Fortinet.
+●        Manage Server and Storage Systems: Install, configure, and maintain
+Windows and Linux servers, virtualization systems such as VMware Vsphere.
+Manage SAN storage systems, ensuring data safety and security.
+●        IT Project Management: Plan, implement, and oversee IT projects,
+ensuring completion on time and within budget. Interact with other
+departments to understand technology needs and propose appropriate
+solutions.
+●        Developing and Implementing IT Policies: Draft and enforce policies,
+procedures, and regulations related to IT infrastructure management.
+ 
+04/2018 - 08/2022
+IT System Administrator | ISOFH MEDTECH COMPANY - IVI
+GROUP
+●        Manage, deploy and maintain Jenkins CICD cycles of HIS / EMR
+applications for 25 projects of big hospitals and clinics on-premise
+infrastructureLAN - WAN Network infrastructure based on network devices:
+Cisco, Peplink, Fortinet, HP Aruba,…
+●        Manage, deploy and maintain Jenkins CICD pipelines of pharmacy store
+system web application as well as Medical appointment booking mobile
+application of Isofhcare on AWS platform
+●        Deploy, maintain and manage IVI token coin on Cloud platform such as
+AWS and Sunteco ( include AI chatbot applications, exchange services on
+BSC scan platform), support developer on deploying application using Jenkins
+Nguyễn Quang
+Thành
+System Administrator,
+Network Engineer, Security
+Engineer
+ 
+ 29/08/1989
+150 Hoa Dao, Ward 2, Phu Nhuan
+District, Ho Chi Minh City, TP Hồ Chí
+Minh
+I'm Thanh Nguyen, an IT professional with many years of
+experience in the field. With logical and creative thinking, I
+always find effective solutions to complex technical
+problems. I am capable of working both in teams and
+independently. Professionalism and responsibility are my
+guiding principles in all the work I have undertaken. I
+believe that with my qualities and skills, I will contribute
+positively to the development of the team and the project.
+ 
+Page 1 / 3 - ©
+
+Fortinet FortiGate 7.4 Operator
+10/2023
+Fortinet
+Fortinet Certified Associate
+Cybersecurity
+10/2023
+Fortinet
+CCNA Routing and Switching
+10/2013
+CISCO
+and GilabCI flow
+●        Manage and operate internal window server 2016 domain controller,
+Active Directory and upgrade to Windows server 2019 and company's DNS
+management
+●        Manage and operate internal company's VMware Esxi and Vcenter
+●        Setup, manage and write configuration code for Prometheus monitoring
+system in order that Team can be able to monitor around 400+ servers,1000+
+services, visualize whole internal infrastructure using Grafana dashboard,
+send alerts to Telegram and Email
+●        Setup and write documents to guide Hospital's IT office to self-visualize
+own infrastructure using Prometheus & Grafana, Zabbix
+●        Implement CD flows using Gitlab / Ansible for managing and deploying
+applications, using ansible in order to deploy new config for nginx, haproxy,
+install new database for new server such as postgresql master - slave , mysql
+...
+●        Setup, operate, manage and implement configuration for load balancers
+such as HAproxy, Nginx
+●        Tunning, Hardening OS ( ubuntu, centos ), customize configuration of
+services such as ( redis, rabbitmq, postgresql, nginx, haproxy ), operate and
+manage Jira, Confluence, Gitlab server, NAS. Troubleshoot Jenkins's job build
+on failure while deploying application code
+●        Manage and Restrict user's access through Guacamole server
+●        Deploy and Setup a solution for gathering application logs, centralize
+and visualize using Grafana Loki, Elasticsearch & Kibana
+●        Implement His/Emr on K8s staging cluster, logging on cluster using ELK,
+develop CI/CD on gitops platform ( ArgoCD, GitlabCI, Harbor registry )
+●        Suggest and Consult Cloud infrastructure solutions for hospital or clinic
+in needs
+●        Offer data backup solution from third-party vendor using Veeam to store
+on-premise or transfer backup version onto AWS S3
+10/2013 - 07/2017
+IT Administrator | VNC POLYESTER FIBER CO.,LTD
+●        Main responsibilities: Management and Operation
+●        LAN - WAN - WIRELESS Network infrastructure based on network
+devices: Cisco, Peplink, Fortinet, HP Aruba,…
+●        Install, upgrade, support and troubleshoot Windows 7 and 8, 10, 11,
+Microsoft Office 365 and any other authorized desktop applications
+●        Firewall devices: Fortigate, Pfsense
+●        P2P, MPLS, FTTH, ILL lines and data transmission connections between
+branch offices, Head Offices and Data Center.
+●        Virtual private network (VPN) connections between branch offices,
+Head Offices, Data Center and Clients' Remote Access connections to Data
+Center
+●        Virtual Server system: Vmware Vsphere 7.0
+●        Storage System include: SAN and NAS
+●        Design, Implement, Migration and Troubleshoot network infrastructure
+of branch offices, Head Offices and Data Center.
+●        Manage and coordinate the work of IT Infrastructure team
+●        Drafting policies on Infrastructure operation for company
+●        Support Application Team and partners to deploy Applications for the
+company
+08/2012 - 10/2013
+IT Staff | ROYAL INTERNATIONNAL CORPOATION
+●        Server system administration 2008 - 2012: DC server, ISA server, mail
+server
+●        Configure Draytek devices, telephone exchange, setup the network
+Page 2 / 3 - ©
+
+●        Manage office computer systems
+●        Troubleshoot hardware, software, computer networks, cameras, access
+control, security control
+●        Knowledge of some business management software
+●        Managing the use of IT-related office equipment
+●        Organize the authorization of access to use, backup, ensure the safety
+and security of data and data on the system
+●        Support users with problems on LAN, Internet, software, printers, install
+software according to user requirements and other problems that may occur
+when using computers
+●        Periodically check and maintain computer equipment, printers and other
+equipment; Proposing to buy new, upgrade computer quipment for working in
+departments
+●        Provide solutions to make the Company's activities more efficient,
+accurate and secure
+Page 3 / 3 - ©

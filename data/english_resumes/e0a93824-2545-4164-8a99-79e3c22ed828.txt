@@ -1,0 +1,121 @@
+Contact
+Top Skills
+Embedded Systems
+Microsoft Office
+Engineering
+Certifications
+Google Project Management
+Certificate
+Thanh Diem Dang
+Embedded System Engineer at Thundersoft Korea
+Seongnam, Gyeonggi, South Korea
+Summary
+Five years of professional experience in designing and writing
+Linux-based embedded firmware. In-depth technical knowledge
+and consistent track record in display technologies, including LCD
+and OLED. Highly-skilled in digital communication interfaces such
+as Bluetooth, Zigbee, RS-485, SPI, UART, I2C, and high speed
+display interfaces (MiPi). Hands-on expertise in C/C++ programming
+languages. Passion for technology and new gadgets. Extraordinary
+leadership and excellence in establishing good relationships with all
+parties involved.
+Experience
+ThunderSoft
+Embedded Software Engineer
+May 2022 - Present (11 months)
+Pangyo, South Korea
+LG Electronics Vehicle component Solutions
+Senior C/C++ Software Engineer
+August 2021 - May 2022 (10 months)
+Vietnam
+● Join the Automotive domain (ASPICE standard, LGE Product lifecycle).
+●  Perform Unit tests to improve framework system quality and
+stability.
+● Cowork with other teams to provide solution according to customer
+requirement.
+Projects in detail
+• Volkswagen
+- Development of framework layer and debugging for Power Manager Module 
+- Development of framework layer and debugging for Core Service Manager
+Module 
+• General Motors
+- Development of framework layer and debugging for Power Manager Module
+  Page 1 of 4
+
+Công ty CP Nghiên cứu và Sản xuất Vinsmart
+Embedded Software Engineer
+February 2019 - June 2021 (2 years 5 months)
+Hanoi, Hanoi, Vietnam
+● Perform as a single point of contact to put forward feature concepts and
+study the implementation feasibility with UI-UX, release device control
+workflow with Application and Framework Software, create testing standards
+and measurement methods with Hardware, QA-Hardware and QA-Function
+teams. 
+● Troubleshoot firmware issues on Mediatek & Qualcomm platforms. 
+● Fulfill software evaluation, system optimization, quality improvement and
+cost down;
+● Program and implement embedded software solutions,
+● Port Display modules for specialized devices and hardware, such as
+Smartphone and  hand-held WiFi hotspot
+Achievements:
+- Successfully implemented the Display features of over ten Vsmart
+smartphone models, including: 
+Vsmart Bee Lite (Snapdragon 215), 
+Vsmart Aris & Vsmart Aris Pro (Snapdragon 730), 
+Vsmart Live 4 (Snapdragon 675), 
+Vsmart Star 4 (Mediatek Helio), etc.
+-  Provided solutions and/or executed new features, including: 
+High brightness mode - maximum brightness level increased by 40%
+Always on Display - power optimization: power consumption decreased by  8
+times from 400 mAh to 50 mAh
+Built-in Debug tool for Display module - speed of issue fixing and  new features
+implementation accelerated from 2 hours to 1~2 minutes
+Vsmart Original Screen Identification - revenue from maintenance significantly
+grew  and debugging time reduced
+Samsung Vietnam Mobile R&D Center
+Embedded System Engineer
+September 2017 - February 2019 (1 year 6 months)
+Hanoi, Hanoi, Vietnam
+● Work with internal and external Hardware and Software engineering teams
+to port display modules on Samsung smartphones
+  Page 2 of 4
+
+● Conduct power optimization, display driver IC register settings and
+debugging/ optimizing all Electronic Engineering (EE)-related display module
+issues.
+● Test, characterize and debug display driver modules on hardware in the lab.
+● Review, analyze and write documentation required for Display driver module,
+e.g. porting sequence, feature specifications, etc. to assure that all related
+documentation is complete at each phase of release of an engineering
+project. 
+● Manage a team of 3 members, guide, filter issues, perform technical
+evaluation according to the requests from the Hardware team and check-up
+the result on a daily basis.
+Achievements:
+- Ported 3 Display modules for low- and mid-range smartphone models in two
+months: 
+A7 2018 (Exynos 7 Octa 7885), 
+M30 and A30 (Exynos 7 Octa 7904).
+- Adopted continual process improvement to ensure smooth workflow and
+collaboration between Project Management, Hardware and Software team,
+thereby reducing the time required for model bring-up by 25% and helping
+management to make important decisions faster.
+Ha Thanh Electronic Production JSC
+Manufacturing Operator
+January 2016 - December 2016 (1 year)
+Hanoi, Hanoi, Vietnam
+● Execute component Packaging with efficiency and effectiveness according to
+the company’s regulatory requirements
+● Mount assembled components, such as transformers, resistors, transistors,
+capacitors, integrated circuits and sockets, on printed circuit boards or chassis
+panel
+● Troubleshoot, repair and modify special testing equipment and electronic
+components
+● Assemble PCB boards with components as per set-up sheets
+Education
+Hanoi University of Industry
+  Page 3 of 4
+
+Bachelor's degree, Electrical, Electronics and Communications
+Engineering · (2013 - 2017)
+  Page 4 of 4

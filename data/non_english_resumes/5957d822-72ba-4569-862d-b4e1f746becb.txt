@@ -1,0 +1,218 @@
+9/2014 - 09/2020 Đại học Bách Khoa Hà Nội
+An toàn thông tin
+09/2016 - 09/2017 Công ty Cổ Phần BKAV
+Sinh viên thực tập
+Học việc tại Bkav về mảng phân tích mã độc.
+09/2017 - 09/2020 Công ty Cổ Phần BKAV
+Nhân viên học việc
+- Lập trình C/C++ viết BkavScan trên virustotal cho Bkav và dự án
+ReportCrash
+- Lập trình python: code engine crawl dữ liệu, có tìm hiểu qua AI ,
+phân tích dữ liệu để thực hiện một vài dự án như phân loại email
+spam và comment spam trên facebook.
+- Học tập và tìm hiểu làm website bằng ReactJS, NextJS ,NodeJS.
+- Có kiến thức về mysql, mongodb, elasticsearch
+09/2020 - đến nay Công ty Cổ Phần BKAV
+Chuyên viên
+- Tham gia các dự án về Machine Learning 
+- Tập trung tham gia các dự án web của công ty code bằng Reactjs.
+- Dự án emeeting sử dụng React Native
+9/2015 - 9/2016 Đăng ký làm gia sư
+Gia sư
+Gia sư cho các em về môn toán và môn hóa.
+Trịnh Khắc Công
+Lập trình viên
+Ngày sinh:  19/05/1995
+Giới tính:  Nam
+Điện thoại:
+Email:
+Địa chỉ:  Mỹ thượng 3, Bắc Lương, Thọ Xuân, Thanh Hóa
+Website:
+MỤC TIÊU NGHỀ NGHIỆP
+Mục tiêu nghề nghiệp: trở thành dev full stack có thể làm việc từ FrontEnd đến BackEnd.
+Mục tiêu ngắn hạn: cố gắng học tập và nâng cao trình độ về ReactJS ,NextJS để trở thành một dev chuyên website.
+Mục tiêu dài hạn: tạo ra nhiều sản phẩm riêng cho bản thân.
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+HOẠT ĐỘNG
+
+9/2015 - 9/2017 Câu lạc bộ Karate Bách Khoa
+Học sinh
+Tập luyện nâng cao sức khỏe cho bản thân, đã thi lên đai xanh.
+Tiếng Anh Toeic 450
+Docker Sử dụng docker để tạo môi trường deploy cho sản phẩm
+Redis Dùng làm cache tăng tốc độ web
+Sử dụng Git add, commit, push, CI/CD ...
+Kỹ năng đội nhóm Kết hợp đội nhóm để phát triển từng module
+Sử dụng Jira, Trello  Theo dõi tiến độ công việc
+CÁC KỸ NĂNG
+SỞ THÍCH
+- Thích đọc truyện và xem anime 
+- Tham gia đá bóng với công ty
+THÔNG TIN THÊM
+ - Dự án cá nhân: 
+- Link gitlab: 
+- Link github:
+- Module máy tính cầm tay code cho vietjack sử dụng React  Native:
+- Web phim: 
+- Dự án sử dụng AI phân tích thị trường Binary Option:  
+DỰ ÁN
+VirusTotal
+(2018 - 2019)
+Khách hàng Bkav
+Mô tả dự án Sử dụng Engine BkavScan load các module cần thiết để quét file trên virustotal
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module 
+- Sửa lỗi và tối ưu code
+Công nghệ sử dụng C++
+Module Report Crash
+(2019 - 2020)
+Khách hàng Bkav
+Mô tả dự án Sử dụng module để ghi lại những lỗi mà module trong BkavEndpoint, BkavPro... và
+gửi về server để phân tích
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+
+Vai trò trong dự án - Phân tích và đọc hiểu module 
+- Cải tiến module 
+- Sửa lỗi 
+Công nghệ sử dụng C++
+Web Report Crash
+(2019 - 2020)
+Khách hàng Bkav
+Mô tả dự án
+Sử dụng python đọc thông tin từ file gửi về rồi đưa vào db elasticsearch, website để
+thống kê module nào bị lỗi nhiều, cho phép download file dump từ module
+ReportCrash gửi về
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu module 
+- Phát triển 
+- Sửa lỗi 
+Công nghệ sử dụng ReactJS, Nodejs, Redis,Python,Elasticsearch
+Web Cơ Sở Dữ Liệu Luật
+(2019 - 2020)
+Khách hàng Dự án bên A (Bkav nhận)
+Mô tả dự án Nhập thông tin dữ liêu và tải thông tin file docx lên web. Giống như là 1 thư viện dữ
+liệu. Có sử dụng module để chuyển file doc sang html.
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu module 
+- Phát triển 
+- Sửa lỗi 
+Công nghệ sử dụng ReactJS, Nodejs, C#, ElasticSearch
+Engine GateWay Antispam
+(2019 - 2021)
+Khách hàng Bkav
+Mô tả dự án Hệ thống phân loại email spam và clean trước khi chuyển về server mail
+Số lượng thành viên 2
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Thống kê kết quả vào database 
+- Phân loại email 
+- Training dữ liệu bằng mô hình CNN, GBM,  
+Công nghệ sử dụng Python, MySQL, Tensorflow
+Web GateWay Antispam
+(2019 - 2021)
+Khách hàng Bkav
+Mô tả dự án Thống kê số lượng email spam và clean. Cấu hình module, cấu hình luật.
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Sửa lỗi 
+Công nghệ sử dụng ReactJS,NodeJS, MySQL
+
+App AIC emeeting và Emeeting
+(2020 - 2022)
+Khách hàng Bkav
+Mô tả dự án Họp trực tuyến phát triển dựa trên jitsi meet
+Số lượng thành viên 2
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Cải tiến 
+- Sửa lỗi 
+Công nghệ sử dụng React Native, Java, Swift
+Comment Facebook Spam
+(2020 - 2021)
+Khách hàng Bkav
+Mô tả dự án Nhận biết các comment spam của facebook nhằm ngăn chặn các comment lừa đảo
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Cải tiến 
+- Sửa lỗi 
+Công nghệ sử dụng Python, Tensorflow, Selenium, Machine Learning
+App Máy tính
+(2021 - 2022)
+Khách hàng vietjack
+Mô tả dự án Một module máy tính trong app học tập của vietjack
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Cải tiến 
+- Sửa lỗi 
+Công nghệ sử dụng React Native
+Dự đoán thị trường lên xuống trong binary option
+(2021 - 2022)
+Khách hàng Module tự làm cho bản thân
+Mô tả dự án Sử dụng công nghệ AI để phân tích hình ảnh sau đó dự đoán thị trường đi lên hoặc
+xuống
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Cải tiến 
+- Sửa lỗi 
+Công nghệ sử dụng Python, Tensorflow, Pre-Training
+Web Lắng nghe mạng xã hội
+
+(2021 - 2022)
+Khách hàng Bkav
+Mô tả dự án Websie theo dõi mạng xã hội
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Cải tiến 
+- Sửa lỗi 
+Công nghệ sử dụng Angular, NodeJS, MySQL, Elasicsearch
+Web BTN
+(2022 - đến nay)
+Khách hàng Bkav
+Mô tả dự án Website cấu hình, hiển thị thống kê, phân loại user ...
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Cải tiến 
+- Sửa lỗi 
+Công nghệ sử dụng ReactJS
+Web Phim
+(2022 - đến nay)
+Khách hàng Dự án cá nhân
+Mô tả dự án Web xem phim không chứa quảng cáo. Sử dụng selenium để lấy dữ liệu
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và đọc hiểu 
+- Phát triển 
+- Cải tiến 
+- Sửa lỗi 
+Công nghệ sử dụng NextJS, NodeJS, Python, MySQL
+©

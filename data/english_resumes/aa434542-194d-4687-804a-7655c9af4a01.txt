@@ -1,0 +1,82 @@
+Mar 2021 - Feb 2023 KOOKMIN UNIVERSITY (KMU)
+MSc in Electronic Engineering
+GPA: 4.19/4.5 (9.31/10)
+Aug 2015 - Jul 2020 HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY (HUST)
+The degree of engineer in Control Engineering and Automation
+GPA: 2.93/4 (7.61/10)
+Jun 2018 - Jul 2020 INTERNET OF THING LABORATORY (IoT Lab), HUST
+Research Intern
+- Research on IoT system, embeded system.
+- Develop the Optical Camera Communication system (Visible light
+communication system)
+Aug 2020 - Feb 2021 CANON VIETNAM CO.,LTD.
+Automatic Engineer
+- Design and develop the software to check the function of the circuit
+board in the printer.
+Mar 2021 - Feb 2023 WIRELESS COMMUNICATIONS AND ARTIFICIAL INTELLIGENCE
+LAB (WiComAI Lab), KMU
+MSc program
+- Study and Research in AI (Machine Learning and Deep Learning for
+image processing, Time Series Prediction, 3D LiDAR data )
+NGUYEN VAN LINH
+AI engineer
+Date of birth:  April 03, 1997
+Gender:  Male
+Phone:  ( 
+Email:
+Address:  Thanh Hoa, Vietnam
+Website:
+OBJECTIVE
+A highly creative individual with a degree of engineer, skills, and past work experience seek admission to your
+company:
+- On-going joining Master of Science (MSc) program of AI algorithms for image, LiDAR, and time-series data in
+WicomAI laboratory, Kookmin University.
+- Research and study in Korea with experience in Communication and AI technology.
+- Ability to quickly grasp any new technologies and concepts.
+- Effective in working independently and collaboratively in teams.
+EDUCATION
+EXPERIENCES
+
+- Design and Develop the Optical Camera Communication based on
+Deep Learning and Computer Vision (with Jetson Nano Kit, Rasberry
+Pi, etc)
+- Support Artificial Intelligence of Things (AIoT) project.   
+Programming Languages: Python, C/C++, LabVIEW
+AI Framework Scikit-Learn, Keras, TensorFlow, PyTorch
+Software Visual Studio Code, Altium Designer, LabVIEW.
+Office Information Word, Excel, Powerpoint, Visio
+Language English
+- Ph.D Nguyen Hoang Nam 
+Dean of Automatic Control Department of Hanoi University of Science and Technology. 
+University Scholarship - University Scholarship in 1st semester and 7th, 8th semester by
+HUST
+- Scholarship for Excellent Foreign Student by KMU
+- Award for Academic Excellence by KMU
+SKILLS
+REFERENCES
+HONORS & AWARDS
+PUBLICATIONS
+- Nguyen, V.L.; Tran, D.H.; Nguyen, H.; Jang, Y .M. An Experimental Demonstration of MIMO C-OOK Scheme Based
+ Communication System. Appl. Sci. 2022, 12, 6935.
+.; Jang, Y.M. Self- ly Detection in
+Industrial Internet of Things. Electronics 2022, 11, 2146. 
+- Huy Nguyen; Van Linh Nguyen; Duc Hoang Tran; Yeo  for Optical
+Camera Communication Considering Mobility Environment Based on Deep Learning. Applied Sciences 2022, 12,
+8269 . 
+- Nguyen, V.L.; Tran, D.H.; Jang, Y.M. Design and Implementation of Deep Learning-basedOCC system with
+Computer Vision. The 32nd Joint Conference on Communications and Information (JCCI), 2022 
+- V. L. Nguyen, D. H. Tran, H. Nguyen and Y. M. Jang, "Human Activity Detection based on Infrared Array Sensor
+using Advanced Deep Learning Technique," 2022 13th International Conference on Information and Communication
+Technology Convergence (ICTC), 2022, pp. 2149-2151, doi: 10.1109/ICTC55196.2022.9952482. 
+- D. H. Tran, V. L. Nguyen, I. B. K. Y. Utama and Y . M. Jang, "An Improved Sensor Anomaly Detection Method in IoT
+System using Federated Learning," 2022 Thirteenth International Conference on Ubiquitous and Future Networks
+(ICUFN), 2022, pp. 466-469, doi: 10.1109/ICUFN55119.2022.9829561. 
+- H. Nguyen, D. H. Tran, V. L. Nguyen and Y. M. Jang, "Design and Implementation of Deep Learning for MIMO C-
+OOK Scheme-based Optical Camera Communication," 2022 13th International Conference on Information and
+Communication Technology Convergence (ICTC), 2022, pp. 1905-1908, doi: 10.1109/ICTC55196.2022.9952544. 
+- D. H. Tran, V. L. Nguyen, I. B. K. Y. Utama and Y . M. Jang, "An Improved Sensor Anomaly Detection Method in IoT
+System using Federated Learning," 2022 Thirteenth International Conference on Ubiquitous and Future Networks
+(ICUFN), 2022, pp. 466-469, doi: 10.1109/ICUFN55119.2022.9829561. 
+- D. H. Tran, V. L. Nguyen, H. Nguyen and Y. M. Jang, "Short-term Solar Power Generation Forecasting using Edge
+AI," 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), 2022,
+pp. 341-343, doi: 10.1109/ICTC55196.2022.9952746.

@@ -1,0 +1,57 @@
+Oct 2013 - Nov 2018 University of Information Technology
+Major: Software Engineer
+May 2017 - Apr 2018  Company
+Web Developer
+- Coding HTML5 , CSS3 , WordPress
+- Using Bootstraps
+- User Interface and User Experience
+ 
+Achievements and skills gained: 
+- Know more about HTML, CSS , Bootstrap and JS
+- How to use WordPress Plugin and fix
+- Research document for project 
+- Team-work Skill 
+- Improve Reading English - document Skill.
+Nov 2018 - Nov 2021 FPT Software
+Front-end Web Developer
+Start working as Front-End developer 
+Join multiple projects during 3 years: 
+   - ESIS project 
+     Resposibility: 
+       + Learn Reactjs 
+       + Coding and review code front-end 
+     Technology: Reactjs, react-redux, redux-saga, antd-design 
+   - ILEAD project 
+     Resposibility: 
+       + Design components and basic flows 
+       + Coding and review front-end 
+       + Working with team of 3 members, sharing and support 
+   Technology: Reactjs, react-redux, antd
+Nguyen Anh Tuan
+Date of birth:  Sep 1, 1995
+Gender:  Male
+Phone:
+Email:
+Address:  Ho Chi Minh, Vietnam
+Website:
+OBJECTIVE
+- Become Technical Dev in the future 
+- Willing to learn more about new technology( BE, blockchain, dev-ops)
+EDUCATION
+WORK EXPERIENCE
+
+Nov 2021 - Sep 2022 JAVAC TECHNOLOGY
+Full stack Developer
+Working as full stack developer 
+     Resposibility: 
+       + Working as full stack developer 
+       + Manage front-end code 
+       + Start learning nestjs and handle task 
+       + Learning cypress for automation testing 
+     Technology: Reactjs, Nestjs, cypress
+Language HTML5 , CSS 3 , JS
+Engine Visual Studio
+SKILLS
+INTERESTS
+traveling, sports, music, game
+©

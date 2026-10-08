@@ -1,0 +1,226 @@
+1   
+CURRICULUM VITAE 
+ 
+PERSONAL INFORMATION 
+● Full name: LIEU ANH TAI 
+● Date of birth: 1980 
+● Address: Thu Dau Mot,Binh Duong Province  
+● Expected Salary: Negotiation 
+SUMMARY 
+● 07/2020 - now: IT Executive _ FES VIET NAM member of FOOD EMPIRE 
+● 05/2018 - 06/2020: IT Deputy Manager _ EMSA VIET NAM member of 
+GROUPE SEB 
+● 09/2009 - 04/2018: IT Manager _ACE COLOR VIET NAM Enterprise 
+● 06/2003 - 07/2009: IT Leader_ ASAMA VIET NAM Enterprise 
+ 
+CAREER OBJECTIVE 
+● Strong leadership, good team-work spirit, and high responsibility,. 
+● Good time control and setting priority, 
+● Ability to work under high pressure. 
+● Honest, confidential, hard working. 
+● I’m willing to learn and research new technologies. 
+● I believes that, with my enthusiasm and more intelligent working in the company 
+EDUCATION 
+● 1998 – 2003: University of Technology, Major: Network Administrator. 
+● 2003: B Level Certification in English. 
+● 2009: B Level Certification in Chinese, 
+ 
+- MCSA (Microsoft Certified Solutions Associate) by Microsoft, 
+- MCSE (Microsoft Certified Systems Engineer) by Microsoft, 
+- MCITP (Microsoft Certifified IT Professional) by Microsoft 
+- LINUX 
+- CCNA 
+- SAP 
+- SECURITY+
+
+2   
+ 
+WORKING EXPERIENCE 
+1. From 07/2020 to now: FESV VIET NAME member of FOOD EMPIRE  
+h  h   
+FESV VIETNAM CO. LTD. is a 100% direct investment from Singapore. We manufacture 
+foods: coffee ,milk tea, cereals 
+Position: IT Executive 
+Report to Senior IT Manager 
+ 
+- Maintain (Network Infratructure and ERP system) of 03 site (Binh Duong factory, Head 
+office in HCM city, Data Center at District 9), with 26 Servers and 250 users. 
+- Maintain and monitor computer networks and related computing environments, 
+including computer hardware, system software, applications software [Troubleshooting 
+and technical support in PC Software & Hardware 
+- Day to day System Administration, Maintenance and Backup, restore and ensure 
+security (HPE MSA 2050 Storage,Veeam backup & Replication, Synology NAS 
+Storage,…). 
+- Responsible for all Hardware, Network and Technical Documentation 
+- Provide PC software training and documentation to enable users to operate the system 
+effectively 
+- System installation, upgrade, security, disaster recovery and contingency planning 
+- Responsible on the daily update asset list and documentation 
+- Responsible on purchasing hardware 
+- Responsible in maintaining NEC VoIP phone and PABX Panasonic system 
+- Provide 1st level of ERP Application Software support 
+- Periodically Report: Weekly/Monthly Report - Unscheduled at the request of 
+Supervisor. 
+- Manage Dynamic AX ERP system 
+- Manage WAN system : LeaseLine, VPN/MPLS, FTTH, … 
+- Control security system : Internet Firewall (Cisco, FortiGate, Sophos Central, 
+SonicWALL,…) 
+- Upgrading Infrastructure for ERP AX System at Data Center and factory 
+- Support for end Users about Customs software, MS office 365, Sharepoint, TS24, TAX 
+software, hardware, network, telephone issues,  other service such as Email, 
+- Support trouble shooting for users about ERP system and computers.
+
+3   
+- Setup new account: email, teams, printer,.. for new user. 
+- Good knowledge about window 10, Server 2016, Server 2019, macOS, Linux,.. 
+- Admin manage all Ms Office 365, G-Suite Work Space and other softwares for new 
+PC/Laptop/Macbook. 
+- Knowledge of: Azure, Hyper-V, VMware software. 
+- Setup authorization, folders and drive for each user, each department. 
+- Support users to use softwares such as Dynamic AX ERP for company. 
+- Get feedback from users and give them support. 
+- Get new requirements from users then send to ERP team to get further support. 
+- Monitoring system CCTV (IP / Analog Camera) and make sure that they work well. 
+- Human resource support system. 
+- Fix and upgrade new windows patches. 
+- Repair hardware: PC, Laptop, Macbook, printer,.. 
+- Fix issues software and hardware. 
+- Other tasks assigned by Supervisor 
+ 
+2. From 05/2018 to 06/2020: EMSA VIET NAM member of GROUPE SEB  
+h  ;  
+EMSA VIETNAM CO. LTD. is a 100% direct investment from Germany and france. We 
+manufacture and export composite planter products for garden: waterfall, flowerpot  
+Company size: ~2000 employees 
+Position: IT DEPUTY MANAGER: Setup new Factory 
+Report to CFO 
+Main duties 
+A. Implement SAP ECC with HR module. Go-live Nov/2018 
+B. Implement SAP Business One 9.3 PL5. Go-live on Apr/2019 
+ 
+Module (Finance, Purchase, Sales, Production, Inventory ) Database: SQL SERVER 
+2016 
+Implement SAP Business One Ver 9.3 PL5. 
++ Maintain SBO, license, authorization, system setting, new user 
++ Maintain SQL reporting Service, Create user group, authorization. 
++ Maintain/modify SAP Form by crystal report 
++ Support user requirement, analysis requirement
+
+4   
+ 
+1. SERVER: 
+● Active Directory Server: Create new user Account 
+● Exchange Mail Server: Create new email Account 
+● Local Server: Data center of Emsa Vietnam 
+● Skype – Lync server: Create new user skype for business 
+● SAP Server: SAP Business one software, database SQL2016 
+● SAP Web server: Webserver remote SAP out of factory 
+● DNS Server: Domain name service 
+●  SCCM Server: WSUS – Update windows patches, software deploys - 
+Create new user account, Email, skype, SAP user 
+● Create authorization rule in server 
+● Assign authorization for each user/each department – 
+● Create user/assign authorization for SAP report 
+ 
+2. NETWORK INFASTRUCTURE AND MANAGEMENT  
+● Set up a network infrastructure for a new factory consisting of 200 network nodes. 
+● Know how to use configure VPN, know how to use Draytek,.. 
+● Core Network : Firewall & Core Switch, Access Point (Cisco, HPE Aruba,UniFi,..) 
+office area 
+● Install and maintain VoIP Panasonic telephone system, Camera system and make 
+sure that they work well. 
+● Service Server : AD, File Server, HR system, 
+● Provide all IT Equipment to users and Operation Team's requirement 
+● Setup new network infrastructure, LAN, Telephone system, server room, fiber 
+cable 
+●  Securing the data and the IT systems against lost or attack by computer 
+viruses or other external threats. 
+● Build and maintain an IT team 
+ 
+3. OPERATION DAILY 
+● IT check list- check status of network, server daily(attached file) 
+● Arrange IT tool, Server room 
+● Daily job record(attached file)
+
+5   
+● Timely report to direct manager about problem and request from users. 
+ 
+4. IT ASSET MANAGEMENT 
+● Proposal to buy IT tool base on the IT budget and obtaining competitive prices 
+from suppliers to ensure cost effectiveness. 
+● Up to date, IT asset management, label, network layout, camera layout 
+● Management of software expiration date and propose to renew license on time. 
+● Manage, control and conduct periodically checking hardware, software asset. 
+● Make IT improvement proposal or perform approved IT improvement plan to 
+follow security regulations of the company as well as corporation 
+5. SUPPORT IT PROJECT 
+● Support IT project compliant with IT Corporate(infrastructure, data center) 
+Setup SCCM software – GSEB client 
+● Setup  365 – GSEB client 
+● Replace/upgrade new PC/Laptop to match IT GSEB Group’s requirement. 
+● Coordinate with IT team,  operations requirements. 
+● Plan and manage IT budget. 
+● Developing and maintaining web sites. WordPress, PHP, MySQL, SQL 2016 
+● Experience IT Audit. 
+● Experience about build a new Network, IT projects for new company. 
+IT MIGRATION BETWEEN IT network infastrucure between Vietnam 
+and IT French GROUPESEB. 
+⮚ Build new IT Server room 
+⮚ Build all of IT network for new factory 
+⮚ Implement business line, LAN 
+⮚ Setup telephone system, Camera system. 
+⮚ Coordinator with IT French for implement new IT system. 
+ 
+3. From 09/2009 to 05/2018: ACE COLOR VIET NAM  
+ 
+Company size:~ 1000 employees 
+Position: IT Manager. 
+Report to CEO 
+Main duties
+
+6   
+In charge all IT of information related implement Oracle ERP, set up new factory 
+● Set up a network infrastructure for a new factory consisting of 150 network nodes. 
+● Core Network : Firewall & Core Switch, Access Point office area 
+● Install and maintain VoIP telephone system, Camera system and make sure that 
+they work well. 
+● Design and build LAN, WAN Network Systems 
+● Setting operating system : Windows 7.0, Windows Server 2012, VMware-ESXi, 
+Oracle ERP, … 
+● Supporting MS office 2016, Email, TS24, HTTK, iBHXH , ECUS, Install 
+printer,… 
+● Update Anti Virus, Trojan, Spyware , … 
+● Solving problems of local network system, computer. 
+● Manage and maintain the PBX phone system, including telephone monitoring 
+software, Camera system, Internet, 
+● Security Systems, Cisco network devices, SQL, Oracle ERP, Eportal,,.. 
+● Maintain Lan-Wan- Internet, Printer, Scanner, PhotoCopy, Fax, Phone, Camera,.. 
+● Windows 2012 Server Active Director, Web Server, Email Server, Firewall Server 
+setting,.. 
+● Backup-Restore and ensure security 
+● Ability to work and solve problem independently or Team. 
+● Coordinate with IT headquarter in Taiwan,Chinese,,  operations requirements. 
+● Experience about build a new network in Manufacturing Company. 
+4. From 06/2003 to 07/2009: ASAMA VIETNAM  
+ 
+Company size: 1000 employees 
+Position: IT LEADER 
+Report to CEO 
+Main duties 
+● Design and build LAN, WAN Network Systems 
+● Setting operating system : Windows XP, 7.0, Windows Server 2003, 2008 
+● Knowledge of Exchange 2007 
+● Supporting MS office 2003, Email, HTTK, ECUS, Install printer,… 
+● Update Anti Virus, Trojan, Spyware , … 
+● Solving problems of local network system, computer.
+
+7   
+● Manage and maintain the BPX phone system, including telephone monitoring 
+software, Camera system, Internet, 
+● Security Systems, Cisco network devices, SQL, Oracle ERP,.. 
+● Maintain Lan-Wan- Internet, Printer, Scanner, PhotoCopy, Fax, Phone, Camera,.. 
+● Windows 2003 Server Active Director, Web Server, Email Server, Firewall Server 
+setting,.. 
+● Backup-Restore and ensure security 
+● Ability to work and solve problem independently or Team. 
+● Coordinate with IT headquarter in Taiwan, Chinese,  operations requirements.

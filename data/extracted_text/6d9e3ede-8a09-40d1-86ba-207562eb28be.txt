@@ -1,0 +1,307 @@
+1 
+June 1, 2021 
+ 
+CURRICULUM VITAE 
+Contact Details 
+ 
+Full name Ngo Huu Thinh Gender Male  
+Date of birth 08/12/1989 Nationality Vietnam 
+Email  Phone + 
+Address Ha Noi 
+ 
+ 
+Profile  
+   
+With more than 7 years’ experience working as an Android developer and a little time as a 
+Team leader (I Working 6 years in Tinh Van Outsourcing and onsite many the company: 
+Panasonic, NCB, Savvycom, Haveynas). I have gained a certain professionalism level as a 
+Senior android developer or begin as a Team leader with skill: 
+• Manage team member and the project. 
+• Skill and experience for develop logistic system, banking system. 
+• Proficient with Kotlin, Android SDK, Android Studio, Gradle, SVN, GIT, Redmine, Jira, 
+Trello. 
+• Skill and experience in software design (System Structure Design, Program Structure 
+Design). 
+• Be able to analysis, design, develop, test and deploy Android app from the ground 
+up, build base project, library.  
+• Skill and experience in improve performance. 
+• Skill and experience in multi-threading and asynchronous programming. 
+• Skill and experience in analysis and problem solving.  
+• Skill and experience using android, RX java, data binding, third party. 
+• Skill and experience using MVP, MVC and MVVM. 
+• Skill and experience about application life cycle, basic UI elements & layout, basic 
+animation technique, auto-layout.  
+• Skill and experience for multiscreen, Restful api (json, xml), Activity, Fragment, 
+Service, Broadcast receiver, SQLite, design layout xml, json, xml, google maps, 
+firebase… 
+• Skill and experience about application: play video, music, Websocket, WebRT, chat 
+OTT, social (facebook, twitter). 
+• Able to work independently and in a team, with high responsibility.
+
+2 
+June 1, 2021 
+ 
+Education
+Software Engineer, Da Nang Technology of University 
+2013 The short course: Requirements Engineering, Duy Tan University 
+Skills Summary 
+  
+Skill/Technology/Methodology Experience 
+(Years) 
+Last 
+Used 
+Skill level 1-5 
+(5= Excellent) 
+Android 7 Current 4 
+Kotlin
+PHP
+Javascript 2 Current 3 
+CSS
+HTML
+Foreign Language Skills 
+  
+Foreign language skills Experience 
+(Years) 
+Last 
+Used 
+Skill level 1-5 
+(5= Excellent) 
+English - reading 5 Current 3 
+English - writing 3 Current 2 
+English - communication 3 Current 2 
+ 
+ 
+Employment history 
+ 
+04/2015 - 
+present 
+Company 
+name 
+Tinhvan Outsourcing Jsc., (Onsite Panasoic, Savvycom, 
+Havey Nash, NCB bank) 
+Job title Team Leader, Developer 
+Job description 
+- Manage project, team member. 
+- Design software System Structure Design, Program 
+Structure Design. 
+- Analysis, design, develop, test and deploy Android app 
+from the ground up, build base project, library. 
+- Android application programming.
+
+3 
+June 1, 2021 
+ 
+02/2012 - 
+08/2013 
+Company 
+name 
+Tâm Hợp Nhất - Unitech 
+Job title Software Engineer 
+Job description Android application programming 
+ 
+Attended projects 
+ 
+From: 8/2020 
+To: 5/2021 
+Project Name YHC (Logistics) 
+Client PMC 
+Project Size  
+Position Developer 
+Responsibilities Develop android application 
+Project Description 
+Perform the functions of pickup and 
+delivery, return goods, manage the 
+shipping process. 
+Used Programming 
+Languages  
+From: 5/2019 
+To: 8/2020 
+Project Name Niggata (Logistics) 
+Client PMC 
+Project Size  
+Position Developer 
+Responsibilities Develop android application 
+Project Description App upgrade, add OS upgrade 
+function through the app. 
+Used Programming 
+Languages Android 
+From: 10/2019 
+To: 03/2020 
+Project Name Daiichi (Logistics) 
+Client PMC 
+Project Size  
+Position Developer 
+Responsibilities Develop android application 
+Project Description 
+Perform the functions of pickup and 
+delivery, bring back, manage the 
+shipping process, synchronize vehicle
+
+4 
+June 1, 2021 
+ 
+data via Bluetooth, transfer data local 
+to server. 
+Used Programming 
+Languages Android 
+From: 04/2019 
+To: 10/2019 
+Project Name NCB Smart 
+Client NCB Bank 
+Project Size  
+Position Team leader, Developer 
+Responsibilities 
+- Manage team member, assign task 
+and review source code 
+- Develop android application 
+Project Description 
+Perform transaction functions, account 
+management and related services of 
+NCB on mobile applications 
+Used Programming 
+Languages Android 
+  Project Name Live Stream video 
+Client  
+Project Size 50 man-months 
+Position Android developer 
+Responsibilities Develop android application 
+Project Description 
+The application is a social network 
+that allows livestream videos, drop 
+hearts, play animations on livestream 
+videos, watch time life (same Bigo live 
+application). 
+Used Programming 
+Languages Android 
+From: 02/2018 
+To: 06/2018 
+Project Name EMC, Cấp phép 
+Client Authority of Radio Frequency 
+Management Viet Nam 
+Project Size  
+Position Android developer 
+Responsibilities Develop android application 
+Project Description Searching and report profile, license, 
+location…
+
+5 
+June 1, 2021 
+ 
+Used Programming 
+Languages Android 
+From: 05/2017 
+To: 02/2018 
+Project Name Privilist 
+Client  
+Project Size  
+Position Team leader 
+Responsibilities 
+- Manage team member, assign task 
+and review source code 
+- Develop android application 
+Project Description 
+Privilist is the app to manage the 
+order/reservation of the bar, it allows 
+ordering/reserving tables, drinks, food 
+(split bill payment), order 
+management/reservations. 
+Used Programming 
+Languages Android 
+From: 12/2016 
+To: 04/2017 
+Project Name Jardine 
+Client  
+Project Size  
+Position Developer 
+Responsibilities Develop android application 
+Project Description 
+Jadine is app to manage sales, 
+meeting client, introduce product to 
+client. 
+Used Programming 
+Languages Android 
+From: 10/2016 
+To: 12/2016 
+Project Name Heineken Order Taking 
+Client  
+Project Size  
+Position Developer 
+Responsibilities Develop android application 
+Project Description 
+Heniken Order Taking is app to order 
+product, pay order and review orders 
+and products has ordered. 
+Used Programming 
+Languages Java Android
+
+6 
+June 1, 2021 
+ 
+From: 09/2015 
+To: 09/2016 
+Project Name Pesonal memory manager 
+Client  
+Project Size  
+Position Developer 
+Responsibilities Develop android application 
+Project Description 
+The application allows to manage and 
+store data (images, videos) allowing 
+backup to the cloud (google drive, 
+dropbox, onedrive). 
+Used Programming 
+Languages Android 
+From: 05/2015 
+To: 09/2015 
+Project Name Technis music app 
+Client  
+Project Size  
+Position Developer 
+Responsibilities Develop android application 
+Project Description 
+The Technics Music app allows you to 
+select the music source and playback 
+device. Used with the Technics audio 
+player, the music application screen 
+displays music stored on a DLNA-
+compatible server, content stored on 
+the device running the application, 
+and music files on memory devices 
+USB connected, giving you built-in 
+playback control. 
+Used Programming 
+Languages Android 
+From: 06/2012 
+To: 09/2013 
+ 
+Project Name Autobacs 
+Client  
+Project Size 6 man-months 
+Position Developer 
+Responsibilities Develop android application 
+Project Description Autobacs app lets you search, sort oil 
+a convenient and simple way. 
+Used Programming 
+Languages Android
+
+7 
+June 1, 2021 
+ 
+From: 03/2012 
+To: 06/2012 
+Project Name Android Video 
+Client  
+Project Size 4 man-months 
+Position Developer 
+Responsibilities Develop android application 
+Project Description Android Video an application to sell 
+video online. 
+Used Programming 
+Languages Android 
+ 
+ 
+Interests 
+• Traveling 
+• Watching movies 
+• Playing football 
+• Playing game

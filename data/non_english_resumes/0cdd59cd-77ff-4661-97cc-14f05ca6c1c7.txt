@@ -1,0 +1,99 @@
+NGUYỄN VĂN TRUNG
+  
+ 
+LẬP TRÌNH VIÊN
+Nam
+01-05-1995 Phạm đôn, Tphcm
+MỤC TIÊU NGHỀ NGHIỆP
+– Làm việc hiệu quả đồng thời học tập trao dồi thêm hành trang nghề nghiệp  
+– Hoàn thành tốt các nhiệm vụ được giao  
+– Học hỏi và trao đổi kinh nghiệm với những đồng nghiệp đi trước  
+HỌC VẤN
+ - 
+Trình độ:
+Loại tốt nghiệp:
+-01-2015 01-2018  ĐẠI HỌC HỮU NGHỊ VIỆT HÀN CÔNG NGHỆ THÔNG TIN
+Lập trình viên
+Giỏi
+KINH NGHIỆM
+ - 
+Mô tả
+Thành tích đạt được
+-
+ - 
+Mô tả
+Thành tích đạt được
+-
+01-2018 05-2020  MEDIA QC NHÂN VIÊN IT
+- Lập trình và xây dựng website cho khách hàng US và Nhật Bản. 
+- Tạo website từ Figma,Photoshop hoàn hảo từng pixel theo yêu cầu khách hàng. 
+- SEO nội dung website lên top Thị trường. 
+- Tham gia phát triển/tích hợp hệ thống trên nền tảng với các website social, SSO ( 
+Facebook, twitter, instagram). 
+- Hỗ trợ, xử lý kỹ thuật cho khách hàng trong quá trình sử dụng. 
+- Bảo trì, bảo mật, diệt virut hệ thống. 
+Thường sử dụng: PHP, OOP, WordPress, Reactjs, Drupal, Shopify, Payment plugin 
+Hoàn thành cách dự án Website  
+-  
+-  
+-  
+-  
+11-2019 09-2022  ITSABEAUTIFULWAY NHÂN VIÊN - TRƯỞNG NHÓM TÙY DỰ ÁN
+- Lập trình và xây dựng website 
+- Thiết kế lại Database 
+- Tạo website từ Figma, Photoshop hoàn hảo từng pixel theo yêu cầu khách hàng 
+- Tính toán các hoạt động người dùng 
+Thường sử dụng: PHP, OOP, Wordpress , Laravel, Reactjs ,Payment plugin
+
+- 
+Mô tả
+Thành tích đạt được
+-
+Hoàn thành cách dự án Website  
+-   
+-  
+-  
+-  
+05-2020 10-2020  CÔNG TY ĐIỆN LỰC HÀ NỘI NHÂN VIÊN FREELANCER
+- Lập trình và xây dựng website khách hàng Nhật bản 
+- Thực hiện các nhiệm vụ do trưởng bộ phận phân công.  
+- Thiết kế lại Database. 
+Thường sử dụng: PHP, OOP, Laravel, Flutter 
+- Hoàn thành Website Thi trắc nghiệm, mục đích tuyển nhân lực đầu vào cho Công 
+Nhân
+KỸ NĂNG
+*Tóm tắt các kỹ năng bản thân. 
+- WordPress. ( WordPress e-Commerce, WordPress Plugin..., Created Plugin & Theme Free 
+ )  
+- PHP. ( OOP, MVC, PSR-4 ) 
+- Drupal. 
+- Flutter. 
+- SQL. ( MySQL, MongoDB, SQL) 
+- Payment Plugin. ( Stripe, MasterCard, Visa ) 
+- ReactJS.( Lifecycle, Fetch, Redux, Redux saga, Redux Thunk, Axios Reactjs... ) 
+- Laravel. ( Rest API, MVC, Blade ...) 
+- HTML. 
+- CSS. ( SCSS , SASS, LESS, CSS ) 
+- JavaScript. ( jQuery, Ajax, Async/Await.. ) 
+- Socket. 
+- Response Website. 
+- Cache Website. 
+- Optimize the Website. 
+- SEO nội dung website theo cấu trúc Google. 
+*Sử dụng tốt. 
+- Google. ( Analytics, task manager, Console, Map API ) 
+- CDN. 
+- GIT, Sourcetree, Postman, Docker. 
+- Trello, Jira, Asana. 
+*Thành tựu. 
+- Đa thực hiện SEO thành công các web lên top 1 thị trường US. 
+     
+     
+     
+    
+*Cá nhân.  
+- Tính cách : Hòa đồng , dễ gần , vui tính.  
+- Ham học hỏi  và Chia sẻ những kiến thức về công việc với những Anh/Chị đồng nghiệp trong Công ty. 
+- Luôn mong muốn gắn bó với một công ty lâu dài. 
+- Dễ dàng thích nghi với môi trường mới.
+- Có kỷ luật về công việc, Giải quyết vấn đề, giờ giấc luôn hoàn thành công việc bản thân tốt nhất.

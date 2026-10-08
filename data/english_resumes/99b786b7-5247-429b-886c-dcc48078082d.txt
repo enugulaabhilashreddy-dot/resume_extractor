@@ -1,0 +1,68 @@
+(070) 738-7469
+Education
+Technical Skills
+Working Experience
+Programming Projects
+Collaborated with the design team to re-create an e-
+commerce website.
+Optimized transaction processing efficiency through database
+indexing and caching strategies, resulting in a significant 20%
+reduction in overall expenses.
+Employed waitlist features using Nextjs and TypeScript,
+updating users on the availability of products out of stock.
+Software Engineer | 2023 - 2024 | Houston, TX
+Lotus Glow Health & Beauty LLC
+2021 - 2023
+Bachelor of Science - GPA: 3.8 /4.0
+Seattle University
+2019 - 2021
+Associate of Science - GPA: 3.7 /4.0
+North Seattle College
+Developed machine learning models in Python with Scikit-
+Learn to identify faults in truck production.
+Engineered SQL queries to extract and construct a training
+dataset to train and evaluate models. 
+Optimized the XG boost model, reducing the prediction error
+rate by 8%, resulting in a 24% improvement in the
+customized truck order process.
+Software Engineer | 2022 - 2023 | Seattle, WA
+Kenworth Truck Company
+VÕ ANH TUẤ N
+Software Engineer
+Ho Chi Minh city, Vietnam
+Langugages
+English (Professional)
+Vietnamese (Native)
+Software Development
+Agile
+Test-driven Development
+Scrum
+Programming languages
+Java
+JavaScript
+TypeScript
+Python
+C/C++
+SQL
+NoSQL
+Framework & Tools
+Spring Boot
+Kafka
+AWS
+MongoDb
+Docker
+Git
+Real-time ChatApp | Link | Sep 2023 - Nov 2023
+Developed a real-time chat web app using MERN stack,
+facilitating bidirectional text and audio communications. 
+Adopted  and WebRTC for implementing real-time
+communication, enhancing users’ interactions.
+Incorporated MongoDB for secure and efficient storage and
+retrieval of messages and users’ data.
+PairCoding WebApp | Link | Jan 2024 - Feb 2024
+Launched a pair coding web application built with Java and
+Spring Boot, providing a dynamic platform for developers to
+engage in live streaming and collaborative programming
+sessions.
+Implemented PostgreSQL and Hibernate ORM for secure user
+and coding room data management and storage.

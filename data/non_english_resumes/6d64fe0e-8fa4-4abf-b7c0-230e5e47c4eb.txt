@@ -1,0 +1,121 @@
+LÝ LỊCH CHUYÊN VIÊN DATA WAREHOUSE 
+ 
+Họ tên: Lê Hữu Nhã 
+Quốc tịch: Việt Nam 
+Ngày, tháng, năm sinh: 24/09/1993 
+Số năm kinh nghiệm công tác:  7 năm 
+Điện thoại : 
+Email : 
+ 
+Năng lực: 
+Kinh nghiệm: 
+ Thành thạo các ngôn ngữ lập trình:  
+•  PLSQL  
+•  .Net 
+•  Python 
+•  Spark 
+ Triển khai thành thạo các công cụ ETL, xây dựng dữ liệu:  
+•  Oracle Data Integrator (ODI) 
+•  DataStage 
+•  SQL Server Integration Services (SSIS) 
+•  SQL Server Analyssis Services (SSAS) 
+•  Azure Data Factory 
+ Triển khai thành thạo các công cụ xây dựng bao cáo:  
+•  Oracle Business Intelligence (OBI) 
+•  Oracle Analytics Service (OAS) 
+•  Power BI 
+•  SQL Server Reporting Services (SSRS) 
+•  Sap Analytics Cloud (SAC) 
+•  Oracle Analytics Publisher 
+ Có kinh nghiệm làm việc với các hệ thống cơ sở dữ liệu:  
+•  Oracle 
+•  Microsoft SQL Server 
+•  Ksql 
+•  Confluent 
+•  SAP HANA
+
+ Nắm rõ các quy chuẩn về quy trình xây dựng và triển khai một phần mềm. 
+ 
+Các dự án đã thực hiện:  
+•  Dự án 6 
+o Tên khách hàng: Công ty cổ phần Lọc hóa dầu Bình Sơn (BSR)  
+o Phạm vi triển khai: Triển khai báo cáo thông mình PoweBI 
+o Thời gian thực hiện:  10/2023 – Hiện tại 
+o Công nghệ: Azure Data Factory, Azure Data Analytics, PowerBI  
+o Vai trò đảm nhận trong dự án: Trưởng nhóm kỹ thuật 
+- ETL Data 
+- Phát triển bảo cáo PowerBI 
+- Cấu hình/cài đặt hệ thống 
+•  Dự án 5 
+o Tên khách hàng: Ngân hàng thương mại cổ phần Đầu tư và Phát triển Việt Nam (BIDV)  
+o Phạm vi triển khai: Triển khai giải pháp ALM + Báo cáo tùy chỉnh 
+o Thời gian thực hiện:  04/2022 – 08/2023 
+o Công nghệ: Microsoft SQL Server, FIS Risk Reporting Tool, DataStage  
+o Vai trò đảm nhận trong dự án: Chuyên viên phát triển BI 
+- ETL Data 
+- Phát triển bảo cáo tùy chỉnh 
+- Cấu hình/cài đặt hệ thống 
+•  Dự án 4 
+o Tên khách hàng: Ngân hàng thương mại cổ phần Quốc tế Việt Nam (VIB) 
+o Phạm vi triển khai: Triển khai hệ thống SAP CDP 
+o Thời gian thực hiện:  05/2022 – 11/2022 
+o Công nghệ: SAP Analytics Cloud (SAC), SAP Business Application Studio (BAS), SAP 
+HANA 
+o Vai trò đảm nhận trong dự án: Chuyên viên phát triển dữ liệu 
+- Phát triển hệ thống xử lý dữ liệu trên BAS 
+- Phát triển báo cáo trên SAC 
+•  Dự án 3 
+o Tên khách hàng: Ngân hàng thương mại cổ phần Sài Gòn Thương Tín (Sacombank) 
+o Phạm vi triển khai: Triển khai nâng cấp hệ thống OBI lên OAS 
+o Thời gian thực hiện:  06/2021 – 12/2021 
+o Công nghệ: Oracle Analytics Service (OAS), Oracle Analytics Publisher 
+o Vai trò đảm nhận trong dự án: Chuyên viên phát triển báo cáo 
+- Phát triển hệ thống ETL 
+- Phát triển báo cáo trên OAS 
+ 
+•  Dự án 2  
+o Tên khách hàng: Ngân hàng An Bình (ABBBank) 
+o Phạm vi triển khai: Triển khai hệ thống phần mềm Data Warehouse cho ABB (An Binh Bank). 
+o Thời gian thực hiện:  05/2020 – 12/2020 
+o Công nghệ: Oracle Data Intergrator (ODI), Oracle Business Intelligence (OBI) 
+o Vai trò đảm nhận trong dự án: Chuyên viên phát triển ETL- OBI 
+- Phát triển hệ thống ETL 
+- Phát triển báo cáo trên OBI 
+- Cấu hình/cài đặt hệ thống 
+ 
+•  Dự án 1  
+o Tên khách hàng: Công ty TNHH Công nghệ và Giải pháp CMC Sài Gòn 
+o Phạm vi triển khai: Triển khai phầm mềm CMIS quản lý hoạt động nội bộ doanh nghiệp  
+o Thời gian thực hiện:  07/2017 - 04/2020  
+o Công nghê: .NET, Microsoft SQL Server 
+o Vai trò trong dự án: Lập Trình Viên, Nhân viên phân tích nghiệp vụ 
+- Nhận – Phân tích yêu cầu người dùng 
+- Phát triển chức năng hệ thống  
+- Vận hành hệ thống 
+- Phát tiển hệ thống báo cáo
+
+Trình độ học vấn:  
+2017 Tốt nghiệp Khoa Công nghệ thông tin Đại học Cô ng Nghệ Thành Phố Hồ Chí Minh 
+ 
+Chứng chỉ : 
+1.  PL-300: Microsoft Power BI Data Analyst 
+ 
+Kinh nghiệm công tác:  
+1.  Tên Công ty: Công ty TNHH Công nghệ và Giải pháp CMC Sài Gòn 
+a.  Thời gian làm việc: Từ 07/2017 đến 04/2020 
+b.  Chức danh: Lập Trình Viên, Nhân viên phân tích nghiệp vụ 
+2.  Tên Công ty: Công ty cổ phần Katalyst 
+a.  Thời gian làm việc: Tháng 05/ 2020 đến 04/2022 
+b.  Chức danh: Chuyên viên cơ sở dữ liệu 
+3.  Tên Công ty: Công ty cổ phần tư vấn công nghệ NGS 
+a.  Thời gian làm việc: Tháng 04/ 2022 đến hiện tại 
+b.  Chức danh: Chuyên viên phát triển dữ liệu 
+ 
+Ngoại ngữ: Tiếng Anh  
+Xác nhận:  
+Tôi xin cam đoan các thông tin nêu trên là đúng sự thật. 
+ , ngày ... tháng … năm 2024 
+Người khai 
+ 
+ 
+LÊ HỮU NHÃ

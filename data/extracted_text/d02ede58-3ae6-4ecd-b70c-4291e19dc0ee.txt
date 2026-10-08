@@ -1,0 +1,75 @@
+/
+NGUYỄN THỊ NGỌC SƯƠNG
+  
+ 
+- LẬP TRÌNH VIÊN
+Nữ
+/25/30 Đường TTN1, P . Tân Thời Nhất, Q12
+HỌC VẤN
+Trình độ:
+Loại tốt nghiệp:
+-
+Trình độ:
+Loại tốt nghiệp:
+-
+ ĐẠI HỌC CÔNG NGHIỆP THỰC PHẨM CÔNG NGHỆ THÔNG TIN
+Cao đẳng
+Khá
+ ĐẠI HỌC MỞ CÔNG NGHỆ THÔNG TIN
+Đại học
+Khá
+KINH NGHIỆM
+Mô tả
+-
+Mô tả
+-
+ CÔNG TY GOL NHÂN VIÊN LẬP TRÌNH PHẦN MỀM
+Thực hiện các công việc viết phần mềm, chỉnh sửa tạo báo cáo: Kế toán, Nhân sự, 
+Thuế Hải quan
+ NGÂN HÀNG TMCP AN BÌNH PHÓ PHÒNG PHÁT TRIỂN
+Phát triển các tính năng cho Hệ thống T24: 
+- Thu phí tự động các dịch vụ 
+- Thu phí tài khoản 
+- Tạo các sản phẩm linh hoạt tương ứng cho KHDN và KHCN 
+- Xuất các dữ liệu KPI cho phần tính KPI của KHCN, KHDN 
+- Các truy vấn và version khác theo yêu cầu công việc trên hệ thống T24 
+Phát triển hệ thống Ebanking sử dụng version TIB 
+- Phát triển các chức năng truy vấn 
+- Chuyển khoản 
+- Mở sổ tiết kiệm  
+- Tất toán sổ tiết kiệm 
+- Các dịch vụ thanh toán khác 
+Phát triển các service trên ứng dụng trục tích hợp ESB cho các hệ thống kết 
+nối vào t24, theo phương thức tcserver: 
+- Trục tích hợp ESB sử dụng tool của IBM qua các giao thức SoapUI và Restful 
+Phát triển datawarehouse dung các file dữ liệu từ  dùng để thực hiện  
+báo cáo 
+Phát triển các báo cáo cho phần hệ thống BI/MIS trên nền tảng OBI, BI Admin Tool 
+của Oracle 
+Quản lý điều phối và định hướng các công việc cho các nhân sự trong phòng
+
+/
+TIẾNG ANH
+NGHE     NÓI    
+ĐỌC     VIẾT    
+TIN HỌC
+Phần mềm khác:
+WORD     EXCEL    
+POWERPOINT     OUTLOOK    
+Phần mềm T24 - Temenos, Trục tích hợp ESB, Net Bean, OBIEE, ODI, OBI
+KỸ NĂNG
+- Đọc hiểu tốt các tài liệu công nghệ. Học kỹ thuật hoặc ngôn ngữ chương trình mới, giải quyết vấn đề một 
+cách nhanh chóng. 
+- Tìm kiếm và phân tích tốt thông tin trên internet và các nguồn tài liệu khác. 
+- Có thể làm việc độc lập hoặc làm việc theo nhóm trong nhiều môi trường khác nhau. 
+- Có tinh thần trách nhiệm trong công việc 
+- Có kinh nghiệm của hệ thống t24 với các service tự động, các batch job, các kết nối bên ngoài. 
+- Quản lý điều phối công việc. 
+SỞ THÍCH
+Du lịch, âm nhạc
+NGƯỜI THAM KHẢO Họ tên:
+Công ty:
+Vị trí/chức vụ:
+Trần Hải Sơn
+Ngân hàng TMCP An Bình
+Giám đốc

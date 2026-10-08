@@ -1,0 +1,353 @@
+LÝ LỊCH CÔNG TÁC 
+ 
+ 
+THÔNG TIN CÁ NHÂN  
+Họ và Tên : Lê Minh  
+ 
+Ngày sinh : 20/02/1988  
+Giới tính : Nam  
+Mobile : 
+Email : 
+Số năm kinh nghiệm trong lĩnh vực IT : 7 
+Số năm làm việc cho công ty gần nhất : 5 
+Vị trí công tác :  Chuyên viên quản lý và phát triển Công Nghệ Thông Tin  
+Quốc tịch : Việt Nam  
+Địa chỉ :  Tổ 27, phường Lào Cai, thành phố Lào Cai, tỉnh Lào Cai . 
+ĐÀO TẠO  
+Chứng chỉ - Chuyên ngành – Nơi đào tạo Năm nhận chứng chỉ 
+Higher Diploma – Software Engineering – FPT Aptech 2011 
+NGOẠI NGỮ  
+ Thông thạo Tốt Khá 
+Tiếng Việt     
+Tiếng Anh     
+KỸ NĂNG CHUNG  
+ 
+ 
+ 
+Tin học văn phòng 
+Microsoft Word  
+Microsoft Excel  
+Microsoft Powerpoint  
+Microsoft Visio  
+Microsoft Project  
+ 
+ 
+ 
+Kỹ năng khác 
+Kỹ năng phân tích và giải quyết vấn đề tốt  
+Có thể làm việc dưới môi trường áp lực lớn và cường độ cao  
+Kỹ năng thuyết trình tốt, đào tạo và triển khai phần mềm
+
+Ham học hỏi và có tinh thần trách nhiệm, tinh thần cầu tiến cao  
+Có khả năng đọc tài liệu bằng tiếng anh  
+Kỹ năng làm việc độc lập hoặc nhóm  
+Kỹ năng giao tiếp tốt  
+Kỹ năng trình bày, đề xuất giải pháp và thuyết phục khách hàng  
+KỸ NĂNG CÔNG NGHỆ THÔNG TIN  
+ 
+ 
+ 
+ 
+Kỹ năng 
+Software Development  
+Business Intelligence Analysis 
+Data Analytics  
+Data Warehouse 
+Data Mining 
+Business Analysis 
+Project Coordination 
+…. 
+ 
+ 
+Cơ sở Dữ Liệu  
+Microsoft SQL Server  
+Oracle Database  
+My SQL QL 
+…… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bộ Công cụ phát triển 
+Microsoft Visual Studio .NET (C#,  
+Microsoft SQL Reporting service 
+Microsoft Power BI 
+Oracle BI Enterprise Edition 
+Oracle Forms and Report Builder 
+Core ( MVC,  Core,  API…) 
+Entity Framework, Entity Framework Core 
+NodeJS, SocketIO 
+Sequelize (áp dụng cho MySQL, MongoDB)
+
+Javascript/TypeScript, JavaScript Framework 
+Angular, ReactJs, ThreeJS 
+ CSS3/HTML5 
+Webservice (RESTful Webservices; Webworker…) 
+Test/UNIT Test 
+Quản lý Maintain và mở rộng ứng dụng 
+Sử dụng tốt các Source Control (SVN, Git…) 
+ 
+THÂM NIÊN CÔNG TÁC VÀ KINH NGHIỆM LÀM VIỆC  
+Công ty  Công ty Thông tin di động – VMS Mobifon 
+Chi nhánh   Chi nhánh Mobifone Lào Cai 
+Vị trí công việc Nhân viên hỗ trợ CNTT, Nhân viên kinh doanh, Trưởng phòng Khách hàng doanh nghiệp  
+Mô tả công việc  
+ Hỗ trợ toàn bộ các vấn đề liên quan đến CNTT tại chi nhánh 
+ Đầu mối triển khai hệ thống CRM của Công ty tại chi nhánh Lào Cai 
+ Phụ trách phát triển thị trường di động tại khu vực thành phố Lào Cai 
+ Phụ trách phát triển mảng Khách hàng doanh nghiệp trên địa bàn tỉnh Lào Cai  
+  
+Công ty Bưu điện tỉnh Lào Ca 
+Vị trí công việc Nhân viên kinh doanh 
+Mô tả công việc 
+ Phụ trách kinh doanh mảng dịch vụ bưu chính 
+ Phụ trách kinh doanh mảng thị trường 
+ Triển khai dự án: Nâng cao khả năng sử dụng máy tính và truy nhập Internet công cộng tại 
+Việt Nam (Dự án BMGF-VN) trên địa bàn tỉnh Lào Cai 
+ Phụ trách mảng thu hộ cho Bảo hiểm xã hội tỉnh Lào Cai (BHXH tự nguyện, BHYT, chi 
+trả lương hưu…) 
+  
+Công ty  Viễn thông tỉnh Lào Cai (VNPT Lào Cai) 2016 – 2021  
+Trung tâm Trung tâm Công nghệ thông tin – VNPT Lào Cai 
+Vị trí công việc Lập trình viên, Điều phối viên dự án, Quản trị dự án, Tư vấn giải pháp, BA, Presale 
+ 
+  Lập trình viên .NET
+
+Mô tả công việc 
+ Tham gia lập trình và xây dựng phát triển hệ thống Business intelligenc e , Data 
+Analytic… theo yêu cầu của công ty  
+ Tham gia vào viết tài liệu kỹ thuật cho các dự án  
+ Tham gia nghiên cứu giải pháp công nghệ  
+ Làm Presale, tư vấn giải pháp cho khách hàng  
+ Thiết kế và xây dựng hệ thống báo cáo Dashboard theo yêu cầu của cấp trên  
+ Làm điều phối viên cho các dự án Chính quyền điện tử 
+ Phân tích nghiệp vụ cho các dự án 
+ Quản trị, đầu mối một số dịch vụ hệ thống của VNPT (CRM, EMS, BSC…) 
+ Tham gia tư vấn giải pháp CNTT cho ban  lãnh đạo  
+ 
+ 
+MỘT SỐ DỰ ÁN ĐÃ THAM GIA KHI LÀM VIỆC TẠI VNPT  
+STT  Thông tin dự án Thông tin chi tiết 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Tên dự án  Triển khai hệ thống Điều hành Sản xuất kinh doanh – Phát triển thuê bao vùng  
+Vị trí trong dự án  Lập trình viên 
+ BA 
+ Triển khai dự án 
+ Phân tích dữ liệu 
+ 
+ 
+ 
+ 
+Công việc 
+ Xây dựng hệ thống Data Warehouse 
+ Xây dựng hệ thống Data Mining 
+ Lập trình theo nhiệm vụ được giao 
+ Phân tích nghiệp vụ trong các quy trình quản lý, sản xuất tại công ty 
+ Triển khai hệ thống cho công ty, quản lý dữ liệu hệ thống  
+ Chuyển đổi và làm sạch các dữ liệu cũ đưa vào hệ thống  
+ Đào tạo, hướng dẫn người dùng sử dụng chức năng hệ thống 
+ Quản trị hệ thống, đầu mối tất cả các phần mềm phục vụ ĐHSXKD 
+ Đầu mối support xử lý các vấn đề liên quan đến hệ thống cho người dùng 
+ Thiết kế và xây dựng báo cáo quản trị và phân tích 
+ 
+Mục tiêu dự án 
+ Đơn giản hoá các quy trình kinh doanh và quy trình làm việc  
+ Xây dụng hệ thống phần mềm tác nghiệp đặc thù, tập trung và duy nhất 
+ Xây dựng cơ sở dữ liệu quản lý khách hàng, quản lý nội bộ 
+ Xây dựng báo cáo quản trị và phân tích phục vụ sản xuất kinh doanh 
+Quy mô dự án Triển khai trên toàn bộ địa bàn VNPT tỉnh Lào Cai
+
+2 
+Tên dự án  Triển khai hệ thống tính cước tập trung OCCS cho VNPT Lào Cai, Lai Châu, Yên 
+Bái, Điện Biên 
+Vị trí trong dự án  Lập trình viên 
+ Phân tích dữ liệu 
+ 
+ 
+ 
+Công việc 
+ Lập trình theo nhiệm vụ được giao 
+ Lập trình ứng dụng (Webform Application) cho hệ thống tra cước 
+ Xây dựng hệ thống Data Warehouse 
+ Xây dựng hệ thống Data Mining 
+ Phân tích các nghiệp vụ tính cước theo đặc thù của từng VNPT địa bàn tỉnh 
+ Thiết kế và xây dựng tích hợp dữ liệu từ các hệ thống tính cước cũ 
+ Tạo mới báo cáo và sửa báo cáo theo yêu cầu của khách hàng 
+ Phối hợp trong việc xây dựng hệ thống và tư vấn khách hàng 
+ Thiết kế và xây dựng hệ thống tra cứu thông tin cước cho khách hàng 
+ Chuyển đổi và làm sạch dữ liệu từ các hệ thống cũ đưa vào hệ thống  
+Mục tiêu dự án  Xây dựng và triển khai hệ thống tính cước tập trung theo một hệ thống chính thức 
+và duy nhất cho tập đoàn 
+ Xây dựng hệ thống tra cứu thông tin cước, lấy hoá đơn điện tử cho các khách 
+hàng sử dụng dịch vụ của công ty 
+Thành tích Nhận được bằng khen của Tập đoàn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Tên dự án  Xây dựng và triển khai hệ thống quản lý văn bản và điều hành cho các cơ quan 
+quản lý nhà nước (VNPT iOffice) 
+Vị trí trong dự án  Lập trình viên .NET 
+ Project coordinator 
+ BA 
+Công việc  Lập trình theo nhiệm vụ được giao 
+ Phân tích nghiệp vụ các quy trình của khách hàng 
+ Điều phối nguồn lực, hoạch định thời gian và chiến lược triển khai dự án 
+ Tham gia vào viết tài liệu kỹ thuật bàn giao cho khách hàng  
+ Tạo mới báo cáo , sửa báo cáo theo yêu cầu khách hàng 
+ Phối hợp với các nhóm khác trong việc xây dựng hệ thống và tư vấn khách 
+hàng 
+Mục tiêu dự án   Số hoá toàn bộ các quy trình soạn thảo, gửi và nhận văn bản giữa các cơ quan 
+chính quyền
+
+ Rút ngắn thời gian gửi và nhận văn bản 
+ Quản lý văn bản một cách có hệ thống 
+ Tiết kiệm chi phí và nguồn lực cho khách hàng 
+ 
+ 
+ 
+ 
+Quy mô dự án 
+ 
+ Tỉnh uỷ 
+ UBND tỉnh, UBND huyện/thành phố 
+ Các sở, ban, ngành 
+ Các trung tâm trực thuộc 
+ Tỉnh Lào Cai 
+ Tỉnh Nghệ An 
+ Tỉnh Tuyên Quang 
+ Tỉnh Đắk Nông 
+ Tỉnh Bà Rịa -Vũng Tàu 
+ Tỉnh Lai Châu 
+ Tỉnh Sơn La 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Tên dự án  
+Hệ thống bộ ba phần mềm của sở Khoa học và Công nghệ tỉnh Lào Cai 
+ Hệ thống quản lý ISO 
+ Hệ thống quan trắc và giám sát  phóng xạ môi trường 
+ Hệ thống Dashboard các chỉ tiêu khoa học công nghệ trên địa bàn tỉnh 
+ 
+Vị trí trong dự án 
+ Lập trình viên 
+ Presale 
+ BA 
+ Project Coordianator 
+ Triển khai dự án 
+ 
+Công việc 
+ Lập trình theo nhiệm vụ được giao MVC Web Application) 
+ Tư vấn giải pháp cho khách hàng 
+ Phân tích nghiệp vụ các quy trình làm việc của khách hàng 
+ Cùng phối hợp với các thành viên trong dự án lên kế hoạch , tổ chức  ,sắp xếp 
+công việc , điều phối dự án trong việc triển khai hệ thống và tư vấn khách 
+hàng , tổ chức đào tạo nghiệp vụ , hỗ trợ chuyển đổi và đổ dữ liệu vào hệ 
+thống 
+ Tham gia vào viết tài liệu bàn giao cho khách hàng 
+Mục tiêu dự án   Số hoá toàn bộ các quy trình quản lý ISO 
+ Xây dựng hệ thống Dashboard quản lý các chỉ tiêu công nghệ 
+ Xây dựng hệ thống Dashboard quản lý các chỉ số Quan trắc và phóng xạ môi 
+trường 
+ 
+Quy mô dự án  
+ 
+Sở Khoa học và Công nghệ Tỉnh Lào Cai – Các trung tâm trực thuộc sở
+
+5 
+Tên dự án  Xây dựng hệ thống BSC cho VNPT Lào Cai 
+Vị trí trong dự án  Lập trình viên 
+ BA 
+ Triển khai dự án 
+Công việc  Lập trình theo nhiệm vụ được giao 
+ Xây dựng hệ thống Data Warehouse 
+ Xây dựng hệ thống Data Mining 
+ Phân tích nghiệp vụ quy trình giao, nhận và đánh giá BSC 
+ Cấu hình các thông số cần thiết để triển khai dự án 
+ Thành viên hội đồng BSC VNPT Lào Cai 
+ Tư vấn giải pháp và cố vấn cho lãnh đạo công ty 
+Mục tiêu dự án   Số hoá quá trình giao, nhận và đánh giá BSC 
+ Xây dựng hệ thống hợp nhất. các hệ thống báo cáo phục vụ công viêc 
+Quy mô dự án  VNPT tỉnh Lào Cai 
+ 
+ 
+ 
+6 
+Tên dự án  Xây dựng hệ thống Giao khoán địa bàn và Tính lương cho VNPT Lào Cai 
+Vị trí trong dự án Project Management 
+Công việc  Phân tích nghiệp vụ 
+ Thiết kế và xây dựng hệ thống Giao khoán địa bàn – Tính lương 
+ Thiết kế và xây dựng hệ thống báo cáo, Dashboard theo yêu cầu 
+ Tư vấn các giải pháp giải quyết vấn đề 
+ Cố vấn cho ban lãnh đạo 
+ Thành viên hội đồng tiền lương VNPT Lào Cai 
+ 
+7 
+Tên dự án  Chuyển đổi số nội bộ VNPT Lào Cai 
+Vị trí trong dự án Project Management 
+ 
+ 
+Công việc 
+ 
+ Triển khai các hệ thống phần mềm phục vụ Chuyển đổi số doanh nghiệp 
+ Xây dựng các hệ thống báo cáo phục vụ Chuyển đổi số 
+ 
+ 
+ 
+ 
+ 
+ 
+Tên dự án  Chuyển đổi hệ thống Phát triển thuê bao – Điều hành Sản xuất kinh doanh về một 
+hệ thống duy nhất của tập đoàn VNPT 
+Vị trí trong dự án  Team leader 
+ Project Coordinator 
+ BA 
+ Triển khai dự án
+
+8 Công việc  Phân tích nghiệp vụ các quy trình làm việc, sản xuất 
+ Phân tích dữ liệu 
+ Chuyển đổi và làm sạch các dữ liệu cũ đưa vào hệ thống 
+ Triển khai, hướng dẫn và đào tạo hệ thống cho khách hàng 
+ Thiết kế và xây dựng các báo cáo phục vụ theo yêu cầu của khách hàng 
+Mục tiêu dự án  Xây dựng mô hình ERP thống nhất trên toàn bộ các địa bàn thuộc tập đoàn 
+VNPT 
+ Số hoá toàn bộ các quy trình làm việc, sản xuất 
+ Quản lý các phân hệ thuộc ERP trên hệ thống 
+Quy mô dự án  VNPT tỉnh Lai Châu 
+ VNPT tỉnh Điện Biên 
+ VNPT tỉnh Yên Bái 
+ 
+ 
+ 
+ 
+ 
+THÔNG TIN THAM KHẢO 
+Giám đốc Trung tâm công nghệ thông tin : Mr. Lưu Đình Thắng – Mobile phone :

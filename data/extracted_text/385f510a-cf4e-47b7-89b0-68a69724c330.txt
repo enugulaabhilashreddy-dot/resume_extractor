@@ -1,0 +1,51 @@
+1 
+Lê Quốc Chấn 
+GENDER: MALE    PHONE:    EMAIL:     
+ 
+EXPERIENCE 
+[Mar, 2020 - present] 
+Mobile & Web developer as Freelancer 
+o Receive requests from customers, analyze requirements, analyze application functionality, choose 
+technology to develop for applications, assign tasks to team members 
+o Design database, develop api for the applications 
+o Support team members coding functions, fix bugs of the applications 
+o The projects finished: 
+ 
+ 
+ 
+[Jun, 2018 – Jun, 2020] 
+Mobile developer at Thu Vien Phap Luat Co., Ltd  
+o Design UI/UX, coding functions of the applications of the flutter technology platform 
+o Coding api for the applications to be get data 
+ The applications finished: 
+ 
+ 
+ 
+[Aug, 2016 – Feb, 2018] 
+Android developer at VTV-Hyundai Home Shopping 
+o Participate in application development VTV-Hyundai Home Shopping 
+ 
+o Participate develop net shopping system features 
+o Participate develop BO system features 
+ 
+[May, 2014 – Jul, 2016] 
+Mobile developer at FPT Digital Retail Joint  Stock Company  
+o Participate develops applications for company 
+ 
+EDUCATION 
+Tien Giang University – Software Engineer 
+ 
+SKILLS 
+o Have basic knowledge of Java, Swift, Dart, OOP, MVC, MVP, Design pattern of programing 
+languages 
+o Have basic knowledge of Activity, Intent, Broadcast Intent, Broadcast Receiver, Android Service, 
+Manifest, Resource, Notification of Android SDK 
+o Have basic knowledge of UI Kit, Cocoa touch, Core data, Core location of iOS SDK 
+o Have basic knowledge of BloC, Provider, Widget Components of Futter SDK 
+o Have basic knowledge of Firebase Cloud Message, Google Cloud Message, Google Map api, 
+Google sign in, Youtube api, Facebook api, OneSignal api of third party 
+o May easy to building and submitting app to Google Play Store and iOS App Store 
+o May easy to use source code management tools such as github, svn 
+o Have basic knowledge and can use database management system such as Oracle, SQL Server 
+o Have basic knowledge of Html, CSS, Javascript, Jquery, angularJS, Ajax of programing languages 
+o Understands and can manage team of two to three members

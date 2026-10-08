@@ -1,0 +1,77 @@
+Name: Duong Duc Dat 
+Birth day: 12/14/1985 
+Mobile:  
+Expect Salary: 25.000.000 Vnd Net 
+ 
+Career Objective: To be part of a dynamic team where I’m able to contribute with my whole 
+strengths. I’m also looking forward to opportunities to stretch and grow my skills. 
+ 
+Skills: 
+• Programming language: VB 3.0, VB .NET, C# .NET  
+• Database system: Microsoft Access 2000, Microsoft SQL Server 2000, MS SQL Server, 
+MySQL  
+• Web Development: HTML, Javascript, Ajax, XML, XSL  
+• Reporting software & Excel  
+• Install and maintain server: Windows, Linux  
+ 
+Experience: 
+05-2007 - 11-2011 FPT –  
+• Programming languages: asp 3.0, vBulentin, c#, , html, javacript 
+• Database systems: sqlserver, mysql, foxpro 
+• Maintained and updated Severs OS: Window Microsoft server 2003, 2008, Linux Cent 
+OS 
+• Designed, built and managed websites:  (asp 3.0),  (asp 
+3.0),  (asp 3.0),  (asp 3.0), (asp 3.0),  
+),  ),  (asp 3.0), diễn đàn game thủ: 
+ 
+• Built video system for  
+• Converted videos from multiple formats to flv, mp3, mp4 for online and mobile 
+newspapers 
+• Assisted reporters with video editing 
+• Reported video view counts to marketing team 
+• Edited videos to add logos, adjust sounds and other technical parameters 
+• Maintained and managed servers that hosted video 
+• Participated in a project to build an editing system to manage internal articles 
+• Installed, maintained and managed 30 servers with strong configuration 1U, 2U and 4U
+
+07-2012 - 09-2013 VNPT – Vietnam Posts and Telecommunication Group 
+• Web development: HTML, Javascript, Ajax, XML, XSL 
+• Designed, built and managed website  
+• Designed, built and managed websites for several projects 
+• Maintained and managed servers 
+ 
+04-2014 - 12-2015 Hadico – Hanoi Agricultural Development and Investment Company Limited 
+• Maintained and managed internal system which comprises of 50 computers, LAN, WAN 
+and Wifi  
+• Installed Windows  
+• Supported users with system issues 
+• Kept track of device counts 
+ 
+01-2016 - 12-2017 Vegas Plaza Casino 
+• Managed 200 game machines (Linux core) 
+• Installed and managed 5 Windows servers 
+• Installed, maintained and managed internal system which comprises of 50 computers, 
+several printers, LAN, WAN and Wifi  
+ 
+01-2018 - 05-2020  ManiSpa Aesthetics Company Ltd. 
+• Team lead of a supporting function for tele marketing department: 
+• Developed internal applications: C#, .Net 
+• Developed reports using software and Excel 
+• Managed database systems: MS SQL Server, MySQL 
+• Installed, maintained and managed the internal network and computing systems which 
+used by 12 branches: Windows & Linux servers, 150 computers, printers and projectors 
+• Selected hardware vendors based on product quality and pricing 
+ 
+ 
+2022 - 08-2023  Atlantic Group international education and tranining company 
+• Software development manager: 
+• Developed internal applications: C#, .Net 
+• Developed reports using software and Excel 
+• Managed database systems: MS SQL Server, MySQL, MariaDB 
+• System administration of Linux servers (CentOS + Ubuntu) + Windows (Window 
+Server) 
+• Config firewall, microservice 
+• Docker, Docker swarm 
+• Hyper V 
+• Selected hardware vendors based on product quality and pricing 
+• Selected software vendors

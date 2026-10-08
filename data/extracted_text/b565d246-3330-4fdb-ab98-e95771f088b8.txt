@@ -1,0 +1,311 @@
+TRƯƠNG CHÍ CHỌN 
+Software development 
+Date of birth May 02, 1991 
+Gender Male 
+Phone  
+Email  
+Address Đường Số 5, Khu dân cư Intesco, xã Phong Phú, Bình Chánh, 
+ 
+SUMMARY 
+ 
+I am software developer, and experience in modular and object oriented 
+programming in application design, troubleshooting, website development and 
+windows application development. 
+- Expertise in networking protocols and hardware operating systems. 
+- Experience in design database information system. 
+- Experience in working with client-server.  
+- Experience in common third-party APIs. 
+- Experience in business analysis position. 
+  
+EDUCATIONAL QUALIFICATION 
+Oct 2010 - Aug 2014 Can tho University 
+Major: Infomation System 
+Degree classification : Excellent (GPA: 3.1/4) 
+CERTIFICATIONS 
+ 
+11/2023 Business Analysis (BA) of license IIBA of BAC-HCM
+
+11/2021 Docker for absolute beginners 
+09/2021 Sequence Models 
+09/2021 Convolutional Neural Networks 
+05/2021 Improving Deep Neural Networks: Hyperparameter 
+Tuning, Regularization and Optimization 
+05/2021 Neural Networks and Deep Learning 
+05/2021 Structuring Machine Learning Projects 
+03/2021 Programming for Everybody (Getting Started with 
+Python) 
+03/2021 Programming for Everybody (Getting Started with 
+Python) 
+04/2021 Python Data Structures 
+04/2021 Using Python to Access Web Data 
+04/2021 Capstone: Retrieving, Processing, and Visualizing 
+Data with Python 
+04/2021 Using Databases with Python 
+04/2021 Introduction to HTML5 
+12/2012 Mirosoft Certificate MCITP-SA 
+10/2012 Corporate Network Management - Cantho University 
+Software Center (CUSC)Rank well 
+12/2011 Computer Hardware - Information Technology Vocational 
+College (Ispace)Rank well
+
+SKILLS 
+Programming languages: Programming languages: C, C++, C#, Python, PHP, 
+Javascript, T-SQL and PL/SQL. 
+DBMS Microsoft Access, Microsoft Excel, Microsoft SQL 
+Server, MySQL, Oracle DB, MongoDB, Postgresql. 
+Application development 
+tools: 
+MS Visual Studio 
+2008/2010/2012/2013/2015/2017/2019/2022, MS Visual 
+Code, Pycharm, PhpStorm, Webstorm. 
+Application design 
+tools: 
+Power Designer, Visio, StarUML, Xmind. 
+Web Programming: HTML5, CSS3, Javascript, ReactJs, NodeJs, ASP, 
+MVC, Angular 1, KnockoutJs, Jquery, 
+Bootstrap, Devexpress extreme. 
+Desktop Programming: Windows Form Application C# .NET, DevExpress Window 
+form. 
+Programing technologies LinQ, LinQ Lambda Expression 
+Web and application 
+server: 
+IIS, Apache. 
+Framework: .NET Framework, Entity Framework, Laravel Framework 
+and DevExpress Framework. 
+Graphic design tools: Adobe Photoshop, Adobe illustrator, Adobe Indesign, 
+Coreldraw. 
+Platforms: Microsoft Windows OS, Linux OS and Mac OS. 
+Language English (can be comunication)
+
+WORK EXPERIENCE 
+02/2022 – Now CMC GLOBAL 
+Software Development Engineering (Lv4) 
+- Outsourcing for the Japanese market 
+- Build solution and project structure 
+- Support in planning estimate time 
+- Review codes for team members 
+2018 - 2021 FPT TELECOM 
+System Engineering 
+-Develop internal service system 
+-Maintain the company's existing system  
+-Ensure the system works stably and smoothly 
+-Monitor and correct errors in a timely manner 
+2016 - 2018 EXIMBANK 
+Software Engineer 
+-Core banking programming 
+-Check and reconcile accounting data 
+-Summary of data at the end of the day, month, 
+quarter and year 
+  
+2014 - 2016 DHG PHARMA 
+IT Engineer 
+-Operating system 
+-Reception and support for other 
+department -Development system for 
+Hospitals
+
+PROJECTS 
+ 
+Education Solution 
+(Jan 2023 - Now ) 
+Customer Schools in Vietnam 
+Description Comprehensive educational management for Universities, 
+Colleges, Intermediate Schools, Departments of Education, 
+Preschools, Primary Schools, Middle Schools, High Schools 
+and connection services for the Education and Training 
+industry. 
+Team size Many members 
+My position Software Engineer 
+My roles - Design system structural components  
+- Analysis and design for system api  
+- Analysis and design component for front end  
+- Participate in discussions with departments to clarify 
+requirements  
+- Division of work and reasonable time management in the 
+team  
+- Review and support coding for other members  
+Technologies used .NET Core, .NET MVC, Entity Framework, Windows Form, Kendo 
+framework, Microsoft SQL Server, Store Procedure. 
+ 
+ECOMMERCE  
+(Jan 2022 - Now) 
+Customer Computer store 
+Description Ecommerce in computer store and Beauty store
+
+Team size 3 members 
+My position Software development 
+My roles - Crawl data from api 
+- Write store procedure for report 
+- Automation message in platform 
+- CMS for management platform 
+Technologies used Laravel, MySQL, Google Sheet, Google Data Studio 
+ 
+UPGRADE SYSTEM - JAPAN 
+(May 2022 - Now) 
+Customer Japan 
+Description Finance project in japan 
+Team size 8 members 
+My position Software development 
+My roles - Upgrade the system from visual to  
+Technologies used C#, window form, sql server 
+ 
+FITNESS - JAPAN 
+(Mar 2022 - May 2022) 
+Customer Japan 
+Description Fitness project in japan 
+Team size 3 members 
+My position Software development 
+My roles - Development IOT in raspberry pi
+
+Technologies used Python, AWS 
+ 
+FINANCE - SRA 
+(Feb 2022 - Mar 2022) 
+Customer SRA-Japan 
+Description Finance project in japan 
+Team size 4 members 
+My position Software development 
+My roles - Development new module in to finance project 
+Technologies used Visual Basic 6.0, Microsoft SQL Server. 
+ 
+FPT TELECOM - CMS PAYTV 
+(Jan 2021 - Dec 2021) 
+Customer Company department 
+Description Design and development web based for departments in the 
+company to edit and composecontent for FPT television. This 
+application is for internal use only. Users can create 
+orupdate articles to put content on television. 
+Team size 6 members 
+My position Software development 
+My roles - Design system structural components 
+- Analysis and design for system api 
+- Analysis and design component for front end 
+- Participate in discussions with departments to clarify 
+requirements
+
+- Division of work and reasonable time management in the 
+team 
+- Review and support coding for other members 
+Technologies used .NET Core, Entity Framework core, ReactJS, Redux Thunk, 
+Axios, Material Style,Microsoft SQL Server 
+ 
+FPT TELECOM - WEBSITE PAYTV 
+(Dec 2020 - Apr 2021) 
+Customer Marketing department 
+Description Build a website to promote the company's brand. Customers 
+can preview upcoming movies.Users can easily edit content 
+and follow SEO standards. 
+Team size 4 members 
+My position Software development 
+My roles - Participate in discussions with maketing departments 
+to requirements 
+- Analysis and design for system 
+- Design database 
+- Codding module for administrator 
+- Division of work and reasonable time management in the 
+team 
+- Review and support coding for other members 
+Technologies used PHP, Laravel Framework, MySQL. 
+ 
+FPT TELECOM - INSIDE PAYTV 
+(May 2019 - Nov 2020) 
+Customer Company department
+
+Description Internal management system 
+Team size 8 members 
+My position Software development 
+My roles - Maintenance and operating system 
+- Participate in new feature development 
+- Troubleshooting and fixbug 
+- Participate in discussions with departments to clarify 
+requirements 
+- Support coding for other members 
+Technologies used C# .NET MVC , LINQ to SQL, Jquery, Boostrap, KnockoutJs, 
+Microsoft SQL Server,Restful api. 
+ 
+FPT TELECOM - QR CODE PAYTV 
+(Dec 2018 - Feb 2019) 
+Customer Service for customer 
+Description Customers accumulate reward points and receive gifts on the 
+scanned QR-Code. 
+Team size 2 members 
+My position Software development 
+My roles - Discuss with relevant departments 
+- Design and developed web base 
+- Analysis and design component in project 
+- Ensure project implementation progress 
+Technologies used ReactJS, Redux Thunk, Axios, Material Style
+
+FPT TELECOM - PAYTV 4 WEEK 
+(Sep 2018 - Dec 2018) 
+Customer Sale department 
+Description The page tracks and reports customer care data that have 
+used the service in the past 4weeks 
+Team size 2 members 
+My position Software development 
+My roles - Participate in discussions with sale departments to 
+requirements 
+- Build solution 
+- Ensure project implementation progress 
+- Review and support coding for other members 
+Technologies used C# .NET MVC 5, LinQ to SQL, Microsoft SQL Server, Knockout 
+JS, Jquery, Boostrap 
+ 
+HOSPITAL PROJECT 
+(Jan 2018 - May 2018) 
+Customer Hospital in Vietnam 
+Description Overall hospital management software development 
+Team size 4 members 
+My position Software development 
+My roles - Business analysis at the hospital 
+- Build solution 
+- Database Design 
+- Codding and Fixbug 
+Technologies used C# .NET MVC 5, LinQ to SQL, Microsoft SQL Server
+
+CORE BANKING - EXIMBANK 
+(Jan 2016 - Dec 2017) 
+Customer Bank inside 
+Description Accounting services 
+Team size 4 members 
+My position Software development 
+My roles - Check journal entries 
+- Developing internal accounting management module 
+- Join development core banking 
+- Check journal entries 
+Technologies used SQL, PL/SQL, Oracle database, C#, Power builde 
+ 
+PHARMACY IN CANTHO CITY 
+(Jan 2014 - Dec 2014) 
+Customer Pharmacy store 
+Description Management in pharmacy store 
+Team size 2 members 
+My position Software development 
+My roles - Collect customer requirements 
+- Analysis of customer requirements 
+- Project planning 
+- Build solution 
+- Business analysis 
+- Codding 
+- Debug/Fixbug
+
+- Deployment 
+Technologies used C#, Window Form, Dev Express, LinQ to SQL, Microsoft SQL 
+Server 
+ 
+DHG PHARMA 
+(Jan 2014 - Dec 2016) 
+Customer Hospital in Can Tho City and Soc Trang province 
+Description Overall hospital management software development 
+Team size 4 members 
+My position Software development 
+My roles - Collect customer requirements 
+- Analysis of customer requirements 
+- Project planning 
+- Build solution 
+- Business analysis at the hospital 
+- Codding 
+- Setup to the hospital 
+- Debug/Fixbug 
+Technologies used C#, Window Form, Dev Express, LinQ to SQL, Microsoft SQL 
+Server

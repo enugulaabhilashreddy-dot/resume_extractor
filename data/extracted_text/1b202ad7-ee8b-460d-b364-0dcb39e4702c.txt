@@ -1,0 +1,109 @@
+Top 1 graduation project - 2020
+1st in MTA Softcon Contest - 07/2020.  
+3rd in HCM City AI Challenge, Scene Text
+Recognition - 12/2021. 
+Paper: Vu Duc Do and Tran Cao Truong,
+“Applying Machine Learning to Estimate
+Residential House Prices in Hanoi”, The 23rd
+National Conference on Information
+Technology and Communication, 2020.
+VŨ ĐỨC ĐỘ
+AI ENGINEER
+ABOUT ME
+I have over 3 years of experience working at
+product companies as an AI Engineer. My main
+responsibility is building systems and solving
+problems by using Machine Learning and AI
+technology. In addition, I have tasks and skills
+related to data collection, processing,
+management, and analysis.
+SKILLS
+Researching and developing Speech to Text 
+Vietnamese project.
+Researching and developing Text to Speech 
+Vietnamese project
+Building Vietnamese CRM Chatbot.
+Building VoiceBot for Cenhomes Sales 
+Department.
+Building Virtual assistant system for reporting 
+business situation.
+Analyzing and upgrading system: CRM, ERP. 
+TEPA   2021 - now
+EXPERIENCES
+Researching and developing  Real Estate 
+Price Prediction System by machine 
+learning.
+Researching and developing 
+Recommendation System.
+Researching Text to speech project.
+ 2019 - 2021
+EDUCATION
+ Cầu Giấy - Hà Nội
+Intern Pentester
+VNPT IT 2017 - 2019
+Testing and defining website vulnerability.
+Using Linux, deploy environment for case 
+studies.
+Using Python for resolving issues such as 
+crawling information, processing data, 
+automatic modules, ...
+Major in Data Technology
+Degree:  Very Good (3.39/4)
+CONTACT
+Data processing, Data Mining, Web Scraping 
+NLP, Computer vision, Speech  
+Technology: 
+Redash, Metabase
+MongoDB, MySQL, PostgresSQL, 
+Clickhouse, Redis
+Docker, RabbitMQ, Kafka, MinIO, S3
+ACHIEVEMENT
+Military Technical Academy (MTA) 2015 - 2020
+
+DETAIL OF PROJECTS
+Speech-to-Text Vietnamese
+Team size: 3
+Position: member
+Technology Used: Python, Deep
+Learning(sequence-to-sequence)
+Text to Speech Vietnamese:
+Team size: 3
+Position: member
+Technology Used: Python, FlaskAPI, Deep 
+learning(FastPitch, G2P)
+Vietnamese CRM Chatbot.
+Team size: 2
+Position: member
+Technology Used: Python, RaSa
+VoiceBot for Cenhomes Sales Department
+Team size: 3
+Position: member
+Technology Used: Python, RaSa, 
+Speech2Text, Text2Speech
+Virtual assistant system 
+Team size: 3
+Position: member
+Technology Used: Python, RaSa, 
+Speech2Text, Text2Speech
+Real Estate Price Prediction System 
+Team size: 6
+Position: main developer
+Technology Used: Python, FlaskAPI, Machine 
+learning(linear regression,KNN, Decision Tree, 
+Random Forest,.. ), S3, MongoDB
+Recommendation System.
+Team size: 4
+Position: main developer
+Technology Used: Python, FlaskAPI, Machine 
+learning, Kafka, Clickhouse, CronJob
+Text to Speech Vietnamese:
+Team size: 3
+Position: main developer
+Technology Used: Python, FlaskAPI,Deep 
+learning(Tacotron2, FastSpeech, G2P)
+TEPA   2021 - now  2019 - 2021
+Other
+Scene Text Recognition 
+Team size: 2
+Position: member
+Technology Used: Python, Yolo v5, OCR

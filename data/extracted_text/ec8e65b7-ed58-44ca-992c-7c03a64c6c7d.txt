@@ -1,0 +1,102 @@
+PHẠM THU HƯƠNG
+BUSINESS ANALYST
+- Mong muốn có một môi trường
+làm việc chuyên nghiệp, ổn định và
+phát triển để có một công việc gắn
+bó lâu dài. 
+- Nâng cao các kỹ năng nghiệp vụ,
+kỹ năng lập trình, tạo hiệu quả
+doanh thu tốt nhất cho công
+ty, không ngừng tăng lợi nhuận
+chung cho công ty và thu nhập của
+bản thân. 
+- Đạt mục tiêu trở thành Leader
+trong 2 năm tới 
+Tiếng Nga
+Lập trình
+Tin học văn phòng
+Tiếng Anh
+Làm việc nhóm
+ TRƯỜNG TRUNG HỌC PHỔ THÔNG AN PHÚC 09/2014    05/2017
+ ĐẠI HỌC GIAO THÔNG VẬN TẢI 10/2017    2021
+Chuyên ngành: Công nghệ thông tin
+- Có kiến thức cơ bản về  
+- Có kiến thức cơ bản SQL 
+-Có kiến thức cơ bản về  MV C framework 
+- Đã từng thực hiện lập trình về web theo môhình  MV C 
+ 
+ TRUNG TÂM HỆ THỐNG THÔNG TIN THUỘC FPT
+TELECOM
+4/2022    nay
+BA
+- Dự án tham gia: Loyalty, FTI-Warranty 
+- Mô tả công việc: 
+ + Thu thập yêu cầu từ khách hàng 
+ + Phân tích nghiệp vụ của dụ án 
+ + Design và viết tài liệu mô tả yêu cầu nghiệp vụ (URD) của dự án 
+ + Viết tài liệu yêu cầu Hệ thống (SRS) 
+ + Viết testcase UAT 
+ + Viết tài liệu Hướng dẫn sử dụng phần mềm 
+ + Truyền đạt nội dung, hỗ trợ các thành viên dự án, quản lý dự án để làm rõ
+yêu cầu của khách hàng cần đáp ứng 
+ + Phối hợp với đội phát triển để biết rõ hơn về dự án cũng như yêu cầu đặt ra 
+ + Hỗ trợ qc viết testcase và review testcase 
+ + Test lỗi kỹ thuật và nghiệp vụ để lập bug và theo dõi tiến độ ﬁx bug 
+NGÀY SINH
+22/07/1998
+GIỚI TÍNH
+Nữ
+ĐIỆN THOẠI
+EMAIL ĐỊA CHỈ
+Đường Lê Đức Thọ, Mỹ Đình Nam Từ
+Liêm Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+KỸ NĂNG
+SỞ THÍCH
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+
+Đọc sách, Du lịch,
+Lập Trình, Thể thao
+ + Hỗ trợ Developer ﬁx lỗi 
+ + Demo dự án cho Khách hàng 
+ CÔNG TY CỔ PHẦN CÔNG NGHỆ TIN HỌC EFY
+VIỆT NAM
+8/2021    3/2022
+Tester
+- Dự án tham gia: eCONTRACT - HỢP ĐỒNG ĐIỆN TỬ 
+- Mô tả công việc: 
+ + Phân tích nghiệp vụ về Hợp đồng điện tử để xây dựng các chức năng phần
+mềm Hợp đồng điện tử. 
+ + Viết các tài liệu mô tả yêu cầu nghiệp vụ phần mềm Hợp đồng điện tử. 
+ + Viết tài liệu hướng dẫn sử dụng phần mềm. 
+ + Update các tài liệu trên VSS. 
+ + Phối hợp với đội phát triển phần mềm để biết rõ hơn về dự án cũng như yêu
+cầu đặt ra. 
+ + Xây dựng testcase bao quát toàn bộ dự án. 
+ +Test lỗi kỹ thuật và nghiệp vụ phần mềm để lập bug và theo dõi bug trên
+Bugtracker. 
+ + Hỗ trợ Developer ﬁx lỗi phần mềm. 
+ + Thực hiện các công việc khác theo yêu cầu của Ban lãnh đạo. 
+ JITS INNOVATION LABS 1/2021    7/2021
+Tester
+- Dự án tham gia: 
+ 1. Medcomm Pos(Phần mềm quản trị cơ sở cung ứng thuốc kết nối liên thông
+dượcquốc gia) 
+2. Koi Pos ( phần mềm quản lý spa - salon ) 
+ - Mô tả công việc: 
+ + Phân tích nghiệp vụ dự án 
+ + Xây dựng testcase bao quát toàn bộ dự án 
+ + Tiến hành test manual các module, chức năng. 
+ + Theo dõi bug trên Jira. 
+  TÌNH NGUYỆN HIẾN MÁU 10/2018    nay
+Tình nguyện viên
+Tập hợp các món quà và phân phát tới người vô gia cư. 
+- Chia sẻ, động viên họ vượt qua giai đoạn khó khăn, giúp họ có những suy nghĩ
+lạc quan.
+Design & Prototype a Mobile UI/UX Experience - Learn
+Figma
+2023
+HOẠT ĐỘNG
+CHỨNG CHỈ
+©

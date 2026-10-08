@@ -1,0 +1,103 @@
+/
+ĐINH HOÀI THU
+ Giới tính:
+ Ngày sinh:
+ Số điện thoại:
+ Địa chỉ:
+ Email:
+BUSINESS ANALYST
+Nữ
+Số 11, ngách 211/199, Khương Trung, Thanh Xuân, 
+Hà Nội
+KINH NGHIỆM LÀM VIỆC
+Mô tả công việc:
+Thành tích đạt được:
+Mô tả công việc:
+Nhân viên giải pháp
+TRUNG TÂM PHẦN MỀM VIỄN THÔNG VIETTEL
+- Phân tích và làm rõ bài toán, lập kế hoạch xây dựng giải 
+pháp hệ thống cho các phân hệ:
++ Quản lý bán hàng
++ Quản lý tài nguyên bán hàng
++ Quản lý hóa đơn
+- Thực hiện viết tài liệu thiết kế chi tiết cho hệ thống theo kiến trúc 
+microservice
+- Thiết kế các API theo chuẩn restfull
+- Thiết kế data model cho các chức năng, nghiệp vụ tương ứng
+- Đưa ra các giải pháp tối ưu luồng nghiệp vụ
+- Phân tích ảnh hưởng giữa các module
+- Đánh giá mức độ ảnh hưởng giữa các luồng chức năng
+- Ước lượng nỗ lực cho các yêu cầu giải pháp
+- Chủ trì giao tiếp, tích hợp với các hệ thống ngoài như ví điện 
+tử, hóa đơn điện tử,...
+- Hỗ trợ triển khai, nghiệm thu hệ thống
+- Hỗ trợ xử lý lỗi/dữ liệu lỗi
+- Là trưởng nhóm giải pháp cho nghiệp vụ của các phân hệ: 
+quản lý bán hàng, quản lý tài nguyên bán hàng, hóa đơn, 
+số, 
+Nhân viên kiểm thử
+TRUNG TÂM PHẦN MỀM VIỄN THÔNG VIETTEL
+- Thực hiện review tài liệu giải pháp, phân tích nghiệp vụ
+- Assign công việc cho các tester khác trong dự án. Quản lý 
+tiến độ test
+HỌC VẤN
+Chuyên ngành:
+Bằng cấp:
+Loại tốt nghiệp:
+TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI
+Khoa học máy tính
+Chính qui
+Khá
+
+/
+Thành tích đạt được:
+- Viết testcase và review testcase cho các yêu cầu
+- Thực hiện test trên Web, kiểm tra dữ liệu trên DB
+- Viết các script tạo dữ liệu test
+- Test các thủ tục, tiến trình, webservice,...
+- Test tích hơp với các hệ thống khác
+- Thực hiện log lỗi và quản lý lỗi. Theo dõi, đôn đốc dev fix lỗi, 
+đảm bảo deadline. Phân tích các lỗi tiềm ẩn
+- Viết tài liệu hướng dẫn sử dụng cho khách hàng
+- Hỗ trợ khách hàng sau triển khai: kiểm tra các lỗi khách 
+hàng phản ánh, đưa ra hướng xử lý cho khách hàng 
+- Đánh giá chất lượng phần mềm
+Là test lead của dự án
+TIẾNG ANH
+NGHE     NÓI    
+ĐỌC     VIẾT    
+TIN HỌC
+WORD     EXCEL    
+POWERPOINT     OUTLOOK    
+KỸ NĂNG
+Kỹ năng chính:
+Kỹ năng khác:
+ 
+- Có kinh nghiệm làm việc trên các hệ thống cơ sở dữ 
+liệu: My SQL, oracle 
+- Sử dụng thành thạo các công cụ SQL navigator, 
+mariadb, sql developer, lucid chart... 
+- Có kiến thức nền tảng về phân tích nghiệp vụ 
+- Có khả năng phân tích vấn đề tốt 
+- Có kiến thức về swagger 
+- Hiểu biết về qui trình agile, qui trình phát triển phần 
+mềm 
+- Có kiến thức nền tảng về kiểm thử phần mềm: test 
+plan, test design các giai đoạn test, level test, các kỹ 
+thuật test,… 
+ 
+- Có khả năng đọc hiểu tài liệu tiếng anh chuyên ngành  
+- Có khả năng làm việc độc lập, theo nhóm  
+- Chịu được áp lực công việc cao 
+- Có tinh thần cầu tiến, ham học hỏi và có trách nhiệm 
+cao trong công việc 
+- Có khả năng giao tiếp tốt 
+NGƯỜI LIÊN HỆ
+ 
+Điện thoại:
+Chức vụ:
+Trung tâm phần mềm viễ thông Viettel
+Nguyễn Thị Khánh Chi
+Quản lý
+
+/

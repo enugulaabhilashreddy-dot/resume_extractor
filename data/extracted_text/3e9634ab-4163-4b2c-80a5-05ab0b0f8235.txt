@@ -1,0 +1,186 @@
+APPLICANT’S RESUME 
+ 
+PERSONAL DETAILS 
+Name : NGUYEN VAN HUONG 
+Day of Birth : 12/02/1988 
+ID number 211878271 
+Issued on : 09/05/2015 - Binh Dinh province 
+Health : good. 
+Phone :  
+Email :  
+Permanent address : Hoa Hiep - Binh Tuong - Tay Son - Binh Dinh 
+Contact address : 33 Tran Van Danh, Tan Binh, HCM City  
+Expected: It Manager / Project Manager 
+Educational Background and Training 
+ 
+2011 – 2013: Van Hien University - Bachelor of Information & Technology 
+10/2019: Business Analyst (BA) Course + Java Core Course in IMIC Centre 
+ 
+Strength, Character and Achievement 
+- Have 10 years working experience as System Network and Software developer (Full stack and 
+Backend Engineer) 
+- Skills Software: 
++ Strong understanding of OOP / RESTful API / PHP. (MVC5), .NET Core, 
+Angular. 
++ Have knowledge and practical experience about database: SQL, MYSQL, Oracle, SQL 
+Reporting. 
++ Have knowledge and practical experience about: Wordpress, Outsystem, Sharepoint of 
+Microsoft, Microsoft Azure. 
++ Master administrator SAP. 
++ Have knowledge about Python, AI. 
++ Graphics software: Photoshop, Corel. 
++ Office software: MS office (Word, Excel, PowerPoint). 
++ Soft skills: Communication, Teamwork, Work Independently, Management, Be willing 
+to learn new technology... 
+- Technical skills to explain network administration related abilities 
++ Managing and Maintaining the Servers, PC’s, Routers and Switches 
+- Windows network administration related technical skills 
++ Managing and Maintaining a Microsoft Windows Server 2003 Network Infrastructure 
+including Active Directory, Group Policy, VPN, DFS, WINS, DNS, DHCP, IIS, IP-Addressing, 
+Plan to offer Remote-Assistance to Client computers, file replications and logon scripts. 
+Installing and configuring File and Print Servers.
+
+Skill Manager 
+- Organizing the general management and administration of all activities of the IT Department, 
+including building / planning, organizing, implementing, leading, checking and improving 
+activities, processes, systems, and resources... the IT Department: 
+ + Planning the activities plans, programs and projects of the Department. 
+ +  Building, implementing, and evaluating the target system, performance measure (KPI) of 
+the IT Department and its employees. 
+ + Planning, training and developing employees. 
+ + Evaluate employee performance. 
+ + Manage assigned assets and resources. 
+ + Building, implementing and improving the system of management documents under the 
+Department's responsibility 
+ + Develop and manage operating budget (year, quarter, month). 
+ + Establish a meeting mechanism, exchange information internally. 
+ + Building and implementing the system of planning, reporting, storing records and data of the 
+IT Department. Organize, assign, control and improve the performance of functions and tasks 
+of the IT Department as specified in the Description of functions and duties of the IT 
+Department. 
+-  Building the Company's IT development orientation and strategy in each period development 
+of IT technical infrastructure, deployment of software applications. 
+- Develop, implement, improve and organize to control compliance with Company management 
+documents, related to the management and operation of IT systems in the Company. 
+- Lead and coordinate the units in the Company and external partners in software deployment, 
+application writing; Build and manage company website management system. 
+- Presiding over the organization, integration, storage, processing and management of data on 
+the company's computers and controlling the exploitation of information and data sources to 
+serve the requirements of management and administration of the Company. 
+- Research, analyze, forecast and identify developing IT trends and issues related to the 
+Company's IT application; propose the Company to apply new IT equipment, software, and 
+security methods to improve the efficiency of using the Company's IT system. 
+- Advise and advise the Board of Directors and Departments/Departments in the Company on 
+issues in the field of IT (technical infrastructure, application management software solutions 
+for units in the Company, cost estimates, etc.) implementation costs, etc.) 
+- The focal point for implementing technology projects of the Company 
+- The focal point to work with consulting partners, affiliate partners, IT software partners to 
+deploy the Company's technology software (including building technology software, sales 
+technology, technology, etc.) information technology,...) 
+- The focal point to work and coordinate with the IT Department of the Corporation to 
+implement the implementation of the overall IT strategy in accordance with the general 
+orientation of the Group. 
+- Describe requirements from functional departments about technology software needs to work 
+with partners or the Group to transfer requirements to units. 
+- Prepare professional plans and reports at the request of the Board of Directors.
+
+Language Skill 
+Language Listen Speak Read Write 
+English Medium Medium good good 
+ 
+JOB HISTORY 
+From 04/2020 to now: Alliance Print Technologies IT Manager 
+- Develop systems and procedures to assist management in operating more efficiently 
+and effectively. 
+- Execute project tasks, including gathering data and requirements, analyzing data, 
+documenting processes, designing solutions, and preparing executive presentations. 
+- Carry out project management activities, including project planning, resource planning, 
+status reporting, and risk and issue tracking. 
+- Build and present tailored demonstrations, proving the solution using scenario/use case 
+- Definition, maintenance and continuous development of analytics for business 
+stakeholders 
+- Consult business requirements with stakeholders and translate these into solutions 
+- Provide support to others who are responsible for implementing and maintaining 
+business requirements 
+- Identify process challenges and implement appropriate corrections or enhancements 
+- Establish and maintain strong business relationships. Demonstrate an understanding of 
+technology and technology projects. 
+- Building and developing IT solutions (Infrastructure, Applications) according to the 
+management orientation of the Company. Learn management goals, technology trends, 
+build IT solutions according to the Company's development strategy. 
+- Operate the application system, IT infrastructure at the Head Office and other branches. 
+Directly handle IT-related technical issues at the Company. 
+- Survey the status, research, and present solutions, make deployment plans, coordinate 
+deployment or directly deploy solutions, guide end-users. 
+ 
+From 01/2018 to 03/2020: Keppelland Senior Manager 
+Currently I'm managing a team 8 members in which the app team 5 members and support team 3 
+members. 
+- Responsible for IT system administration 
+- Solve problems and answer any computer related problems. 
+- Manage and deploy infrastructure, system and software service solution projects. 
+- Planning, managing the implementation of project plans. 
+- Manage the progress, quality, costs of the project, propose solutions when there have arise. 
+- Manage a risk plan and proposing appropriate solutions. 
+- Manage communication and change. 
+- Coordinate with related parties to identify project objectives, requirements and scope. 
+- Evaluate, select outsourcing resources / partners for the project (if necessary). 
+- Project control & support: Check the success factors of the project, Evaluate project results. 
+- Managing the people in the team makes the team grow stronger. 
+- Evaluation, feedback of team members 
+- Make periodic reports to the agency 
+- Manage Projects and annual company budget. 
+- Report monthly to the director. 
+- Make team plans and assign daily tasks to each user. 
+- Deploy and maintain products on cloud services (MICROSOFT AZURE)
+
+- Working directly with Singaporean contractor to develop real estate financial reporting program 
+(SMARK). 
+- Planning to implement the tax reporting system (E-Invoice). 
+- Use the budget to buy equipment for the team. 
+- Experienced working on back-end development using Wordpress. 
+- Strong understanding of OOP/RESTful/Design Patterns. 
+- Familiar with basic design principles and scaling web based applications. 
+- Responsible for receiving and assigning small and medium projects in the team (web, report, 
+developer app). 
+- Responsible for allocating the company's budget for large projects to find suitable partners. 
+- Developing OUTSYSTEM, WORDPRESS (Project: )  
+- Developing SHARE POINT OF MICROFT. (Project:  
+- Developing Web (MVC, Wordpress) & App (.NET, VB, .NET Core), HTML/CSS, javascript. 
+(Projects: - E-invoice, Launch (real estate), ERP Produce, Magrate: SAP -> SAP-4HANA) 
+ 
+From 8/2014 to 12/2017 BIDC Bank (Software developer) 
+ 
+Main tasks: To implement information technology applications in the banking sector and other 
+operations in T24 
+- Software development in the bank based on T24. 
+- Developing WORDPRESS + My SQL 
+- Use  (MVC5), JAVA (SQL, ORACLE) to develop applications outside the  system 
+- Learn more about java development for Core T24. 
+- Developing reports inside T24 system on java platform. 
+- Developing customers loan management program, managing archives and electronic receipts 
+(.NET). 
+- Cooperate with contractors to develop mobile banking (Create Routine to push data inside the 
+system out). 
+=> Projects: Mobile Banking, Guarantee Letter, Card Management, Create Report in T24. 
+ 
+From 07/2010 to 7/2014 ROSY Software Joint Stock Company (Software developer 
+Detailed survey of customer process) 
+- Interactive departments into the software. 
+- Data flow of parts. 
+- Process of calculation of data processing, cost price, cost, specific calculation functions. 
++ Import earnings data 
+- List of objects, materials, goods, parts and items. 
+- Account number, initial balance of payment term, inventory. 
++ Income form specific customer 
+- Daily vouchers, VAT invoice forms. 
+- Customer-specific reports. 
++ Installation 
+- Use winform to demo the project 
+- SQL Server 
+- Configure SQL Server (open connection protocol, Add account Users / Guest, Enable 
+OpenRowset, Enable xp_cmdshell). 
+- Framework. 
+- Install Server. 
+- Trust to the server, Security on Windows Explorer. 
+- ODBC to server.

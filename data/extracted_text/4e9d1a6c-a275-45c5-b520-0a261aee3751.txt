@@ -1,0 +1,53 @@
+T R A N  K E  H U Y 
+92 Street 4, Quarter 6, Hiep Binh Phuoc Ward, Thu Duc City, HCM City    
+•    •  
+ 
+OBJECTIVE With more than 6 years of experience working with maps and GPS applications in the field 
+of vehicle and ship transportation, meeting customer needs and organizational requirements. Along with 
+that is enthusiasm, love of work, not afraid of difficulties, al ways looking for solutions when encountering 
+problems, skills to work independently as well as teamwork. 
+E x p e r i e n c e 
+05/2015-11/2023 
+Team leader | Khanh Hoi Company | Go Vap, HCM city 
+- Research, build and deploy GPS Tracker system: 
++ Wrote firmware for GPS devices for cars and ships using C++ language. More than 5000 devices have 
+been produced and sold. The device has been registered with the Vietnam General Department of 
+Metrology. 
++ Wrote firmware for DVR device (processing gps, im ages, video) with python language (Using X96 TV 
+box board hardware, running Armbian). There have been more than 2000 devices sold on the market. 
++ Configure and handle situations well when receiving data with the FTP protocol 
++ Successfully write and deploy data receiving software in Java, C#  languages with TCP/IP protocol 
+(~4000 requests/s) with many different types of messages. 
++ Write and deploy website ( MVC .net , JavaScript API) GPS Tracker uses google map , mapbox, 
+openstreet  applies the " Load balancing" model. And the website has been registered 
+with the Ho Chi Minh Department of Intellectual Property (copyright): Project name: GTS, Number: 4 -
+.  
++ Design, process, and manage databases with MySQL. Optimize reading and writing speed with large 
+data. Good use of triggers, stored procedures, functions…  InnoDB Cluster  is applied on 2 
+independent servers. 
++ Write and deploy applications with C# .net Core . The application handles all requests (~2000 
+requests/s) from mobile applications, websites and from other company systems. 
++ Write and deploy mobile applications: Monitor and warn when there are system problems, using 
+"google Firebase cloud messaging". 
++ Write mobile applications (Android, iOS) using Android Java, Xamarin. There is an application posted 
+on the market with more than 500 downloads.
+
++ Understand and manage Windows Server (2012 - 2019), IIS, Hyper V, VMware workstation  well. 
+Configure well network issues (router) and open and close ports. 
++ Understand and configure well issues related to IP and domain. 
++ Ability to read hardware drawings - PCB when participating in Firmware writing projects. 
+- In addition, participate in writing applications ( C# - central processing application applying MQTT) for a 
+number of “Smart Home” solutions related to controlling devices via wifi and bluetooth. 
+- Build and deploy some software related to COM port: software to send SMS messages (C#), software 
+to read/write RFID tags (C#). 
+S k i l l s 
+• Have good research ability • Work pressure • Excellent time management skills  
+• Work independently as well as in groups • Data analytics  
+E d u c a t i o n 
+09-2010 - 09-2012 
+SOFTWARE DEVELOPMENT | FPT APTECH  
+ 
+05-2015 - 10-2019 
+INFORMATION TECHNOLOGY | TRA VINH UNIVERSITY 
+Ac t i v i t i e s 
+• Jogging • Swim • Cook • Cycling • Travel

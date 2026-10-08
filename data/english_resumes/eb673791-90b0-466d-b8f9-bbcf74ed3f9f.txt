@@ -1,0 +1,89 @@
+Duc Truong
+E-Banking Application Development Specialist  - 6 Years of Experience
+SUMMARY
+- Passionate about development, 
+building highly functional, great 
+eyes on details, always look for 
+UX improvement to deliver the 
+outstanding user experience
+- High ownership, self-suﬃcient and 
+continuous eﬀort to ﬁnd solutions for 
+doing repeated tasks, easily adapt and 
+learn new things
+- Basic understanding of server, 
+database, and good experience in 
+RESTful API design and development
+BASIC INFORMATION
+Birthday 10/09 
+LANGUAGES
+English Intermediate
+SKILLS
+VueJS Vuex Vue router Nuxt JS
+JavaScript HTML CSS Sass
+Bootraps CSS ReactJS Angular JS
+KnockoutJS RequireJS Webpack
+Restful Api Json Vue CLI
+Material UI Agile Scrum
+Logical Thinking Communication
+Computer Programmer
+Git Source Control Tortoisesvn
+WORK HISTORY
+Digital Banking Application Development Specialist (Frontend)
+(SCB) Sai Gon Joint Stock Commercial Bank
+05/2018 - Current (4 years 10 months)
+- Ebanking - Internet banking & Mobile banking (SCB Ebanking) 
+Frontend team leader(Vuejs project)
+- Lead FE Squad and push consistency and best practices across 
+diﬀerent products.
+- Own technical decisions for the frontend architecture, with a 
+focus on clean and reusable code and design components.
+- Grow a frontend team that is continually innovating and 
+improving at quickly developing high quality solutions for 
+customers needs.
+- Building frontend structure for Internet Banking Website 
+system
+- Participating in building and developing Digital Banking, Mobile 
+Banking and Internet Banking systems
+- Participating in building an automated consultant system 
+(ChatBot)
+- Develop and operate the insurance selling module at the bank.
+- Implement Frontend for web applications with modern 
+technology (Reactjs, Vue js, Vuex, Vuetify, HTML, javascript, CSS, 
+SCSS, SASS, Knockoutjs, requirejs...)
+- Improve the eﬃciency of existing products
+- Build the architecture and design of new products and features
+- Implement UI components and libraries
+Java Full Stack Developer - Java Full Stack Developer
+Cathay Insurance (Vietnam)
+03/2017 - 05/2018 (1 year 3 months)
+- Participating in building and developing the company's 
+insurance, human resources, ﬁnancial, management system...
+- Responsible for checking and correcting errors arising during 
+ - 03/2017 (1 year 1 month)
+• Assign, prioritize and manage task in the application 
+development life cycle
+• Schedule and kept track of development phases
+• Design source code/ database structure
+• Support and give advice/ solution to team member
+• Write well-design, testable and eﬃcient code
+• Write design documentation
+• Keep application are secure
+• Follow the company application development processes and 
+standards
+EDUCATION
+
+Git Source Control Tortoisesvn
+ERP System Knowledge
+Project Integration Management
+Team Deployment Teamleader Skill
+Teamwork
+Quality Control Management
+CONTACT ME
+249/15 ấp 7, xã Đông Thạnh, Hóc Môn, Hoc 
+Mon, Ho Chi Minh, Vietnam
+Management information systems
+Bachelors - University of Finance - Marketing
+10/2012 - 07/2016 (3 years 10 months)
+Software Developer
+Others - CNC Aptech Vietnam
+12/2012 - 12/2014 (2 years 1 month)

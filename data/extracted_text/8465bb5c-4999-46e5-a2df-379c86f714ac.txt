@@ -1,0 +1,93 @@
+EDUCATION
+The University of Science in HCMC
+10/2003 - 05/2008
+Bachelor of Science in Information Technology
+SKILL
+Excellent
+.NET .NET Core
+Web API Entity Framework
+LINQ .NET Standard
+SQL server C#
+HL7 Microservices
+architecture
+Intermediate
+HTML CSS
+MongoDB Azure
+Git Scrum
+Java JavaScript
+Project Manager Oracle
+WORK EXPERIENCE
+09/2019 - Now
+Senior .NET Developer | Infomed Viet Nam JSC
+Technical: OOP, C#, .NET Core Web API,  Entity Framework Core, Dapper, LINQ,
+Microservices, Microsoft SQL Server, MongoDB, DevExpress, Azure, Git.
+Responsibilities:
+o HIS project
+o EMRLITE project (Health care for district level)
+o Systems Integrated (HIS – RIS/PACS, HIS – LIS, HIS – EMR).
+▪ Integrated HIS – LIS (API Method):
+    LIS LabConn.
+    LIS VietBaIT.
+▪ Integrated HIS – RIS/PACS (By HL7 standard, API Method):
+    PACS MACH7.
+    PACS MILLENSYS.
+    PACS CASESTREAM.
+▪ Integrated HIS – EMR (API Method):
+    CHC EMR
+12/2017 - 09/2019
+Project Manager | LACVIET COMPUTING
+Project Manager of Hospital Information System.
+03/2016 - 12/2017
+Senior .NET Developer | FPT Information System
+Projects: Huu Nghi Hospital, Nhiet Doi Hospital, Da Khoa Sai Gon Clinic, Thong
+Nhat Dong Nai Hospital, Long Khanh Dong Nai Hospital, Nhi Dong Nai Hospital,
+Ben Luc Hospital, Duc Hue Hospital, Da Khoa Tay Nguyen Hospital.
+Technical: C#, , TSQL - Microsoft SQL Server
+Responsibilities:
+• Modification and maintenance HIS.
+• Creation new features and functionality.
+• Maintenance  system.
+10/2010 - 03/2016
+Junior .NET Developer | THONG NHAT HOSPITAL
+Technical: C#, , Microsoft SQL Server
+Responsibilities: Develop Hospital Information System (HIS)
+• Modification and maintenance HIS.
+• Creation new features and functionality.
+04/2009 - 10/2010
+Junior .NET Developer | FAPV
+HO HOANG LAN
+Senior .NET Developer
+ 28/11/1984
+Quận 11, TP Hồ Chí Minh
+Technical: OOP, C#, .NET Core Web API, Entity Framework
+Core, Dapper, LINQ, HL7, Microservices, Microsoft SQL
+Server, MongoDB, DevExpress, Azure, Git, Scrum.
+Page 1 / 2 - ©
+
+Technical: C#, , Microsoft SQL Server, Oracle 9i
+Responsibilities: Development HRM, Production management system (wiring
+harness).
+• Modification and maintenance existing winform applications
+• Creation of new system features and functionality
+PERSONAL PROJECT
+04/2024 - Now
+EMRLITE
+Project EMRLITE (Health care for district level)
+10/2023 - 04/2024
+System integration HIS-EMR
+Technical: OOP, C#, .NET Core Web API, Entity Framework Core, Dapper, LINQ,
+Microservice, Microsoft SQL Server, MongoDB, DevExpress, Azure, Git, Scrum.
+04/2020 - 04/2024
+HIS
+Technical: OOP, C#, .NET Core Web API, Entity Framework Core, Dapper, LINQ,
+Microservice, HTML, Microsoft SQL Server, MongoDB, DevExpress, HL7
+Standard, Azure, Git, Scrum.
+06/2021 - 12/2021
+System integration HIS-RIS\PACS
+Technical: OOP, C#, .NET Core Web API, Entity Framework Core, LINQ, HL7,
+Microservice, Microsoft SQL Server, MongoDB, Azure, Git, Scrum.
+01/2021 - 05/2021
+System integration HIS-LIS
+Technical: OOP, C#, .NET Core Web API, Entity Framework Core, LINQ,
+Microservice, Microsoft SQL Server, MongoDB, Azure, Git, Scrum.
+Page 2 / 2 - ©

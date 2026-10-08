@@ -1,0 +1,56 @@
+KHUC HUU ANH 
+Thanh Xuan, Ha Noi | Phone:  |  D.O.B: 15/11/2002 
+Email:  
+GitHub:  
+LinkedIn:  
+ 
+EDUCATION 
+FPT UNIVERSITY Hanoi 
+Major in Artificial Intelligence 2020 - 2024 
+● GPA: 3.6/4.0 
+● Honors:  FPT Dean’s List for Excellent Performance (2023) 
+ 
+WORK EXPERIENCE 
+Maritime Commercial Joint Stock Bank Hanoi 
+Business Intelligence and Data Science Intern 10/2023 – Present 
+● Project 1: Customer Segmentation 
+o EDA & Processing Data: cleaning, extracting and converting JSON data into structured data for 
+enhanced usability. 
+o Building and developing automated dashboards to monitor performance metrics and translating 
+them into meaningful, actionable recommendations. 
+o Customer segmentation and prediction will make their next purchase: Using K-Means, Random 
+Forest and Decision Tree algorithms. 
+o Building recommendation system : Apriori algorithm and Collaborative filtering to recommend 
+products based on customer behaviors and purchased products. 
+● Project 2: Main Banking Customer Personas 
+o Brainstorming ideas about who main MSB customers are. 
+o EDA: C ommunicating with seniors in the team to find  necessary input data field s for the 
+problems, understanding data and discussing with Head of BI to come up with the most effective 
+approach. 
+● Skills: Problem-solving, Storytelling, Communication 
+● Tools: Power BI, SQL, Python (Numpy, Pandas, Seaborn, Matplotlib, Sklearn) 
+● Knowledge: Basic Banking Products, Data Governance, Data Analytics Engineering. 
+ 
+Lotus Technology Services Hanoi 
+AI Engineer Intern 08/2023 – 09/2023 
+● Project 1: Matching products based on the semantic meaning of product titles 
+o Applying advanced semantic analysis techniques to enhance product matching accuracy, 
+leveraging TFIDF methodology.  
+o Utilizing a pre -trained KoBERT model to match identical products  precisely across various 
+merchants.   
+● Project 2: Dust particle detection in surveillance video 
+o Conducting data pre-processing to identify and segment dust areas in images (leveraging a pre-
+trained YOLO model).  
+o Conducting demo sessions with clients to secure the contract successfully. 
+● Skills: Pre-processing data 
+● Tools: CVAT, Python (Numpy, Pandas, Seaborn, Matplotlib, Pytorch, Sklearn) 
+ 
+LANGUAGES 
+• English: IELTS 6.5 
+• Japanese: JLPT N5 
+ 
+CERTIFICATES 
+• Microsoft: PL-300 (Microsoft Power BI Data Analyst) 
+• Coursera: Deep Learning Specialization, IBM Machine Learning Specialization , Nature Language 
+Processing 
+• Tools: Git, Docker

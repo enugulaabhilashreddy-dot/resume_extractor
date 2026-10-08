@@ -1,0 +1,154 @@
+PERSONAL INFORMATION
+: Dinh Thi Mai
+: Vietnamese
+: 25-04-1998
+: Phu Dien Street, Ha Noi City
+: Female
+: Single
+Name  
+Nationality  
+Date of birth  
+Address  
+Gender  
+Marital Status
+CONTACTINFORMATION
+Address: Bac Tu Liem, Ha Noi
+Mobile:
+Email:
+Skype: Mai Dinh
+EDUCATION
+CAREER OBJECTIVE
+Short-term:
+Become Seninor Tester after 3 years later.  
+Long-term:
+Become Project Manager after 5 years
+WORKING EXPERIENCE
+• Tester in BEE TECH VIET NAM TECHNOLOGY 
+JOINT STOCK COMPANY
+5/2020-12/2020
+2016-2020 Trade Union University
+12/2021-Now • Tester in EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY
+12/2020-12/2021 • Tester in VIETTEL-CHT COMPANY LIMITED
+
+Learning about the software testing and understandingabout
+• Software Development process
+• Software testing process.
+• Business Requirement Specification, SystemAnalysis
+• Testing methods, Testing Levels, TestingTypes
+• Writing testing test cases (English and Vietnameselanguages).
+• Using tools : HeidiSQL , Potman, Jira, Jmeter, DataGrrip, 
+Dbeaver,...
+5/2020 - Now
+SKILLS
+• Software development process
+• Software testing process
+• Software testing’sknowledge
+• Writing testing test cases (English and Vietnameselanguages).
+• Website and app mobile testing skills
+• Bug Management Tools (Jira, Redmine and Jmeter)
+• Object Oriented Programming
+• Database analyzing and designing.
+• Using tools :HeidiSQL, Jira, Redmine, Potman, Jmeter
+,Dbeaver, MySQL, DataGrrip…
+• Good system thinking and logicalthinking
+• Team working ability
+• Good skills using office (Word, excel, …)
+• Good communication skills
+• Working under pressure ability and accomplish assignedtask
+• Capable of working and functioning independently
+• Listener, fast learner, hard working, meticulous
+• Flexible, energetic,patient
+• Open-minded and keen tolearn.
+• Certificate of ISTQB, Certificate of Chinese language and 
+Korean language certificate
+Soft skills
+Testing
+PROJECT
+Project: MB Capital
+Customer VietNam
+
+Description
+You don't know where to start while creating an online business 
+and You want to create a website page that has your own style? 
+Our main goal is to bring you the flexible app in order to create 
+your significant website page. We have built an easy approach 
+with a basic interface app, so users who do not know anything 
+about code can still manage and design an outstanding website on 
+their own.
+PROJECT
+Project : CMP
+Customer VietNam
+Description
+The CMP system focuses on building Compute 
+services that work with internal platforms such as 
+OpenStack, VMWare:
++ Virtual Machine: Manage services used by 
+customers as well as information about all 
+resources on the System Cloud: V olumes, Private 
+IPs, Elastic IPs, Security Groups, Subnets, SSH 
+Keys, NAT Getway, Router…
+My position Tester
+My
+responsibilities
+• Test interface
+• Test the functionality of elements
+• Analyze requirements Document.
+• Create test scenarios and test cases base on
+requirement/specification.
+• Execute test cases on Website
+• Log bugs on Jira.
+• Make test report.
+
+My
+responsibilities
+• Analyze requirements Document.
+• Create test scenarios and test cases base on
+requirement/specification.
+• Write test case by English
+• Execute test cases on Website
+• Use SQL
+• Performance Testing : Jmeter tool
+• Log bugs on Jira and Redmine.
+• Make test report.
+Project : Miniapp LTG
+Customer VietNam
+Description Mobile application that allows users to transfer money to
+each other within system
+My position QC/Tester
+My
+responsibilities
+• Analyze requirements Document.
+• Create test scenarios and test cases base on
+requirement/specification.
+• Execute test cases on Mobile( Android ,iOS).
+• Use SQL
+• Performance Testing : Jmeter tool
+My position Tester
+
+Project : PVI GQKN
+Customer VietNam
+Description
+My position
+My
+responsibilities
+GQKN software is a software that stores and executes 
+loss resolution processes with non-motorized and 
+human objects.
+QC/Tester
+• Analyze requirements Document.
+• Test interface
+• Test the functionality of elements
+• Create test scenarios and test cases base on
+requirement/specification.
+• Execute test cases on Website
+• Write user manuals
+• Make test report.
+• Test API
+• Test save data to DB
+• Data sync Test
+• Log bugs on Jira.
+• Report everyday works
+• Product demo with customers
+I certify that all the details above are completely true with my best
+knowledge and I will take responsibility for them. Thanks for your
+consideration.

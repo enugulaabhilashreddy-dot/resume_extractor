@@ -1,0 +1,98 @@
+NGUYEN MANH CUONG  
+Address:  Hanoi, Vietnam 
+Phone 
+Email:  
+ 
+PROFESSIONAL SUMMARY  
+ 
+• 3 years experience in SQL Server database and C# programming language. 
+• Have basic knowledge of  MVC, Web API RestFu l Standard, Data caching 
+• Have basic knowledge of Javascript, Jquery, HTML5 / Bootstrap. 
+• Experience working with tools Microsoft Visual Studio, SQLManagement Studio 
+• Use good keywords 
+TECHNICAL  EXPERTISE  
+  Progra m Language  C#, API Web Service  
+Framework   Entity Framework, LinQ,  Database First , Code F irst  
+Data Base   MS SQL Server , Oracle , Postgres  
+Tools  SVN , Visual Studio , SQL Server , SQL development, pgAdmin, Postman, Soap UI  
+ 
+PROFESSIONAL  EXPERIENCE  
+2018  – 2019  Company : PERP JSC  (  )  
+Customer: VINA CONTROL  
+Project: VNCE  
+Description:   
+Human resource management system, departments, work management, debt ... 
+Team size:  4 people 
+Responsibilities:   
+- Module development. 
+- Code optimization 
+- Test. 
+- Bug Fixing. 
+Technology:   
+Oracle, Oracle Apex, JavaScrip, Jquery, HTML, bootraps,…
+
+Page 2 
+ 
+2019  – 2020  Company : BITSCO  (  ) 
+Customer: VIEN KIEM SAT NHAN DAN TOI CAO  
+Project: SO HOA HO SO   
+Description:   
+Building and developing a software system to digiti ze records, search records, manage and secure 
+records  
+Team size:  2 people 
+Responsibilities:   
+- Module development. 
+- Deployment new feature. 
+- Test. 
+- Bug Fixing. 
+Technology:   
+Telerik UI  WebForm Ajax, DEV Express, LinQ,  Entity Framework,  MS SQL Server, 
+Javascrip, Jquery HTML 5, Bootraps 
+Company: BITSCO  
+Customer: M any universities and colleges in the country  
+Project: E_LEARNING - ONLINE TRAINING ,  ONE - STOP SERVICE, JOB MANAGEMENT  
+Description:   
+- E_ Learning - online training: Building a managem ent system for students, lecturers, lectures, test 
+scores, online learning, online exam 
+- One-stop service: Develop a system to receive and return results for procedure settlement 
+administrative procedures, transfer settlement files , return results of administrative procedures 
+settlement 
+- Job management system: Project management, project work. Manage 
+progress, % completion, import and export reports, ... 
+Team size:  4 
+Responsibilities:   
+- App Mobile  development (Flutter) 
+- Module development. 
+- Tuning performance 
+- Deployment new feature. 
+- Test. 
+- Code optimization 
+- Training 
+- Bug Fixing. 
+Technology:   Telerik UI WebForm Ajax, LinQ, Entity Fram ework,  MS SQL Server, 
+Datawarehouse – SSIS, Web API Restful, Javascrip, Jquery, HTML 5, Bootraps 
+ 
+2021 - Now  Company: SEABANK  
+Project: HRM, R emittances , Pay on behalf , API Barcode,…  
+Description:   
+- Maintenance and development of banking systems  
+Team size:  4
+
+Page 3 
+ 
+Responsibilities:   
+- Module development. 
+- Tuning performance 
+- Deployment new feature. 
+- Test. 
+- Code optimization 
+- Debug 
+- Bug Fixing. 
+Technology:  , LinQ, Entity Framework, , Web Service API (Soap, Restful), 
+Database SQL server, oracle, postgres , Javascrip, Jquery, HTML 5, Bootraps 
+ 
+EDUCATIO
+BACH KHOA - APTECH  
+Graduation classified pretty goo
+Study abroad in Japan  
+Japanese language proficiency: N3

@@ -1,0 +1,147 @@
+PERSONAL DETAILS
+05/11/1989
+Hà Nội
+ABOUT ME
+My name is Ken Nguyen. I have over 9
+years of experience in the technology
+industry. With my expertise, I have led
+development teams in the fields of
+games, applications, website system
+development, and conducted research
+on new technologies such as AI/ML,
+VR/AR.
+- I always set high goals for myself and
+my team, and I always strive to achieve
+the best results.
+- I am also a good communicator and
+can explain technical issues in an easy-
+to-understand way to even non-technical
+people.
+EDUCATION
+MIREA - Russian Technological
+University
+Software Engineer
+06/2007 - 06/2013
+SKILL
+Excellent
+JavaScript  CSS 3  Agile  
+GitLab  RESTful  Games
+Intermediate
+MSSQL  Jira  HTML5  Cocos  
+Project Manager  
+Serverless architecture  ReactJS  
+VR  AR  MongoDB  
+Microservices architecture  
+WORK EXPERIENCE
+TECH LEAD 10/2023 - 05/2024
+Motus Company
+As a Tech Lead and Technology Consultant, I leverage my expertise to solve complex
+challenges by crafting customized technology solutions, streamlining workflows, and
+overseeing outsourced projects to ensure their success. 
+PROJECT:
+Consulting and System Implementation:
++ Gitlab and Gitlab DevOps: Expertise in Gitlab and Gitlab DevOps methodologies for
+efficient version control and project management.
++ Board (Like Trello): Proficient in using project management tools like Board (similar to
+Trello) to organize and track tasks effectively.
++ VPS Setup: Experience in setting up and configuring Virtual Private Servers (VPS) for
+hosting and deploying applications.
+Backend Development:
+NodeJS Backend: Implementing microservices using NodeJS and RESTful APIs for various
+functionalities such as authentication, reporting, and CRUD operations.
+Frontend Development:
+ReactJS Frontend: Creating interactive and engaging web applications using ReactJS for
+clients and partners.
+JavaScript Expertise:
+Developing HTML5 Ads and utilizing third-party JavaScript plugins for clients and partners
+of Motus/Cellock.
+AI Code Completion:
++ Frontend (HTML5, JavaScript): Implementing frontend components using HTML5 and
+JavaScript for AI code completion tools.
++ Backend (NodeJS Restful Express): Building backend services using NodeJS and
+RESTful Express for AI code completion tools.
++ Model (Olama, CodeLlama Model): Integrating with Olama and CodeLlama models for AI
+code completion tools.
+360Degress Fashion Web Game:
+Developing and maintaining a 360-degree fashion web game. This game allows players to
+interact with fashion items in a fully immersive environment, potentially including features
+like trying on clothes virtually, customizing outfits, and participating in fashion-related
+activities.
+PROJECT MANAGEMENT OFFICE 11/2015 - 10/2023
+Mbiz Global
+Mbiz Global Hanoi Office Head, managing all aspects of Game Event Project delivery for
+Clients and Partners. This includes Technology Consulting, Project Estimation, and
+Development Supervision. 
+PROJECT:
+Responsible for spearheading and delivering Mbiz Global's core products. 
+- Branded Mini Games
+- BMG Studio
+- Brand Metaverse
+Nguyễn Trung Kiên
+C T O  /  P M  /  T E C H  L E A D
+Page 1 / 3 - ©
+
+Big data
+Beginner
+AI  Blockchain  Big data
+ Responsible for spearheading and delivering partner product integration and
+implementation. 
+- KIA K5 game event
+- Shilla Duty game shop
+- Samsung game event
+- N11 game event
+IT MANAGER 01/2015 - 10/2015
+Hãng Thông Tấn Việt
+Manager of IT, Leading Audiobook Animation and Educational Game Initiatives
+- Develop and maintain project plans, timelines, budgets, and resource allocation.
+- Track project progress and report to stakeholders.
+- Manage and lead a team of IT professionals, including developers, designers, and
+animators.
+- Stay up-to-date on the latest trends and technologies in audiobook animation and
+educational game development.
+SENIOR HTML5 DEVELOPER 06/2014 - 12/2014
+FPT Online
+IT Specialist and Technology Consultant
+Played a pivotal role in the successful transition of FPT Online's banner advertising
+platform from Flash to HTML5, ensuring a seamless and efficient migration.
+- Leveraged expertise in HTML5 CSS3 Animation and HTML5 Canvas Animation to develop
+a suite of high-performance, visually engaging banners that significantly enhanced user
+experience and ad campaign effectiveness.
+- Optimizing code for improved loading times and cross-browser compatibility.
+- Collaborated closely with designers and marketing teams to translate creative concepts
+into technically sound and visually appealing banner ads.
+PROJECT:
+- Branded Display Banners 
+- FPT Interactive Entertainment Banners/Trailers
+- Promotional Materials for FPT Games
+PERSONAL PROJECT
+(ML) Flame Detection Application 06/2023 - 10/2023
+Developed a flame detection application utilizing surveillance cameras to provide early
+warning for parking lots and small and medium-sized businesses.
+- Real-time image capture from surveillance cameras
+- Image processing and analysis on workstations
+- Automated alerts sent to relevant authorities
+Technical : Python, flame detection model
+(Game - System - CMS) Event "Vui tết mèo con" 01/2022 - 06/2023
+The "Vui tết mèo con" event aims to create a fun and engaging experience for MobiMoney
+wallet app users while celebrating the Lunar New Year. By offering exciting mini-games,
+attractive rewards, and a festive atmosphere, the event seeks to enhance user
+engagement, promote the app, and attract new users. 
+Technical : MicroService, NodeJS Restful, SQL, HTML5 Games, ReactJS
+(GAME) Event Xmas Mosan 09/2022 - 11/2022
+Page 2 / 3 - ©
+
+(GAME) Event Xmas Mosan 09/2022 - 11/2022
+The mini-game events on the Mosan wallet app aim to create a fun and engaging
+experience for users while promoting the app and providing rewards. By offering a variety
+of mini-games, attractive rewards, and exclusive benefits, the events seek to enhance user
+engagement, attract new users, and strengthen customer loyalty.
+Technical : Javascript, HTML5
+(ML/Game) MOVE 08/2021 - 10/2021
+The MOVE gesture recognition game promotes an active and enjoyable approach to
+fitness. By combining dance, music, and gesture recognition technology, the game
+encourages users to get moving while having fun. The variety of dance moves,
+customizable difficulty levels, and progress tracking features cater to a wide range of
+users, making it an accessible and motivating fitness tool. 
+Technical : Javascript, HTML5, gesture recognition
+Page 3 / 3 - ©

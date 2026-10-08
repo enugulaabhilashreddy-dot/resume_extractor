@@ -1,0 +1,121 @@
+Personal 
+ 
+Full name: Tran Van Tru 
+Date of birth:20/04/1992  
+Current address: 100 Dong Hung Thuan 05 street, 
+district 12, Ho Chi Minh City 
+Original address: 17 Long Hai - Truong Tay - Hoa 
+Thanh - Tay Ninh Province. 
+Tel: 
+Email: 
+WORK 
+EXPERIENCE 
+ 2014 - 2017: Links Company 
+ 2018 - 2021: FPT Software Company 
+2021 - 2024:  VELA Digitallzed Logistics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I have 9 years of experience in IT software development with strong experience in creating 
+strategic plans, solutions and technical architect. I am a versatile and professional software 
+engineer. My dream of my life is to work for a company where I can broaden my knowledge, 
+and opportunity my creativity. I want to join a company that have a professional and able to 
+show my talents working environment. I’m always willing to learn new things and extra effort 
+every day.
+
+SKILLS Using MS word, exel, access, powerpoint, email perfectly.  
+Designing applications good, business analysis, design 
+database and logic, ERP systems 
+Solid experience in .Net Technology. 
+Experience Design pattern, microservice,  Framework, restful 
+API, DAPR, RabbitMQ, unit test  
+Good knowledge of OOP, Soild, CI/CD, Exposure to Docker, 
+Kubernetes, and microservices 
+RESTful API and development of APIs, AWS cloud 
+Experience with fontend Angular, Blazor work with Web 
+services, APIs, microservice 
+Good experienced with code review 
+Knowledge of multiple front-end languages and libraries (e.g. 
+HTML/ CSS, JavaScript, XML, jQuery) 
+Building background jobs, schedule jobs, jenkins pipeline  
+Presentation, Demo Project fluently, group management good, 
+strong relationships with clients and stakeholders 
+Develop and maintain project plans. Monitor project progress 
+and proactively identify and address potential risks and issues 
+Can communication english working group well 
+Best practices in cloud computing and project control 
+methodologies 
+I know Python, Java language.
+
+Thanks you for your time and best regard! 
+  Tran Van Tru 
+   Tru 
+Project 
+Name 
+Description of Project Compan
+y  
+Position Number 
+member  
+Digital 
+Transport 
+- Daily meetings with the team to Alige and stack holder sharing 
+progress status task. 
+- Lead team designing and Implementation of software functions  
+- Creation and maintenance of technical specifications and  
+documentation for the developer software 
+- Tracking database system, backup, recover. 
+- Solve issue on system, training and support user 
+- Work into development teams and product owner to designer 
+and third-party ensure on time on budget 
+- Break task Implement fontend, backend. 
+- System web Angular, Web API microservice .NET Core, 
+Entity Framework, Kafka, Jira tool, Git, LinkQ, mysql, 
+UnitTest, Docker. 
+VELA 
+ 
+ 
+Team 
+Lead. 
+5 
+Medicine 
+Management 
+System 
+- Good knowledge of OOP, Solid, MongoDB, Redis, unit test 
+- Code Refactoring, discuss with co-woker about requirement. 
+- Review code and merge code 
+- Lead 3 person design database and logic code 
+- Presentation, Demo Project with another department, created 
+document ERP 
+- Maintenance and fix bugs 
+- Angular, HTML , CSS, Bootstrap, Javascrip, Web API, 
+.NET Core, .NET Framework, Entity Framework , Jira 
+tool, SVN, SQL Server, DI, MVC, UnitTest. 
+- Presentation, Demo Project, Designing applications, BA, 
+design database and logic 
+FPT 
+Software 
+Team 
+Lead 
+4 
+Hospital - Management system that coordinates the activities of 
+doctors and patients 
+- Collaborate with the team leader to analyze requirements, 
+investigate solutions and make detailed designs for the assigned 
+tasks. 
+- Work with .Net API, .NET MVC, window form 
+- Optimize, fix bugs and develop more feature 
+- Window Form, Web, Web API Service, Entity Framework , 
+query sql, MVC,Store Procduce,Git, SQL server 
+Links Coder 
+frontend, 
+backend 
+6

@@ -1,0 +1,144 @@
+TIN LE
+IT MANAGER  - 14 YEARS OF EXPERIENCE
+203/2 Lac Long Quan St., Ward 03, District 11, Ho Chi Minh, Vietnam
+CAREER OBJECTIVE
+Highly skilled and motivated IT Manager with ten years of experience in leading technical teams and managing complex IT projects, 
+seeking a challenging position in a dynamic specialized company where I can leverage my expertise in information technology to 
+drive innovation, enhance eﬃciency, and contribute to the company's growth.
+BASIC INFORMATION
+Birthday 25/03/1986 Nationality Vietnamese
+Marital Status Married Gender Male
+LANGUAGES
+English  > Advanced
+SKILLS
+Problem Solving IT Infrastructure Management Virtualization Systems
+Cross Functional Relationship Building IT Strategy Multicultural Team Leadership
+Expense Budget Management Information Security Analyst Project Management
+Enterprise System Consultancy Data Analysis
+WORK HISTORY
+ICT Manager 05/2021 - Current
+Esuhai - Kaizen Yoshida School
+Key Duties:
+• Infrastructure Oversight: Managed stable operations of computer infrastructure, networks, storage systems, and software to 
+meet organizational needs.
+• Service Excellence: Ensured seamless IT service provision, including user support, data security, management, backup, and 
+recovery.
+• Data Analysis Leadership: Headed the Data Analysis Center, developing data warehouse infrastructure and tools for advanced 
+analytics, driving enhanced business operations and actionable insights.
+• Solution Development: Directed enterprise application development and solution research, guiding activities from analysis 
+to deployment.
+• Project Management: Planned and executed IT projects, ensuring alignment with business objectives.
+• Information Security: Safeguarded organizational data integrity, including network security and customer information.
+• Product Development: Managed technology product development, spanning software applications, hardware, and IT 
+services.
+• Budget Management: Oversaw IT project budgets, leading a skilled technical team for optimal performance.
+• Strategic Planning: Proposed and implemented IT strategies to support organizational goals.
+• Compliance Assurance: Ensured IT operations complied with industry regulations and legal standards.
+• Eﬃciency Enhancement: Streamlined IT systems for improved eﬃciency and cost-eﬀectiveness.
+• Cross-Departmental Collaboration: Collaborated with various departments to understand and meet end-users' IT 
+requirements.
+Recognitions and Achievements:
+• Team Building: Successfully built and developed a high-performing team.
+• Data Warehouse Implementation: Initiated and implemented the Data Warehouse.
+• Omnichannel Contact Center: Deployed an Omnichannel Contact Center.
+• CRM Automation: Improved CRM operations through automation ﬂows.
+• Sales Control Dashboards: Provided Sales Activity Control Dashboards for C-M-S levels.
+• Digital Transformation: Spearheaded Digital Transformation eﬀorts for Marketing, Sales, and Training Divisions.
+• Data Loss Prevention: Implemented The solution for Critical Data Management.
+• E-learning: Introduced E-learning for internal training and external clients.
+Infrastructure Manager – Technical Service Manager 08/2017 - 04/2021
+
+Kerry Express Vietnam
+Key Duties:
+• Strategic IT Leadership: Collaborated with the Board of Directors to align technology initiatives with long-term business goals.
+• Network Infrastructure Strategy: Executed a reliable and scalable network infrastructure strategy.
+• Information Security Advocacy: Spearheaded data protection measures and ensured regulatory compliance through the 
+company's information security policy.
+• Team Leadership & Development: Led IT infrastructure team, fostering skill development and collaboration.
+• IT Help Desk Management: Oversaw IT help desk, ensuring infrastructure availability, meeting service level agreements, and 
+delivering user support.
+• Vendor Relationship Management: Managed vendor relationships, ensuring eﬀective partnerships and optimized solutions.
+• Cutting-Edge Technology Implementation: Explored and implemented innovative technology solutions to enhance logistics 
+operations and drive business growth.
+• Performance Collaboration: Collaborated with the Operation Team to optimize vehicle monitoring system performance.
+• User Experience Enhancement: Partnered with Sales and Software Teams to improve user experience for Internal Operation 
+Applications.
+• E-commerce Success: Enabled successful E-commerce plan implementation, providing premium delivery services for 
+enterprise clients.
+• Technical Design Review: Reviewed technical design of signiﬁcant information systems projects, oﬀering expert consultation 
+to project teams.
+• Cost Control: Maintained strict IT cost control, aligning with established budgets.
+Recognitions and Achievements:
+• Infrastructure Migration: Successfully migrated to a virtualization platform, enhancing scalability and resource utilization.
+• Performance Enhancement: Implemented high-availability (HA) and replication models, signiﬁcantly improving app and 
+database performance.
+• Cost Reduction: Achieved consistent 20% annual cost reduction in IT operations since 2018.
+• Productivity Boost: Increased server core system productivity by an average of 15% annually through nationwide hardware 
+optimization since 2019.
+Deputy Technical Manager 04/2013 - 07/2017
+Ho Chi Minh Television
+Key Duties:
+• Encoder & Transcoder System: Built and managed Encoder & Transcoder System.
+• Digital TV Network: Established network infrastructure for Digital Television Transmission System.
+• Web & Database Redundancy: Implemented Load Balancing & Redundant Systems for Web & Database Services.
+• Pay-TV Web System: Managed the Pay-TV Web System.
+• YouTube Content Management: Managed content for multiple channels in the YouTube Premium Partner System.
+Recognitions and Achievements:
+• Online Pay-TV Ranking: Ranked among the Top 10 most popular Online Pay-TV platforms in 2014, powered by OTT 
+Technology.
+• MCN YouTube Vietnam: Secured the contract to become an MCN YouTube Vietnam Publisher in the YouTube Premium Partner 
+Program.
+• Silver Play Buttons: Earned Two Silver Play Buttons within the ﬁrst year in the YouTube Video Network for HPlus & HTV 
+Entertainment Channels.
+Lecturer 09/2009 - 03/2013
+Nhat Nghe Education JSC
+Key Duties:
+• Networking Instructor: Taught Networking courses covering Basic systems and MCSA.
+• Hands-On Guidance: Provided hands-on guidance to students for conﬁguring network models of small to medium-sized 
+systems.
+EDUCATION
+Business 03/2023 - 04/2023
+Associate’s degree - Kingston Internation School
+CRM, Technology and Strategy
+Business 02/2023 - 03/2023
+Associate’s degree - International Management Training Centre
+Entrepreneur & Entrepreneurship
+Data Science 01/2022 - 01/2023
+
+Associate’s degree - Coursera
+Data Science, Methodology, Deep Learning, Machine Learning, Github, Python Programming, Big Data, Jupyter notebooks, Data 
+Mining, Rstudio, SQL
+Social Media 01/2014 - 12/2014
+Associate’s degree - Ho Chi Minh Television & RMIT
+. Digital Analysis, Strategy and Media Marketing Analytics
+. Models of Development for Internet Based Media in Television
+. Website Development for New Media Trends
+Microsoft Network Infrastructure Management 06/2011 - 07/2011
+Associate’s degree - Nhat Nghe Education JSC
+. Windows Server Virtualization, Conﬁguration
+. Implementing, Managing, and Maintaining a Microsoft Windows Server 2003 Network Infrastructure
+. Windows Server 2008 R2, Server Virtualization
+. Managing and Maintaining a Microsoft Windows Server 2003 Environment
+. Exchange Server 2007 Conﬁguration
+Computer Networking 09/2004 - 09/2009
+Bachelors - HCMC University of Technology and Education
+. O2 Security Firewall
+. Information Technology and Networking Engineer
+. Training Profession
+CERTIFICATIONS
+Customer Relationship Management
+Kingston International School - 2023
+Entrepreneurship And Sales
+iMTC - 2023
+IBM Data Science Professional Certiﬁcate
+Coursera - 2023
+Website Development for New Media Trends
+RMIT - 2014
+Models of Development for Internet Based Media in Television
+RMIT - 2014
+Digital Analysis, Strategy and Media Marketing Analytics
+RMIT - 2014
+MCSA
+Microsoft - 2011
+REFERENCES
+Nguyen Van Tao  - + CEO - VNETWORK

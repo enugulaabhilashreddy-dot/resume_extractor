@@ -1,0 +1,131 @@
+THÔNG TIN LIÊN HỆ 
+Họ và tên:  Nguyễn Tiến Dũng 
+    
+  
+Địa chỉ:  201/46/11 Nguyễn xí, P.26, Q.Bình Thạnh , TPHCM. 
+E-mail: 
+Điện thoại : 
+QUÁ TRÌNH HỌC TẬP VÀ LÀM VIỆC 
+Vị trí dự tuyển IT 
+Mục tiêu nghề 
+nghiệp 
+Được làm việc ổn định, lâu dài, trong môi trường làm việc chuyên nghiệp, thân 
+thiện. Có cơ hội phát triển, chế độ đãi ngộ thoả đáng. 
+Học vấn 
+ 
+Cao Đẳng KTCN LADEC  :  
+- Chuyên ngành: Mạng máy tính. 
+Đại học Công Nghiệp:  
+- Chuyên ngành: Khoa học máy tính. 
+Ngoại ngữ : Anh văn ( chứng chỉ B ) 
+Các khoá huấn luyện: 
+- Lập trình tại công ty WORKSHOP. 
+Kỹ năng & Tính 
+cách 
+- Có khả năng xây dựng và quản trị website, landing page (HTML, CSS, 
+wordpress, angular, type script, nodejs…). 
+- Có khả năng xây dựng và quản trị Server, cấu hình domain, DHCP, 
+DNS,… 
+- Có khả năng thiết kế, quản lý, giám sát, và xử lý sự cố cho hệ thống mạng 
+LAN/WAN, hệ thống camera, hệ thống tổng đài. 
+- Có khả năng xây dựng và quản trị Email Server, Web Server. 
+- Cài đặt và cấu hình được tất cả các loại modem. 
+- Cầu tiến, trung thực, xử lý tình huống tốt, ham học hỏi .  
+- Dễ dàng thích nghi với môi trường làm việc, đam mê công nghệ. 
+- Khả năng làm việc độc lập và làm việc nhóm. 
+Kinh nghiệm 09/2022 -> hiện tại : 
+- Công ty TNHH ĐẦU TƯ VÀ PHÁT TRIỂN LÊ PHONG. 
+Công việc: 
+ Setup và quản lý server, hệ thống mạng, email, máy chấm công… 
+ Xây dựng và quản trị các website của công ty.
+
+ Viết phần mềm nội bộ: duyệt phép, đặt xe, đặt phòng… 
+ Quản lý hệ thống máy móc văn phòng: máy tính, máy in, máy fax, máy 
+scan. 
+ Support cho end user. 
+ Thực hiện các công tác liên quan về hệ thống trong việc triển khai các ứng 
+dụng CNTT tại công ty. 
+ Kiểm tra định kỳ hoạt động của hệ thống và thiết bị CNTT. 
+4/2021 -> 07/2022 : 
+ Công Ty CP SPORTSLAND 
+Công việc: 
+ Xây dựng và quản trị các website, landing page. 
+ Cài đặt các công cụ Marketing: Google Analytics, Facebook pixel, tiktok 
+pixel,… 
+ Trợ lý công nghệ cho ban giám đốc. 
+ Đảm bảo toàn bộ hệ thống CNTT hoạt động ổn định. 
+7/2020 -> 4/2021 : 
+- Công ty CP DV Xây Dựng Địa Ốc Đất Nguồn 
+Công việc: 
+ Setup và quản lý server, hệ thống mạng, email, máy chấm công… 
+ Chỉnh sửa và quản lý website của công ty. 
+ Quản lý hệ thống máy móc văn phòng: máy tính, máy in, máy fax, máy 
+scan. 
+ Hỗ trợ người dùng sử dụng các phần mềm văn phòng, sửa lỗi, cài đặt phần 
+mềm ứng dụng, phần mềm virus 
+ Thực hiện các công tác liên quan về hệ thống trong việc triển khai các ứng 
+dụng CNTT tại công ty. 
+ Kiểm tra định kỳ hoạt động của hệ thống và thiết bị CNTT. 
+4/2018 -> 3/2020 : 
+- Công Ty TNHH Mắt Cáo 
+Công việc: 
+ Tạo ra các modules và components 
+ Lập trình trên ngôn ngữ Angular, JavaScript, TypeScript, Restful API, 
+SCSS, LESS, SASS, Responsive, mô hình MV-VM. 
+ Kiểm tra và sửa các lỗi trên Web và App. 
+3/2017 -> 4/2018 : 
+- Công Ty CP Quốc Tế BMG 
+Công việc:
+
+ Quản lý server ( Win server 2008 R2 ), máy chấm công, và các website 
+của công ty. 
+ Quản lý, sửa chữa, cập nhật hệ thống máy móc văn phòng: máy tính, máy 
+in, máy fax, máy scan. 
+ Quản lý hệ thống tổng đài điện thoại ( Quản lý cuộc gọi ra của nhân viên). 
+ Hỗ trợ người dùng sử dụng các phần mềm văn phòng, sửa lỗi, cài đặt phần 
+mềm ứng dụng, phần mềm virus 
+ Thực hiện các công tác liên quan về hệ thống trong việc triển khai các ứng 
+dụng CNTT tại công ty. 
+ Kiểm tra định kỳ hoạt động của hệ thống và thiết bị CNTT. 
+ Hỗ trợ các phòng ban ( Trong các event, các hội thảo, và các hoạt động có 
+liên quan ) 
+ Quản lý trang thiết bị của công ty 
+2015 -> 2017 : 
+- Công Ty TNHH Thực Phẩm Orion Vina 
+Công việc: 
+ Quản lý, sửa chữa, cập nhật hệ thống máy móc văn phòng: máy tính, máy 
+in, máy fax, máy scan. 
+ Hỗ trợ điều chỉnh máy chiếu cho các cuộc họp 
+ Quản lý hệ thống camera của công ty. 
+ Quản lý hệ thống tổng đài điện thoại. 
+ Hỗ trợ người dùng sử dụng các phần mềm văn phòng, ERP,… và sửa lỗi, 
+cài đặt phần mềm ứng dụng, phần mềm virus 
+ Thực hiện các công tác liên quan về hệ thống trong việc triển khai các ứng 
+dụng CNTT tại công ty. 
+ Kiểm tra định kỳ hoạt động của hệ thống và thiết bị CNTT. 
+2010 –  2015 : 
+- Công Ty TNHH Thương Mại và Dịch Vụ SIMPLE 
+Công việc: 
+ Đào tạo kỹ thuật cho nhân viên. 
+ Quản lý và điều phối nhân viên kỹ thuật. 
+ Sale online, quản lý giấy tờ,…  
+2008 –  2010 : 
+- Công Ty Tin Học Viễn Thông Sao đỏ 
+Công việc: 
+ Bảo trì sửa chữa, xử lý sự cố máy tính, máy in, laptop, macbook  
+ Lắp đ ặt thi công h ệ th ống m ạng LAN,WAN,MAN, camera, tổng đài điện
+
+thoại 
+8/2003 – 2007  :  
+- Làm việc tại Công Ty TNHH xây dựng Thuỷ Lợi  
+    Công việc: 
+ Quản lý hệ thống mạng và  máy tính  công ty   
+Mức lương mong muốn : Thỏa thuận.  
+Hình thức làm việc         :  Toàn thời gian chính thức, có thể đi công tác. 
+THÔNG TIN CÁ NHÂN 
+Ngày sinh:  
+25/03/1982         
+Giới tính  :  Nam 
+Chiều cao: 1.60m                   
+Cân nặng:  58kg 
+Nơi sinh : Tây Ninh

@@ -1,0 +1,129 @@
+TÓM LƯỢC
+Tôi là lập trình viên có hơn 3 năm kinh nghiệm
+trong lĩnh vực lập trình website và Mobile (Có
+thể làm Front-end và Back-end ). Có kiến thức về
+Open Source và Framework Javascript. Thế
+mạnh của tôi là luôn luôn tìm hiểu và tiếp thu
+công nghệ mới, có thể chịu được cường độ áp
+lực công việc. Đam mê học hỏi và hòa đồng với
+mọi người xung quanh.
+THÔNG TIN LIÊN HỆ
+ ct1a thành phố giao lưu - từ liêm - hà nội
+ 
+ 18/12/1996
+KỸ NĂNG
+Mobile Apps, Front End, Back End, JavaScript,
+C#, , Typescript, ReactJS, React Native,
+RESTful, Firebase, Oracle, Database, MongoDB,
+Angular, .NET, Node, OOP, Android studio,
+Eclipse, MySQL, NoSQL
+HỌC VẤN
+CÔNG NGHỆ THÔNG TIN
+CNTT
+06/2016 - 07/2019
+KINH NGHIỆM LÀM VIỆC
+SENIOR REACTNATIVE
+DEVELOPER
+04/2022 - NOW
+CÔNG TY CỔ PHẦN DIGITAL FIDELITY VIỆT NAM
+- Mô tả dự án : 
+● Phát triển website  
+● Phát triển app  
+● Phát triển app Trace Of Things 
+● Phát triển app Habeco 
+● Phát triển các ứng dụng về quản lý trường học, bất động sản, ...
+- Công việc: 
+● Viết API ứng dụng 
+● Thiết kế giao diện. 
+● Sử dụng các framework javaScript. 
+● Xây dựng và phát triển các tính năng của app và website. 
+● Xử lý logic, sử dụng các thư viện liên quan ... 
+● Scan QR ... 
+● đẩy app lên appStore và CH play.....
+- Công nghệ: 
+● Angular 
+● React native 
+● Redux 
+● Redux saga 
+● Restful API 
+● Firebase ...
+MOBILE DEVELOPER 04/2021 - 03/2022
+Công ty cổ phần CAM
+- Mô tả dự án: 
+● PhanExpress ( ứng dụng đặt bàn và đặt hàng chuỗi hệ thống
+của lẩu phan, làu và tòng)
+- Công việc: 
+● Code React Native và sử dụng các thư viện của react native 
+● Xây dựng và thiết kế ứng dụng 
+● Phát triển tính năng đặt bàn, đặt hàng, menu, voucher của ứng
+dụng 
+● Xử lý notification 
+● Xử lý google map api 
+● Xử lý logic 
+M O B I L E  D E V E L O P E R
+Việc làm IT 'Chất' - Ít nhưng mà chất
+
+● Call api 
+● quét mã QR thanh toán ... 
+● đẩy app lên appStore và CH play
+- Công nghệ : 
+● React native 
+● Redux 
+● Axios 
+● Firebase 
+● mongodb compass
+MOBILE APPS DEVELOPER 02/2020 - 03/2021
+TẬP ĐOÀN CÔNG NGHỆ VIETSENS
+Chức vụ: Mobile Developer 
+- Mô tả dự án: 
+● Bệnh án điện tử, 
+● Hồ sơ sức khỏe 
+● Thẻ Mobile.
+- Công việc: 
+● Xây dựng và thiết kế ứng dụng 
+● Quản lý hồ sơ bác sĩ, bệnh nhân, khai báo ý tế, đăng kí khám
+chữa bệnh .. 
+● Đăng kí phát hành thẻ, quét mã QR 
+● Kết nối máy vật lý để lấy vân tay 
+● đẩy app lên appStore và CH play 
+- Công nghệ: 
+● React native 
+● Redux 
+● Redux saga 
+● Restful API 
+● Firebase 
+● oracle database
+DEVELOPER 05/2019 - 01/2020
+Công ty Cổ phần Bưu ch>́nh Viettel
+- Mô tả dự án : 
+● Phát triển website  
+● App bán đặc sản vùng miền và quản lý và vận chuyển (dựa trên
+hệ sinh thái của Viettel Post như Viettel transport, Viettel pay,
+Viettel sale).
+- Công việc: 
+● Viết API ứng dụng 
+● hỗ trợ nhân viên thiết kế giao diện. 
+● Sửa lỗi và cải thiện các trường hợp phản hồi của khách hàng
+- Công nghệ: 
+● C# 
+●  
+● Reactnative 
+● Typescript 
+● Reactjs 
+● Ant design 
+● Gitlab flow 
+Việc làm IT 'Chất' - Ít nhưng mà chất
+
+●
+ Gitlab CI/CD
+GIẢI THƯỞNG VÀ DANH HIỆU
+NHÂN VIÊN XUẤT SẮC
+12/2021
+Công ty cổ phần cam
+DỰ ÁN CÁ NHÂN
+PHAN EXPRESS
+05/2020 - 06/2021
+dự án đặt bàn, đặt đồ ăn cho chuỗi nhà hàng lẩu phan, làu, tòng ....
+View details
+ 
+Việc làm IT 'Chất' - Ít nhưng mà chất

@@ -1,0 +1,143 @@
+09/2012 - 03/2018 Đại học Bách Khoa Hà Nội
+Chuyên ngành: Cơ điện tử
+Tốt nghiệp loại Trung bình
+03/2018 - 06/2020 Công ty PCCC CECOM, Công ty Cổ phần Viện Máy và Dụng cụ
+Công nghiệp - Hà Nội
+Nhân viên
+Làm về cơ khí, điện
+Song song đó tự học lập trình ngôn ngữ Python, tập trung vào
+framework Django; có kiến thức về HTML, CSS, Database,...; VCS: Git
+09/2020 - 12/2020 CÔNG TY CỔ PHẦN CÔNG NGHỆ HỒNG HẢI - Hà Nội
+Lập trình viên
+Trong thời gian làm việc, đã tham gia 2 dự án như sau:
+Lập trình phần mềm dùng trí tuệ nhân tạo tự động phân tích, trích xuất
+phim,làm trailer dựa trên đặc trưng về âm thanh; ngôn ngữ Python
+Bổ sung, chỉnh sửa website quan trắc thủy điện theo phân công của
+giám đốc;dùng ngôn ngữ python html framework Django; database
+Postgresql; VCS: SVN
+02/2021 - 06/2021 CÔNG TY CỔ PHẦN DỊCH VỤ BÁCH THUẬN - Hà Nội
+Lập trình viên
+hệ điều hành sử dụng: Window
+Lập trình tool crawl thông tin từ các trang web cá cược thể thao (dùng
+web view, mãi sau này mới (tự) đọc được cách crawl dùng request); tự
+động lấy thông tin từ database thực hiện tự động đăng nhập, cá cược
+Nguyễn Lâm Vũ
+Python Developer
+Ngày sinh:  29/03/1993
+Giới tính:  Nam
+Điện thoại:  
+Email:  
+Địa chỉ:  Quảng An- Tây Hồ- Hà Nội
+Website:  
+MỤC TIÊU NGHỀ NGHIỆP
+Mong muốn tìm được chỗ làm ổn định lâu dài
+Mong muốn tìm được chỗ làm có cơ hội thăng tiến; học hỏi, phát triển bản thân, tích lũy kinh nghiệm
+Mong muốn tìm được chỗ làm có mức lương đảm bảo
+Định hướng:
+_ Về ngắn hạn: học và làm nhiều nhất về website trong phạm vi ngôn ngữ python, framework Django
+_ Về dài hạn: tham gia các khóa ngắn hạn, tự mày mò học tập, tìm kiếm và làm việc với các dự án AI
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+
+trên các website(khoảng 40 website) thuộc các nền tảng khác nhau; tự
+động cập nhật kết quả lên database
+Sử dụng ngôn ngữ Python, thư viện Beautiful Soup, Selenium,
+Tkinter;database MS Sql Server (quản lí bằng phần mềm Azure Data
+Studio); VCS: SVN
+Kinh nghiệm đạt được thêm (tìm hiểu thêm xung quanh công việc được
+giao, nhận thêm dự án ngoài): tương tác trực tiếp với database
+Postgresql bằng python, sử dụng thư viện pyodbc
+Lí do nghỉ việc: Phần mềm không hoàn thiện được đủ theo yêu cầu
+07/2021
+ 
+- 
+nay
+CÔNG TY CỔ PHẦN DỊCH VỤ BÁCH THUẬN - Hà Nội
+Lập trình viên
+hệ điều hành sử dụng: Ubuntu
+Viết API một nhánh của hệ thống thanh toán tiền; Mỗi lần khách hàng
+đăng nhập vào hệ thống và gọi chức năng nạp tiền momo thì vào api
+đối tác để lấy thông tin, sau đó tính toán update vào database và trả lại
+kết quả (có tinh đến yếu tố bảo mật); VCS: Git
+viết code tự động download captcha từ các website được chỉ định; Lập
+trình hệ thống đọc 3 loại captcha 4 số, 6 số, 6 kí tự số và chữ
+(decaptcha) (sau hợp thành 1 hệ thống chấp nhận captcha 4 kí tự và 6
+kí tự), trước tiên làm ở googlecolab, sau đó triển khai ở máy tính công
+ty
+viết API kết hợp với decaptcha, nhận request chứa ảnh captcha ở dạng
+base64 sau đó trả về mã đọc được, độ chính xác đạt trên 70% (đối với
+captcha 4 số là 100%); database: sqlite3; VCS: Git
+Kinh nghiệm đạt được thêm (tìm hiểu thêm xung quanh công việc được
+giao, nhận thêm dự án ngoài): tương tác với database thông qua API
+dùng Django Rest Framework; làm việc với docker; tương tác với máy
+chủ (window, linux); làm việc với database Mysql, postman; tìm hiểu
+sâu hơn về Django authentication system, thư viện request python; tiếp
+cận với Odoo Framework
+10/2013
+ 
+- 
+08/2014
+Thanh niên tình nguyện
+Tình nguyện viên
+Tham gia hoạt động Thanh niên tình nguyện viện Môi trường ở đại học
+Bách Khoa Hà Nội
+2020
+Trí tuệ nhân tạo, chuyên ngành Thị giác Máy tính tại Học viện AI Việt
+Nam
+2021
+Kế toán tại Trung tâm Kế toán Hà Nội
+Tin học văn phòng
+- Sử dụng thành thạo các công cụ Word, Excel, Power Point
+HOẠT ĐỘNG
+CHỨNG CHỈ
+CÁC KỸ NĂNG
+
+Tiếng Anh - Khá
+THÔNG TIN THÊM
+Có kỹ năng về máy tính, lắp ráp, nâng cấp, cài lại window
+Có khả năng về toán học; Nghề tay trái: gia sư tại nhà dạy toán phổ thông;
+đã có 1 thời gian tìm hiểu về chatbot, xử lí ngôn ngữ tự nhiên, chuyển đổi giọng nói thành văn bản và ngược lại
+Tin học văn phòng tốt; có kỹ năng chỉnh sửa ảnh (dùng photoshop), video (dùng ffmpeg))
+Tự tin với khả năng học hỏi của mình
+Kém về giao tiếp
+Khi quá tập trung vào 1 công đoạn nào đó của công việc sẽ quên hết các thứ còn lại, dẫn đến khi hoàn thành
+công đoạn đó phải mất thời gian để nhớ lại các công đoạn trước rồi mới ghép nối lại được
+Stackoverflow:
+Github:
+DỰ ÁN
+Bản nháp website học tiếng anh
+(2019 - 2019)
+Khách hàng Tham khảo
+Mô tả dự án
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án Lập trình
+Công nghệ sử dụng Python; framework Django
+Bản nháp website bán hàng
+(2019 - 2019)
+Khách hàng Tham khảo
+Mô tả dự án
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án Lập trình
+Công nghệ sử dụng Python; framework Django
+Phần mềm trích xuất phim
+(2020 - 2020)
+Khách hàng Honghaijsc- Công ty Cổ phần Công nghệ Hồng Hải
+Mô tả dự án Tự động trích xuất, làm trailer phim tùy chỉnh thời gian, số đoạn; Vẫn đang trong
+giai đoạn hoàn thiện
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án Lập trình và đề xuất thêm ý tưởng từ ý tưởng ban đầu của Giám đốc
+Công nghệ sử dụng Python; sklearn, ffmpeg,...
+Phần mềm cá cược thể thao
+(2021 - 2021)
+Khách hàng Công ty Cổ phần Dịch vụ Bách Thuận
+Crawl kết quả thể thao từ website; Tự động cá cược theo thông tin trong Database
+
+Mô tả dự án đồng thời trả về kết quả (chưa đạt yêu cầu)
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án Lập trình và đề xuất thêm ý tưởng từ ý tưởng ban đầu của Giám đốc
+Công nghệ sử dụng Python; Selenium, Beautiful Soup,...
+©

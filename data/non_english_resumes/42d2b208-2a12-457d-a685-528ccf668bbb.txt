@@ -1,0 +1,96 @@
+/
+TRẦN TRỌNG NHẤT
+  
+ 
+PHÁT TRIỂN PHẦN MỀM
+Nam
+HH2-FLC phường Đại Mỗ, quận Nam Từ Niêm,TP. Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+- Góp phần vào việc phát triển các phần mềm, ứng dụng hưu ích cho doanh nghiệp và cá nhân
+- Nâng cao các kỹ năng trong công việc(lập trình, kỹ năng quản lý)
+TIẾNG ANH
+NGHE     NÓI    
+ĐỌC     VIẾT    
+HỌC VẤN
+Trình độ:
+- APROTRAIN APTECH LẬP TRÌNH
+Cao đẳng
+KINH NGHIỆM
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+Thành tích đạt được
+-
+ CÔNG TY CP GIẢI PHÁP THỜI TIẾT WEATHERPLUS TRƯỞNG 
+PHÒNG PHÁT TRIỂN PHẦN MỀM
+ản lý  
+    - Quản lý tất cả các dịch vụ VAS(DV Giá trị giá trị gia tăng) của công ty. 
+    - Estimate và lên kế hoạch để xử lý các công việc trong phòng. 
+    - Báo cáo kế hoạch, tiến độ, công việc đang diễn ra cho giám đốc khối. 
+    - Thực hiện lên kế hoạch công việc (Năm, Quý, Tháng, Tuần) 
+át triển phần mềm     
+    - Trực tiếp trao đổi các vấn đề về kỹ thuật với đối tác. 
+    - Tham gia vào phát triển các dịch vụ mới của công ty. 
+    - Tìm hiểu và đưa ra các công nghệ mới để áp dụng vào dự án trong công ty 
+(microservice architecture, spring cloud, API gateway ....). 
+    - Vận hành các dịch vụ của công ty.     
+3.Hỗ trợ 
+    - Hỗ trợ và review sản phẩn của các member trong phòng. 
+    - Hỗ trợ member giải quyết các vấn đề khó 
+    - Hỗ trợ kinh doanh đưa ra các báo cáo. Giúp cho kinh doanh nhìn vào đó đưa ra 
+các chiến dịch tiếp theo hiệu quả hơn.
+Đưa phòng phát triển phần mềm thành "Tập thể tiêu biểu của công ty năm  2020"
+ CÔNG TY CỔ PHẦN PHẦN MỀM LUVINA PROJECT MANAGER
+- PM dự án MD1, MD2 (dự án đọc dữ liệu từ các thiết của nhà máy điện và hiển thị 
+lên màn hình dasboard giúp các kỹ sư nhà máy vận hành)
+- Các công việc:
+  + Thực hiện estimate, lên kế hoạch xử lý các công việc của dự án
+  + Thực hiện báo cáo tiến độ công việc.
+  + Tham gia vào quá trình phát triển dự án.
+  + Hỗ trợ member giải quyết các vấn đề (tài liệu, kỹ thuật) của dự án. 
+Hoàn thành đúng tiến độ và mong muốn mà khách hàng yêu cầu về dự án
+
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+Thành tích đạt được
+-
+ CÔNG TY CỔ PHẦN PHẦN MỀM LUVINA PROJECT MANAGER
+- PM dự án Kango (dự án cung cấp y tế và hỗ trợ sức khỏe cho người già ở nhật)
+- Các công việc: 
+  + Thực hiện estimate, lên kế hoạch xử lý các công việc của dự án 
+  + Thực hiện báo cáo tiến độ công việc. 
+  + Tham gia vào quá trình phát triển dự án. 
+  + Hỗ trợ member giải quyết các vấn đề (tài liệu, kỹ thuật) của dự án. 
+- Trong quá trình phát triển dự án đã sang onsite ở Nhật 2 tháng (phỗi hợp và hỗ trợ 
+khách hàng giải quyết các vấn đề khó của dự án). 
+Năm 2017 được vinh danh 1 trong những cá nhân xuất sắc của công ty năm 
+ CÔNG TY CỔ PHẦN PHẦN MỀM LUVINA NHÂN VIÊN LẬP TRÌNH
+- Là member  của dự án Kaipokebiz (hệ thống chăm sóc sức khỏe)
+- Tham gia vào phát triểm các chức năng của dự án
+- Tham gia vào test các chức năng của dự án 
+Hoàn thành tốt công việc được giao 
+TIN HỌC
+WORD     EXCEL    
+POWERPOINT     OUTLOOK    
+KỸ NĂNG
+- Có chứng chỉ OCA Certification: Java SE 7 Programmer do Oracle cấp 
+- Các ngôn ngữ lập trình: 
+  + Java 
+  + Javascript 
+  + C# 
+  + HTML 
+  + MySql/Mongo 
+  + Linux/Centos cơ bản 
+- Framework : JSP/Servlet, Hibernate, Spring Boot, Spring cloud, Microservice ... 
+- Visualize: Tableau  
+- Có kỹ năng tốt trong quản lý 
+  + Lên kế hoạch 
+  + Estimate 
+  + Hỗ trợ member 
+- Có tư duy logic tốt, nhanh nhạy. Hiểu và xử lý vấn đề nhanh.  
+SỞ THÍCH
+- Thể thao: đá bóng, chạy ... 
+- Công nghệ, lập trình

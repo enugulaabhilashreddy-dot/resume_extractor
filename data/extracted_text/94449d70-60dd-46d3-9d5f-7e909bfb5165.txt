@@ -1,0 +1,113 @@
+/
+Trần Văn Lực
+c c
+Lập Trình FullStack, Triển Khai & Vận Hành Hệ Thống Phần 
+Mềm (Ngân Hàng, Doanh Nghiệp, Chứng Khoán)
+c
+ Kinh Nghiệm Làm Việc
+Mô tả công việc:
+Thành tích đạt được: 
+CÔNG TY TNHH PHẦN MỀM HOÀN CẦU
+PHÓ PHÒNG PHÁT TRIỂN DỰ ÁN
+1- Tham gia vào các dự án xây dựng, triển khai phần mềm cho các 
+đối tác Ngân Hàng tại việt nam. Với yêu cầu khắt khe về nghiệp vụ, 
+tính chính xác, an toàn, bảo mật dữ liệu.
+2- Vận hành toàn bộ hệ thống phần mềm cho các Ngân Hàng đang 
+sử dụng sản phẩm công ty, phân tích, xử lý số liệu, đảm bảo hàng 
+nghìn giao dịch mỗi ngày luôn luôn ổn định, an toàn, không gây trở 
+ngại cho các hoạt động nghiệp vụ, kinh doanh của Ngân Hàng.
+3- Luôn sẵn sàng trong mọi tình huống. Làm việc áp lực cao và khối 
+lượng công việc lớn.
+4- Sắp xếp công việc để đảm bảo trong giờ hành chính hoàn thành 
+các móc công việc quan trọng, không ảnh hưởng đến đối tác.
+5- Tỉ mỉ, cẩn trọng vì đặc thù công việc xử lý lệnh sql trực tiếp vào 
+hệ thống Ngân Hàng.
+6- Nắm vững các nghiệp vụ của Ngân Hàng liên quan đến hoạt 
+động mua sắm tài sản, ngân sách, chi phí, thanh quyết toán tạm 
+ứng
+7- Tinh thần trách nhiệm cao trong công việc, cầu thị, sẵn sàng 
+nghe góp ý để hoàn thiện. Sẵn sàng hỗ trợ đồng nghiệp, hòa đồng 
+vui vẻ, chơi hết mình trong các hoạt động ngoại khóa, team building 
+8- Quản lý tiến độ, điều phối công việc cho nhân viên ở vai trò quản 
+lý
+Xây dựng và triển khai, vận hành thành công 5 dự án sau:
+1- Phần mềm quản lý tài sản – Ngân Hàng Sacombank,
+2- Phần mềm quản trị đầu tư mua sắm Ngân Hàng An Bình bank
+3- Phần mềm quán trị kế hoạch ngân sách -chi phí, mua sắm tài 
+sản, thanh quyết toán / tạm ứng - Ngân Hàng Bản Việt (đây là một 
+quy trình khép kín của ngân hàng)
+4- Phần mềm quản lý tài sản – Tổng Công Ty Bảo Việt Nhân Thọ
+5- Phần mềm quản trị tài sản - Công Ty Frieslandcampina Việt Nam.
+
+c
+ Kỹ Năng
+Kỹ năng chính: SQL Server  
+C# 
+Kỹ Năng Làm Viêc Nhóm  
+
+Mục Tiêu Nghề Nghiệp
+Vận hành hệ thống lớn (phân tích 
+xử lý dữ môi trường LIVE, fix data, 
+tìm hiểu nguyên nhân lỗi hệ thống, 
+fix lỗi cơ sở dữ liệu SQL Server)
+Nâng cao khả năng quản lý dự án - 
+PM
+Thông Tin Cá Nhân
+
+
+
+
+
+Nam
+55C4/3G Đường Cây Keo, 
+Phường Tam Phú, TP Thủ 
+Đức
+Tin Học
+Words    
+Excel    
+Power Point    
+Outlook    
+Phần mềm khác: Đặc thù công 
+việc Lập trình nên có nhiều phần 
+mềm về lập trình.
+Tiếng Anh
+Nghe
+Nói
+Đọc
+Viết
+c
+c
+ Học Vấn
+Tên bằng cấp: 
+Chuyên ngành: 
+Loại tốt nghiệp: 
+ĐẠI HỌC KHOA HỌC TỰ NHIÊN
+CỬ NHÂN
+CÔNG NGHỆ THÔNG TIN
+Khá
+
+
+/
+Kỹ năng khác: 
+Làm Việc Chịu Áp Lực Cao  
+Tỉ Mỉ Cẩn Trọng (đặc thù công việc xử lý số liệu trên môi trường 
+LIVE)  
+Sắp Xếp Giải Quyết Công Việc  
+Phân tích nghiệp vụ (Bussiness Analyst)  
+Project Management (PM)  
+Sẵng sàng OT để đạt kế hoạch của Team, Công Ty đề ra. 
+Soạn thảo những email quan trọng gửi đối tác. 
+Làm việc nhóm, Quản lý thời gian, Quản lý stress, 
+Quản lý giao tiếp
+c
+ Người Liên Hệ
+Họ và tên: 
+Công ty: 
+Chức danh: 
+VÕ QUANG THIỀU
+CÔNG TY TNHH PHẦN MỀM HOÀN CẦU
+TRƯỞNG PHÒNG
+
+c
+ Sở Thích
+Du lịch, tổ chức ăn uống với anh em chung Team dự án

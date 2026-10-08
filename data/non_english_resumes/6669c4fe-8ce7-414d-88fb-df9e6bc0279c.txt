@@ -1,0 +1,200 @@
+CAO CƯỜNG
+LẬP TRÌNH VIÊN .NETCORE / .NET
+Mong muốn được làm việc trong môi
+trường chuyên nghiệp, năng động và
+thử thách, nâng cao kiến thức và
+kinh nghiệm chuyên môn. Nỗ lực tối
+đa để hoàn thành tốt các nhiệm vụ
+được giao, góp phần xây dựng sự
+nghiệp cá nhân, đóng góp cho sự
+phát triển của công ty.
+C#
+JavaScript
+VueS
+CSS
+HTML
+T-SQL
+Bơi lội  Chơi thể thao
+Viết lách  Xem phim
+Đọc sách
+ ĐẠI HỌC ĐẠI NAM 09/2015    06/2019
+Chuyên ngành: Công Nghệ Thông Tin
+Tốt nghiệp loại Khá
+ PHẦN MỀM QUẢN LÝ VĂN BẢN 11/2018    03/2019
+(Đồ Án Tốt Nghiệp)
+- Ngôn ngữ C#, Html, Css, Bootrap, JavaScript, Jquery , AnggularJs, SqlSever. 
+- Phần Mềm có chức năng như đăng nhập, phân quyền người dùng, thêm sửa
+xóa văn bản, xem chi tiết từng văn bản, tìm kiếm văn bản theo các trường, xuất
+ﬁle exel.
+ CÔNG TY SOFT VIET 11/2018    03/2019
+Thực tập sinh
+- Ngôn ngữ C#, .Net Core, AngularJs, SqlSever. 
+ 
+ CÔNG TY CỔ PHẦN SAKUKO VIỆT NAM 04/2019    02/2020
+Nhân Viên
+Lập trình viên
+ CÔNG TY TNHH SMILE PMS 03/2020    06/2021
+Nhân Viên
+Lập trình viên
+ CÔNG TY TNHH NEW EZ VIET NAM 09/2021    Hiện tại
+Nhân Viên
+Lập trình viên
+ DỰ ÁN - WEB SAKUKO API 05/2019    09/2019
+NGÀY SINH
+23/08/1997
+GIỚI TÍNH
+Nam
+ĐIỆN THOẠI
+EMAIL ĐỊA CHỈ
+270 Phan Đăng Lưu - Yên viên - Gia
+Lâm - Hà Nội
+WEBSITE
+MỤC TIÊU NGHỀ NGHIỆP
+KỸ NĂNG
+SỞ THÍCH
+HỌC VẤN
+ KINH NGHIỆM LÀM VIỆC – SẢN PHẨM
+
+- Là một người hoạt bát, nhanh nhẹn,
+thân thiện, hòa đồng vớimọi người,
+hòa nhập nhanh với môi trường mới.
+- Ham học hỏi tìm tòi các công nghệ
+mới cần thiết cho côngviệc của bản
+thân
+Nhân viên l ậ p trình
+- Nền tảng: .Net core 
+- Hệ quản trị cơ sở dữ liệu: sql Server 
+- Thư viện: Swagger 
+- Ngôn ngữ:  C# 
+- Vai trò: Backend 
+- Team size: 1 
+- Chức năng: là  web để cho bên phần mềm mobile kết nối  và thao tác với cơ sở
+dữ liệu của công ty, để lấy ra thông tin khách hàng, thông tin mặt hàng, sản
+phẩm của công ty và tích điểm mua sắm khi khách hàng dùng phần mềm mobile
+mua sắm ở các cửa hàng của công ty. 
+ 
+  DỰ ÁN - WEB EC BÁN HÀNG 10/2019    02/2020
+Nhân viên l ậ p trình
+- Nền tảng: .Net core 
+- Mô hình: MVC 
+- Hệ quản trị cơ sở dữ liệu: sql Server 
+- Ngôn ngữ: C# 
+- Thư viện: Javascript, Bootstrap, css 
+- Vai trò: Backend và Fontend 
+- Team size: 1 
+- Chức năng: Là website quản lý các mặt hàng, sản phẩm công ty đang có và bán
+tại các chuỗi cửa hàng  cho bộ phận kinh doanh của công ty sử dụng. 
+ 
+  DỰ ÁN - HUB API 03/2020    04/2020
+Nhân viên l ậ p trình - Backend
+- Nền tảng: .Net core 
+- Hệ quản trị cơ sở dữ liệu: sql Server 
+- Thư viện: Swagger 
+- Ngôn ngữ: C# 
+- Vai trò: Backend 
+- Team size: 1 
+- Chức năng: là web để cho bên đối tác của công ty có thể kết nối đến và trích
+xuất các thông tin về khách hàng, cập nhật thông tin khách hàng khi khách hàng
+đến khu nghỉ dưỡng sử dụng phần mềm bên công ty để đặt phòng nghỉ, và sử
+dụng các dịch vụ tại khu nghỉ dưỡng đó.  
+ DỰ ÁN - TRANSFER HUB SERVICE 04/2020    05/2020
+Nhân viên l ậ p trình
+- Nền tảng: .Net core 
+- Hệ quản trị cơ sở dữ liệu: sql Server 
+- Ngôn ngữ: C# 
+- Vai trò: Backend 
+- Team size: 1 
+- Chức năng:  là tool service để đẩy dữ liệu từ công ty sang bên đối tác và lấy dữ
+liệu từ bên đối tác về công ty khi có phát sinh dữ liệu mới. 
+ DỰ ÁN - SMILE_FO_WEB 05/2020    05/2021
+Nhân viên l ậ p trình
+- Thư viện: VueJS. 
+- Template: Vuetify. 
+- Hệ quản trị cơ sở dữ liệu: sql Server 
+- Vai trò: Fontend 
+- Team size: 2 
+- Chức năng: Là website để cho khách du lịch đến khu nghỉ dưỡng, hay khách sạn
+THÔNG TIN THÊM
+
+nào đó để đặt phòng nghỉ ngơi, đặt các dịch vụ vui chơi, giải trí,ăn uống và thanh
+toán tại đó. 
+ DỰ ÁN - MIS (TÀI CHÍNH KẾ TOÁN) 09/2021    Hiện tại
+Nhân viên l ậ p trình - onsite TTCNTT B ả o Vi ệ t
+- Nền tảng: Asp net 
+- Mô hình: Web form 
+- Hệ quản trị cơ sở dữ liệu: Oracle 
+- Ngôn ngữ: C# 
+- Thư viện: Javascript, Jquery, Bootstrap, Css 
+- Vai trò: Backend && Fontend 
+- Team size: 2 
+- Chức năng: Là website dành cho bộ phận Kế toán và tài chính dùng để quản
+lý,cập nhật,thanh toán các khoản phí liên quan đến bảo hiểm phi nhân thọ của 
+bảo hiểm Bảo Việt . 
+ DỰ ÁN - IMS (QUẢN LÝ VÀ LƯU TRỮ HÌNH ẢNH) 09/2021    Hiện tại
+Nhân viên l ậ p trình - onsite TTCNTT B ả o Vi ệ t
+- Nền tảng: Asp net 
+- Mô hình: Web form 
+- Hệ quản trị cơ sở dữ liệu: Oracle 
+- Ngôn ngữ: C# 
+- Thư viện: Javascript, Jquery, Bootstrap, Css 
+- Vai trò: Backend && Fontend 
+- Team size: 2 
+- Chức năng: Là website tạo và xử lý các yêu cầu tạo đơn bảo hiểm Bảo Việt, từ
+các công ty thành viên của tập đoàn bảo hiểm Bảo Việt . 
+ 
+ DỰ ÁN - FUND ONLINE (ĐẦU TƯ KÝ QUỸ) 09/2021    Hiện tại
+Nhân viên l ậ p trình - onsite TTCNTT B ả o Vi ệ t
+- Nền tảng: Asp net 
+- Mô hình: Web form 
+- Hệ quản trị cơ sở dữ liệu: Oracle 
+- Ngôn ngữ: C# 
+- Thư viện: Javascript, Jquery, Bootstrap, Css 
+- Vai trò: Backend && Fontend 
+- Team size: 2 
+- Chức năng: Là website cho phép khách hàng đăng ký và sử dụng các loại quỹ
+của bảo hiểm Bảo Việt để mua hoặc bán cổ phiếu  bảo hiểm Bảo Việt . 
+ DỰ ÁN - MIS API 06/2022    Hiện tại
+Nhân viên l ậ p trình - onsite TTCNTT B ả o Vi ệ t
+- Nền tảng: .Net core 
+- Hệ quản trị cơ sở dữ liệu: Oracle 
+- Thư viện: Swagger 
+ - Ngôn ngữ: C# 
+ - Vai trò: Backend- Team size: 2 
+ - Chức năng: là web để cho bên đối tác của công ty có thể kết nối đến và trích
+xuất các thông tin, cập nhật thông tin khách hàng khi khách hàng thanh toán
+các khoản phí  bảo hiểm phi nhân thọ của bảo hiểm Bảo Việt . 
+ DỰ ÁN - FSC API 08/2022    Hiện tại
+Nhân viên l ậ p trình - onsite TTCNTT B ả o Vi ệ t
+- Nền tảng: .Net core 
+- Hệ quản trị cơ sở dữ liệu: Sql Server 
+- Thư viện: Swagger
+
+- Ngôn ngữ: C# 
+ - Vai trò: Backend- Team size: 2 
+ - Chức năng: là web để  kết nối  chung gian và trích xuất các thông tin, cập nhật,
+đồng bộ, lưu trữ dữ liệu về thông tin khách hàng khi khách hàng thanh toán các
+khoản phí bảo hiểm phi nhân thọ , thông tin nhân sự của bảo hiểm Bảo Việt cho
+các tool, website nội bộ của bảo hiểm Bảo Việt. 
+ DỰ ÁN - ACCOUNTANT API 03/2023    Hiện tại
+Freelance
+- Nền tảng: .Net core  
+- Hệ quản trị cơ sở dữ liệu: Sql Server 
+- Thư viện: Swagger 
+ - Ngôn ngữ: C# 
+ - Vai trò: Backend- Team size: 1 
+ - Chức năng: là web để  kết nối  chung gian và trích xuất các thông tin, cập nhật,
+đồng bộ, lưu trữ dữ liệu về thông tin khách hàng cho công ty cổ phần công nghệ
+HGDP. 
+ DỰ ÁN - ACCOUNTANT WEBAPP 03/2023    Hiện tại
+Freelance
+- Thư viện: ReactJs, Bootstrap, Css 
+ - Ngôn ngữ:JavaScript,TypeScript 
+ - Vai trò: Fontend- Team size: 1 
+ - Chức năng: là web client cho phép người dùng tương tác để  gởi các yêu cầu lên
+ACCOUNTANT API và nhận các kết quả đáp ứng từ ACCOUNTANT API đồng thời
+hiển thị dữ liệu lên với khuôn dạng thích hợp . 
+ NGHIÊN CỨU KHOA HỌC 09/2018    04/2019
+(Do khoa t ổ  ch ứ c)
+Sản Phẩm: Phần Mềm Quản Lý Văn Bản
+HOẠT ĐỘNG
+© topcv.vn

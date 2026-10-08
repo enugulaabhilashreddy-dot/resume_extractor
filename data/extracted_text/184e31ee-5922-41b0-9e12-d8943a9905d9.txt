@@ -1,0 +1,166 @@
+Sept 2009 - Dec 2013 University of Science HCMC
+Major: Information Technology
+Jun 2014 - Apr 2018 Duy Khanh Engineering Co., Ltd
+Developer, full-time
+- Develop business software for a mechanical company
+Achievements and skills gained: 
+- Help replace legacy system based on paper and MS Office with a
+unify software
+- Understand how business work and how ERP can improve it
+- Use low-code tools
+May 2018 - Mar 2019 Freelancer
+Developer, part-time
+- Develop business software for a construction and a distribution
+company
+Achievements and skills gained: 
+- Help automate manual systems
+- Make cross platform mobile apps
+- Deploy apps to cloud
+Apr 2019 - Jan 2020 PATC group
+Developer, full-time
+- Learn functional and technical areas of Epicor (an ERP System for
+Manufacturing)
+- Customize the system and develop mobile app connect to ERP
+Lê Minh Quyền
+ERP Developer
+Date of birth:  1991
+Gender:  Male
+Phone:
+Email:  
+Address:  Tuy Phước - Bình Định
+OBJECTIVE
+Take advantages of programming skills & understanding of business processes to become an expert in
+enterprise software systems and help Users/Customers increase productivity. From that, I will contribute to
+development of the Company.
+EDUCATION
+WORK EXPERIENCE
+
+Achievements and skills gained: 
+- Understand business process of Operations modules (Sales,
+Purchase, Inventory, Production...)
+- Understand architecture and how to install, customize Epicor
+Feb 2020 - Apr 2020 Eternal Prowess VN JSC
+IT team leader, full-time, leave because of Covid-19
+- Research and build prototypes for applications:
+    + Migrate legacy ERP to C#
+    + Dashboard (for Web/Mobile)
+    + Request - Approve software (for Web/Mobile)
+    + Machine learning, IoT 
+Achievements and skills gained: 
+- Understand potential of applying IT in a company
+- How to migrate PowerBuilder to C#
+- Cloud services for machine learning, IoT
+May 2020 - now Leading Star VN JSC
+ERP team leader, full-time
+- Research how to build ERP software:
+    + Low-code frameworks
+    + ERP workflow: SAP, Odoo...
+    + Vertical solutions for Apparel Industry: SAP AFS, JD Edwards
+Apparel...
+- Research and build other software:
+    + Label RFID scan stations (for QC)
+    + AGV robot
+    + Other apps: HR, helpdesk...
+- Lead programming team
+Achievements and skills gained: 
+- Deep understand ERP modules (Inventory, MRP, Production...)
+- Built and deployed modules: Sales, Purchase, Inventory and MRP
+- Built and deployed 3 RFID stations
+- Has roadmap to build automation systems with small team
+Language English, Vietnamese
+Technical .NET, ERP, DevExpress
+SKILLS
+PROJECTS
+1. Software for Mechanical Company
+)
+Customer Duy Khanh Engineering Co., Ltd
+Description
+- Streamline activities: Order Entry, Engineering, Material Issue, Production,
+Shipment, Account Receivable and Purchase Request across departments. 
+- Mobile app: records time and production quantity at Shop Floor.
+
+Team size 1 person at first, then 3
+My position Team leader
+My responsibilities - Analysis and design
+- Develop
+Technologies used
+- Visual Studio LightSwitch, C#
+- Android, Java
+- Devexpress XAF, C#
+2. Mobile app connect to Epicor ERP
+)
+Customer PATC group
+Description - Inventory: record transactions, view inventory status
+- Shop floor: record time and production quantity
+Team size 2
+My position Developer
+My responsibilities Main developer
+Technologies used - Android, Java
+3.1 Migrate PowerBuilder ERP to C#
+)
+Customer Eternal Prowess VN JSC
+Description - Migrate PowerBuilder to C# backend
+- Build new frontend
+Team size 1
+My position Developer
+My responsibilities - Research technology
+- Build prototype
+Technologies used - Appeon PowerBuilder
+- 
+3.2 Request-Approve software
+)
+Customer Eternal Prowess VN JSC
+Description
+- Allow employees to create requests and managers to approve/reject/forward
+those requests.
+- Has mobile version
+Team size 3
+My position Developer
+My responsibilities - Research business process, technology
+- Make prototype
+Technologies used
+- Xamarin Forms
+- Azure mobile SDK
+- Devexpress XAF
+3.3 Machine Learning projects
+)
+Customer Eternal Prowess VN JSC
+Description
+- Train and classify objects
+- Recognize face (for timekeeping app)
+- Recognize license plate
+
+Team size 1
+My position Developer
+My responsibilities - Research technology
+- Make prototype
+Technologies used
+- Azure Custom Vision
+- Azure Face API
+- Xamarin
+4.1 ERP for Garment Company
+(5.2020 - now )
+Customer Leading Star VN JSC
+Description - Modules: Sales, Purchase, Inventory, Production, MRP
+- Special functions for Apparel industry: item variants, label, packing, forecast...
+Team size 4
+My position Team leader
+My responsibilities
+- Research ERP workflow
+- Coding
+- Assign tasks and review
+Technologies used - Devexpress XAF, C#
+4.2 RFID station for pack validation
+)
+Customer Leading Star VN JSC
+Description
+- Quality control system for garment finished goods
+- Compare number of RFID tags inside cartons and predefined quantities in
+database
+- Integrate with conveyors
+Team size 4
+My position Team leader
+My responsibilities - Build prototype
+- Assign programming tasks 
+Technologies used - C#
+©

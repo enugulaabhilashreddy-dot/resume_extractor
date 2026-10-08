@@ -1,0 +1,71 @@
+MỤC TIÊU NGHỀ NGHIỆP 
+- Tôi mong muốn làm việc trong môi trường lập trình chuyên nghiệp, ở 
+đó tôi có thể phát triển kỹ năng chuyên môn, học hỏi thêm kiến thức lập trình 
+mới để hoàn thành xuất sắc công việc được giao 
+- Mục tiêu trong 1 năm tới, tôi sẽ trở thành người quản lý dự án. 
+KỸ NĂNG 
+ 
+- Back End: , NetCore, MVC, Entity Framework 
+(Dapper ORM, NHibernate), Node js, Nestjs 
+- Front End: ReactJS, Knockoutjs, HTML, CSS, Javascript, Jquery 
+- Source Control Management System: GIT, TFS 
+- Database: MS SQL, MYSQL, Mongodb, Oracle 
+ 
+KINH NGHIỆM LÀM VIỆC  
+Web Developer 
+Ngân Hàng Xây Dựng – CBBANK 08/2018 - 02/2021: 
+ Vị trí: Chuyên viên cao cấp. 
+ Các hệ thống tham gia:  
+-  LOS: Hệ thống khởi tạo khoản vay (Loan Origination System – LOS) là một giải pháp quản lý 
+quy trình khởi tạo khoản vay phục vụ cho ngành ngân hàng 
+-  ECM: Hệ thống yêu cầu hỗ trợ từ các phòng ban theo phiếu Yêu cầu hỗ trợ được thực hiện 
+theo quy trình  
+-  Eoffice: Hệ thống quản lý công việc  ( Giao công việc – Trình văn bản, DMS) 
+ Tham gia phát triển những tính năng hệ thống theo yêu cầu của nghiệp vụ dựa vào quy trình 
+phát triển phần mềm thông qua SRS, URD, hệ thống phát triển dựa trên quy trình, Form 
+biễu mẫu trong Workflow BPM 
+- Tham gia phát triển hệ thống Quản lý quy trình Workflow:  hệ thống quản lý những quy 
+trình thuộc các nghiệp vụ bao gồm: Form biểu mẫu, công thức, config option, cây tổ chức 
+ Ngôn ngữ sử dụng: , Knockout JS, HTML, CSS, Java script, Jquery 
+ Database: MS SQL, MongoDB 
+Ngân Hàng Sài Gòn – SCB  03/2021- 04/2022: 
+ Vị trí: Chuyên viên Chính. 
+ Các hệ thống tham gia:  
+- Tham gia phát triển hệ thống ngân quỹ quản lý xuất, nhập kho, điều động tiền, quản lý số            
+lượng tờ các mệnh giá tiền trong kho. 
+ Ngôn ngữ sử dụng: NET CORE, Angular, HTML, CSS, Javascript, Jquery 
+ Database: MS SQL, MongoDB 
+Ngân Hàng Xây Dựng – CBBANK 05/2022 – 2/2024: 
+ Vị trí: Trưởng nhóm. 
+ Các hệ thống tham gia: 
+- Hệ thống HRM: Xây dựng hệ thống HRM quản lý nhân sự, quản lý quy trình: tuyển dụng, điều 
+động, bổ nhiệm, giao việc, trình văn bản,....  
+- Hệ thống Collection: Xây dựng hệ thống quản lý nợ theo quy trình, giảm miễm lãi, cung cấp 
+API cho APP Mobi 
+NGUYỄN VĂN 
+THÀNH
+
+- Hệ thống Eoffice: năng cấp hệ thống  
+ Tham gia phát triển (HRM,Collection, Eoffice) những tính năng hệ thống theo yêu cầu của 
+nghiệp vụ dựa vào quy trình phát triển phần mềm thông qua SRS, URD, hệ thống phát triển dự 
+trên quy trình, Form biễu mẫu trong Workflow BPM  
+- Tham gia xây dựng chuyển đổi số năng cấp hệ thống CoreBanking mới CBBANK:  
++ Tham gia kiểm thử CoreBanking cùng đối tác 
++ Tích hợp các API từ hệ thống CoreBanking mới vào hệ thống nội bộ và kiểm thử: TMS, 
+COLLECTION, HRM, CBCHOICE 
++ Tích hợp các API từ hệ thống CoreBanking mới vào hệ thống thanh toán và kiểm thử: APP 
+MB (CBWAY), SMS, CARD, CMS MB 
+- Năng cấp hệ thống quản lý Workflow BPM  
+ Ngôn ngữ sử dụng: , NET CORE, Knockout JS, HTML, CSS, Javascript, Jquery, ReactJS 
+ Database: MS SQL, MongoDB, Oracle 
+TRÌNH ĐỘ HỌC VẤN 
+ĐẠI HỌC KINH TẾ - KỸ THUẬT BÌNH DƯƠNG 
+Ngành học: Công nghệ thông tin 
+Chuyên Ngành: Lập trình 
+Xếp loại: Khá 
+THÔNG TIN LIÊN HỆ 
+Ngày sinh: 05/06/1933 
+Giới tính: Nam 
+Số ĐT: 
+Email:  
+Địa chỉ: Phường Lái Thiêu, Thuận An, Bình Dương

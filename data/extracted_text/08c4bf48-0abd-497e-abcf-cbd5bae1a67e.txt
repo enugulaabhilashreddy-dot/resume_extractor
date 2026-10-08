@@ -1,0 +1,142 @@
+汉语⽔平汉语⽔平
+⼝语：
+听⼒：
+阅读：
+写和输⼊：
+EnglishEnglish
+Listening:
+Speaking:
+Reading:
+Writing:
+LANGUAGE
+To Van Thang ( )
+
+
+
+
+
+CONTACT
+TO VAN THANG
+IT ENGINEER - ERP PRODUCTIONS SYSTEM
+Area 5, Dai Phuc Ward, Bac Ninh City
+- Have more than 4 years working in a large corporation (Foxconn 
+Technology Group), has been familiar with the corporate environment, 
+used to pressure and intense work. With the knowledge of information 
+management, production, and storage, my next goal is to find a 
+professional working environment where I can fully develop my skills to 
+benefit the company.
+- Besides, in my work career, I have had more than 2 years of holding the 
+position of Team Leader, as well as accumulated a certain amount of 
+management experience. Therefore, I look forward to developing with 
+your company and become a good leader in the near future.
+OBJECTIVE
+HaNoi University Of IndustryHaNoi University Of Industry
+Formal
+Major: Computer Science, Information Technology
+EDUCATION
+IT Engineer - ERP groupIT Engineer - ERP group
+Science and Technology Corporation FoxconnScience and Technology Corporation Foxconn  | resentresent
+MAIN JOB:MAIN JOB:
+❖ ❖ Manage production systems in the factory:Manage production systems in the factory:
+     ☑ Manage and implement production database, handle IT work, which 
+related to two customers: JBD-UBee customer and MBD-UI 
+customer(Foxconn's potential customer).
+     ☑ Manage MES system: manage the entire process of functional test,
+assembly, packaging, and shipping to the customer system.
+     ☑ Manage new requirements of potential customers :
+          - Create a label printing program as discussion about requirements 
+between IT team of Foxconn and customers.
+          - Implement functions to manage the product functional testing 
+process by Oracle database (procedure, job).
+          - Control packing and shipping routes (modify packing, auto 
+shipping program).
+     ☑ Give improvement of system applications:
+          - Replace CMC by Raspberry(Android Terminal) : reduce the cost, 
+increase the working performance with the flexible ability of Raspberry.
+          - Implement web application to support the production line
+with the compatibility on many of device as PC, mobile...
+          - Implement programs using various programing language Delphi 
+7.0, C# , VB,...
+          - Create web service to replace direct connection between
+application and database to reduce the database hack potential and get 
+the manufacture data from other departments.
+          - Improve the system error handling occurs on the production
+lines (Oracle database control with Job, Procedure).
+EXPERIENCE
+
+汉语⽔平汉语⽔平
+⼝语：
+听⼒：
+阅读：
+写和输⼊：
+EnglishEnglish
+Listening:
+Speaking:
+Reading:
+Writing:
+LANGUAGE
+NGUYEN TRUNGNGUYEN TRUNG  
+KIENKIEN
+, Supervisor
+Foxconn Technology 
+
+
+REFEREES
+❖ Research and development: Research and development:
+     ☑ Research and improve existed programs in various programming 
+language (C #, Delphi, Java, VB,...)
+          - Write programs to improve the application of automation in 
+manufacturing (C #: read data from the Camera then send data to the 
+socket/com port and process in database).
+          - Build program to use camera and robot scan label, cost down OP 
+in packing station:
+             ⇒ Scan the 2D barcode with the camera (C # library ZXing)
+             ⇒ Auto Packing (Delphi: replace COM by socket for communicating 
+with labview-automation program.)
+          - Improve and rebuild login function with 3 layer security(password, 
+QR code and Face ID) for system program(Delphi, Android).
+     ☑ Develop and build Web, Web Service:
+          - Smart Repair: Repair product manufacture process by a unique 
+route, connect to the database to get image errors via web service. Then 
+the data would be processed by stored procedure and send back results 
+for the user.
+          - Query-Web: Connect to database (multiple databases) to call the 
+Oracle job or procedure to perform the query and process the data.
+     ☑ Learn android app to manage production system business (Socket, 
+Thread and A Sync Task):
+          - Find out how to replace CMC with an improvement to reduce the 
+cost and increase the working performance using the Android app:
+          - Main functions: Read data from the mobile camera and then data is 
+processed by the stored procedure of Oracle to handle. The data will be 
+shown to the client program by socket connection, as well as saved on 
+FTP server:
+             ⇒ Use ZXing library to call the camera to perform the barcode 
+scan.
+             ⇒ Use  to send data to SMO (main program which 
+perform Orac re).
+             ⇒ Apply Internal Storage to store log and implement function to 
+save the log on server.
+             ⇒ Connect database to retrieve information by the stored 
+procedure, client address.
+❖ Leadership for improve system team:Leadership for improve system team:
+    - Besides of handling issue quickly on the production line, we develop 
+and figure out how to solve problem thoroughly.
+    - Knowledge about production flow and find the outstanding 
+problems, which can be improved.
+    - Discuss with members to find out how to solve problems, assign 
+appropriate work and monitor project progress.
+    - Support team members to solve their problems, accelerate project 
+progress on time.
+❖ Technical skills
+    - Basic knowledge object oriented programming, web programming.
+    - Programming language : C# , HTML5/CSS3, Delphi.
+    - Framework : .Net , VueJS, Android.
+    - Database : Oracle , MySQL, MS SQL Server.
+    - Programming tools : Visual Studio, Android Studio , Eclipse, NetBeans 
+IDE, MS SQL Server.
+❖ Soft skills
+Team work : Good
+Leadership : Good
+New things : Actively explore
+    - Being careful and hard-working person.
+SKILLS

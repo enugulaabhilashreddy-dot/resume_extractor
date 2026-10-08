@@ -1,0 +1,107 @@
+NGUYEN DINH LAN 
+Date of birth: 15/10/1996 
+Phone: 
+Email:  Address: Hanoi, Vietnam 
+ 
+OBJECTIVE 
+ 
+Looking forward to working in large companies, professional, where there are many opportunities to get to 
+work, grow and have better treatment policies. 
+EDUCATION & OTHER TRAININGS 
+ 
+Dai Nam University 
+Major: Information Technology 
+Certificate English TOEIC 450 
+Certificate CCNA. 
+WORK EXPERIENCE 
+ 
+BAMBOO AIRWAYS JSC From 6-2018 - now 
+Main responsibilities: 
+1.  Management of the server system email, and operation of BAV 
+• Administrator SAP system server. 
+• Administrator Office 365 
+• Administrator BOC 
+• Server on-premise 
+• Server AWS 
+• Backup server, sharepoint 
+• Administrator Timekeeper management 
+• Tool hepldesk 
+• cloud infrastructure 
+• Administrator  Switchboard
+
+• Administrator DNS, SSL 
+• Information technology asset management 
+• Administrator SFTP server 
+• Other. 
+2. User support, device upgrade: 
+• B.O.C 
+• PC, laptop, Internet,  
+• Antivirus 
+• Company switchboard 
+• Sharepoint, Onedriver data 
+• SAP data support 
+• Installation of information technology systems 
+• Backup sharepoint, server on-premise, cloud server, SAP 
+• File server 
+• Outlook, email, sharepoint, onedriver,Team, 
+• Other. 
+3. Administration Office 365, 
+• Check users for problems reported from helpdesk and resolve system issues (spam emails, delete 
+system emails, full space, not sending and receiving emails…) 
+• Ensure the operational health of the SharePoint online environment including security, availability, 
+performance, interoperability, and reliability. 
+• Supports SharePoint, onedriver sites and subsites, lists, libraries, and content (including sites, 
+workflows, sections, permissions and access, workflows, and items) 
+• Microsoft Team, meeting management 
+4. System administration of servers:  
+• Administration and operation of systems on cloud infrastructure: domestic private (CMC, Viettel, 
+Vinahost, ...), public (Amazon Webservice) and services on Cloud: EC2, Secure policy, VPC, VPN, 
+Load balancer, SES, SNS, Billing, ...  
+• Administration and operation of server systems in the Data Center room, outsourced cloud servers 
+running systems: Mobile APP, HRM, CA Online, GrabConnect, AirRM, e-Perf FOE, e-Learning,  
+5. HelpDesk: 
+• Supporting end-users 
+• Managing and maintaining office equipment including but not limited to: PC Laptop, printers, 
+photocopier, fax. 
+• Support Microsoft  email outlook, sharepoint, onedriver, team 
+• Installing and configuring computer hardware, OS (Windows and MAC) and new applications. 
+• Monitoring and maintaining computer systems and networks. 
+• Troubleshooting system and network problems, hardware/software faults.- Install, repair software (build, 
+graphics), operating system, Email settings, Microsoft Team, 
+• Provides adjusts lighting, resolution setting, troubleshooting of video, audio, and lighting 
+equipment Provides adjusts lighting, resolution setting, troubleshooting of video, audio, and 
+lighting equipment 
+• Technical staff repaired and installed computer, network, laptop, printer, fax and other office equipment  
+ 
+Minh Hoang Investment And Trading Service CO, LTD From 5-2017 to 06-2018 
+• Installation and repair of cameras, computers, projectors, printers, laptop computers, photocopiers, schools, 
+industrial zone. 
+• Configure cisco devices, routers, servers, web server....
+
+SKILLS 
+Network infrastructure 
+Experienced in knowledge of network infrastructure, including, wireless 
+networking, network switches, WAN / LAN, domain controllers, Active 
+Directory, firewalls and VPN applications….. 
+Database management systems 
+MySQL, Microsoft SQL Server, Virtual San Failover cluster , Hyper – 
+Live Migration.. 
+Installation and repair Installation and repair Server, computers, laptops, printers, network, 
+telephone, fax and other office equipment .... 
+Systems deploying 
+Skills in systems deploying LAN / WAN, PBX systems, security 
+surveillance cameras, Access Control, sound system, electrical system 
+buildings 
+Other software Fluency software graphic design public office software. 
+Word, Excel, PowerPoint, email,sharepoint, onedriver, office 365, 
+B.O.C, 
+Timekeeping software,Sita, AMIS, SAP, ifly,Microsoft Team 
+Soft skills 
+ 
+Communication skills is well, presentations at work issues 
+Work hard, endure to the end the work assigned 
+Be careful and enthusiastic, listening to things on the job 
+Relations with colleagues and people. 
+Ability to work independently and high groups
+
+©

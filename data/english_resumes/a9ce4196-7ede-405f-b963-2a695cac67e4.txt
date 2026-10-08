@@ -1,0 +1,95 @@
+Hoàng Thiên Ân
+21 Lý Chính Thắng Q3
+  
+Ho Chi Minh University Of Technology - Major: Computer Science Aug 2015 - Aug 2019
+Language English (TOEIC: 620).
+Programming languages Dart,  Javascript.
+Experience Flutter (Android, IOS and Windows apps), MVVM, Clean Architecture, Dependency
+Injection, Retrofit, RxDart, Firebase, Automation Test, Fastlane, Github Action.
+Responsibility Focus on completing the assigned work. Willing to learn new techniques to apply to
+projects.
+Related tools Gitlab, Jira, Sourcetree.
+Mobile Developer (GogameVN) - Goplay App V2(Flutter - Dart, JavaScript) Dec 2021 - Present
+Mobile Developer (ECR VN) - 6 Project Mobile and 2 Project Windows include
+Ordering Apps and Management Apps (Flutter - Dart, JavaScript, C#)
+Nov 2019 - Dec 2021
+"Goplay V2" (Mobile App - Flutter(Dart), JavaScript) (Jan 2021 - Present)
+EDUCATION
+SKILLS
+WORK EXPERIENCE
+Main responsibilities (details in projects below): 
+- Create UI, support team to solve complex UI problems.
+- Integrate with API.
+- Maintain and refactor code.
+- Deploy apps to App Store and Google Play Store (using FastLane).
+- Apply Automation Test (Unit Test, Widget Test and Integration Test)
+ 
+Recognition and Gains: 
+- Apply Bloc and Automation Test to project.
+- Complete the assigned tasks well, research new features to apply to the project. 
+Main responsibilities (details in projects below):  
+- Init app.
+- Integrate with API, 
+- Integrate app with hardware (Ex: Scan, swipe card, printer).
+- Deploy the IOS app to TestFlight.
+ 
+Recognition and Gains: 
+- Experienced with Ordering projects, payments, print bills.
+- Complete the assigned tasks well, research new features to apply to the project. Experience in handling payment tasks. 
+- Leader in 1 Mobile Project, review code of team member. 
+ 
+Windows App Developer (ECR VN)
+6 Project Windows Application (WPF - C#)
+ 
+Main responsibilities:
+ - Code follows the MVVM pattern. Apply S.O.L.I.D Principles, Singleton Pattern.
+ - Create UI follow designer.
+ - Integrate the application with API (Retrofit), hardware (Ex: Scan, swipe card, printer). Contribute Web Service to implement
+some complex features. 
+ - Working with SQLite Code First.
+ - Maintain old projects.
+ 
+ Achievements and skills gained:
+ - Complete the assigned tasks well, research new features to apply to the project. Experience in handling payment tasks.
+PROJECTS
+Customer GogameVN
+
+"Order App" (Mobile App - Flutter(Dart), JavaScript) (Jan 2021 - Dec 2021)
+Description A platform to play game with friends, earn rewards from tasks
+Team size 3 members
+My position Developer
+My responsibilities
+- Create app with BLOC pattern, working with stream. Using Provider and GetIt to manage
+State. Apply S.O.L.I.D Principles, Singleton Pattern. 
+- Create UI follow designer. Create custom widgets to reuse from default widgets 
+- Integrate the application with API (Retrofit). 
+- Using SharedPreferences. 
+- Working with Javascript to communicate with WebView. 
+- Share deeplink of GoplayApp to Social apps (Facebook, Twitter, ..). 
+- Integrate "Chat Function", working with position in ListView to trigger show "Date Popup"
+when scrolling similar to Skype. 
+- Video Slider like Tiktok. 
+Technologies used
+- Using Flutter (Dart) to create an app. 
+- Apply code following the BLOC pattern. Using Provider and GetIt to manage State. Apply
+S.O.L.I.D Principles, Singleton Pattern. 
+Customer ECR UK
+Description Order Food on train
+Team size 4 members
+My position Developer
+My responsibilities
+- Init app with MVVM pattern. Using Provider and GetIt to manage State. Apply S.O.L.I.D
+Principles, Singleton Pattern. 
+- Create UI follow designer.- Integrate the application with API (Retrofit), hardware (Ex: Scan,
+swipe card, printer). 
+- Working with Hive (NoSql Database). 
+- Working with Firebase (Firebase Messaging, Firebase Auth), Local Notification, creating
+packages to use extended libraries. 
+- Create JS tool to config app for multiple clients (Ex: App's name, icon, Firebase Configure
+file,...). 
+- Deploy app IOS to TestFlight.
+Technologies used
+- Using Flutter (Dart) to create an app. 
+- Using JavaScript to create a tool. 
+- Apply code following the MVVM pattern. Using Provider and GetIt to manage State. Apply
+S.O.L.I.D Principles, Singleton Pattern.

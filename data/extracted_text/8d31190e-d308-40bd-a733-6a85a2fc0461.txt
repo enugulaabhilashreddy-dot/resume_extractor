@@ -1,0 +1,96 @@
+Nguyễn Ngọc Nhật 
+QC/QA Engineer 
+ 
+ 
+Phone: | Email: |  
+Address: 65/30 Giải Phóng Street, Ward 4, Tân Bình District, Hồ Chí Minh City  
+OBJECTIVE  
+ 
+Desire to find a suitable job and work in a professional environment, challenge 
+project with my experience in software development and Fintech department. 
+QUALIFICATIONS  
+Abilities 
+○ Good technical knowledge about manual framework.  
+○ Have experiences in many kinds of testing. (Website testing, Mobile application testing 
+(Android/iOS)  
+○ Have average good English skill. 
+○ Have experience in management project via Jira 
+○ Good at communicate, team work or individual environment.  
+○ Enthusiastic, self-motivated, responsible at work.  
+○ Eagerness to learn.  
+○ Ability to work well under high pressure.  
+○ Ability to understand and adapt quickly to new organizational cultures.  
+○ Ability to carry a meeting and make deals.  
+○ Analyze business and requirement/PRD to determine PO’s requirement  
+○ Work with Stakeholders to know and understand Customer special requirements. 
+○ Planning test for features and regression. 
+○ Familiar with working in Scrum model. 
+○ Basic knowledge of auto-testing: Selenium, Java 
+Skills 
+⯍ Testing: Website testing (UX/UI, Functional) | Mobile application testing (Android/iOS) 
+⯍ English: Writing | Reading |Speaking | Communication | Document analysis  
+⯍ Soft skills: Teamwork | Communication | Problem solving | Adaptability | Time 
+management | Scrum/Agile 
+EXPERIENCE  
+ 
+IT TESTING SPEACIALIST 6/2018 to 2/2019 
+HOME CREDIT Ho Chi Minh City
+
+⯍ QC in Mobile project of Home Credit app - one of the best Finance app in 
+o Perform test on mobile native apps (Android) 
+o Analyze PRD and work with PO, BA to define and design test cases for new 
+features: user management, loan contracts, payment with momo… 
+o Create test plan 
+o Test report on new features for stakeholders 
+o Report and track defects 
+o Perform regression test for each release 
+ 
+ 
+QC/QA Engineer 2/2019 to 6/2021 
+VNG CORPORATION Ho Chi Minh City 
+o Working with eWallet application in the most popular financial apps on mobile  
+o Being a key member of Front End team 
+o Main QC of Bank Intergration project 
+o Perform testing features on mobile native apps (Android/iOS): Topup, 
+withdraw, money transfer, payment,… 
+o Perform testing Payment, Bank intergration on web platform. 
+o Work with Bank’s PIC to gather information and requirements 
+o Analyze PRD and work with stakeholders to define and design test cases for 
+integration new banks in ZaloPay app 
+o Analyze PRD and work with stakeholders to define and design test cases for 
+new feature: topup at merchant POS 
+o Work with Bank’s PIC to perform testing for Bank test records document when 
+intergrate new bank. 
+o Work with Merchant PIC to testing admin tool and merchant tool for features 
+Topup at merchant POS: transaction history, transaction fundback history, 
+transaction management 
+o Manage and estimate effort for assigned tasks 
+o Log works 
+o Manage timeline 
+ 
+ 
+ 
+Senior QC Engineer/Project leader 7/2021 to now 
+SILICONPRIME Ho Chi Minh City 
+o Work building app GameDays for US region: a winning money quiz app. 
+o Work building app Big Rich for US region: an e-commerce app. 
+o Work with BA to analyze and finalize requirement release for each sprint 
+o Manage tasks of each member in scrum team. 
+o Give idea about new feature if needed. 
+o Manage project release plan to meet customer expected. 
+o Report project’s development progress weekly for customer. 
+o Perform testing on mobile app Android/iOS. 
+o Perform testing on web admin site. 
+o Perform API testing. 
+o Perform regression test for each release. 
+o Create test scenarios for each feature. 
+o Created and documented requirements after working with customer.
+
+EDUCATION  
+ 
+SOFTWARE MANAGEMEN 
+Văn Lang University Hồ Chí Minh City 
+  
+ 
+MILITARY OBLIGATION
+Biên Hòa, Đồng Nai Province

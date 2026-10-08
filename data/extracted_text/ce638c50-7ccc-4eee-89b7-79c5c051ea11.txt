@@ -1,0 +1,172 @@
+Aug 2008 - May 2013 Hanoi university of Science and Technology
+Major: Software Engineering
+GPA: 3.14/4
+June 2012 - Dec 2012 TriNam Group
+Internship
+Main responsibilities: 
+- Develop Web based on Dotnet Nuke open source 
++ Main content: develop HR management system 
++ Using  based (C#) 
++ Database: SQL Server 
++ Testing the finshed product 
+ 
+Jan 2013 - Jul 2013 Eleisure software
+Web developer
+Main responsibilities: 
+- Develop Sale management system 
+- Using  (C#) 
+- Using Kendo UI, jQuery framework 
+ 
+Jul 2013 - May 2021 Samsung Vietnam Mobile R&D Center
+Software Engineer
+Main responsibilities: 
+- Research solutions for some problems in Samsung factory 
+- Development softwares for Samsung mobile 
+- Testing and maintain, fix bug 
+Nguyen Vuong Quyen
+Date of birth  Jul 17, 1989
+Gender  Male
+Phone
+Email
+Address  Hanoi, Vietnam
+Website
+OBJECTIVE
+I want to bring my skill and knowledge about research and development software engineering to contribute the
+development of the company, take the best solutions to valued customers. And thought that I can improve my skill
+and experience day by day.
+EDUCATION
+WORK EXPERIENCE
+
+May 2021 - Present SDS Vietnam
+Java Software Engineer
+Main responsibilities: 
+- Develop and maintain Lookin Enterprise system 
+Jan 2016 - Feb 2017 Cầu Giấy Taewonko club
+Member of club
+Jan 2019 - Apr 2019 Swimming club
+Member of club
+2019 TOEIC Certificate with score 640 issued by IIG Vietnam
+2016 Software certificate Advanced level issued by SVMC
+2013 Samsung Talent Program award
+Language English, Vietnamese
+Computer Word, Excel, Powerpoint
+Programming language Java
+OS Windows, Linux
+Database SQL Server, MySql
+Technology Hibernate, RestFull, MyBatis.
+Version control Git
+Enterprise Java Spring
+Clients Android mobile
+Software development
+processing
+Agile
+Network TCP/UDP
+ACTIVITIES
+CERTIFICATIONS
+HONORS & AWARDS
+SKILLS
+INTERESTS
+I like travelling, music, play foot ball...
+PROJECTS
+
+Sale management
+)
+Customer Singapore customer
+Description The web based system manage the goods in stock and tracing the revenue
+Team size 6
+My position Developer
+My responsibilities - Develop create and delete product module in store
+Technologies used - Kendo UI,  (C#) 
+- jQuery
+SPen SDK
+)
+Customer Samsung mobile
+Description this is the SDK used by many apps in Samsung phones, using the Spen or finger to
+draw, point on the surface
+Team size 30
+My position Developer
+My responsibilities
+- Develop the UI module 
+- Fix bugs 
+- Testing  
+Technologies used - Eclipse 
+- Java, C/C++
+SideSync
+)
+Customer Samsung mobile
+Description An application help sync and control mobile by PC of Tablet
+Team size 10
+My position Developer
+My responsibilities
+- Develop the Keyboard and Mouse sharing module 
+- Fix bugs 
+- Testing  
+Technologies used - Eclipse 
+- Java, C/C++
+TvContentSync
+)
+Customer Samsung Electronics Vietnam
+Description An application help sync and plan schedule to play the programs on TV
+Team size 4
+My position Leader
+My responsibilities - Develop main functions 
+- Assign tasks for other members 
+Technologies used - Android Studio 
+- Java, Room, RxAndroid, WebSocket
+PlayGalaxy Link
+)
+Customer Samsung mobile
+Description An application for streaming game from PC to Samsung mobile
+
+Team size 5
+My position Leader
+My responsibilities
+- Receive request from customers and analysis them
+- Develop main functions 
+- Assign tasks for other members 
+Technologies used
+- Android Studio 
+- Java, Room, RxAndroid, C/C++ 
+- Git/GitLab 
+Galaxy Gift
+)
+Customer SAVINA
+Description An application for give Galaxy users many gift and voucher from many vendors and
+shops
+Team size 2
+My position Leader
+My responsibilities
+- Develop android client side 
+- Connect to server and get all gift and voucher from server 
+- Testing  
+Technologies used
+- Android Studio 
+- Java, Room, RxAndroid 
+- Git/GitLab 
+Samsung Radio FM
+)
+Customer Samsung mobile
+Description An application for listening Radio of Samsung mobile
+Team size 13
+My position Sub Leader
+My responsibilities
+- Develop Scope storaged module 
+- Testing using android espresso 
+- Unit test using JUnit 
+Technologies used
+- Android Studio 
+- Java, Room, RxAndroid, C/C++ 
+- Gerrit 
+Lookin Enterprise
+)
+Customer SDS Vietnam
+Description A security assessment system for servers(Windows, Linux)
+Team size 3
+My position Leader
+My responsibilities - Develop and maintain rule engine backend 
+Technologies used
+- Inteliji IDEA 
+- Java Spring Boot 
+- Git 
+- Docker 
+©

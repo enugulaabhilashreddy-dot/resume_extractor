@@ -1,0 +1,263 @@
+Pham Thanh Tam                                                                                         Mobile phone:         
+Address: 204 A1a, Apartmentbuilding  III Bui Minh Truc, 5th ward, 8th Distric, HCMC 
+ 
+1 
+ 
+TAM’S  SHORT RESUME 
+                                  
+PERSONAL DETAILS  
+ 
+Name : PHAM THANH TAM  
+Sex: Male Marital status : Married  
+ 
+Number of children: 01 
+ 
+Permanent address: 204 A1a, Apartment building  III Bui Minh Truc, 
+5th ward, Distric 8, HCMC  
+Tel:   + 
+Mobile:  + 
+ 
+Contact address: 204 A1a, Apartment building  III Bui Minh Truc, 5th 
+ward, Distric 8, HCMC  
+Email: 
+ 
+ 
+ACADEMIC QUALIFICATIONS  
+ 
+Qualification 
+  
+Institution 
+ 
+Country 
+ 
+Length of Program 
+ 
+Year completed 
+ 
+University 
+graduation  
+Post and Telecommunication 
+Institute of Technology  
+Viet 
+Nam  
+4 years and a half       11/2004 
+ 
+ 
+KEY TRAINING COURSES  
+ 
+Name of Course 
+ 
+Conducted by 
+ 
+Duration 
+ 
+Year 
+ 
+Certificate 
+ 
+CCNA course VnPro Network 
+Training Centre  
+1 year 2006 CCNA certificate 
+ 
+61 Sigma Exchange(NEC)  NEC  3 weeks  2008   
+Worked as CS&PS Core Lead 
+Engineer at Gtel Mobile 
+Gmobile Vietnam 
+ 
+ Jan/2010  
+HLR Course Huawei 2 weeks 12/2010 Course certificate 
+ 
+FOREIGN LANGUAGES  
+ 
+Language 
+ 
+Average 
+ 
+Fair 
+ 
+Good 
+ 
+Excellent 
+ 
+English           X              
+            
+ PC SKILLS  
+ 
+ 
+•  Window  
+•  Microsoft office 
+•  Linux, K8s, Docker 
+•  IIS, DNS, DHCP Server….  
+ 
+WORKING EXPERIENCES 
+1.  From 12/ 2004 to 10/ 2007 
+ 
+Company  Job title  From year to year
+
+Pham Thanh Tam                                                                                            Mobile phone:         
+Address: 4.06 A2a, Apartmentbuilding  III Bui Minh Truc, 5th ward, 8th Distric, HCMC 
+ 
+   
+  
+SPT HCM 
+ 
+Technical Engineer 
+ 
+From 12/2004 to 10/2007 
+ 
+Describe the company: An ISP, Voice IP Telephone Services provider. 
+ 
+ 
+Main duties:  Managing Cisco equipment and power equipment; did test for Voice Ip network;  installing Cisco 
+equipments, DSLAM of Ericsson, Paradyn, Zyxel and some 34M national transmission channels. Developing 
+Lease-line system.  
+ 
+ 
+Achievements:  Established ADSL system using Zyxel, Paradyne  and Ericsson’s DSLAM and some 34M 
+national transmission channels. Receiving much experiences from work. 
+ 
+ 
+2.  From Oct. 2007 to Nov. 2009 
+ 
+Company 
+ 
+Job title 
+ 
+From year to year 
+ 
+ 
+VNPT-NEC Telecommunication 
+System Co., LTD 
+ 
+ 
+Technical Division 
+ 
+From Oct. 2007 to Nov. 2009 
+ 
+Describe the company: A vendor, provides PSTN Exchange (Neax 61 Sigma), Microwave (Paso link) equipments 
+in Viet Nam. 
+ 
+ 
+Main duties:  To be in charge of technical supporting for some Provincial Telecoms using PSTN Neax 61 Sigma 
+Exchange equipment. Doing periodic and industrial O&M. PM for some M obile phone’s Microwave ( Pasolink 
+equipment) project. 
+ 
+ 
+Achievements:  
+- Completed many projects for the company. 
+- Stronge knowledge in PSTN Switching.  
+ 
+ 
+ 
+3.  From :Nov. 2009 to 3.2022 
+ 
+ 
+Company 
+ 
+Job title 
+ 
+From Nov.2009 to now 
+ 
+ 
+Gmobile ( Beeline Vietnam ) 
+ 
+ 
+Circuit Switch core Sr. Engineer 
+ 
+From :Nov. 2009 to now 
+ 
+Describe the company: A mobile telephone operator  which trade mark is Gmobile
+
+Pham Thanh Tam                                                                                            Mobile phone:         
+Address: 4.06 A2a, Apartmentbuilding  III Bui Minh Truc, 5th ward, 8th Distric, HCMC 
+ 
+ 
+Main duties:   
+- Make data, execute data on some network nodes such as : Ericsson SGSN, GGSN;  and  other node such 
+as Ericsson MSC, Media Gateway  and Huawei HLR.  
+- Did O&M on Core system such as monitoring alarm, troubleshooting for finding out root cause to correct 
+error, - using Wire shark software for tracing call, filtering SS7 message of a call flow.  
+- Resolve Trouble Tickets sent from CS. 
+ 
+ 
+Achievements:  
+- Completed many tasks for the company.  
+- Stronge knowledge in SS7, call flow, troubleshooting, call tracing and Ci rcuit Switch of MSC 
+Ericsson system. 
+ 
+ 
+ 
+ 
+4.  From 3.2022 to Now 
+ 
+Company 
+ 
+Job title 
+ 
+1.  From 3.2022 to Now 
+ 
+ 
+TMA solution 
+ 
+ 
+IT sernior Engineer 
+ 
+1.  From 3.2022 to Now 
+ 
+ 
+Describe the company: TMA Solution s  
+ 
+Main duties:   
+- Deploy Common Service Platform  
+- Deploy Docker on Linux system 
+- Deploy K8s cluster on Common Service Platform system to test 
+- Deploy VMwares on GCP enviroment to test 
+- Deploy K8s on GCP enviroment to test 
+- Work with foreign customer to resolve all issues on system 
+- Testing testcases of many softwares of Voip system. 
+- Writing testcases following Epic 
+- Update testcase on Zephyr. 
+- Create jira if there is any bug 
+- Using many tools to analyse log file to find out root cause of a bug. 
+- Co -operated with Dev team to check and analyse a bug  
+ 
+Achievements:  
+ 
+- Deployed many Voip systems of different Sprint 
+- Test all testcases of many software of Voip system. 
+- Have knowledge about Linux, Docker, Kubernet… 
+ 
+ 
+ 
+ 
+CHARACTERISTICS  
+ 
+Strengths:  
+- I have ability do independent working or in 
+group.  
+Weaknesses:  
+- It is use reasoning to protect my view. 
+- I often ask someone to do with high sense of
+
+Pham Thanh Tam                                                                                            Mobile phone:         
+Address: 4.06 A2a, Apartmentbuilding  III Bui Minh Truc, 5th ward, 8th Distric, HCMC 
+ 
+- I  have a sense of responsibility 
+- I am good at communication 
+- I have ability to acquire knowledge and to use 
+it quickly. 
+- Good in workgroup 
+ 
+responsibility for person and group. 
+ 
+ 
+ 
+ 
+ 
+          (Signature) 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                  Pham Thanh Tam

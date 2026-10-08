@@ -1,0 +1,80 @@
+KIỀU GIA HUY  
+Junior Flutter
+ 1998
+ Male
+
+
+ Q7 - Hồ Chí Minh City, Vietnam
+
+SKILLS
+Dart
+OOP
+Flutter
+Bloc/Provider
+App distribution
+Git/Github/Sourcetree
+Postman
+RESTful API
+Nodejs, ExpressJS
+MongoDB, mongoose
+OBJECTIVE
+Graduated with a major in software engineering from Lac Hong University. Over 3 years of
+experience in learning and researching Flutter. Good knowledge of Dart, Nodejs
+programming languages. In addition, I also have skills such as OOP, BloC, Git, Github,
+Sourcetree, UI/UX, the ability to learn quickly, solve complex problems, work well in a
+team,... I would like to develop my career with this position. Mobile programmers in order
+to maximize their own capabilities and improve their work knowledge. I want to become a
+mobile project manager.
+2017 - 2021
+EDUCATION
+LẠC HỒNG UNIVERSITY  |  Bachelor of Information Technology
+Mobile Application Developer
+03/2023 - PRESENT
+10/2022 - 02/2023
+08/2021 - 09/2022
+EXPERIENCE
+ABA COOLTRANS  |  Mobile Application Developer
+I develop internal applications for the company. Includes 3 applications, in there: 
+ABA Customer: provides features for customers such as inventory tracking, trip
+itineraries,...
+ABA Smarter: provides features for internal employees in the company such as
+timekeeping, leave, viewing revenue, inventory, proposals,...
+ABA Delivery: provides features for delivery staff such as trip itinerary, map, delivery
+conﬁrmation,...
+In addition, I also maintain and customize the WCS application for warehouse operations
+(eg: sorting product, QR Code/barcode scanning, label printing,...) by Java 
+ 
+For more details:
+CMC SAIGON TECHNOLOGY AND SOLUTION COMPANY LIMITED (CMC TSSG)  |  Mobile
+Application Developer
+- Maintain and develop new features for small and medium business management
+software. 
+- Link app:
+hl=en 
+CÔNG TY CỔ PHẦN TIẾN BỘ SÀI GÒN (ASCVN)  |  Mobile Application Developer
+- With my team develop ASC SCHOOL app. Application of educational solutions for all levels
+such as preschool, elementary school, junior high school, high school 
+- Link app:
+PROJECT
+ASC SCHOOL (09/2021 - 09/2022) 
+About: Parent, student and school communication portal for preschools, elementary
+schools, middle schools and high schools.
+inskynet/
+
+English
+Ability to learning
+Firebase
+HOBBY
+Travel Cooking Swimming
+Link app:
+Online Shop (graduation thesis) (03/2021 - 08/2021) 
+About: Online Shop is e-commerce application. Users use to buy and sell.
+Fontend: Dart, Flutter, Firebase, Stripe
+Backend: NodeJs, MongoDB, Mongoose
+Demo:
+Hotel Management (06/2020 - 09/2020) 
+Demo:
+ 
+le/d/14BZjup4MJpBs-1exjRuYBSHvJtxwzaAq/view?
+usp=sharing
+© topcv.vn

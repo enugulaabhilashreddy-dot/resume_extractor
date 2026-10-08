@@ -1,0 +1,76 @@
+Work Experience
+Contact Info
+Relevant Skills
+Thu Duc City, Ho Chi Minh
+City
+Programming languages:
+C, C++, C#, ... 
+Computer Networking,
+Software Requirement,
+SW Quality Assurance &
+Testing, Technical
+Support, … 
+Databases: MS SQL
+Server
+Soft skill: Working in
+group, Communication in
+business, … 
+English: Intermediate 
+Japanese: N5
+Education History
+ FPT University Vietnam
+(09/2010 - 05/2014)
+Major: Software Engineer
+Lead a team to improve source code C for
+client.
+Develop test scripts accurately by VBA, C#,
+Batch Script languages.
+Create design document, test cases fully and
+adequately.
+Use tool testing WinAMS, CasePlayer2.
+Set up test environment.
+Cooperate with other team members in all
+related developing and testing activities.
+Solve problems related to developing and
+testing activities.
+Backend system for Web Application with
+MVC model or Application with WinForm by
+C#.
+Participate in system design and analysis
+process. 
+Develop ideas for new programs, products, or
+features by monitoring industry developments
+and trends.
+Research and apply new technologies to
+optimize the efficiency of product
+development.
+Project: Salary management system, web sales
+system, …
+Troubleshoot problems related to computers,
+software, network equipment, and transmission
+lines in the company. 
+Identify, diagnose and solve problems for
+personal computer users' requirements,
+computer software and hardware, network,
+and Internet. 
+Provides end-user installation and
+configuration support for desktop software.
+GLOBAL EQUIPMENT SERVICES (GES)
+01/2019 - Present       
+Software Engineer II 
+HISOFT 
+02/2017 - 12/2018       
+Back-end developer 
+DUY DUC ELECTRICAL EQUIPMENT
+INCORPORATION 
+11/2014 - 10/2016       
+IT Systems Support
+TRAN DAI DUONG 
+Software Engineer
+
+Personal Information 
+Full name: Tran Dai Duong 
+Date of birth: 16/08/1992 
+Marital status: Single 
+Hobbies: Reading, traveling, music,
+research about technology, ...

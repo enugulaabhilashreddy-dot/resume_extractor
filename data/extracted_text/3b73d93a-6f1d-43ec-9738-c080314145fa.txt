@@ -1,0 +1,174 @@
+Curriculum Vitae  
+  
+1. Surname  : Trác Hoàng Tiến Dũng     (male) 
+               
+2. Date of Birth:  16/1/1985 
+  
+3. Position applied for  : Senior/Team Leader/Solution Architect 
+ 
+4. Address: 143/68/5 Phan Anh, P.Bình Trị Đông, Q.Bình Tân 
+  
+5. Phone number (Day)  : 
+  
+6. Email address  : 
+  
+7. Non Smoker  
+  
+8. Heath: good 
+ 
+9. Hobbies: Playing football, listening music , watching film, games. 
+  
+10. Education (most recent first)  
+  
+From Date  To Date  Institution  Location  Qualification(s)  
+Achieved  
+September20 
+03 
+March200 
+8 
+University of 
+Science  
+227 Nguyen Van 
+Cu, District 5, 
+HCMC  
+bachelor  
+  
+  
+11. Languages spoken and to what level? (e.g. basic conversational, fluent 
+written and spoken)  
+  
+Language  
+ 
+Read (/10) 
+ 
+Written (/10) 
+ 
+Spoken  (/10) 
+ 
+ 
+English  
+ 
+6 
+ 
+6 
+ 
+4 
+  
+12. Relevant Skills  
+               
+- Good PHP, mysql, sql Server, mongodb, postgresql 
+- Good Nodejs ( webpack, gulp, reactjs, redux, nextjs, nestjs ) 
+- Good Restful, GraphQL, GRPC 
+- Good jquery, bootstrap 
+- Knowledge HTML 5, Css/Sass/Scss/Less 
+- Knowledge Golang (framework beego)
+
+- Good CMS(opencart, cscart, wordpress) - write addons, plugin, themes  
+- Good Framework (Codeigniter, Smarty, Laravel, Cakephp) 
+- Knowledge Rabbitmq, Search engines (Elastic Search, Solr), Redis, Kafka 
+- Knowledge microservices, docker 
+- Experienced Web security, SEO, ecommerce website, high load website 
+- Skills solve problems 
+- Have the ability to work in groups, or individuals 
+- Willing to work under pressure and make positive contributions to the team 
+- Ability to think independently, work in team or independently 
+  
+13. Work History 
+ 
+a) TAT CORP 
+ 
+From Date  To Date  Company / 
+Institution  
+Location  
+September 2020  now  TAT corp  Thu Duc city  
+ 
+- Develop marketplace  (b2c & b2b) 
+- Support Technical (research & instruct team members on new techniques, 
+support resolve the problems logically to do product features) 
+- R&D new technology to apply on system 
+- Website optimization was over 90 points allow google pagespeed 
+- Built system search engine Elasticsearch 
+- Develop  
+  
+ 
+b) Line Việt Nam 
+ 
+From Date  To Date  Company / 
+Institution  
+Location  
+August 2018  September 2020  Line Vi ệt Nam  District 1  
+ 
+ 
+- Optimized web system (database Mysql structure, Redis structu re, load balancer) 
+- Support Technical (research & instruct team members on new techniques, support 
+resolve the problems logically to do product features) 
+- R&D new technology to apply on system 
+- Built system search engine Elasticsearch to use search post a nd comment 
+ 
+- Built system Queue by Redis queue to insert post and com ment 
+- The website can accommodate 100.000 CCU  
+ 
+b)  Nguyễn Kim company
+
+From Date  To Date  Company / 
+Institution  
+Location  
+December 2015  August 2018  Nguy ễn Kim  District 1   
+ 
+- Develop & manage shopping cart & marketplace  and 
+- Optimized web system (database Mysql structure, Mongodb st ructure,  Redis 
+structure, load balancer) 
+- Support Technical (research & instruct team members on new techniques, support 
+resolve the problems logically to do product features) 
+- R&D new technology to apply on system 
+- Connect system ERP <=> WEB (synchronization price’ local, product code, 
+promotions from ERP to WEB and synchronization order info from web to ERP) 
+- Built system search engine Elasticsearch to use search product   
+- Built satellite site to support SEO 
+- Built order management system and planning page manag ement system 
+- The website can accommodate 10.000 CCU 
+- Website optimization was over 90 points allow google pagespeed  
+ 
+c) Viễn Thông A company  
+ 
+ 
+ 
+From Date  To Date  Company / 
+Institution  
+Location  
+January 2011  November 2015  Viễn Thông A  District 10   
+ 
+- Position Team leader 
+- Develop ecommerce website  
+- Sync data ERP to system website  
+ 
+ 
+d) Vietdragons company  
+ 
+ 
+From Date  To Date  Company / 
+Institution  
+Location  
+May 2008  December 2010  Vietdragons  District 3   
+ 
+Project completed: 
+ 
+- 
+- 
+- 
+-
+
+- 
+- 
+- 
+- 
+- 
+- 
+-  
+-  
+ 
+14. Others  
+ 
+∙       An open mind, being willing and prepared to learn from each others  
+∙       Career ambition, a limitless desire to prove myself better. 
+∙       Get along well with people around

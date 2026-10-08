@@ -1,0 +1,115 @@
+PROFILE 
+Experienced Business Analyst with a 
+demonstrated history of working in 
+Health Information System (HIS). Skilled in 
+Customer Service, Software System 
+Analysis, Databases, System Architecture 
+and Training. Strong research 
+professional with a Master of Science 
+( ) focused in Computer and 
+I ation Systems from Assumption 
+University. 
+ 
+CONTACT 
+PHONE: 
+ 
+ 
+ 
+SKILLS 
+ 
+System Analysis and Design. 
+ 
+Operation systems: Windows, Mac, Linux.  
+ 
+Virtualization: VMware, Citrix Xen 
+ 
+Database: MS SQL, MySQL, Mongo DB. 
+Core Network. 
+Communication and Negotiation Skills. 
+Teamwork. 
+Deadline Control. 
+NGUYEN NGOC 
+HOA 
+IT Manager 
+EDUCATION 
+ 
+Assumption University of Thailand (ABAC) 
+Master of Science Computer Information Systems (2007). 
+ 
+Ho Chi Minh University of Foreign Language and Information Technology 
+(HUFLIT) 
+Bachelor of Science Computer Information Systems (2005). 
+ 
+WORK EXPERIENCE 
+ 
+[Bernard Healthcare] [IT Manager] 
+November 2021 to present 
+• Responsible to ensure the operational level of ALL IT and communication 
+equipment and systems in Clinic, implementing and maintaining clinic 
+policies regarding IT Security (ISO 27001), Backup (Veeam) and 
+infrastructure Purchasing, support the company to keep usability
+capabilities. 
+• System architecture for 2 clinics (HIS, RIS, PACS, LIS, CRM, Patient portal, 
+Disaster Recovery Site …) 
+• Manage product backlog. 
+• Consulting ROI, costs and risk. 
+• Contact point with the vendor. 
+ 
+[Gugotech Corp] [Business Analyst] 
+July 2021 to November 2021 
+• System analysis and design for Clinic Information System and Booking 
+online. 
+ 
+[Lac Viet Computing Corp] [Senior Business Analyst] 
+October 2018 to May 2021 
+• System analysis and design for Health Information System (HIS), Laboratory 
+Information System (LIS), Radiology Information System (RIS), 
+Personal Health Record (PHR) & Healthcare Big Data. 
+• Collected information form stakeholder and translated to technical team. 
+• Created UX and prototype for web and mobile. 
+• Technical research and protocol (HL7 FHIR, ASTM, DICOM, LOINC, SOP…). 
+• UAT support, training and dealing change requests. 
+• IT Infrastructure Consulting. 
+• Digital Transformation Consulting 
+• Pre Sales 
+ 
+[Family Medical Practice] [Clinic IT Manager] 
+November 2011 to August 2018 
+• Responsible to ensure the operational level of ALL IT and communication
+
+equipment and systems in Clinic (hardware, software, domains, VOIP, PBX 
+and Video conference), implementing and maintaining clinic policies 
+regarding IT Security, License, Backup and infrastructure Purchasing, 
+support the company to keep 24/7 usability capabilities. 
+• Contact point with the vendor. 
+• Computer’s network and intranet- Designing and developing. Developing 
+a maintenance plan (via internal resources and external contractors). 
+• Security solutions and Backup solutions for an EMR and financial software- 
+Designing, developing a maintenance plan (via internal resources and 
+external contractors) and developing from local to corporate level. 
+• Hardware and infrastructure for local and corporate network- tendering 
+and managing maintenance efforts (via internal resources and external 
+contractors). 
+• Software for the Medical information flow- Managing purchasing, 
+licensing and developing efforts to ensure the concept of a paperless 
+hospital (among them PACS, DR/CR, EMR, patients flow, financial etc. 
+• Telecommunication, VOIP and Video systems- Designing and developing, 
+tendering and purchasing efforts. Developing a maintenance plan (via 
+internal resources and external contractors). 
+• Integration of Low voltage and Medical communication systems ( labels 
+printers, barcode printers and readers, nurse call system, electronic 
+directions boards, queue managing displays, employees position control 
+etc.). 
+ 
+[Lam Quoc Ltd] [IT Manager] 
+January 2009 to November 2011 
+• Manage the company systems and handheld device. 
+• Analysis, design and implement the building core network and CCTV. 
+• Customer services. 
+ 
+[Military Information Technology Institute] [Assistant Research] 
+November 2007 to July 2008 
+• Applied research into information technology for military, air traffic 
+manages, alert systems, queue management systems, high buildings 
+control. 
+• Training and coaching military officers.

@@ -1,0 +1,119 @@
+ĐOÀN PHƯƠNG 
+DUY
+CLOUD ENGINEER
+CONTACT
+Hà Đông - Hà Nội, Ha Dong, Ha Noi, 
+Vietnam
+BASIC INFORMATION
+Birthday 18/06/1991
+Nationality Vietnamese
+Maritality Single
+Gender Male
+LANGUAGES
+English
+REFERENCES
+DO DUC DUNG
+Group Leader - Samsung Viet Nam 
+mobile R&D center
+NGUYEN HOANG LONG
+Project Manager - CMC 
+Telecommunication Infrastructure 
+Corporation
+SUMMARY
+1. Work Skills:
+5+ years working as Cloud Engineer on AWS
+1+ years working as Automation Testing
+1.1 Experience with Amazon Web Services such as:
+     •  Compute, Storage, Database, Networking:
+EC2—Virtual machines; ELB—Load balancers
+Lambda—Executing functions; S3—Object store
+EFS—Network Qlesystem; RDS—SvL databases
+VPC—Prizate network; CloudWatch—Monitoring and logging
+IAM—Restricting access to your cloud resources, AmaZon FSx Qle systems
+1.2 Experience with:
+     •  Linux OS, Windows serzer
+     •  Bash script,
+     •  Grafana, (abbix
+     •  Ansible
+     •  Nginx, 
+2. Oce3 Skills
+     •  Microsoft O)ce: Microsoft Word, Excel, PowerPoint
+     •  Make reports automatically using VBA script
+f. SotK Skills
+     •  Dynamic and creatize at work.
+     •  Work alone or in groups
+     •  Adapt work Kexible
+     •  Work in a high-pressure enzironment
+WORJ HISTORY
+Cloud Engineer 06/2015 - 03/2020 J4 years 10 monthsX
+Samsung Viet Nam mobile R&D center
+1. noih Kp3 SPP jro(3eK aSmusgh) jgsp jlmKtorud  Ko umhm)3 mhy 
+oj3rmK3 h3mrl5 10xx Lihgv s3rw3rs ow3r Kp3 borly oh Kp3 Pg'lie 
+Clogy aAWSd
+1.1 Tools used:
+     •  Chef, Ansible, Git
+     •  Elastic search, Logstash, ?ibana, SGMP for monitoring 
+     •  vuickBuild JCD tool of SamsungX
+1.2 Main jobs
+     •  System management and operation
+     •  Troubleshooting
+     •  Deploy new code zersion using Chef
+     •  System planning and implementation
+     •  Deploy monitoring solution: Prometheus + Grafana
+     •  Deploy logging solution : Elasticsearch + Logstash + ?ibana
+     •  Support customer on AWS cloud.
+     •  Write progress and outcome reports for each phase of the project
+     •  Design and propose solutions to improze system performance and 
+security
+     •  Write operating system manuals
+2. noih Kp3 eoujmh5/s ihK3rhml CI,CD aCohKihgogs IhK3)rmKioh@
+
+CohKihgogs D3liw3r5d jro(3eK
+1.1 Tools used:
+     •  =enkins, Ansible, Icinga, Grafana, Linux 
+1.2 Main jobs
+     •  Apply CI/CD
+     •  System planning and implementation
+Cloud Engineer 12/2021 - Current J9 monthsX
+CMC Telecommunication Infrastructure Corporation
+1. noih Kp3 BriK5 mhy Jhov M3ssm)3 jro(3eK oh Pg'lie Clogy AWS
+1.1 Tools used:
+     •  Windows serzer, Linux serzer
+     •  (abbix monitoring tool
+     •  AWS resource and serzices
+     •  Write VBA script for automated monthly report
+1.2 Main jobs
+     •  System management and operation
+     •  Monitoring & Troubleshooting
+     •  Resource management JCreate new, modify, 
+     •  Audit & Security check
+     •  Infrastructure management
+     •  Support customer on AWS cloud.
+     •  Write monthly reports of the project
+     •  Design and propose solutions to improze system performance and 
+security
+     •  Co-Working with customers
+     •  Write operation manual
+EDUCATION
+Information System 09/2010 - 02/2015 J4 years 6 monthsX
+Bachelors - Posts and Telecommunications Institute of Technology JPTITX
+     •  Graduated with Degree classiQcation: Good
+     •  Cisco CCNA certiQcation
+     •  MCSA certiQcate from Technet center
+SJILLS
+Linux
+AWS Serzices
+CCNA
+Solution Architecture
+AmaZon AWS
+Networking Technology
+Report Writing
+Microsoft O)ce Skill
+Bash Shell
+
+Monitoring System
+Operating System
+CERTIFICATIONS
+CCNA 2017
+Cisco
+D-UGoESuspTsharing

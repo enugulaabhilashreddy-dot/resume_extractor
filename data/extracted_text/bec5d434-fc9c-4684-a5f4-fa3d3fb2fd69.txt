@@ -1,0 +1,71 @@
+Pham Trung Kien 
+(17/10/1998) 
+Java-Developer 
+Education 
+Major in Information Technology  
+Ha Noi Open University 
+Languages and FW  
+• Java, JavaScript, SQL 
+• Spring boot, Spring MVC, Spring 
+Security, ReactJS, BootStrap 
+• SQL: MySQL, MS SQL, Oracle SQL 
+• NoSQL: Redis 
+ 
+Contact 
+Address: a Noi  
+Phone:     
+Email:    
+Languages: 
+- English 
+- Vietnamses 
+Hobbies 
+• Sports 
+• Games 
+ 
+Summary: 
+- Having the ability to work independently as well as work well with 
+teammates 
+- Would like to work with advanced backends and get deep at Java 
+programming 
+- Be willing to learn new technologies 
+Skills: 
+Knowledge 
+- Object-oriented Programming 
+- Java core (reactive and imperative paradigm), Unit test (Junit) 
+- Data Structures and Algorithms 
+- Monolithic and micro-services architecture 
+- RESTful Apis, JWT, Postman 
+- ORM, Message queue – Kafka 
+- Web real-time communication, peer-to-peer connection 
+- Maven, Git - Git flow, Jhipster 
+- Teamwork 
+Additional skill 
+- Docker  
+- Kubernetes 
+- Basic CI/CD (Jenkins) 
+English 
+- Can use English well in researching and reading documents  
+- Good at reading and writing  
+- Having the ability to work in English environments. 
+Experiences: 
+AladinTech Oct/2020 - Nov/2021(1 year, 1 month) 
+Address: HH1 Meco Complex, 102 Truong Chinh, Phuong, Dong Da, 
+Hanoi 
+Job title: Java-Developer  
+Responsibility: 
+• Write clean and maintainable code 
+• Work with BAs, Testers during product development and 
+testing 
+• Maintaining high-quality project and software design 
+documentation. 
+Viettel Cyberspace Center Dec/2021 – Now (8 months) 
+Address: Vietnam National Innovation Center Building, No. 7 Ton That 
+Thuyet Street, Cau Giay District, Ha Noi City, Vietnam. 
+Job title: Java-Developer 
+Responsibility: 
+• Design, build and maintain efficient, reusable, and reliable 
+Java code 
+• Design, develop, and test APIs. 
+• Ensure the best possible performance, quality, and 
+responsiveness of the applications 
+• Maintain code quality, organization, and automatization

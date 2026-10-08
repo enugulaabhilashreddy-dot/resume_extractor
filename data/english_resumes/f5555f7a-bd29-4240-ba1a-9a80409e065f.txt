@@ -1,0 +1,96 @@
+Pham Kim Long 
+Fullstack Developer 
+CONTACT 
+  + 
+  
+ Binh Tan District, Ho Chi Minh City 
+ 
+ 
+•  
+WORK EXPERIENCES: 
+10/2017 to 01/2022: Technical Consultant at TRUECOMERCE 
+DICENTRAL VIETNAM 
+• Collaborating with the business analyst (BA) team to 
+analyze client requirements, provide support and 
+consultation for customization of functions and reports. 
+• Ultilized MUI – Material UI for the customize UI – User 
+interface and development plugin and workflow 
+D365(Dynamic 365 CRM). 
+• Create and deployment API Service: Call center (Avaya), 
+sent sms (eSMS) and migration data with Microsoft D365 
+FO and Dynamic AX. 
+• Deployment, and unit testing of functions, maintainance 
+and providing feedback to the BA team. 
+10/2016 to 10/2017: Fresher Developer at POUYUEN VIETNAM 
+• Working on a web application project. Proficient in 
+ and MVC framework for deploying B2B and B2C 
+systems. 
+• Maintain and deploy the data entry system with 
+updates. 
+• Assisting the team leader in identifying and resolving 
+issues in the entry system. 
+ 
+ 
+ 
+ 
+TECHNICAL STACKS: 
+- Programiming skills: HTML5, Javascript,Jquery 
+framework, CSS, Bootstrap framework, Materital 
+UI ,ReactJS, C#, SQL Server, , knowledge 
+ Core, D365 CRM  
+- Deployment IIS – internet information services. 
+- Control source code with Git, TFS – team 
+foudation service. 
+ 
+ 
+EDUCATION 
+2014 - 2016: Ho Chi Minh City Technical And 
+Economic College - HOTEC 
+Major : Information Technology Specialized 
+Software Develope 
+ 
+SUMMARY: 
+- Experienced as Full-Stack Developer with 4+ years’ 
+experience in Website Development and Dynamics 
+365 CRM.
+
+PROJECT EXPERIENCES: 
+• Project Freelancer: Predict students at VUS. 
+- Analyze and build reports based on data set to predict students about to drop out of school. 
+- Technology : SQL server 2017, Azure Synapse, Analyst Services . 
+- Tool: SSIS, SSAS, SQL Server 2017, Visual studio 2017, C#, Power BI. 
+ 
+• Project: Ewarranty Web at TRUECOMERCE DICENTRAL VIETNAM. 
+- Managing communication customer service people and customer. 
+- Technology : ReactJS, API’s Zalo OA (Zalo Official Account), Javascript, HTML, CSS responsive. 
+- Tool: Visual studio 2017, Team Explorer for TFS 2017. 
+ 
+• Project: NOVALAND at TRUECOMERCE DICENTRAL VIETNAM. 
+- Creating Sales Web UI. Building API for new feature, working with API (eSMS) sent OTP/SMS to customer, 
+import customer list, synce data from other database by API. 
+- Technology :D365 – CRM, workflow CRM, plugin CRM, Jquery, Javascript, HTML, CSS responsive. 
+- Tool: CRM Dynamic 365, Visual studio 2017, Plugin Registration Tool, Ribbon WorkBench. 
+ 
+• Project: Attention Time at TRUECOMERCE DICENTRAL VIETNAM. 
+- Managing employee information and checking work time of all of employee. Sync data from single access 
+database file from other system. My Responsibility is creating a web application with some feature include: 
+time tracking slide, view chart, view and export report. 
+- Technology : Web MVC, Entity framework 4.5, C#, Jquery, Javascript, Bootstrap, CSS, Responsive, SignalR, 
+Webservice, Repository design pattern. 
+- Tool: SQL server 2017, Visual studio 2017, Team Explorer for TFS 2017. 
+ 
+• Project: Service Order Management at TRUECOMERCE DICENTRAL VIETNAM. 
+- It is a web portal base on interacting with Dynamic 365. Daikin is a partner company with with the large data. 
+Currently this company has two systems both CRM and AX dynamic but they are difficult to maintain and scale  
+add new functions. so our responsibility is to create a portal with mvc pattern, it can manage some functions 
+required by the customer and must base on the data of AX and CRM Dynamic Systems. 
+- Technology : Web MVC, Entity framework 4.5, C#, Jquery, Javascript, Bootstrap, CSS, Responsive, Webservice, 
+Repository design pattern. 
+- Tool: SQL server 2017, Visual studio 2017, Team Explorer for TFS 2017. 
+ 
+• Project: FWD at TRUECOMERCE DICENTRAL VIETNAM. 
+- Creating call customer list and opportunity, Sent OTP, Import customer list, Export phone call list, Synce data 
+from other database by API. 
+- Technology : D365 – CRM (on-primes), Workflow CRM, Plugin CRM, Avaya, Jquery, Javascript, HTML, CSS 
+Responsive. 
+- Tool: CRM Dynamic 365, Visual studio 2017, Plugin Registration Tool, Ribbon WorkBench.

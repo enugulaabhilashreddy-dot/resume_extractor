@@ -1,0 +1,111 @@
+/
+ 
+PHẠM DUY PHƯƠNG
+
+ 
+Chuyên Viên Quản Trị Hệ Thống (System Admin Aix, Linux)
+Nam
+A6 TT Nam Đồng Nam Đồng Đống Đa Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+ận hành tốt hệ thống *Nix và các hệ thống liên quan 
+(Lưu trữ, backup v..v..)
+- Nghiên cứu chuyển sâu các giáp pháp Cloud : Azure và 
+Amazon
+- Tiếp tục nghiên cứu các giáp Devsecops
+KỸ NĂNG
+Kỹ năng chính:
+Kỹ năng khác:
+Triển khai và vận hành hệ thống *nix, 
+Storage, sanswitch, Tape và các phần mềm backup (Hp 
+Dataprotector, Veritas Netbackup)
+Có khả năng tư duy
+NGƯỜI LIÊN HỆ
+- Công ty:
+- Họ và tên:
+- Số điện thoại:
+- Chức vụ:
+- Công ty:
+- Họ và tên:
+- Số điện thoại:
+- Chức vụ:
+Công ty Cổ phần Dịch vụ Công nghệ Tin Học 
+HPT
+Trương Thành Long
+Team leader
+Ngân hàng TMCP Sài Gòn - Hà Nội
+Nguyễn Tuấn Anh
+Team leader
+TIN HỌC
+Word     Excel    
+Powerpoint     Outlook    
+Nghe     Nói    
+Đọc     Viết    
+TIẾNG ANH
+KINH NGHIỆM LÀM VIỆC
+ 
+ 
+Mô tả:
+Thành tích đạt được:
+ 
+ 
+Mô tả:
+Thành tích đạt được:
+Công ty Cổ phần Dịch vụ Công nghệ Tin Học HPT
+Kỹ sư giải pháp hệ thống
+- Triển khai các dự án đến mảng giải pháp hệ thống
+- Viết thầu liên quan các thiết bị của hệ thống
+- Chạy BoM các hãng HPE, DELL, LENOVO, IBM
+- Đi tư vấn và viết Proposal về mảng hệ thống
+Kinh nghiệm làm việc trong lĩnh vực Công nghệ thông tin:
+- Có kiến thức về Linux , Solaris , POWER VM.
+- Có kiến thức cơ bản về Oracle DataBase.
+- Có kỹ năng làm việc nhóm.
+- Có kiến thức tư vấn các giải pháp về hệ thống 
+Một số dự án tiểu biểu đã triển khai:
+Triển khai hệ thống máy chủ DELL R930 và hệ thống ảo hóa vmware 
+cho Bộ Tài Chính.
+Triển khai hệ thống ảo hóa Vmware và Oracle Sparc, Oracle Exalytic 
+cho Kho Bạc Nhà Nước
+Triển khai hệ thống HPE C7000 + Storage HPE 8400 cho Tổng công 
+ty trực thăng miền bắc
+Triển khai Tape ESL G3 và phần mềm HPE Dataprotector cho Viettel. 
+Nâng cấp hệ thống vmware (vsphere và vcenter ), triển khai vmware 
+SRM cho Maritime Bank
+Triên khai hệ thống Software IBM BPM , ECM , Datacap cho 
+Vietcombank
+Một vài dự án làm việc với SHB (Nâng cấp HMC , Nâng cấp hệ 
+thống AIX DR của corebank, ...)
+Công ty CP Ứng dụng Phần mềm Mobio Việt Nam
+IT Admin
+- Hỗ trợ người dùng trong Công ty,
+- Hô trợ đội DEV xây dựng hệ thống (Nginx, ELK Stack, Docker 
+Compose, Monitor v.. v...)
+- Hiểu biết khái niệm cơ bản về devops v...v...
+HỌC VẤN
+ 
+Chuyên ngành:  
+Bằng cấp:  
+Tốt nghiệp loại:  
+Học Viện Kĩ Thuật Quân Sự
+Công Nghệ Thông Tin
+Kỹ Sư
+Trung bình khá
+
+Mô tả:
+Thành tích đạt được:
+Ngân hàng TMCP Sài Gòn - Hà Nội
+Chuyên viên - Ban Quản trị máy chủ và thiết bị lưu trữ - Phòng Hạ 
+tầng - Khối CNTT
+- Vận hành và quản trị hệ thống *nix
+- Vận hành và quản trị hệ thống (San, Sanwitch, Tape, software 
+backup)
+- Vận hành và quản trị hệ thống VMware.
+- Vận hành và quản trị Clous AWS.
+- Nghiên cứu và triển khai thử nghiệm mảng DEVOPS.
+- Có Kiến thức về DevOps : Kubernetes , Ansible, ELK Stack, Git, 
+CI/CD, Prometheus & Grafana
+- Có Kiến thức về cloud : AWS, GCP...
+- Hiểu biết quy trình trong ngân hàng, quản trị và vận hành hệ thống 
+*Nix, Storage, Sanswitch, Tape, và phần mềm backup.
+SỞ THÍCH
+- Đọc sách và thể dục thể thao

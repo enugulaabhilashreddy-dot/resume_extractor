@@ -1,0 +1,164 @@
+HOANG NGUYEN  1 
+ 
+ RESUME  
+ 
+NGUYEN HUY HOAN 
+(1984) 
+ 
+256 Doan Van Bo, Ward 10, District 4, Ho Chi Minh City, Vietnam  
+/  
+  
+LANGUAGES MANAGEMENT SKILLS EXPERTISE 
+Vietnamese      Project      Cloud      
+English      Delivery      Infrastructure      
+ Time      Database      
+Risk      Application      
+ SUMMARY  
+- Working experience for business: Application Development, Service provider  (Telecom & Cloud 
+Computing), Distributor of IT products, systems integration (SI) units, Retail, supermarkets and Teacher of 
+Information Technology 
+- Experiencedin the field of consulting:  
+o Application Development: Workflow Digital, Digital Workspace, Business Suite Application. 
+o ERP & CRM  Software (Development & Manage): Odoo, Acumatica (ERP on Cloud), SharePoint, 
+Microsoft 365. 
+o Application (Deploy & Manage): Web filtering, Data Loss Prevention (Infowatch) and Data digitization 
+(IBM ECM Datacap & Filenet, DocuWare). 
+o Cloud Computing: IaaS (VPS, vDC, Container Platform, Public Cloud, Private and Hybrid Cloud), SaaS, 
+BaaS, DRaaS and CDN Solution on service provider platforms as: Sao Bac Dau Telecom, Google Cloud 
+Platform, Microsoft Azure. 
+o Infrastructure for IT: Consulting and designing information technology infrastructure solutions: 
+Networking & Security  (Cisco, IBM, Juniper, Check Point, Fortigate, F5 …), Servers/HCI, Storage SAN, 
+NAS (IBM, HPE, Dell EMC, NetApp), VM infrastructure (VMware, Hyper-V). 
+- Experiencedin the field IT infrastructure management and exploitation of IT applications 
+- Projects implemented: 
+o Department of Finance Kien Giang : Improvement and upgrade the security system: IPS & IDS,  
+Integrate 2-factor authentication system for application platforms (2024) 
+o Department of Finance Kien Giang: Data digitization (DocuWare), Digital Workspace & Workflow (Self-
+developed Application) – (2022 – 2023) 
+o DRaaS (DR Site on Private Cloud) for ICT Tra Vinh (2020 – 2021) 
+o CDN (App and Payment) for Cap Thoat Nuoc Tra Vinh Joint Stock Company (2020) 
+o DRaaS (DR Site on Public Cloud) for University Of Medicine Pham Ngoc Thach (2020) 
+o Data digitization with IBM ECM (Datacap & Filenet): Phu Hung Life (2019)
+
+HOANG NGUYEN  2 
+ 
+o Network Infrastructure & Security for Sunlife Vietnam: Cisco (Router, Switch L2/L3), Riverbed 
+(Optimization WAN), Blue Cat DNS, IBM Qradar & IDS, Checkpoint Firewall, etc ... (2018) 
+o IT Outsourcing (Service Desk, ITSM): AEON Vietnam, Big-C Vietnam, AIA Vietnam, IBM Vietnam (2018 
+– 2019) 
+o Relocation Data Center and Switch Site: Big-C Vietnam, AIA Vietnam. (2017) 
+o Infrastructure of the MMS system (Saigon ): IBM System i (Server Production), IBM FlashSystem 
+900 (Storage System) etc … (2015-2017) 
+o Web filtering on the 3G mobile, FTTx, and entire network of Viettel Telecom (2012-2013) 
+ EXPERIENCE  
+Solution Consultant Manager 
+SAOBACDAU TELECOM SERVICE JOINT STOCK COMPANY   
+2020 – June 2024  
+- Consulting on cloud-based products of Sao Bac Dau Telecom as:  
+o Cloud Computing: Public, Private & Hybrid Cloud, Container Platform 
+o CDN: Livestream, News, E-learning 
+o Cloud Storage: Sbox (Cloud Storage), Easy Backup (BaaS) 
+o xPhone  (Cloud-based PBX), AI Camera, xCloudCam (Storage Platform for Camera) 
+- Consulting and designing information technology infrastructure solutions: 
+o Solution for DR Site (DRaaS): Orientation for customer about the infrastructure migration from on-
+premise  to cloud 
+o Solution for Renovations Infrastructure 
+- Manage and assign tasks to the staff, to ensure the operation of the following items:  
+o Consulting for telecommunication, Platform on Cloud and IT projects 
+o Support sales consulting and completing projects  
+o Learn and take exams the Certificate 
+Technical Manager 
+TSG SERVICE & TRADING  CO., LTD  
+2019 – 2020  
+- Manage and Support CRM and Workflow on base Microsoft SharePoint 
+- Responsible and develops the field of system integration and information technology solutions: 
+o Grow, take care and find potential customers 
+o Consulting and designing information technology infrastructure solutions: Networking & Security, 
+Servers/HCI, Storage (SAN, NAS), VM infrastructure, etc … 
+o Compile documents, proposal, BOM, Draw diagram, etc ... 
+o Solution presentation: IT Project and Cloud 
+- Consulting  Cloud Solutions: Product Service on Cloud, IaaS – Infra on Cloud, Cloud Migration, etc …
+
+HOANG NGUYEN  3 
+ 
+- Consulting Microsoft cloud solutions: Microsoft Azure, Office365 Business & Education 
+- Manage and assign tasks to the staff, to ensure the operation of the following items:  
+o IT Support for customer: License (Software), Software troubleshooting 
+o IT Outsourcing Services: IT Service Desk, ITSM, IT Operation 
+o Implementation services: VMware, Veritas, Veeam backup, PRTG Monitoring. 
+o Consulting and deploying systems for Cloud Solution and IT projects.  
+o Management of infrastructure and Application of TSG  Network Devices, Servers, Devices POC 
+(Demo for Project). 
+Technical Manager  
+Southern Technology Development Co., Ltd   
+2015 – 2019  
+- Organize, coordinate, assign responsibilities, ensure timely and effective work 
+- Manage and support ERP & CMR Software on base Odoo 
+- BID Consultancy: Consult for setting up the investment plan (how to choose a contractor), Build Bid 
+Documents, required documents  
+- Manage and assign tasks to the Leader, to ensure the operation of the following items:  
+o Consulting and deploying systems for telecommunication and IT projects.  
+o Implement and supervise all activities of the project  
+o Putting together cost estimates, human resource requirements, work plans and time schedules for IT 
+projects  
+o Identifying staff development and training needs and then putting together bespoke training packaged 
+for them.  
+o Management of infrastructure and Application: Network & Security Devices, Servers, VM 
+infrastructure, Application (ERP, DBA and the Services for infrastructure) 
+IT Manager 
+Chipsang & Ashmanov Co., Ltd   
+2012 – 2015  
+- Research and development of Web-filtering products according to the semantics in the Vietnam market 
+- Management of infrastructure and Application: Network & Security Devices, Servers, VM infrastructure, 
+Application, Database ... 
+- Manage, Support and Development of Web-filtering products 
+- Exploiting, implementing and managing projects: 
+o Web Filtering: Viettel Telecom 
+o DLP (Data loss prevention): Trial and Pilot
+
+HOANG NGUYEN  4 
+ 
+Senior Infrastructure Administrator  
+Nguyen Kim Jo int Stock Company  
+2011 – 2012  
+- Design and build infrastructure and Application (Store strings & Data Center) 
+- Deploy, Manage and Support ERP Software (Local IT Self-developed) 
+Head department, Lecturer Hardware and Network  
+iSPACE Vocational colleges , VNPro Training Center , Athena Training Center 
+2007 – 2011  
+- Teaching subjects: Hardware & Network Computer, Exam Certificate: CompTIA, MCSA, MCSE, CCNA 
+- Build & Manage application: Online examination system & E-Learning 
+ PROFESSIONAL SKILLS  
+- Have a sufficient level of technical expertise to be able to troubleshoot IT issues and effectively manage IT staff.  
+- Keeping up to date with latest trends and new technologies in the fields of software, hardware and also IT 
+Infrastructure.  
+- Ability to building good relationships with colleagues and other managers.  
+- Work independently and teamwork effectiveness. 
+ TECHNICAL SKILLS  
+Manage, monitor, deployment, maintenance and troubleshoot:  
+- ERP, CRM and Workflow  Software: Self-developed Application, Odoo, Acumatica (ERP on Cloud), SharePoint 
+(CRM & WorkFlow) 
+- Cloud & Application: Microsoft 365, Microsoft Dynamic, Microsoft Azure  (IaaS, PaaS), Google Cloud Platform 
+(IaaS, PaaS). 
+- Security: Firewall (Cisco ASA/FirePower, Check-Point, Fortinet), IPS/IDS (IBM Qrada). 
+- Database: SAP HANA, IBM DB2, MSSQL, Oracle. 
+- Networking: Switch L2/L3, Router, Optimization WAN, Wireless Controller  (Cisco, HPE/Aruba, Meraki, Unifi, 
+Riverbed) . 
+- Servers: Intel base x86, IBM Power System, VM Infrastructure (VMware & Hyper-V) 
+- Services Infrastructure: AD, DNS, DFS, Web Services, NFS, iSCSI … 
+- Storage: IBM (Storwize, FlashSystem), NetApp (FAS, E, All Flash), EMC (Unity, Isilon)  
+- Monitoring System: Zabbix (OpenSource), ManageEngine OPManager (Network & Servers Monitoring), 
+Solawinds (Network Performance Monitor, NetFlow Traffic Analyzer, Network Configuration Manager).
+
+HOANG NGUYEN  5 
+ 
+ EDUCATION  
+University | UNIVERSITY OF TECHNICAL EDUCATION HO CHI MINH CITY   
+2003 – 2008  
+Information Technology Engineer 
+Project Manager | FMIT International Consulting Training Corporation  
+TRAINING FOR A SHORT TIME  
+THE PROJECT MANAGEMENT INSTITUTE (PMI) 
+The Certification  
+PMP, IBM Enterprise Content Management, IBM Secirity QRadar, CCNP (Routing & Switching), CCIE Written, MCSA, 
+MCSE, MCSE Security, MCITP Enterprise, CEH, CompTIA A+, CompTIA Security+, CompTIA Pentest + …

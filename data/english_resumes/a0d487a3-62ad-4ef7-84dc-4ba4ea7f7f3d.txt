@@ -1,0 +1,274 @@
+APPLICATION FORM 
+To:  Board of Directors of the Company. 
+Human resouces department. 
+ 
+I apply for the position: IT Manager 
+Personal information 
+-  My name: Nguyen Dang Khoa Gender: Male. 
+-  Phone: ; E-mail: 
+-  Born on  : January 30, 1978.  
+-  Permanent residence:  81/8 Street – Thanh Xuan Ward – District 12 – HCM City. 
+Diplomas and certificates 
+University education. 
+-  I graduated from Polytechnic University in 2001 with a major in information technology. 
+-  I’m an Information Technology Engineer 
+-  I have studied through courses and Experience: CCNA, MCSE, SQL Server, .NET, Python, C#; 
+Java; C#, .NET framework, SQL server, Web programming, Office 365 Power Platform, 
+-  Certificate of ERP. 
+-  Foreign language: Certificate B in English issued by the University of Social Sciences. 
+-  Good communication in English , I am able to communicate and study English documents. 
+I have studied through specialized training courses and have successfully applied in the 
+Company  
+- Topic 1    :  Modern management. 
+- Topic 2    :  Cognitive thinking. 
+- Topic 3    :  Evaluate employee performance 
+- Topic 4    :  Assessing staff capacity. 
+- Topic 5    :  Control skills. 
+- Topic 6    :  Project management. 
+- Topic 7    :  Planning skills. 
+- Topic 8    : Total quality management (TQM). 
+- Topic 9    : Topic Kaizen. 
+- Topic 10  : Overall Performance Maintenance (TPM). 
+- Topic 11  : Organizational skills. 
+- Topic 12  : Decision making skills. 
+- Topic 13  : Managing the meeting. 
+- Topic 14  : Corporate Culture. 
+- Topic 15  : Practice 5 S. 
+Together with the Departments to deploy the evaluation system: AOL, OKR, ASK, KPI for employees, 
+implement ISO processes. 
+The skills learned and applied in management are as follows 
+- Team management and BODrdination skills 
+-  Presentation skills 
+-  Creative thinking skills, propose solutions 
+-  Problem-solving skills 
+- Time management skills 
+- Work arrangement skills 
+- Communication skills, instructions via phone, email 
+- And training options to support users, strengthen attack prevention. 
+- OS Microsoft Windows Server, Linux, VMWare, AIX, cloud computing (Cloud Computing) 
+- Knowledge of project management and implementation ISMS, ISO27001 
+- Knowledge of information security standards such as ISO27001 and information security 
+I have the following professional and managerial experience and skills 
+Software writing experience: 
+1. I have experience writing software using programming languages such as: Python; C#; PHP; ASP; 
+Netfreamwork; and database programming languages such as: SQL Server; MySQL.
+
+2. Some application software has been made for the company to use such as: Sales Management 
+Software; Import - Export - Inventory Management Software; Asset Management ; Employee 
+manager software;. 
+I made my own online sales websites using Wordpress; Joomla;  
+Experience in successful implementation and application, management and operation of ERP 
+systems 
+ERP – SAP A1 / SAP S4/HANA/ Clound 
+ERP – ORACLE -  EBS;  ORACLE Clound Fushions. 
+ERP –Dynamic AX / Dynamic 365; Navision ERP  
+Experience in successful implementation and application, management and operation of 
+application software systems 
+- Production management and operating software (MES): manafacturing excution system 
+- QR Code software 
+- Software Customer Relationship Managemnet; (CRM). 
+- Software Distribution Management System (DMS). 
+- Bitrix 24 online job management and administration software. 
+- The results achieved after successfully deploying and operating ERP software; DMS; CRM; 
+Office365; Bitrix24: achieved the following : 
+- Increase the working efficiency of each user and rooms throughout the Company 
+- Data of the correct modules; Update realtime reports. 
+- Optimizing selling expenses: such as revenue situation reports; production cost; operating and 
+management costs; 
+- Provide leaders of departments and Board of Directors with visual reports, correct and real-time 
+data for the Board of Directors to make timely decisions 
+Integrate and digitize data with software such as 
+- Write software tools that integrate (Application Programming Interface) with ERP; DMS; CRM; 
+QRCode; Electronic invoice (M-invoice) 
+- Design and develop Business reports; Accountant; Warehouse as revenue report; debt report; 
+Inventory report; Accounting reports and other reports as directed by the Board of Directors. 
+Automation and digitization software such as:  
+- Office Robot or RPA (robotic process automation) of Japan 
+- Management reporting software for the Board of Directors to view reports on business 
+performance; turnover; liabilities; as intuitive and instant as 
+- TableAU software; Business Intelligen; BO 
+Plan – Organize – Monitor – Implement: 
+Planning goals, strategic orientation of IT application in activities: Management, production, business 
+to create competitive advantage, increase revenue 
+Building solutions and implementing information systems, IT projects that meet current and scalability 
+5-10 years, including network systems, data servers. e-mail server for all users at the corporation and 
+its branches; factory 
+ Positions worked in companies 
+  I have experience as IT- ERP Manager for 18 years 
+Company name RDP Plastic ( Rang Dong Plastic)  Joint Stock Company  with Japan 
+scale of 01 corporation Head Office  in  Ho Chi Minh City  and 3 branches 4 
+factories at Long An Province  with the size of 6 servers and 400 clients 
+  Working period   2014 –   January , 2023 
+ Position IT - ERP Manager  
+Job description 
+Manage  Team IT  and Team ERP. 
+Managing Team Infrastructure and Network System 
+- Management and monitoring - evaluate the employees' performance according to the weekly 
+goals and plans; Check and evaluate the work report achieved for the week and work plan for 
+the next week. 
+- Check the management and operation of the network, servers, security devices, and scheduled 
+backup data; Ensure and prevent attacks of viruses, Hackers, prevent data loss. 
+- Strategic information technology application in management, production and business
+
+contribute to increase sales and development of the Company and its branches and factories. 
+- Protection of data security and confidentiality of corporations, data loss prevention. 
+- Prevention of virus attacks and hackers. 
+- Organize the training and training of all employees of the Company using information 
+technology and data protection and prevention skills. 
+- Organize the installation of open source operating systems such as: Linux - Lubuntu, Ubuntu, 
+Centos to reduce investment costs for the company, while improving skills for employees 
+throughout the company. 
+- Installing System Configuration on Win dows Server 2012, Domain, SQL Server 2012, Vsphere 
+Virtual Machine, Vcenter, DataCenter, NAS backup devices, Sophos firewall and Routers ... 
+handle the recovery of computer problems as well as network infrastructure. 
+- Vlan, Domain, AD, FTP server design. 
+- Enterprise Management Software 
+- Website management, Email system, Camera. 
+- user support ... 
+- Ability to work independently or in a good team 
+- There is a high sense of responsibility. 
+-  Have a passion for technology research. 
+- problem solving, analytical and programming skill 
+About network infrastructure 
+I designed drawings from the data center to each user location of 5 factories with a scale of about 
+500 users; 
+Get the following results 
+-   Drawing: optimal in length; optimized towing line; cost reduction 
+-   Wires in the factory are built into trunking and protective plastic pipes 
+-  The line goes outdoors, the thread goes into the PPF plastic pipe and goes underground; high 
+degree of protection. 
+When the company's staff size increases later: the system infrastructure is ready and responsive 
+without having to return or leave in 5 to 10 years 
+Install, configure, and manage security devices to prevent attacks, protect the network system and 
+company-wide data. 
+Cyberom equipment; Poloato; fortinet; cisco. 
+I list the systems that have done and have many years of experience in implementing large-scale 
+system infrastructure construction; as the model at the corporation to about 5 factories; 
+-  Wired and wireless network infrastructure system 
+-  Security Camera System – Surveillance 
+-  Fingerprint time attendance system - magnetic card 
+-  Entry and exit gate control system 
+-  Notification sound system for Offices and factories to communicate to employees 
+-  Internal telephone exchange system 
+-  Lightning protection system 
+-  Meal management system at the factory 
+-  System of data center rooms: including servers; security devices; data backup devices and 
+attack prevention devices. 
+ERP Team Management and Sofware 
+-  Management and monitoring - evaluate the employees' performance according to the weekly 
+goals and plans; check and evaluate the work report achieved in the week and the work plan 
+for the next week. 
+-  Manage, guide - train KeyUser team to guide End User users 
+- Participating in user input instructions. 
+- Check and monitor system operation; ensure stable system operation; for users to input 
+realtime data. 
+ Interact with ERP companies to regularly grasp the ERP Cloud maintenance plan and schedule; 
+ERP update of the company. 
+ERP Enterprise Management Software User Guide. 
+With modules: Finance, Accounting and Reporting (FICO), Maintenance Module (MM), Quality 
+Management (QM), Production Module (PP) and Human Resource Management (HR). 
+-   Collect and manage the product, customers and vendor mix list to
+
+prepare the product database and customer database (including product translation 
+into Vietnamese) 
+-   Lead data collection of all departments 
+-   Coordinate and support the launch of the ERP with users 
+-   Coordinate the deployment of E-Commerce with the  Digital Office 
+-   Create data infrastructure 
+-   Lead the data transfer of the current software into ERP software 
+-   Develop and manage a detailed project schedule and work plan 
+-   Provide project updates on a consistent basis to various stakeholders about 
+strategy, adjustments, and progress 
+-   Monitor progress and make adjustments as needed 
+-   Measure project performance to identify areas for improvement 
+-   Infrastructure and networks, servers, security. 
+-   Infrastructure and surveillance security equipment such as Camera. 
+-   Writing software and implementing instructions for users to use ERP; DMS; CRM; Bitrix 24; 
+QRcode; Office 365 
+Online Sales Department Manager: 
+Deploy for web-site designers: design web in accordance with modern technology, optimize  
+keywords to increase web traffic rankings. 
+- Develop product portfolio, develop and keep customers visiting the Web-site. 
+- Ensure booked revenue, and revenue growth according to plan and strategy. 
+  
+Company name PHONG PHU INTERNATIONAL MILL COMPANY (PHONG PHU TEXTILE 
+MACHINERY 
+Address: 48 Tang Nhon Phu Street, Tang Nhon Phu Ward, District 9, Ho Chi 
+Minh City 
+Working period   Form year :  2006  –  2014  
+Position IT Manager 
+Job description: 
+Strategic information technology application in management, production and business contribute to 
+increase sales and development of the Company and its branches and factories. 
+- Protection of data security and confidentiality of corporations, data loss prevention. 
+- Prevention of virus attacks and hackers. 
+- Organize the training and training of all employees of the Company using information technology 
+and data protection and prevention skills. 
+- Organize the installation of open source operating systems such as: Linux - Lubuntu, Ubuntu, 
+Centos to reduce investment costs for the company, while improving skills for employees 
+throughout the company. 
+Management of Inflated Information Technology 
+- IT department staff manager: Web-site programmer and design team, hardware team consisting 
+of 5 IT staffs at the corporation and 4 IT staffs at 5 branches. 
+- Management of the entire computer network including 3 servers and 500 clients, database 
+security. 
+- Web-site design e-commerce, image interface. 
+- Writing Application Management Software ... .. 
+- Repair and maintenance of computers, printers, .. installation of telephone switchboards, CCTV, 
+timekeeper. 
+ Deploy ERP software at the Corporation's offices and branches in such provinces as Ho Chi Minh 
+City, Long An, Da Nang and Hue. 
+- Manage IT staff and sales staff online 
+- Install, configure System Windown Server 2003, 2005, ISA Server, KasperSky ... 
+- Management of the entire computer network, database security. 
+- Web-site design e-commerce, image interface. 
+- Writing Application Management Software.
+
+- Repair and maintenance of computers, printers, .. installation of telephone switchboards, CCTV, 
+timekeeper. 
+- Installation of conference conferencing systems with foreign customers.. 
+ 
+Company name Medical Import Export Joint Stock Company HCMC ( YTECO) 
+  (The company specializes in distribution of medical equipment, tools, drugs, 
+... directly under the Health Department of Ho Chi Minh City) 
+Address: 181 Nguyen Dinh Chieu Street, Ward 6, District 3, Ho Chi Minh City. 
+Working period   Form year 2001 - 2005 
+Position Information Technology Engineer - Vice Director of Information 
+Technology 
+Job description: 
+- Deputy Head of Information Technology: Network Management and Staff Management in 
+the Company and 5 Branches. 
+- Install, configure, and administer Company-wide corporate networks and affiliates. 
+- Configure, secure network, mail Server, prevent Spam mail and hacker attacks. 
+- Writing software applications in the company: Material Management, Warehouse 
+Management using programming languages: VB, ACCESS with SQL Server 2000 
+database, 2003 .... 
+- Implement and guide the use of ERP software to each user in each room .. 
+- Manage IT staff and sales staff online 
+- Install, configure System Windown Server 2003, 2005, ISA Server, KasperSky ... 
+- Management of the entire computer network, database security. 
+- Web-site design e-commerce, image interface. 
+- Writing Application Management Software. 
+- Repair and maintenance of computers, printers, .. installation of telephone switchboards, 
+CCTV, timekeeper. 
+- Installation of conference conferencing systems with foreign customers.. 
+- Implement network system, wifi, data center 
+-  Automatic door control system, timekeeping. 
+- The canteen management system 
+- Installing, configuring the network system for the Company's corporate clients. Installed 
+Server 2003 Server and domain configuration, AD, 
+- Install and configure Mail Echange Server, Spam mail filter Trend micro .... 
+Installation of telephone exchange, security surveillance camera system, teleconferencing between the 
+corporation and branches and foreign customers. 
+Training user 
+Deploy training of application software for new users: on schedule and periodically. 
+advise and report to BOD 
+Report to the Board of Directors and advise the Board of Directors: solutions and information 
+technology application situation to optimize: business activities; production and management activities; 
+Update devices and solutions from companies such as: MicroSoft; SAP; ORACLE; DELL; HP, IBM, 
+BITRIX 24, ….to advise the Board of Directors in a timely manner. 
+If hired, I commit to strictly comply with the Company's rules and complete the assigned work. 
+       Thank and Best Regards !                                                                  
+                                                                                                                      Candidate 
+                                                                                        Signed 
+                                                                                            Nguyen Dang Khoa

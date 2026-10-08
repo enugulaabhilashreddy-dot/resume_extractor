@@ -1,0 +1,60 @@
+Le Van Hoang (Tony Le) - Software Engineer
+Phone: +  / Email: 
+ 
+SUMMARY
+    I'm Software Engineer with 3 years of experience in Drupal Web Development. With
+my knowledge of logic and thinking, I enjoy solving backend problems. I also spend
+time to learning new technologies and best practives to become a better engineer.
+TECHNICAL SKILLS
+Programming Languages: JavaScript, PHP 
+Drupal 8+
+Webpack
+Jquery, Bootstrap
+React Native, AngularJs, NodeJS
+Frameworks/Platforms:
+ 
+Database management Systems: MySQL, MongoDB 
+Experience in setting up Drupal, Solr Search, Git
+Migration content of Drupal 7 to Drupal 8+
+Others:
+PROFESSIONAL EXPERIENCE
+WeebPal (Vietnam) - Developer (07/2020 - now)
+Project: 4 members 10/2022 -  now
+Description: Provide recipes for cooking and related services
+Technologies: Drupal 9 with old content form third party
+Responsibilities:
+Research API of third party to migration data
+Following the strcuture migration of Drupal core  and research more
+Js and setup webpack for theme
+
+Project: 4 members 05/2021 - 08/2021
+Description: Provide advice to the Welsh Government on quality and standards in
+education and training in Wales
+Technologies: Drupal 9
+Responsibilities:
+Setting up Solr search
+Use module book of Drupal & alter with requirements
+Create function to auto generation PDF file of book (image, header, footer,
+font,...)
+Project: 6 members 11/2021 - 06/2022
+Description: Provides attractions and related information in the UK (multiple
+domains).  
+Technologies: Drupal 9
+Responsibilities:
+Using Component module from 
+Development functions 
+Create script auto deploy, which decrease 50% of the time deploy new
+functionality and styles.
+Project: 7 members 07/2022 - 10/2022
+Description: Service to book advertising on screens on the street
+Technologies: Drupal 9
+Responsibilities:
+Functionality to load google map
+Setup caching for large file calls from ajax api
+Other projects of WeebPal 07/2020 - 04/2021
+Project: 6 members 08/2021 - 10/2021
+Description: Website management for schools in Japan
+Technologies: Drupal 9
+Responsibilities:
+Create function to book class and survey form
+Js for mobile

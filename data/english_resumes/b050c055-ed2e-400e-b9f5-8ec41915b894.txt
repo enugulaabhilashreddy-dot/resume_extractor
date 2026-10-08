@@ -1,0 +1,56 @@
+Tran Quang An
+District 8, Ho Chi Minh, Vietnam
+ 
+Colleges FPT Polytechnic Tay Nguyen Oct 2012 - May 2015
+Cong ty Step Media Oct 2022 - Dec 2023
+AQ Group June 2020 - Sep 2022
+Cong ty co phan Medilog Nov 2018 - Jun 2020
+Proﬁcient with C#, .net core MVC, Web API, OOP,Design Pattern, HTML, CSS, bootstrap,
+JavaScript,Jquery, Ajax, XML, Json.
+Experienced with SQL server, stored procedure,view, linq to sql, Entity Framework, Git.
+EDUCATION
+Major:Software Technology
+GPA: 7.9/10
+WORK EXPERIENCE
+.Net Core Full-stack Developer
+Main responsibilities: 
+- Develop functions for the website 
+- Work with manager, QA team, implement task, ﬁx bug
+ 
+Technical Stacks: - .Net Core, ReactJs, LINQ to SQL, SQL server, Micro Service, Azue Function 
+ 
+Project Description:
+ - An accounting and auditing project, helping businesses manage revenue balance and accounting balance 
+.Net Core Full-stack Developer
+Main responsibilities: 
+- Build API for the system
+- Develop functions for the website
+- Work with customers to receive requests and clarify requirements
+ 
+Technical Stacks: 
+- .Net Core MVC, C#, OOP, Restful API, Javascript,Jquery, Ajax, Html, CSS, Bootstrap,LINQ to SQL, SQLserver,
+Azue, Micro Service, Window Service, RabitMQ, Payment Online 
+ 
+Project Description: 
+- is a booking platform, allowing users to book for hotels, restaurants, yachts...  Make it easier for
+customers to book and pay
+.Net Core Full-stack Developer
+Main responsibilities: 
+- Develop functions for the website 
+- Work with customers to receive requests and clarify requirements 
+- Design Database
+ 
+Technical Stacks: - .Net Core MVC, C#, OOP, Javascript, Jquery, Ajax, Html, CSS, Bootstrap,LINQ to SQL, SQL
+server 
+ 
+Project Description:
+ - is a website about freight, order management, customer management 
+SKILLS
+INTERESTS
+I like soccer, music..
+
+ADDITIONAL INFORMATION
+Enviroment:Young and dynamic working environment, sociable style, likeable colleagues 
+ 
+Orientation: do a permanent job and develop yourself
+©

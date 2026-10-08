@@ -1,0 +1,99 @@
+CAO DUC ANH - Mobile developer 
+Thu Duc City, HCM City    
+ 
+PROFESSIONAL SUMMARY 
+ 
+Experienced and dedicated mobile app developer offering more than 8 years of expertise to the IT industry. 
+Dynamic and personable with strong focus on application lifecycle. Strengths in Android native development and cross-platform 
+mobile development with React Native. 
+ 
+SKILLS 
+ 
+• Programming: 
+- Android (Kotlin/Java - 3 years) 
+- React Native (Javascript - 3 years) 
+- IOS (Swift/Objective C – 2 years) 
+- Flutter (1 year) 
+- C/C++ (2 years) 
+• Tools and Frameworks: 
+- Git, SVN 
+- Sketch, Zeplin, Figma, Marvelapp, Photoshop 
+- Confluence, Jira 
+ 
+PROFESSIONAL EXPERIENCE 
+ 
+SMARTPAY  
+Mobile developer 5/2021- 12/2023 
+● Developed e-wallet application in react native (Ví SmartPay).  
+- Built functions: QR payment, transaction history, loan, withdraw money from FE Credit card, increase income for 
+merchants… 
+- Used technical: Redux-Saga, React Navigation, Apisauce, React Native Firebase, Native module, Class component, 
+React hooks 
+● Developed card payment application in Kotlin for POS device (SmartPOS).  
+- Built functions: installment, insurance, link order, config White Label app, OPOS… 
+- Used technical: MVVM, MVP, Dagger, Coroutines, Retrofit, Databinding, Live data, MQTT 
+● Developed android libraries for SmartPay (Android SDK).  
+- SDK: Fema SDK - Java, Merchant Locator – Kotlin 
+- Published SDKs to Github  
+ 
+TMA SOLUTIONS  
+Mobile developer 12/2020- 5/2021 
+● Developed and maintenance map application (Java/Objective C).  
+- Used Adapter Design Pattern 
+- Used map framework of customer 
+- Checked for memory leaks on Android 
+● Performed assigned tasks: report, design, code, unit test.  
+● Worked with Japanese customers  
+ 
+VIETNAM INTERNATIONAL BANK  
+Mobile developer 10/2018- 4/2020 
+● Developed mobile banking application in Java/Objective C (My VIB).  
+- Built functions: Reward, Saving, Change UI, Prudential... 
+- Used technical: Realm database, Rest APIs, Retrofit 
+● Developed SmartSale app in react native.  
+- Built functions: source code structure, login, interest rates, notification…  
+- Used technical: Redux-Saga, React Navigation, Apisauce, React Native Firebase, React Native SSL Pinning 
+- Deployed app to TestFlight
+
+NEWSTEAD TECHNOLOGIES VIET NAM  
+Mobile developer 7/2017- 10/2018 
+● Developed application for restaurant (NuPOS – Swift/Kotlin).  
+- Created new app for iphone and android from app of Ipad 
+- Built functions: Activities, Serve… 
+- Used technical: MVC, Firebase, SQLite, Retrofit, Printer, Socket 
+● Developed application for bar (Ione Bottle app – Kotlin).  
+- Functions involved: Checkin, Checkout 
+- Used technical: Retrofit, Rx Java, Camera 
+ 
+FPT SOFTWARE HCM  
+Software developer 10/2014- 3/2017 
+● Developed and maintenance application for ultrasound machines (C/C++/MFC).  
+● Analyzed the requirement, design, code, unit test, maintenance, report. 
+● Worked with Japanese customers.  
+● Worked with ISO process. 
+ 
+PROFESSIONAL PROJECTS 
+ 
+● Flutter project: Watch Ads, Random Everything 
+- Created new app in Flutter 
+- Used technical: firebase message, google admob, provider, drawer, widget 
+- Published app to Google Play Store 
+● PHP Website project: NITRA Collection of Mar 
+- Published to Ubuntu server on AWS-EC2: 
+ 
+EDUCATION 
+ 
+UNIVERSITY OF SCIENCES - HCM 
+Major in Information Technology 2010-2014 
+ 
+• Programming languages: C++, C#, Java,  HTML, XML, Android, Windows phone  
+• Databases: MS SQL, MySQL, SQLite 
+• Software Analysis and Design 
+• Object oriented programming, design pattern 
+• Data structure and algorithms 
+ 
+ADDITIONAL INFORMATION 
+ 
+I am a hard-working, detail-oriented, and careful person, always eager to learn and absorb new knowledge. I am ready to 
+face challenges in work with a high level of determination. I am confident in my ability to make meaningful contributions in 
+any work environment.

@@ -1,0 +1,93 @@
+Aug 2016 - Aug 2019 Information Technology CongThuong College HoChiMinh City.
+Major: bachelor of Information Technology
+Basic software develop
+FPT Information System HCM (FIS)
+Developer
+Main responsibilities:
+Develop, test, and document SAP Reports, Interfaces, Conversions,
+Enhancements, Forms,Idoc RFC and Workflows.
+Perform integration tasks for in-house developed systems and/or
+purchased hardware and software solutions .
+Nguyen Xuan Hieu
+SAP - ABAP
+Date of birth:  Aug 06, 1998
+Gender:  Male
+Phone:
+Email:  
+Address:  , Vietnam
+Website:
+ 
+ 
+ch%E1%BB%A7/research-technical?
+SKILL
+2 Years of experience on implementation and develop of SAP ECC 6.0, SAP/4 Hana 7.4 
+Developed WebDynpro Application Solid development skills involving ABAP/4 Report BDC, Smart Forms,
+Adobe form, Function Modules, Dialog Programming, User Exits, Screen Painter, Menu Painter, Data Dictionary
+and Enhancements, BADIs, BAPI,  Class Builder, Roles Authorization, Security User Administration . 
+Worked on numerous implementations of different version of SAP on different modules viz. ERP SAP Systems
+with ABAP/4, ME-Manufacturing Execution, RE-Retail.
+Experienced in creating the Database tables, Secondary Indexes, Table Maintenance Generator, Views,
+Structures, Data elements, Domains, Search  in use of various ABAP modularization
+techniques such as Includes, Subroutines and Function modules.
+Worked on Incident  in using tools like SQL Trace and Runtime Analysis for
+Performance Tuning.
+Experience in Inbound/Outbound Interfaces with Advanced communications by ALE/EDI with IDOC, RFC's. 
+Created Logical Systems, assigning logical systems to client, RFC destinations, maintaining partner profiles and
+maintaining distribution model view for Inbound and outbound processing of master data, trigger send email...
+Extended the existing IDOC 's Extensively worked in Debugging SAP Programs, Performance Tuning, 
+Configured the Workflow for vendor approval process Designed a custom Workflow to maintain .
+EDUCATION
+WORK EXPERIENCE
+
+Designing and implementing processes, or process improvements, to
+aid indevelopment and supportWork with the team to develop and test
+functionality that meets documented design
+THP Group
+IT ABAP Specialist
+Main responsibilities:
+Provide solution to user
+Develop screen,repot,funtion non-SAP,SAP intergration
+Process trigger SAP send email,enhance,badi,bapi to screen standard
+Join process migrate SAP cloud with "Deloitte" for current system ECC
+INTERESTS
+I can play guitar & sing 
+Exciting, participating in organizing events, connecting colleagues
+PROJECTS
+Nguyen Kim Trading Joint Stock Company(Central)
+(2019 - Present)
+Customer Nguyen Kim Trading Joint Stock Company(Central)
+Description - Service supporting the operation of enterprise resource management software
+system SAP ERP, SAP B1 in NK
+Team size ..
+My position Technical Leader
+My responsibilities
+- Analysis and design(customize function screen,enhance,config with PI)
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+- Enhance maintain standard screen VA,VL,MIGO,VF,MM(PGI,Create bill...).
+- Integration webservice with PI (E-Invoice )
+- Config idoc,output control,output types(VOFM,NACE...)
+- Support, maintain workflow stability
+- Timeline management, estimate with customer
+Technologies used - SAP GUI 
+- SAP ECC 6.0
+Another projects
+(2018 - Present)
+Customer Tiki comporation, Boston Pharma,Nanoco, AEON, Thiên hòa THR,Long thành
+Plastic,  Lavifood,THP Group
+Description ..
+Team size ..
+My position ..
+My responsibilities ..
+Technologies used ..
+REFERENCES
+
+Nguyen Van Duyen(DuyenNV2)
+Technical Technology Manager
+Email: 
+Mobile:
+Nguyen Hoai Bao(BaoNH )
+Technical Development Citek
+©

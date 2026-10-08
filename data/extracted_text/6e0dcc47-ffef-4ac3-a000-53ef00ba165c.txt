@@ -1,0 +1,66 @@
+Viet Nguyen Ho Chi Minh City, Viet Nam
+A dedicated Product Manager with more than 6 years of experience in the tech industry and a passion for delivering 
+successful product development, especially in SaaS and B2B products. Demonstrated expertise in leading cross-functional 
+teams and launching successful products, using data analysis and user research to inform product decisions and drive 
+success
+Work Experiences
+Product Manager, Diag Sep 2021 - Oct 2023
+● Led the development and launch of web and mobile apps for doctors and B2B clinics, driving digital adoption of 70% 
+active customers, with a retention rate of 43%
+● Analyzed user feedback (surveys, bi-weekly interviews) and stakeholder input (sales, executives) to develop 
+solutions that meet customer needs
+● Partnered with the designer to conduct user research and iterate on prototypes, resulting in an improvement of 
+CSAT
+● Leveraged Mixpanel to build a data-driven system to monitor key metrics, optimizing user engagement and behavior 
+for improved product performance
+● Bridged the gap between technical and business aspects, managing project lifecycles from defining success metrics 
+with stakeholders to documenting requirements and contributing to design specifications
+● Collaborated with the Head of Product to build the product roadmap and execute product strategy that aligns with 
+company business goals
+Senior Product Owner, FireGroup Jun 2020 - Jul 2021
+● Led a 8-person team to develop a Saas application published in Shopify, optimizing hundreds of e-commerce sites to 
+achieve high performance based on Google metrics.
+● Acquired 700 monthly active customers within 4 months after launch, generating $14,000 monthly revenue through 
+subscription and in-app purchase.
+● Crafted an effective pricing strategy to optimize revenue, coupled with a user acquisition strategy to maximize reach 
+and conversion
+● Collaborated with developers to explore technical solutions, applying best practices learned from Google 
+documentation to enhance website speed.
+● Led product roadmap sessions with the Director, ensuring alignment with market needs.
+● Maintained regular communication with customers and conducted market research to identify opportunities for 
+product improvement.
+Product Owner, MoMo Jan 2019 - Jun 2020
+● Played a key role in the Finance Product Team, developing and bringing insurance and lending products to market
+● Partnered with the Engineering team to understand technical documents and evaluate trade-offs, ensuring informed 
+decision-making
+● Collaborate with the Designer to define user flows and test the prototypes to deliver a great user experience
+● Define events and build reports in Facebook Analytics.
+● Ran A/B testing with Data Engineers to optimize features.
+● Conducted user research and user interviews to uncover valuable insights to inform product decisions.
+
+Product Owner, Larion Jul 2018 - Jun 2019
+● Collaborated with developers to build a simple search engine
+● Defined specs, testing feature
+● Work with a product team to develop a product roadmap
+● Prioritize features and functionality based on user feedback
+Business Analyst, Officience Jun 2017 - Jul 2018
+● Interviewed stakeholders to collect requirement
+● Build and maintain product documentation
+● Work closely with designers, developers, and other stakeholders to ensure the product meets user needs and business goals
+Education and Certifications
+● Mastering Product Management, Reforge 2023
+● Retention & Engagement, Reforge 2023
+● Business Administration, Ton Duc Thang University 2012
+–2016
+Languages
+● English: Advanced 
+● Vietnamese: Native
+Skills
+● Customer Discovery 
+● Product Roadmap
+● Product Analytics
+● Growth
+● Stakeholder management
+● Prioritization
+● Running Agile Team
+● Leadership

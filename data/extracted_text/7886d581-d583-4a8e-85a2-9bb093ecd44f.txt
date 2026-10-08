@@ -1,0 +1,52 @@
+2018: Excellent staff
+From 25.000.000 VND GROSS
+ TRẦN ĐỨC VIỆT
+ 15/12/1996
+
+
+ Hồ Chí Minh
+Experience 5 Year:
+- Dev .NET C#, web  MVC, WPF.
+- Database: SQL, My SQL...
+- API, Call API.
+- Code mobile app with Xamarin form (Android
+and IOS)...
+Language:
+Viet Nam, English
+Computer:
+Word, Excel, Powerpoint.....
+Music, play soccer....
+TRẦN ĐỨC VIỆT
+Developer
+  CONTACT
+  SKILL
+  OTHER
+  LIKES
+  ĐH KHTN HCM
+May 2014  -  June 2017
+Đại Học Khoa Học Tự Nhiên
+Information Technology
+  WORK EXPERIENCE
+2017  -  NOW
+Company TNHH SG SAGAWA VIET NAM, Software Manager
+* Project:
+-  Home website SAGAWA (  MVC)
+-  Evalution system (  MVC)
+- Test online system (  MVC)
+-  Salary view system (  MVC, Mobile Xamarin form IOS,
+ANDROID)
+- Annual leave system (  MVC)
+- Human resouce system: Staff profile, Finger Print, salary, Contract
+... (c#, WPF, DEVEXPRESS).
+- Ware house system and customs declatarion auto  (  MVC,
+winform)
+-  CFS, bonded ware house system (  MVC)
+- Asset management system (  MVC)
+- Domestic delevery sysem include: 
+    + Operation Managerment (Winform DEVEXPESS, mobile)
+    + Managerment system (Winform DEVEXPESS)
+    + Booking Online (  MVC DEVEXPESS)
+    + API with ESMS, VIETCOMBANK, Microad...
+  ACHIEVEMENT
+  SALARY
+©

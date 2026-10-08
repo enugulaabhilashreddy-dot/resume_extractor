@@ -1,0 +1,182 @@
+Đinh Văn Phương
+01/12/1993
+Nam
+********
+Có gia đình
+Minh Khai,Từ Liêm, Hà Nội
+********
+Mục tiêu Nghề nghiệp
+Nâng cao kỹ năng bản thân cả trong kỹ thuật và quản lý, có cơ hội phát triển bản thân.
+Học vấn
+Chuyên ngành: Công nghệ Phần mềm
+09/2011 – 05/2015
+TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI
+Kỹ năng
+- 
+Lập kế hoạch
+:
++ Phân tích, trao đổi, đánh giá khối lượng công việc.
++ Phân chia công việc, lên kế hoạch thực hiện tới mọi người.
+- 
+Quản lý thời gian, công việc
+:
++ Phân bổ thời gian đảm bảo tiến độ các công việc trong kế hoạch.
++ Chủ động thông báo vá đưa kế hoạch khi có các vấn đề phát sinh
+ảnh hưởng tiến độ.
++ Xắp xếp và phân bổ kế hoạch công việc.
++ Theo dõi, bán sát kế hoạch hoàn thành cồng việc đã đưa ra.
+- 
+Trao đổi
+:
++ Chủ động trao đổi với với các bên liên quan khi có vấn đề phát sinh,
+chưa rõ.
++ Trao đổi làm rõ vấn để đảm bảo việc lên kế hoạch và đảm bảo tiến
+độ.
++ Tôn trọng ý kiến góp ý góp phần xây dựng tốt hơn sản phẩm.
+- 
+Giải quyết vấn đề
+:
++ 
+Cùng 
+nhau 
+trao 
+đổi, 
+đánh 
+giá 
+về 
+mức 
+độ 
+ảnh 
+hưởng 
+và 
+đưa 
+ra
+hướng và kế hoạch giải quyết vấn đề phát sinh.
+Kinh nghiệm
+
+- 
+Ngôn ngữ
+:
++ 
+.NET(Framework): 
+Winform, 
+Webform, 
+MVC, 
+Entity 
+Framework,
+API, .Net Core
+- 
+Database
+:
++ 
+MSSQL: 
+Function, 
+View, 
+Stored 
+Procedure, 
+Trigge,Job, 
+Link
+Server…
++ ORACLE: Function, View, Stored Procedure.
+- 
+WebServer/ OS
+:
++ IIS/Windows.
+- 
+Khác
+:
+JQuery, Bootstrap, DataTable Jquery, DevExpress, Javascript, Html,
+Css.
+Trưởng phòng công nghệ thông tin
+08/2020 – Nay
+Công ty CP & Đầu tư Sen Nam Việt
+- 
+Công việc
+:
++ Quản lý phòng công nghê thông tin
++ Chỉ đạo xây dựng hạ tầng thiết bị (camera,server, cal center…)
++ Chỉ đạo và trực tiếp xây dựng hệ thống CRM
++ Tích hợp hệ thống cal 
+center
++ API cho các hệ thống lấy thông tin từ kho dữ liệu.
++ Dựng Portal báo cáo.
++ Chịu trách nhiệm báo cáo công việc lên Tổng Giám Đốc
+Chuyên viên Cao cấp
+02/2020 – 7/2020
+Công ty Tek Experts
+- 
+Công việc
+:
++ Tiếp nhận yêu cầu và thực hiện
++ Code plugin, js theo yêu cầu
++ Tham gia phân tích thiết kế dự án Smart Factory
+- 
+Dự án:
++
+ 
+Hệ thống Erp VinFast
++ Hệ thống SmartFactory
++ API giao tiếp giữa các hệ thống.
+
+Trưởng nhóm quản lý & phát triển
+ứng dụng
+05/2014 - 01/2017
+Công ty TNHH Venesa
+- 
+Công việc
+:
++ Chịu trách nhiệm việc phát triển ứng dụng phần mềm.
++ Xây dựng yêu cầu chức năng, mô tả hệ thống tổng quát.
++ Phân tích, xây dựng Database.
++ Trực tiếp phát triển hệ thống.
++ Vận hành bảo trì hệ thống
++ Quản lý team lập trình
+- 
+Dự án
+:
+- Quản lý khách hàng
+- Quản lý nhân sự
+- Quản lý data
+Chuyên viên lập trình
+02/2017 - 02/2020
+Công 
+ty 
+cổ 
+phần 
+Nanosoft 
+(Hệ 
+thống 
+quản 
+lý 
+Spa 
+& 
+quản 
+lý
+phòng khám)
+- 
+Công việc
+:
++ Tham gia phân tích, xây dựng Database.
++ Phát triển ứng dụng.
+- 
+Dự án
+:
++ Chăm sóc khách hàng
++ Tiếp nhận thu phí.
++ Quản lý tài khoản.
++ Đồng bộ dữ liệu các hệ thống bằng Linked.
++ Quản lý vật tư tiêu hao.
+Kỹ năng khác
+Sở thích
+Tiếng anh:
+Máy tính & Internet:
+Giao tiếp:
+- Bóng đá
+- PS
+- AOE
+- Guitar
+
+MS Office:
+Thương lượng & đàm phán:
+
+Created by ********

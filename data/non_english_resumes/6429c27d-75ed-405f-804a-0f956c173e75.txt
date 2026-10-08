@@ -1,0 +1,243 @@
+SƠ YẾU LÝ LỊCH 
+ 
+I. THÔNG TIN CÁ NHÂN 
+Hãy đánh dấu  vào phương án đúng và điền thông tin vào vị trí dấu “…” 
+Họ và tên Email ĐT cố định ĐT di động 
+PHẠM ANH TUẤN 
+com 
+Không có
+Giới tính:   Nam  
+Chiều cao: 176 cm 
+Cân nặng: 76 kg 
+Ngày sinh:7/9/1989 
+Nơi sinh: Đà Lạt 
+CMND số:  250772864… 
+Ngày cấp:  16/06/2018 
+Nơi cấp:Đà Lạt 
+Nếu là nữ, bạn có đang mang thai không?:   Có   Không  
+Tình trạng hôn nhân: Độc thân  
+Thương tật/trọng bệnh:  Không   
+Vào Đảng:    Chưa   
+Nơi kết nạp Đảng: … 
+Từng phục vụ trong quân đội: Không   
+Hộ khẩu: 4E – Bùi Thị Xuân, Phường 02, Đà Lạt, Lâm Đồng 
+Chỗ ở hiện tại: Tôn Thất Tùng, P8, Đà Lạt 
+Thông tin người liên hệ khi cần: Đỗ Thị Kim Liên ) – Mẹ ruột  
+Các phương tiện làm việc cá nhân có thể phục vụ công việc: 
+ Laptop (ghi tên):Dell   Mobile (ghi tên): Iphone             
+ Xe máy (ghi tên):Wave              Phương tiện khác (ghi rõ):… 
+II. KINH NGHIỆM LÀM VIỆC 
+Từ: 4-2013 
+Đến: 12-2013 
+Tên công ty: Xtasea Chức danh: Lập trình viên 
+ 
+1. FabZing  ứng dụng di động với mục đích sửa đổi 
+hình ảnh hoặc video, chia sẻ chúng trên mạng xã 
+hội 
+ 
+ 
+ 
+Scan ảnh 
+ứng viên 
+(4x6cm)
+
+2. SMA Ứng dụng cho phép người vận hành ngồi 
+tại Việt Nam kiểm tra hoạt động của cửa hàng đặt 
+tại Israel trong suốt 24 giờ. Định kỳ 30 phút, ứng 
+dụng lưu dữ liệu được theo dõi vào tệp CSV và gửi 
+tự động trên máy chủ.  
+ 
+ 
+ 
+Từ: 3-2014 
+Đến: 1-2015 
+Tên công ty: FPT IS 
+GLOBAL 
+Chức danh: Phát triển Tibco 
+ 
+Dự án tích hợp Hệ thống kế thừa và Hệ thống bên 
+ngoài của NHNN như CoreBanking, Quản lý kho 
+tiền, Hệ thống thanh toán liên ngân hàng, ERP, Đấu 
+giá và OMO cùng sử dụng giải pháp TIBCO. 
+ 
+ 
+ 
+ 
+ 
+ 
+Từ: 5-2015 
+Đến: 7-2016 
+Tên công ty: SoftFront Chức danh: Lập Trình Android và 
+website 
+ 
+1. NISSIN ứng dụng này cho phép người dùng sử 
+dụng cả hai máy ảnh để chụp ảnh với với các 
+background là hình các khung hình về mì sợi. 
+2. Oorizon này là một ứng dụng mạng xã hội  cho 
+phép người dùng tương tác với nhau, cho phép tạo 
+sự kiện, tham gia sự kiện cụ thể, quản lý sự kiện 
+dựa trên màn hình lịch, quản lý bạn bè, kết bạn… 
+3. MCFS ứng dụng  quản lý các loại xe nâng hàng: 
+liệt kê danh mục xe nâng, hiển thị sản phẩm cho 
+từng loại xe nâng, đọc hướng dẫn pdf cho từng tính 
+năng của từng loại xe nâng.. 
+4. Takeda  website  quản lý thông tin khách hàng. 
+5. Baby365 ứng dụng điển thoại tạo nhật ký về trẻ 
+em thảnh một cuốn sách có chứa hình trẻ để lưu lại 
+các giai đoạn của trẻ. 
+6. BasketBall ứng dụng quản lý thông tin trận đấu 
+bóng rổ bằng máy tính bảng hỗ trợ iphone và 
+android. Đồng bộ hóa kết quả trò chơi giữa máy 
+chủ và máy khách.
+
+Từ: 4-2017 
+Đến: 11-2017 
+Tên công ty:  Fast 
+Service Billing – Phoeix, 
+Arizona, UnitedStates 
+Chức danh: Lập trình PHP 
+ 
+1. Gus Restaurant : Quản lý đơn hàng trên web  
+hiển thị các đơn đặt hàng mới của nhà hàng trên 
+google map cập nhật liên tục cùng với các thông tin 
+khác. 
+2. Inventory : Website Quản lý nhà hàng  
+- Quản lý nhập các mặt hàng mỗi tuần 
+- Quản lý nhà cung cấp 
+- Quản lý mặt hàng 
+- Quản lý số lượng, giá cả.. 
+3. SMS Project 
+Dùng web , điện thoại để gửi tìn nhắn bằng SMS, 
+gửi kèm hình ảnh, dùng server gửi mail, gửi email 
+hàng loạt 
+4. Service Project 
+Tạo một trang web và một ứng dụng android 
+cho dự án dịch vụ: Người dùng tìm kiếm các 
+ngành nghề trên trang web cho các lĩnh vực 
+được chỉ định như hvac, điều hòa không khí … 
+ 
+ 
+ 
+ 
+ 
+ 
+Từ: 1-2018 
+Đến: 1-2019 
+Tên công ty: Xtrans Chức danh: Lập trình PHP 
+ 
+1 Opshift Project : Quản lý lịch làm việc của  nhân 
+viên  
+     Người quản lý sẽ tạo hoặc phân công ca làm 
+việc cho các vị trí tương ứng với nhân viên. Tạo 
+ngày nghỉ cho mỗi nhân viên. Xem báo cáo 
+thống kê… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Từ: 1-2019 
+Đến: 4-2020 
+Tên công ty: GameDiff Chức danh: Lập trình Game 2d 
+Unity 
+ 
+: Game phiêu lưu 
+Ball  : Game hành động  
+3 LightingSphere : Game phiêu lưu
+
+Từ: 1-2019 
+Đến: 8-2021 
+Tên công ty: VNailTicket Chức danh: Lập trình Web,Mobile 
+ 
+1. VNailPro: ứng dụng cho chủ nail và nhân viên 
+nail . Người làm nail có thể tạo lịch hẹn, tạo 
+dịch vụ của mình, xem thu nhập, xem lịch hẹn 
+hàng tuần, hàng ngày, trò chuyện với khách 
+hàng. Sử dụng Twillio để trò chuyện, Stripe để 
+thanh toán. 
+2 LMS: Template trên điện thoại dùng Flutter để 
+quản lý khóa học 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. KỸ NĂNG CHUYÊN MÔN 
+Đối chiếu với danh sách các kỹ năng yêu cầu trong tuyển dụng, xếp loại và cho điểm từ 
+0 (không biết) đến 10 (xuất sắc). Vui lòng không bỏ trống ô “Điểm”! 
+STT Kỹ năng Điểm Mô tả về kỹ năng của bạn (tên phần 
+mềm có thể sử dụng hoặc tiêu chuẩn đáp 
+ứng cho kỹ năng…) 
+1 Kỹ năng đồ họa   
+1.1 Vẽ giao diện web   
+1.2 Đồ họa web (banner, ảnh trên 
+web…) 
+  
+1.3 Thiết kế logo   
+2 Cắt giao diện 
+(Cắt giao diện vẽ ra HTML) 
+8 PHP Storm, Visual Studio Code 
+2.1 xHTML   
+2.2 CSS 8 PHP Storm, Visual Studio Code 
+2.3 Valid CSS, HTML chuẩn 
+W3C 
+  
+3 Ghép giao diện 
+(chuyển giao diện HTML vào các 
+CMS như NukeViet, Joomla, Drupal) 
+  
+3.1 Xtemplate 8  
+3.2 Kỹ năng khác   
+4 Lập trình
+
+STT Kỹ năng Điểm Mô tả về kỹ năng của bạn (tên phần 
+mềm có thể sử dụng hoặc tiêu chuẩn đáp 
+ứng cho kỹ năng…) 
+4.1 Lập trình với ngôn ngữ PHP 8 PHP Storm, Visual Studio Code 
+4.2 Sử dụng Cơ sở dữ liệu 
+(MySQL, MS SQL, Oracle…) 
+8 PHP Storm, Visual Studio Code, 
+PHPAdmin 
+4.3 JavaScript 8 PHP Storm 
+    
+4.4 Sử dụng phần mềm quản lý 
+code 
+(Git, Subversion...) 
+8 GitLab, SourceTree 
+4.5 Lập trình trên Elasticsearch   
+4.6 Code PHP theo chuẩn  
+PSR-12 
+  
+5 Phân tích   
+5.1 Nghiên cứu tài liệu và lập 
+trình module, plugin, 
+extension… của các CMS 
+nếu có yêu cầu. 
+8 Google 
+5.2 Xử lý yêu cầu, lên phân tích 
+chức năng, CSDL, giao diện 
+của phần mềm/hệ thống 
+8 Tư duy 
+5.3 Khả năng đọc mô tả, thiết 
+kế, code phần mềm/hệ thống 
+đã có từ đó lập trình trên nó 
+8 Tư duy 
+Nếu có các kỹ năng khác mà bạn cho rằng có liên quan đến công việc, hãy liệt kê bổ sung 
+xuống dưới đây! 
+3. KỸ NĂNG MỀM 
+1. Các kỹ năng ngoài yêu cầu tuyển dụng chính nhưng có thể liên quan đến công 
+việc hoặc bạn cho rằng có thể liên quan đến công việc. 
+Kỹ năng Mô tả kỹ mức độ đáp ứng của bản thân 
+Ngoại ngữ Tiếng Anh (Khá) 
+Tin học văn phòng (Soạn thảo 
+văn bản, sử dụng bảng tính, 
+Sử dụng email và web…) 
+Word, Excel, Google , Gmail 
+Kỹ năng giao tiếp Khá 
+Kỹ năng làm việc theo nhóm Khá 
+Kỹ năng khác: …

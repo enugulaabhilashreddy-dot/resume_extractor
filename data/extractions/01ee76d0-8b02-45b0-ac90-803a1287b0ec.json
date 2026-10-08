@@ -1,0 +1,32 @@
+{
+  "name": "Le Anh Tuan",
+  "email": "Not available",
+  "phone": "Not available",
+  "skills": [
+    "Jenkins",
+    "Tomcat",
+    "WebOXT",
+    "SQL",
+    "Oracle",
+    "Postgres",
+    "Selenium IDE",
+    "Java",
+    "Manual testing",
+    "Automation testing",
+    "Build automation framework",
+    "Black box testing",
+    "White box testing",
+    "Functional testing",
+    "GUI testing",
+    "Regression testing",
+    "Integration testing",
+    "Mobile testing"
+  ],
+  "years_of_experience": 8.75,
+  "qualifications": [
+    "FPT University",
+    "JLPT N3",
+    "English",
+    "Japanese"
+  ]
+}

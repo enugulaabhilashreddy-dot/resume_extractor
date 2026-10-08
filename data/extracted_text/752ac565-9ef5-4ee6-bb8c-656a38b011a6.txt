@@ -1,0 +1,185 @@
+Nguyen Truong Thanh
+HCM, Vietnam
+  
+FPT Polytechnic college
+HDWEBSOFT SOFTWARE  SOLUTIONS May 2020 - Present
+Haravan Company Sep 2018 - Apr 2020
+React-Native React-Navigation, Redux, Redux-Saga, React-Hook, Expo, Performance,
+Mobile UI, UX, Responsive, REST API, FBSDK, GGSDK, Notiﬁcation, Firebase. 
+Deploy app (Chplay, Appstore), Online payments (Momo, Vnp, Ngan Luong,
+Stripe...). 
+Workﬂow Models Agile - Scrum, Jira. 
+IDE Visual studio, Android Studio, Xcode. 
+EDUCATION
+- Mobile programmin ( Android Studio).
+- Cross-platform programming (React-Native) 
+WORK EXPERIENCE
+Software Engineer
+Main responsibilities: 
+ - Improving system quality by identifying issues and common patterns, and developing standard operating   procedures. 
+ - Investigating and using new technologies where relevant. 
+ - Maintaining and improving existing codebases and peer review code changes.
+Software Engineer
+Main responsibilities: 
+ - Analyze, design and develop tests and test-automation suites.
+ - Design and develop a processing platform using various conﬁguration management technologies. 
+ - Improving system quality by identifying issues and common patterns, and developing standard operating             
+ procedures. 
+ - Attend Sales Skill Course in the Company. 
+ - Provide ongoing maintenance, support and enhancements in existing systems and platforms.
+SKILLS
+PROJECTS
+Template React Native
+(Aug 2022 - Present)
+Customer HDWEBSOFT Development
+Description
+- The Teamplate app is created for the purpose of allowing members within the company
+to reuse components across various diﬀerent projects. These components include features
+such as real-time chat, notiﬁcations, payment processing, login, registration, and more. 
+Team size 15
+My position Developer
+My responsibilities
+- Analysis and design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing
+Technologies used - React Native 
+- TypeScripts 
+- Redux, Redux thunk
+
+- React Navigation 
+- React Hooks 
+- Map 
+CII
+(Aug 2021 - Aug 2022)
+Customer KMS Solutions
+Description
+- App CII is an application that allows individuals, organizations and businesses to have
+idle money and make eﬀective ﬁnancial high interest rates, ﬂexibility on
+each investment is the advantage of this application. 
+- In addition, to ensure low risk on each investment, has carried out thorough
+due diligence by information identiﬁcation technology and highly qualiﬁed appraisers, this
+is a solid launch to reduce bad debt and ensure the money is returned to investors.   
+- In particular, the App is only used to invest money, not to pledge or lend any property. 
+Team size 20
+My position Developer
+My responsibilities
+- Analysis and design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing
+Technologies used - Flutter 
+Investor
+(Jul 2020 - May 2021)
+Customer VIET FINANCE TECHNOLOGY JOINT STOCK COMPANY
+Description
+- App NDT is an application that allows individuals, organizations and businesses to have
+idle money and make eﬀective ﬁnancial high interest rates, ﬂexibility on
+each investment is the advantage of this application. 
+- In addition, to ensure low risk on each investment, has carried out thorough
+due diligence by information identiﬁcation technology and highly qualiﬁed appraisers, this
+is a solid launch to reduce bad debt and ensure the money is returned to investors.   
+- In particular, the App is only used to invest money, not to pledge or lend any property. 
+Team size 10
+My position Developer
+My responsibilities
+- Analysis and design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing
+Technologies used
+- React Native 
+- Redux, Redux thunk 
+- React Navigation  
+- React Hooks 
+- Map 
+Kingpet - The World's Pet
+(May 2019 - Jun 2020)
+Customer Kingpet
+Description Welcome to KINGPET - the ideal destination for all your pet shopping needs. Apps are
+continually improved to provide you with the most enjoyable buying experience.
+Team size 4
+My position Developer
+My responsibilities - Analysis and design 
+- Development
+
+- Review code 
+- Optimize code 
+- Bug Fixing
+Technologies used
+- React Native 
+- Redux, Redux Saga 
+- React Navigation  
+- React Hooks 
+- Momo, Vnpay 
+- FBSDK, GGSDK 
+Best Hưng Thịnh
+(May 2019 - Jan 2020)
+Customer HungThinh
+Description
+- Instead of having to use sales manuals or ﬂyers, catalogs, BEST HUNG THINH
+application allows you to view information, speciﬁcations as well as outstanding features
+of the products provided by Hung Thinh. 
+- Combined with the navigation system and information data from more than 18
+motorbike dealers and 4 car dealerships of Hung Thinh, BEST HUNG THINH helps you
+ﬁnd the nearest dealer in case you want to buy a car or secure maintenance 
+Team size 4
+My position Developer
+My responsibilities
+- Analysis and design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing
+Technologies used
+- React Native 
+- Redux, Redux Saga 
+- React Navigation  
+- React Hooks 
+- FBSDK, GGSDK, Map 
+Hararetail Mobile
+(Mar 2018 - Sep 2019)
+Customer Haravan
+Description
+HaraRetail's features: 
+- Create a product.- Support to create and manage orders. 
+- Integrated quick order creation with barcode scanning & Quick sale technology. 
+- Product management, inventory. 
+Team size 4
+My position Developer
+My responsibilities
+- Analysis and design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing
+Technologies used
+- React Native, Expo 
+- Redux, Redux Saga 
+- React Navigation 
+- React Hooks
+Haravan Mobile
+(Jan 2018 - Aug 2019)
+Customer Haravan
+Description - Ecommerce solution cloud-based, multichannel commerce platform from online to
+oﬄine, haravan is everything you need to build a amazing business.
+
+- Intergrated with popular e-commerce marketing place in Vietnam : Lazada, Tiki... from
+Products, Inventory and to oﬄine commerce solution.
+Team size 4
+My position Developer
+My responsibilities
+- Analysis and design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing
+Technologies used
+- React Native, Expo 
+- Redux, Redux Saga 
+- React Native Router 
+- React Hooks
+©

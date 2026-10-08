@@ -1,0 +1,73 @@
+Nguyễn Tuấn Anh
+Software Engineer
+ ✉  Cau Giay-Ha Noi
+EXECUTIVE SUMMARY 
+I am an experienced  developer with 2 years of professional experience working at two major corporations, specializing
+ in Throughout my career, I have had the privilege of working with two prominent corporations, honing my expertise in 
+development with a focus on  including proficiency in DevOps practices. My primary goal is to contribute to my company's 
+success while continuously enhancing my own abilities. 
+EDUCATION
+Hung Yen University of Technology and Education 2018 - 2023
+Software Technology 
+• GPA:3.6
+• Participate in the school's digital renovation project 
+OBJECTIVE
+I am focused on enhancing my skills and personal development in software development and systems management to acquire 
+comprehensive knowledge and experience for professional growth. My objectives include:
+ 
+• Skill Development: Continuously learning and applying emerging technologies and best practices in software development and system 
+administration.
+• Self-Improvement: Dedicated to refining teamwork skills, and capabilities in dynamic and collaborative environments. 
+• Mobile Development: Aspiring to further my expertise in Android development, focusing on Android Studio and React Native 
+frameworks.
+WORK EXPERIENCE
+Hcl Tech 11/2021 - 04/2024
+Softwaer Engineer
+Participate in the customers project as a software engineer, developing insurance management applications using the microservice 
+architecture. Responsibilities include deploying the UAT environment, managing notification modules, report extraction modules, and 
+addressing gitlab's vulnerability reports,built RESTful APls that served data to the front-end,build realtime system with 
+ in utilizing Angular, Node Js, MySQL, WinSCP, and Git.
+Main technical used : node js , java, angular , sql server
+Cmc Global 04/2024 - Now
+Softwaer Engineer 
+Joining the customer project as a software engineer, developing a school management application for schools and teachers, expanding to 
+manage multiple schools, enhancing features for teachers and students across multiple schools, participating in building a server on VPS, 
+automating deployment on the server, and developing Swagger API. 
+Main technical used : node js , angular ,mongo DB
+
+PERSONAL PROJECT 
+• Duration: 1 year (ongoing) 
+• Description: Developed a small-scale multi-platform game using Java, Unity and React. The project aimed to enhance skills in 
+various technologies and integrate new functionalities like WebSockets, Bank API services, process management
+• Achievements:
+           Implemented WebSockets for real-time communication between game clients and server.
+           Integrated Bank API services for user payment.
+           Managed server setup including deployment and optimization for game performance.
+           Acquired skills in DNS management to ensure smooth connectivity and server reliability.
+• Learning Outcomes: Expanded knowledge in backend and frontend development, API integration, server administration, and DNS 
+configuration through practical application and self-directed learning,improve skills in Java,  React Design pattern . 
+SKILLS
+Nodejs -Proficient in development with hands-on experience in various projects. -Developed expertise 
+in using to build scalable and efficient server-side applications.
+-Implemented RESTful APIs by express module and integrated with databases like MongoDB and 
+MySQL.
+-Experienced in using npm packages and managing dependencies effectively.
+-Familiar with asynchronous programming and handling of callbacks and promises in
+-Actively learning and adapting to new features and best practices in development. 
+CI/CD Automated software development and deployment processes using GitHub Actions. 
+Self-Managed Personal Server on 
+Linux 
+I have experience setting up and managing a personal server running on Linux. This includes 
+configuring the server, installing necessary software, and ensuring proper operation. 
+DNS Management: - Basic understanding of DNS configurations and record management.                                                                     
+- Able to set up and troubleshoot DNS zones and records.
+Configuration Management Managed server configurations to meet specific needs, including network configuration, security 
+settings, and optimizing software performance 
+Nginx -  Familiar with basic Nginx web server configuration.                                                                                                  
+-  Able to set up virtual hosts and SSL/TLS certificates.                                                                                                
+-  Basic understanding of API Gateway concepts and functionality.
+Databases Practical experience with SQL and MongoDB through personal and company projects. 
+Web Socket Developed applications utilizing WebSocket for real-time user-server communication and connecting 
+server-side services for information exchange. 
+CERTIFICATIONS
+Greatelearning fullstack developer ( nodejs expressjs , angular) 6/2022 © topcv.vn

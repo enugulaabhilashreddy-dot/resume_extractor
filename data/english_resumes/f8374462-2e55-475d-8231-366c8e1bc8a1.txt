@@ -1,0 +1,189 @@
+Lê Hoàng Anh     
+  Business Analyst    
+  Date of birth:     05/10/1995     
+   Gender:     Male     
+  Phone Number:        
+  Email:                         
+  Address:               E1, Vinh Phuc Street, Ba Dinh District, Hanoi City.    
+  Zalo:                      @HoangShin95   
+   
+PROFESSIONAL SUMMARY    
+    
+ I completed my education from the faculty of Information Technology at the University of Transport and 
+communication.     
+ I am an IT technician with 5 years of experience working in software development. In there, I have nearly 4 
+years of experience in the Business Analyst Job.    
+ I have knowledge about Software Development Life Cycle, Database.   
+ A few big information systems I've worked with: ERP, CRM, EOFFICE, SOCIAL SECURITY, KB finance.  
+ I am a friendly and sociable person. I am careful and responsible for the job. Confidence, agility, eagerness 
+to learn and quickly adapt in new projects.  
+ I am good at controlling my job time. I have good communication and presentation skills, have the ability to 
+analyze and solve problems.     
+ My goal in work is to become a Senior Business Analyst.   
+ EDUCATION     
+    
+        
+10/2013 - 02/2018     University of Transport and     
+Communication     
+     Major: Information technology (IT)    
+    
+GPA: 2.33/4.0    
+PROFESSIONAL EXPERIENCES     
+    
+12/2022 – 04/2024       KB Fina  
+                                                                  Position: Business Analyst (12/2022 – 04/2024)     
+- Define requirements from Business’s Department and make application requirements.    
+- Specification of SRS documents (including "System Processing" specification documents and UI/UX 
+specification documents) based on Business’s requirements.  
+- Present to developers information about the functions that will be developed during the sprint. And assist 
+them in clarifying issues during the software development process. 
+- Trainning for Users about new function and helps them to do User acceptance test - UAT.
+
+- Work in the agile environment. Good at to use Jira, Confluence, Office 365, Figma, and Diagram tools.  
+- Build the software wireframe and database.    
+    The projects have participated in:     
+- KB il sang: Financial platform for Indonesian people.  
+- KB Fina: Financial platform for Vietnamese people.  
+  
+05/2021 – 09/2022     Honda VietNam     
+                                                                  Position: Business Analyst (05/2021 – 09/2022)     
+- Define requirements from Business’s Department and make application requirements.    
+- Plan for developing application.    
+- Evaluate solutions from Vendor.    
+- Write project documents.   
+- Report to Manager about project progress.   
+- Trainning for User to use Application.    
+- User acceptance test - UAT    
+- Work at waterfall environment. Good at to use Jira, Confluence, Office 365, SAP ERP.   
+- Support to build the wireframe and database.    
+        
+    The projects have participated in:     
+- SCA: A software is used to manage data of sale process.     
+- CRM: A software was developed on mobile app and web app platform.   
+- SAP ERP: Software connection with SAP system.   
+  
+03/2020 – 05/2021     BuCA JSC     
+          Position: Business Analyst (03/2020 – 05/2021)     
+- Analyze customer requirements and advise software solutions - Analyze the Government circular for  
+software development.    
+- Write the Software Requirement Specification Documents, User Requirement Document, Instruction 
+document.    
+- Good at to use the Tool : , PS 6, Microsoft Visio, Google Docs.    
+- Work at waterfall, agile environment. Good at to use Jira, Confluence, Office 365  
+- - Build the wireframe and database.    
+      The projects have participated in:     
+- Social Security: A software is used to manage data of Gorverment.     
+  
+03/2019 – 03/2020                                INFINIQ VIETNAM Company
+
+Position: Processing data staff – Annotator (03/2019 -> 08/2019)     
+- Receive Data from TeamLeader     
+- Processing Data follow instruction from QA, QC     
+                                           Position: Supervisor – Reviewer – Team Leader (08/2019->1/2020)     
+-      Check the Data quality.     
+- Receive Data, requirement from Project Lead.     
+- Guide team members on project requirements.     
+- Manage 5 members of my team.     
+- Follow, manage the members' progress, guarantee finishing the job before deadline.   
+      The projects have participated in:     
+               - Mercury: Data for autopilot cars    
+                - Earth: Identifying bent object data for bulging fisheye cameras on autopilot cars     
+               - Nia: Data on Korean landmarks for fly cams     
+               - Mars (phase1-2): Data identifying objects on the road for autopilot     
+               - PersonNet: Data identifying traffic signs for autopilot cars     
+               - Uranus: Data of every real object participating in traffic for autopilot cars     
+    
+    
+03/2017 - 04/2017     Samsung SVMC company     
+ Position: Developer internship     
+- Examine software development processes.   
+- Build a system for basic Android software.     
+- Work in a team     
+- Application programming.     
+- Products: Application for Android programming leaner based on Android foundation.     
+    
+  Skills  
+  
+Soft skills     
+  
+ 
+Languages   
+      
+        
+   
+  
+  
+ 
+  
+   
+  
+  
+   
+ 
+ 
+- Good communication and presentation skills, have ability to 
+analyze and solve problems.     
+   
+  
+- Able to communicate in English at basic level. Good at to read 
+and write.    
+- Native Vietnamese 
+   
+- Proficient in using Photoshop, Balsamiq.
+
+Support tools     - Microsoft Visio, , Wireframe, Figma.   
+-  Microsoft office: Word, Excel, Power Point.   
+- Jira, Confluence.   
+     
+    
+  
+ INTERESTS     
+- Travelling around the world, photography.     
+- A good salary will resolve everything.     
+     
+OUTSTANDING PROJECTS     
+    
+• KB il Sang & KB Fina (12/2022- 
+04/2024)  
+Customers     KB finance group     
+Description     
+Financial platform for Vietnamese people and Indonesian people.  
+Number of member     20     
+Position     Business Analyst     
+     
+Project’s role     
+- As 1 BA: 
+- I exploit the request from the Business Department. 
+- Build software solutions. 
+- Write SRS documents 
+-            Support Dev to clarify issues during software    
+  
+Technologies     Mobile app (front end) Web app (back end) IOS, PHP.   
+  
+• SCA   
+(5/2021- 5/2022)  
+Customers     Honda VietNam     
+Description     
+A application support to sale cars.   
+Number of member     7     
+Position     Business Analyst
+
+Project’s role     
+- Clarify requirements and document specification product development  
+- UAT   
+  
+Technologies     Mobile app (front end) Web app (back end) IOS, PHP.   
+     
+• Social security  (03/2020 – 
+05/2021)  
+Customers     Gorverment     
+Description     
+- Government social management app   
+Number of member     5     
+Position     Business Analyst   
+     
+Project’s role     
+- UAT   
+- Clarify requirements and document specification product development  
+  
+Technologies     Web app (back end)

@@ -1,0 +1,183 @@
+Nguyễn Đình Vũ 
+ Lập trình viên PHP/ Quản trị hệ thống  
+ Quản lý cấp cao 
+ Kinh nghiệm : 15 năm 
+ Điện thoại:  
+ Địa chỉ: Hai Bà Trưng, Hà Nội 
+ Website: , ,  
+ 
+ 
+ 
+ 
+Họ và tên: Nguyễn Đình Vũ 
+Ngày sinh: 06-12-1987 
+Giới tính: Nam 
+Điện thoại liên hệ:  
+Tình trạng hôn nhân: Có gia đình 
+TRÌNH ĐỘ HỌC VẤN 
+Trình độ học vấn: Đại học 
+Ngành học: CNTT 
+Tốt nghiệp năm: 2011 (Trung bình khá) 
+Tốt nghiệp tại trường: Học viện Bưu chính Viễn thông (KV phía Bắc) 
+Ngoại ngữ: 
+Thành thạo mã nguồn mở PHP - wordpress , gõ 10 ngón, các kỹ năng WORD , 
+EXCEL thành thạo cơ bản! 
+Các bằng cấp/ chứng chỉ 
+khác: 
+KINH NGHIỆM LÀM VIỆC: 
+ 
+Số năm kinh nghiệm: 1 5 năm 
+ 
+Kinh nghiệm làm việc: .Lập trình website do công ty đề ra, thành thạo các ngôn ngữ như WP, JOOMLA, 
+DRUPAL. Hiện tại đang chuyên về PHP/Wordpress 
+ 
+.Từng lập trình quản lý > 600 website tối ưu đưa cho nhập liệu quản lý. Tối ưu chuẩn 
+SEO, đã từng cùng công ty đẩy hàng loạt từ khóa khó. 
+ 
+.Có kinh nghiệm về CODE lẫn SEO. Có thể viết được nội dung. Có kinh nghiệm quản 
+lý phân bố công việc cho nhân viên! Làm tốt web chuẩn SEO 
+ 
+Tôi Muốn thay đổi, tìm một chân trời mới để chinh phục, tìm một người quản lý có thể 
+khai thác hết tài năng của tôi! 
+ 
+.Khả năng có thể thích nghi với mọi môi trường, Chịu được áp lực cao. Mình làm tốt 
+thì khắc được trọng dụng!!! 
+ 
+Các kỹ năng: Kỹ năng về lập trình: 
+Trình độ tin học:
+
+- HTML, CSS, JQuery 
+- Chuyển file PSD sang xHTML/Css 
+- Thành thạo PHP & MY SQL 
+- Thành thạo wordpress 
+- Thành thạo mã nguồn Drupal 7 
+- Thành thạo thiết kế CRM (  ) 
+- Có kinh nghiệm viết tool winform 
+ 
+2010- 2012: 
+Lập trình viên hệ thống 600website cho công ty TNHH Babylon ( , 
+ ) 
+Xây dựng hệ thống website cho công ty ( sử dụng mã nguồn Joomla, drupal ) 
+- Tư vấn lập trình WEB và SEO cho các thành viên công ty. 
+- Kết hợp với team xây dựng website trên nền Joomla, Drupal. Viết plugin cho khi cần. 
+- kết hợp với team xây dựng theme base Joomla. 
+- tim hiểu các công nghệ mới kết hợp và ứng dụng vào trong lập trình. 
+Một số site đã triển khai: 
+-  ( drupal ) 
+- ( drupal ) 
+-  ( drupal ) 
+-  ( drupal ) 
+-  ( drupal ) 
+Và một loạt website đã xây dựng nhưng hiện tại bên công ty đang tạm dừng dự án đó 
+vì không có người ke hệ thống. 
+2012-2013: 
+Thành lập công ty chuyên tư vấn dịch vụ 
+2013-2015: 
+Lập trình viên hệ thống cho công ty thẩm mỹ viện Kangnam, thẩm mỹ viện Đông Á 
+với hệ thống 600 website sử dụng mã nguồn Wordpress 
+- Tư vấn WEB và SEO cho các thành viên công ty 
+- Build theme website cho các thành viên nhóm 
+- Thực hiện các yêu cầu của thành viên Leader Content, Leader SEO, 
+- Xây dựng hệ thống CRM dựa trên nền tảng WORDPRESS 
+Một số website đã triển khai: 
+-  
+-  
+-  
+-  
+-  
+-  
+2016: 
+Lập trình viên hệ thống cho tập đoàn cengroup ( siêu thị STDA S9 ) với dự án bất 
+động sản: triển khai hệ thống khoảng 60website 
+Một số website tiêu biểu: 
+ 
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-
+-  
+-  
+-  
+-  
+-
+
+-   
+-
+-  
+-  
+-  
+-  
+-
+-  
+- https://banvouchervinpearlgiare. 
+com/ 
+-  
+-  
+-  
+-
+-  
+-  
+-  
+-  
+-  
+-  
+-  
+-   
+-  
+-  
+-
+-
+-  
+-  
+-  
+-  
+-
+-  
+-  
+-  
+-  
+-  
+-  
+-
+ 
+Và nhiều website nữa… 
+ 
+2017 - > nay 
+Hỗ trợ quản lý hệ thống 50 website cho bên nha khoa thẩm mỹ, chống virut, bảo mật, 
+quản trị tên miền, xây dựng hệ thống CRM, xây dựng phần mềm phòng khám  
+ 
+ 
+ 
+ 
+CÔNG VIỆC MONG MUỐN 
+Vị trí mong muốn: Lập trình viên quản trị PHP, quản trị hệ thống 
+Cấp bậc mong muốn: Quản lý cấp cao 
+Ngành nghề: IT phần mềm 
+Hình thức làm việc: Toàn thời gian cố định 
+Địa điểm làm việc: Hà Nội 
+Mức lương mong muốn: 35-40 triệu ++ 
+Mục tiêu nghề nghiệp:  Tự tin có thể care được hết các website, vì đã từng triển kha i các website lớn nhỏ, các 
+web bán hàng đến thương mại điện tử, các website thanh toán/  
+ Từng xây dựng phần mềm webform (  )  
+Phấn đấu làm người quản lý, quản trị hệ thống tốt, có thể xử lý mọi tình huống mà cấp 
+trên giao xuống. Tối ưu trong mọi phương thức cách thức làm việc để đạt hiểu quả cao 
+nhất. Góp sức giúp công ty ngày một tốt lên. 
+Xây dựng hệ thống quản trị website, sử dụng tài năng của mình để đem lại những 
+thành tựu và nâng cao giá trị bản thân. 
+Tìm một nơi có thể phát huy được hết tài năng của mình, góp phần vào sự phát triển 
+lâu dài của công ty

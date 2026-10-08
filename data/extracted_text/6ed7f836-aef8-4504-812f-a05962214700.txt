@@ -1,0 +1,165 @@
+/
+DƯƠNG VĂN TUÂN
+  
+ 
+PHÁT TRIỂN PHẦN MỀM
+Nam
+Tòa A5 Chung Cư An Bình - Phạm Văn Đồng - Bắc Từ 
+Liêm - Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
++ Nâng cao kỹ năng về Big data. 
++ Khả năng làm việc nhóm. 
++ Kỹ năng giao tiếp 
+=> Áp dụng kinh nghiệm và kỹ năng bản thân cùng quý Công ty tạo ra sản phẩm chất lượng tốt hơn. 
+KINH NGHIỆM
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+-
+ CÔNG TY CP GIẢI PHÁP THỜI TIẾT WEATHERPLUS TECH LEAD
+Thực hiện xây dựng và phát triển hệ thống BIGDATA về thời tiết 
+ Công việc: Tech Lead 
+    + Phát triển module.  
+    + Tối ưu code.  
+    + Review code. 
+    + Đưa ra giải pháp hệ thống  
+    + Đào tạo members dự án  
+- Framework dự án  
+    + Hortonworks Data Platform 
+    + Python  
+    + Note js  
+    + Java  
+    + C# 
+    + React 
+- Năm 2019 là một trong những nhân viên triển vọng nhất công ty. 
+- năm 2020 là một trong những nhân viên xuất sắc nhất công ty. 
+- Nâng cao kỹ năng bản thân  
+- Sử dụng thành thạo framework dự án
+ CÔNG TY PHẦN MÊM LUVINA DEVELOPER
+Dự án insightwatch: Tối ưu hóa bảo mật và chi phí sử dụng tài khoản AWS 
+ Công việc: Team Leader  
+    + Phát triển module.  
+    + Tối ưu code.  
+    + Review code.  
+    + Tạo tài liệu Amazon Web Services (AWS)  
+    + Đưa ra giải pháp hệ thống  
++ Đào tạo members dự án
+
+/
+Thành tích đạt được
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+-
+     Đào tạo members dự án  
+- Framework dự án  
+    + Python  
+    + Note js  
+    + Java  
+    + iReport and Jasperreport  
+    + Sử dụng AWS: S3, IAM, Cognito, DynamoDB, Lamba, API Gateway... 
+- Hoàn thành tốt công việc được giao  
+- Nâng cao kỹ năng bản thân  
+- Sử dụng thành thạo framework dự án
+ CÔNG TY PHẦN MÊM LUVINA DEVELOPER
+Dự án insightwatch: Tối ưu hóa bảo mật và chi phí sử dụng tài khoản AWS 
+- Công việc: Onsite tại Nhật Bản  
+    + Phát triển module.  
+    + Tối ưu code.  
+    + Review code.  
+    + Tìm hiểu và tạo tài liệu Amazon Web Services (AWS)  
+- Framework dự án  
+    + Python 
+- Hoàn thành tốt công việc được giao  
+- Nâng cao kỹ năng bản thân  
+- Sử dụng thành thạo framework dự án
+ CÔNG TY PHẦN MÊM LUVINA DEVELOPER
+Dự án Grandit: Quản lý bán hàng (tín dụng, mua sắm hàng tồn kho), chức năng trả 
+lương / kế toán nhân sự... 
+- Công việc: Developer  
+    + Phát triển module.  
+    + Tối ưu code.  
+    + Review code.  
+- Công việc: Tester  
+    + Tạo test case.  
+    + Review test case.  
+    + Test theo test case.  
+- Framework dự án  
+    +  
+    +  Tạo tool test UT   
+    + SQL server 
+- Hoàn thành tốt công việc được giao  
+- Nâng cao kỹ năng bản thân  
+- Sử dụng thành thạo framework dự án
+ CÔNG TY PHẦN MÊM LUVINA DEVELOPER
+Dự án Bizr – Chăm sóc khuyết tật: Phát triển hệ thống bảo hiểm cho người khuyết tật 
+- Công việc: 
++ Phát triển module.
+
+/
+Thành tích đạt được
+Mô tả
+Thành tích đạt được
+-
+     Phát triển module.  
+    + Tối ưu code.  
+    + Review code.  
+- Framework dự án  
+    + Hibernate  
+    + Spring  
+    + Struts 2  
+    + Mysql 
+- Hoàn thành tốt công việc được giao  
+- Nâng cao kỹ năng bản thân  
+- Sử dụng thành thạo framework dự án
+ CÔNG TY PHẦN MÊM LUVINA DEVELOPER
+Dự án Bizr – Ca làm việc: Phát triển hệ thống chấm công, phân ca làm việc cho nhân 
+viên 
+- Công việc: Developer  
+    + Phát triển module.  
+    + Tối ưu code.  
+- Framework dự án  
+    + Hibernate  
+    + Spring  
+    + JavaServer Faces (JSF)  
+    + Mysql 
+- Hoàn thành tốt công việc được giao 
+- Nâng cao kỹ năng bản thân 
+- Sử dụng thành thạo framework dự án 
+HỌC VẤN
+Trình độ:
+Loại tốt nghiệp:
+- APROTRAIN APTECH LẬP TRÌNH
+Cao đẳng
+Giỏi
+TIẾNG ANH
+NGHE     NÓI    
+ĐỌC     VIẾT    
+TIN HỌC
+WORD     EXCEL    
+POWERPOINT     OUTLOOK    
+KỸ NĂNG
+- Ngôn ngữ lập trình: Java, Java swing,  C#, Python, Note js, PHP , HTML, JSP, Struts 2, Javascript, 
+JQuery, AJAX, Netcore... 
+- Cơ sở dữ liệu: Apache HBase, My SQL, PostgreSQL, SQL Server, AWS DynamoDB
+
+/
+- Công cụ: Eclipse, Spring tool suite, Netbeans, Visual studio, Visual studio code, Pycharm... 
+- Quản lý:   
+    + Có khả năng lập kế hoạch, quản lý, điều hành công việc cho nhóm từ 4-9 người  
+    + Tạo quy trình dự án. 
+Công cụ quản lý: 
+    + Microsoft Project, Redmine, Trello Kanban. 
+Khác: 
+    + Làm việc nhóm tốt  
+    + Có thể đưa ra giải pháp giúp khách hàng. 
+SỞ THÍCH
+- Thích xem phim (đặc biệt là anime).  
+- Đọc sách.  
+- Bơi lội, Bóng đá & Gym.  
+- Game.

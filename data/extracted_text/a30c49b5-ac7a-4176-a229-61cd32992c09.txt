@@ -1,0 +1,58 @@
+GIẢN THỊ LINH HIỀN
+Career Objective
+● To participate in the AI products’ developments in finance or related domains.
+● Work hard and be dedicated to become a Senior AI Developer in the future.
+Work Experience
+(from April 2022 to present)
+(from June 2023 to present).
+With the desire to save time on manual data entry for transaction officers when handling documents,
+the main task of the project team is to develop a service to extract information fields from scanned
+my main tasks performed in this project:
+● Clarify requirements from BA and Business Users.
+● Analyze data features and seek suitable solutions for the problem of Document Image
+Understanding.
+● Data processing, training and tuning of the model for tasks: text detection, text recognition and
+key-value extraction.
+● Model optimization and conversion to run on CPU.
+● Develop the microservice and integrate it to the whole workflow system for information
+extraction.
+(from
+August 2022 to March 2023). For this project, the solution for the Object Detection problem is using the
+(June 2020 - Now)
+1. GDPR project - this project aimed to develop models to detect and blur human faces and vehicle
+license plates on data collected from Europe as required from GDPR (General Data Protection
+Regulation) policy. Processed data was used for testing ADAS (Advanced Driver Assistance Systems) for
+● Data pre-processing: prepare dataset, use pre-trained data for generating pseudo-label, convert
+to right format, select data and augment data to train the model.
+● Model building: experiment YOLO series, customize model.
+● Statistic and analyze prediction cases from the test set, in order to find out augment data and
+customize the hyperparameter of the model.
+● Data post-processing: add tracking algorithm face and plate on video.
+
+● Integrate developed model to system: write unit test for inference code in system.
+2. Auto Pilot Testing Project - Apply semantic segmentation model to predict lane markings on road
+● Data pre-processing: find open dataset about lane markings segmentations, convert dataset to
+right format and augment data.
+● Used a pre-trained model to train the prepared dataset.
+● post-processing: converted output of model to the same format with the test formatted
+3. VinHR Project - Based on data collected from wearable devices of staffs, develop model to detect
+● Preprocessed, analyzed and visualized labeled data.
+● Experiment Machine Learning algorithms: K-Means and Support Vector Machine for time series
+data.
+(May 2019 - May 2020)
+● Developed to extract and migrate data among shopping carts for Ecommerce Websites.
+● Analyzed and implemented to export and import data from Websites’ databases.
+● Tested to ensure the accuracy and completeness of data when transferred.
+● Implemented to fix errors/issues arising during transferring.
+Skill
+● Programming in Python.
+● Skills in using Deep learning libraries: Pytorch, ONNX, OpenCV.
+● Data analysis skills with libraries: Numpy, Pandas, Matplotlib.
+● Skills in using Git for project source code management.
+● Ability to self-study, research, and solve technical problems related to the project.
+Education
+● From 9/2023 to present: Master's Degree in Computer Science at the University of Technology,
+VNU.
+● From 4/2020 to 8/2020: IBM Data Science Professional Certificate.
+●
+● From 2015 to 2019: Bachelor of Mathematics - Hanoi University of Education, GPA 3.0/4.0.

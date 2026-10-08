@@ -1,0 +1,220 @@
+Private and Confidential 1 
+ 
+PERSONAL INFORMATION 
+Full Name:   LE DO HOANG PHU     
+Phone:     
+Email:     
+Onboard date:               Immediately  
+Address:   Van Kiep, Ward 3, Binh Thanh District, Ho Chi Minh City 
+EDUCATION 
+2008 – 2013:  Post and Telecommunications Institute of Technology (PTIT)              
+2014:    Certificate Android Developer of University of Science  
+OVERVIEW / SKILL 
+Proficient in Android 
+Development: 
+Extensive experience in Kotlin and Java, with a strong emphasis on 
+Android app development, ensuring high-quality and efficient code. 
+ 
+ 
+Flutter Expertise: Have basic knowledge of Flutter, can contribute as a supporting 
+member to the project. 
+ 
+Mobile Application 
+Architecture: 
+Well-versed in mobile app architecture and design patterns, ensuring 
+scalable and maintainable solutions. 
+ 
+ 
+Application Lifecycle 
+Management: 
+Skilled in developing, deploying, and maintaining mobile applications 
+throughout their lifecycle, from concept to release. 
+ 
+ 
+Analytical Problem-Solver: Possess excellent problem-solving and analytical skills, allowing for 
+efficient troubleshooting and innovation in app development. 
+ 
+ 
+Effective Communication: Strong communication skills, coupled with teamwork capabilities that 
+enhance collaboration with colleagues and stakeholders. 
+ 
+SUMMARY OF EXPERIENCE 
+04/2022 - 05/2024:      AZIBAI - CREATING FUN JOINT STOCK COMPANY – HCM  
+Android Developer 
+ 
+09/2020 - 03/2022:      FUVI COGNITIVE TECH JSC 
+Android Developer 
+ 
+05/2016 - 08/2020:        KANTEK  INC 
+                                       Android Developer 
+ 
+02/2015 - 04/2016: HD WEBSOFT    
+            Android Developer
+
+Private and Confidential 2 
+ 
+ 
+PROFESSIONAL EXPERIENCE 
+04/2022 - 05/2024:      AZIBAI - CREATING FUN JOINT STOCK COMPANY 
+                                      Android Developer 
+ 
+Duties 
+ Analyzing and developing applications from the ground up. 
+ Receiving and analyzing requirements from the Business Analyst department  
+ Break down tasks, estimate completion times and daily report 
+ Debugging and maintenance. 
+ Offering solutions for new feature implementations. 
+  
+09/2020 - 03/2022:      FUVI COGNITIVE TECH JSC 
+            Android Developer 
+ 
+Duties  
+ Analyzing and designing the system from the ground up. 
+ Estimate completion timelines and daily report. 
+ Writing code, releasing, and maintaining the applications. 
+ Providing support to Business Analysts in analyzing new requirements.  
+ 
+05/2016 - 08/2020:       KANTEK INC 
+                                      Android Developer 
+  
+Duties  
+ Receiving requests from the sales department.  
+ Researching relevant techniques and technologies to assess project feasibility.  
+ Estimate completion timelines and weekly report. 
+ Task segmentation and assignment to Android team members for app demo 
+development, delivering app demos. 
+ Completing and releasing apps upon demo approval. 
+ 
+02/2015 - 04/2016: HD WEBSOFT 
+            Android Developer 
+    
+   Duties 
+ Gather requirements from the sales department.  
+ Break down tasks and weekly report. 
+ Write and maintain code. 
+ Provide ongoing maintenance and support.
+
+Private and Confidential 3 
+ 
+PROJECTS 
+ 
+        AZIBAI - SOCIAL NETWORK    
+        (2022 -2024) 
+ 
+Customer Azibai 
+Project description Azibai is a comprehensive platform integrating social networking features such as 
+chat, video calls, and location sharing inspired by the functionality of the Zalo app.  
+Additionally, introduced an e-commerce facet allowing users to seamlessly buy, 
+sell, and exchange products within the platform. 
+ 
+Google Play:  
+Team size 4 
+Position Android Developer 
+Responsibilities  Analyzing and developing applications from the ground up. 
+ Receiving and analyzing requirements from the Business Analyst 
+department. 
+ Break down tasks, estimate completion times and weekly report 
+ Debugging and maintenance. 
+ Offering solutions for new feature implementations. 
+Technology description Kotlin, RxJava, MVVM, Coroutine, Retrofit, Firebase (FCM, Remote Config), 
+Google/Facebook Login SDK, Android Jetpack (Lifecycles, LiveData, Paging, 
+Room, ViewModel, WorkManager) 
+ 
+ 
+ FUVI 
+ (2020 - 2022)  
+ 
+Customer Fuvi 
+Project description The application will provide the platform to support effective training with enrichment 
+on semantic metadata and share to classmates. Teachers can create good cognitive 
+videos with detailed table of contents, detailed metadata, initiated highlights in 
+contents, chapters. Besides that, the application will provide the comprehension 
+board so that both teachers and students can sketch their ideas, raise questions, 
+comment and revise feedback on the lecture videos. Where students can start 
+learning the training courses in different subjects and submit the homework, give 
+feedback and provide ratings regarding the courses and teachers based on the value 
+of the lectures. 
+Team size 2 
+Position Android Developer 
+Responsibilities  Analyzing and designing the system from the ground up. 
+ Writing code, releasing, and maintaining the applications. 
+ Providing support to Business Analysts in analyzing new requirements  
+Technology description Kotlin, RxJava, Coroutine, MVVM, Retrofit, Firebase Cloud Messaging, MQTT Client , 
+Google/Facebook Login SDK, Android Jetpack (LiveData, ViewModel)
+
+Private and Confidential 4 
+ 
+  
+iKANGO 
+(2019 - 2020)  
+ 
+Customer Kantek INC 
+Project description IKANGO for travelers will help you design a perfect tour with just one touch to choose 
+the locality you want to visit, the place you want to go, such as eating- shopping 
+tourism- entertainment (bar, club, massage ...), find the guide you like and the time 
+that suits service. 
+Team size 3 
+Position Android Developer 
+Responsibilities  Analyzing and designing the system from the ground up. 
+ Writing code, releasing, and maintaining the applications. 
+ Providing support to Business Analysts in analyzing new requirements  
+Technology description Java, RxJava, MVVM, Retrofit, Google Cloud APIs (Maps, Direction, Places), 
+Firebase (FCM, Real-time Database, Remote Config), Stripe, Google/Facebook 
+Login SDK, Android Jetpack (Lifecycles, LiveData, Paging, Room, ViewModel)  
+ 
+ 
+  HELP IN HAND 
+  (2017 - 2018) 
+ 
+Customer Help In Hand LLC 
+Project description Help In Hand LLC is a service agency operating in New Jersey working with business 
+owners and individuals to facilitate all their delivery needs and more. Help business 
+owners and individuals satisfy all their delivery needs. 
+Team size 1 
+Position Android Developer 
+Responsibilities  Analyzing and designing the system from the ground up. 
+ Writing code, releasing, and maintaining the applications. 
+ Designing Firebase Real-time Database structure. 
+ Providing support to Business Analysts in analyzing new requirements  
+Technology description Java, RxJava, MVVM, Retrofit, Google Cloud APIs (Maps, Direction, Places), 
+Firebase (FCM, Real-time Database, Remote Config), Stripe, EventBus, Dagger, 
+Picasso, Android Jetpack (LiveData, ViewModel)
+
+Private and Confidential 5 
+ 
+ 
+iNails 
+(2016 - 2017) 
+ 
+Customer Kantek INC 
+Project description iNails is the first integrated nail industry application for overseas Vietnamese. iNails 
+helps you find nail jobs, find nail salons in need of sale, sell, rent, find nail technicians 
+on demand, post your search for nail technicians, shop for sale, find jobs, and add up 
+manage daily votes accurately and easily. 
+ 
+Google Play:  
+Team size 2 
+Position Android Developer 
+Responsibilities  Analyzing and designing the system from the ground up. 
+ Estimate completion timelines and weekly report. 
+ Writing code, releasing, and maintaining the applications. 
+Technology description Java, RxJava, MVP, Firebase (FCM, Auth, Real-time Database), Retrofit, Dagger, 
+Stripe, EventBus, Google Cloud APIs (Maps, Direction, Places), Picasso, ButterKnife 
+ 
+ 
+Skylab Portal  
+(2015 -2016) 
+ 
+Customer Skylab World 
+Project description The Skylab Platform is the ultimate app & website platform for today’s influencers, 
+coaches, and brands including major features like chat for business, action tracking, 
+a community wall, multimedia channels, gamified training courses, and in-app 
+purchases. These features make it fast and easy to monetize your content if you 
+desire. 
+Google Play:  
+Team size 8 
+Position Android Developer  
+Responsibilities  Analyzing and designing the system from the ground up. 
+ Estimate completion timelines and weekly report. 
+ Writing code, releasing, and maintaining the applications. 
+Technology description Java, RxJava, MVP, Retrofit, ButterKnife, Picasso, Swipe-Layout, Socket IO

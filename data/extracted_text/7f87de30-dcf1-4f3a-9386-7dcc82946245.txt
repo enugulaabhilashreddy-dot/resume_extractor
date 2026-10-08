@@ -1,0 +1,150 @@
+LY THANH QUYEN 
+Khu Mizuki Park, Nguyen Van Linh, 
+ 
+Binh Hưng, Binh Chanh, Ho Chi Minh 
+ 
+PROFILE 
+ 
++ More than 6 years experience in Quality Control: 
+o Experience in perform black box testing, white box testing, unit testing, integration testing, functional testing, 
+system testing, regression testing, acceptance testing, load testing, performance testing, usability testing, 
+recovery testing, user acceptance testing, alpha testing, beta testing… 
+o Experience in API testing. 
+o Experience in Mobile testing. 
+o Experience in SSRS report - working on Dynamic CRM system, writing fetch XML, Visual Studio, … 
+o Experience in Report Builder - working on SQL Server, writing stored procedures, functions, views, … 
+ 
++ Before that I was working as a teacher for basic informatics and SQL server subject.  
++ Working environments: 
+o Experience in SQL server. 
+o Experience in Web application + Mobile application (IOS, Android) 
+o Experience in Report Builder, XML toolbox, MS Dynamic CRM, Share point,… 
+o Knowledge about Jmeter tool and Katalon Studio, … 
+o Knowledge about Couchbase, Oracle, Visual studio 
+o Working on Jira, Confluence, Rally,… 
+ 
++ Project’s skills: 
+o Writing and manage test case, test plan, checklist 
+o Manage defects, bugs, … 
+o Executing test 
+o Writing the report 
+o Writing stored procedures, functions, views, 
+o Implementing custom SSRS reports 
+o Implementing custom Report Builder 
+o Writing fetch XML 
+ 
++ Other Skills: 
+o Working independently if required but also knowing how to work cooperatively and effectively in a team. 
+o Time management skills: be able to plan and manage time effectively 
+o Analytical skill, logical and critical thinking
+
+o Strong sense of responsibility 
+o Researching: competent to find information related to the needs of own studying or working effectively and quickly 
+o Flexible and highly adaptable to varying environments; resourceful in getting the job done  
+ 
+CERTIFICATIONS 
+ 
+Certifications Institution Year 
+Professional Bachelor of Computer Technology at Asia 
+Electronic University (Malaysia) 
+INFOWORLD SCHOOL 2011 - 
+2012 
+Software Engineering certificate at INFOWORLD SCHOOL 
+(Ho Chi Minh City, Viet Nam) 
+INFOWORLD SCHOOL 2005 - 
+2009 
+Microsoft programming certificates: MCSD (MCP, MCAD, 
+MCTS, MCSD), MCPD 
+INFOWORLD SCHOOL 2005 - 
+2009 
+Soft-Skill (team work) certificate INFOWORLD SCHOOL 2008 
+Bachelor of Arts about English Linguistics Literature at 
+Technology at University of Social Sciences and Humanities 
+(Viet Nam National University – Ho Chi Minh City) 
+Viet Nam National University – 
+Ho Chi Minh City 
+2008 - 
+2012 
+ 
+Training Courses Institution Year 
+ISMS CSCV in-house training (DXC) 2018 
+New Hire Orientation CSCV in-house training (DXC) 2018 
+Agile Software Development CSCV in-house training (DXC) 2018 
+User Stories in Agile Requirements CSCV in-house training (DXC) 2018 
+Scrum Development Process CSCV in-house training (DXC) 2018 
+Black Box Testing Techniques CSCV in-house training (DXC) 2018 
+Derive test cases from requirements CSCV in-house training (DXC) 2018 
+Code of Business Conduct and CLEAR Values Review CSC Online Learning (DXC) 2018 
+Information Security Awareness CSC Online Learning (DXC) 2018 
+Secure the Human: EU Data Protection CSC Online Learning (DXC) 2018 
+DevOps Dojo White Belt CSC Online Learning (DXC) 2018 
+Personal Data Awareness CSC Online Learning (DXC) 2018
+
+PROFESSIONAL WORK EXPERIENCE 
+ 
+  Dates 
+Amaris Vietnam Co., Ltd, HCMC, Viet Nam           Nov 2019 – Now 
+   (working as a site lead QC at PRUDENTIAL Company) 
+Project: 
+  BPM Suite Project             
+▪ Working on Web application environment  
+ 
+PRUDaily Application Project (Agent app)              
+▪ Working on Web application environment  
+▪ Working on Mobile application environment (IOS, Android) 
+▪ API testing 
+▪ Performance testing using jmeter tool 
+ 
+DXC Technology Services Vietnam Co., Ltd, HCMC, Viet Nam     Oct 2018 – Nov 2019 
+   (working as a Quality Control AND a Developer for SQL Server Reporting Services) 
+Project: 
+  Fitness Passport Project (Australia)             
+▪ Working on Web application environment  
+ 
+  FORD Project (Germany)              
+▪ Working on MS Dynamic CRM 
+▪ Working on SSRS Report (SQL Server Reporting Services) 
+ 
+  IXOM Project (Australia)               
+▪ Working on Share Point 
+▪ Working on SSRS Report (SQL Server Reporting Services) 
+ 
+  e-Forms Project (Singapore)              
+▪ Working on Share Point 
+▪ Working on SSRS Report (SQL Server Reporting Services) 
+ 
+BSD Solution Company, HCMC, Vietnam          2016 – Sep 2018 
+(working as a Quality Control AND a Developer for SQL Server Reporting Services) 
+Project: 
+ Real Estate Project for CapitaLand Company           
+▪ Working on MS Dynamic CRM 
+▪ Working on SSRS Report (SQL Server Reporting Services) 
+▪ Working on Report Builder 
+ 
+  VietFund Management (VFM)             
+▪ Working on MS Dynamic CRM 
+▪ Dd Working on SSRS Report (SQL Server Reporting Services) 
+▪ Working on Report Builder
+
+INFOWORLD SCHOOL, HCMC, Vietnam                       2009 – 2015  
+(working as a teacher for basic informatics and SQL server subject AND a Quality Control)  
+INFOWORLD SCHOOL           
+▪ Working as an instructor of IT faculty and English faculty 
+▪ Working as a teacher for basic informatics and SQL server of IT faculty 
+▪ Testing project: Moodle system for learning 
+ 
+ 
+EDUCATION 
+ 
+Asia Electronic University (Malaysia)         Vietnam 
+Professional Bachelor of Computer Technology (Computers) 
+INFOWORLD SCHOOL           Vietnam 
+Software Engineering (Computers) 
+Technology at University of Social Sciences and Humanities      Vietnam 
+Bachelor of Arts about English Linguistics Literature (English) 
+ 
+ 
+LANGUAGES 
+ 
+Vietnamese – Oral and Written Proficiency 
+English – Oral and Written Proficiency

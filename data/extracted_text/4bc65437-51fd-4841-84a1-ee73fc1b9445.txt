@@ -1,0 +1,118 @@
+Dương Hoàng
+Senior Developer / Technical Leader
+ ✉   Hà Đông, Hà Nội
+EDUCATION
+VNU University of Engineering and Technology 2012 - 2016
+Information Of Technology.
+Graduated with good degree, GPA 2.9
+WORK EXPERIENCE & SKILL
+CENTECH COMMUNICATION JSC  2016 - 2018
+Web Developer 
+Skill
+• PHP, Yii1 Framework, Yii2 Framework.
+• Jquery, Js, Css, Boostrap.
+• Oracle procedure - function, Mysql.
+• Svn, Git.
+Work Experience
+• Payment Gateway SIM & packet for VNPT, Report System, Payment Gateway Game for Mobifone, VietnamMobile.
+• SSO, Frontend, Report System, Affliate for Freedoo project.
+CÔNG TY CỔ PHẦN GIẢI PHÁP THỜI TIẾT WEATHERPLUS 2018 - 2019
+Web Developer 
+Skill
+• PHP, Laravel Framework, WordPress Framework.
+• Vue2 Js, Angular2 Js, Jquery, Js, Css3, Boostrap.
+• Git.
+• Mysql.
+Work Experience
+• Create plugin, theme WordPress for satellite Weather Plus project.
+• Sale report management for Weather Plus project.
+PARALINE SOFTWARE VIETNAM 2019 - 2024
+Web Developer, Technical leader
+Skill 
+• PHP, Laravel Framework, Cake Framework.
+• Vue2 js, Vue3 js, Nodejs, Jquery, Js, Css3, Bootstrap.
+• Linux, Centos 7, Centos 8, Redhat, Aws (EC2, ECS, ELB, RDS, CloudWatch, ALB, SES, SQS, CloudAgent, IAM , Code deploy, Code 
+Build ...).
+• Payment for Gmo, LineEpay, Facebook SDK, Yahoo SDK ...
+• Experience with CI/CD auto deploy.
+• Experience with Docker.
+• Experience with fix security that use Acunetix Software (High risk, Medium risk).
+
+• Experience with jmeter performance testing.
+• Git.
+• Mysql, Mongo DB, Research with PostgreSql.
+• Project planing for team 6-7 member.
+Work Experience
+• 5 years exprerience working with project in cooperation with Japan.
+• 2.5 years exprerience with position Leader team 6 - 7 member. 
+SIGNIFICANT PROJECTS
+ShopVnpt - Report System For multiple Project 
+( 2016 - 2018 )
+Name of customer VNPT, Mobifone, VietnamMobile 
+Description project Payment Gateway SIM & packet for VNPT, Report System, Payment Gateway Game for 
+Mobifone, VietnamMobile.
+Your team size 4
+Your position in project Developer 
+Your responsibility  in project Coder - SSO, Frontend, Report System, Affliate. 
+Technology description + PHP, Yii1 Framework, Yii2 Framework, JQuery, Css, Boostrap.
++ Mysql, Oracle Procedure, Trigger, Function.
+FormDB 
+( 2019 - Now )
+Name of customer Japanese 
+Description project
+- Database Management for multiple projects.
+ + Management databases.
+ + Api connect website agency.
+ + Management advertising tags script for craw click, view.
+ + Import/Export big size data.
+ + Send bulk email (thousands per hours).                                                                                  
+Your team size 6-7
+Your position in project Developer - Leader 
+Your responsibility  in project
++ Coder Backend, Review Code, Assign Task, Release Task.
++ Setting Server Aws.
++ Support team's members.
++ Manage Project. 
+Technology description
++ PHP, Laravel , JQuery, Css3, Boostrap, Mysql, Linux, Git.
++ AWS : EC2, RDS, CloudWatch, ALB, SQS, SES Messaging & Targeting Blog, (Email 
+Bounced), CloudAgent, IAM ... 
+Booking Manager 
+( 2021 - Now )
+Name of customer Japanese 
+Description project
+- Management & Payment Gateway for multiple shop e-commerce projects.
+ + Management multiple shop and staffs, customers info of their shops .
+ + Payment Gateway for multiple GMO information of shops.
+ + Provide website to booking for shops, hotels.
+
+Your team size 6-7
+Your position in project Developer - Leader 
+Your responsibility  in project
++ Coder Frontend, Review Code, Assign Task, Release Task.
++ Setting Server Aws.
++ Support team's members.
++ Manage Project. 
+Technology description
++ PHP, Laravel, Css3, Boostrap, Mysql, Git.
++ Vue js Framework.
++ Gmo credit card, monthly payment, add card template.
++ AWS : ECS, RDS replica, CloudWatch, ALB, SES, IAM, ALB ...
++ Docker
++ CI/CD Code Auto Build. 
+Fastpick
+( 2019 - 2021 )
+Name of customer Japanese 
+Description project
+- Management for multiple shop e-commerce projects.
+ + Management multiple shop and staffs, customers info of their shops .
+ + Api Payment Gateway with GMO for app.
+Your team size 6-7
+Your position in project Developer 
+Your responsibility  in project + Coder Api Payment Gateway by Nodejs
++ Support team's members.
+Technology description
++ Laravel, Nodejs, Css3, Boostrap, Mysql, Git.
++ Gmo credit card, monthly payment, add card template.
++ AWS : ECS, RDS replica, CloudWatch, ALB, SES, IAM, ALB ...
+© topcv.vn

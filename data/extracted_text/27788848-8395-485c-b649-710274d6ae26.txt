@@ -1,0 +1,37 @@
+IT Triển Khai Phần Mềm 
+Hoàng Xuân Trường 
+SDT  Ngày sinh: 11-08-1993 
+Mail: Địa chỉ: A188 Kp1 Long Bình, Biên Hòa, Đồng Nai 
+ 
+MỤC TIÊU NGHỀ NGHIỆP 
+ Kiểm thử sản phẩm Phần mềm trước khi Release 
+ Tiến hành UAT 
+ Tư vấn, khảo sát đưa ra hướng sử lý 
+ Đào tạo người dùng cuối (End User) 
+ Golive và hỗ trợ người dùng trong quá trình sử dụng 
+KINH NGHIỆM LÀM VIỆC  
+Nhân viên triển khai FPT InfomaƟon System: từ 10/2018 đến 10/2019 
+ Học tập sử dụng phần mềm eHealh của FPT, test quy trình luồng khám chữa bệnh của đối tượng Bảo Hiểm Y 
+Tế và Thu Phí. Dựa theo thông tư 4210 và 6556 quy định về quyết toán BHYT để trích xuất ra ﬁle XML để gửi 
+cổng BHYT. 
+ Đào tạo người dùng sử dụng phần mềm. Nhận yêu cầu sau đó phân ơch và gửi về cho DEV. Thuyết phục người 
+dùng với các trường hợp không thể xử lý bằng code 
+ Khảo sát phân hệ văn phòng phẩm và đưa ra quy trình để người dùng sử dụng 
+Chuyên viên triển khai công ty INFOMED  VN từ 10/2019  đến nay  
+   Triển khai Bệnh Án Điện Tử EMR : 
+ Làm việc với trưởng phòng Kế Hoạch Tổng Hợp và Giám Đốc bệnh viện để đưa ra hướng xử lý khi bổ Bệnh Án 
+Giấy 
+ Tư vấn phòng CNTT và ban lãnh đạo về cơ sở hạ tầng nhằm đạt đực Mức 6 theo thông tư 54 và phát triển 
+phần mềm dựa vào thông tư 46 để Bộ Y Tế chấp nhận bệnh viện vận hành EMR 
+ Quản lý nhân sự và phân công công việc trong đội triển khải. 
+ Họp giao ban để thống nhất, thuyết phúc phía bệnh viện chấp nhận các khuyết điệm hiện hữu của sản phẩm 
+-hảo sát, lên yêu cầu, phát triển Hệ thống HIS Infomed 
+HỌC VẤN 
+ TRƯỜNG ĐẠI HỌC FPT 
+ Chuyên Ngành: Kỹ Sư Phần Mềm 
+NGƯỜI LI ÊN HỆ 
+ HỒ MINH ĐỨC : PGĐ Cty Khoa Việt -  
+KỸ NĂNG 
+ Có khả năng thuyết trình và đào tạo bằng Powerpoint (đã đào tạo hơn 1000 nhân sự thuộc các Bệnh viện 
+ Biết học hỏi và lắng nghe để Ɵếp thu tốt quy trình của phần mềm 
+ Tư vấn giải pháp và thuyết phục người dùng

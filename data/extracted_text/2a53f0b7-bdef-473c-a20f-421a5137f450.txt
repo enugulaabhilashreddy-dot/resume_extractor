@@ -1,0 +1,42 @@
+2012 - 2016 Trường Đại học Công Nghệ Thông Tin - Đại học Quốc Gia HCM
+Sinh viên năm cuối - Khoa Mạng Máy Tính và Truyền Thông - An Ninh
+Thông tin
+2016 - đến nay Tham gia dự án erp sử dụng odoo v7.
+Tham gia phát triển dự án e-commerce ( ).
+2015 - 2016 Xây dựng các website theo yêu cầu : back-end
+Fix lỗi website, xây dựng lại layout website, thêm tính năng website.
+Đầu 2015 - Tìm hiểu về các ngôn ngữ xây dựng website và cách xây dựng
+website
+- Bắt đầu với CMS : joomla
+.
+Kỹ năng chuyên môn - Có kinh nghiệm tham gia dự án ERP:
+ + Tạo, chỉnh sửa permission cho các user trong hệ thống.
+ + Fix bugs sync dữ liệu erp sang magento.
+ + Tạo job sync dữ liệu erp sang magento.
+ + Optimize thời gian của một số chức năng trong product, ...
+- Có kiến thức về  workslow  sale order, purchase order, ...
+- Có kinh nghiệm sử dụng: Odoo, Git, Linux, SQL, PHP, Magento,
+HTML, CSS.
+- Có kinh nghiệm sử dụng framework php : Sifoni(Lavarel + Symfony)
+Kĩ năng mềm - Teamwork
+- Giải quyết vấn đề
+Nguyễn Thanh Nam
+Ngày sinh:  25/8/1994
+Giới tính:  Nam
+Điện thoại:  
+Email:  
+Địa chỉ:  Khu phố 6, phường Linh Trung, Quận Thủ Đức, 
+MỤC TIÊU
+- Được làm việc trong môi trường năng động và thân thiện.
+- Được học hỏi và nâng cao kỹ nâng chuyên môn.
+- Tạo ra nhiều sản phẩm chất lượng.
+HỌC VẤN
+HOẠT ĐỘNG
+KỸ NĂNG
+
+- Đọc hiểu tài liệu tiếng anh tốt
+SƠ THÍCH VÀ TÍNH CÁCH
+- Đam mê lập trình .
+- Thích giao tiếp và kết bạn.
+- Vui vẻ, hòa đồng , thân thiện .
+- Sống lạc quan và luôn đặt mục tiêu để hướng tới.

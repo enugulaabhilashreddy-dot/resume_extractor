@@ -1,0 +1,115 @@
+/
+Frontend Developer with 4 years of
+experience in software development.
+Passionate about exploring and challenging
+myself by applying new technologies to
+projects. Experienced in frontend roles, with
+basic knowledge of backend and strong
+problem-solving abilities.
+Birthday: 1995/10/10
+Gender: Male
+Address: Phường Long Thạch Mỹ, Quận
+9, 
+Phone:
+Email:
+Reactjs
+Redux
+Taiwindcss
+HTML, CSS
+Nextjs
+Nodejs
+AWS
+TypeScript
+English
+ABOUT ME
+CONTACT
+SKILLS
+LANGUAGE
+TRAN NGOC THI
+Dedicated and experienced ReactJS Developer with 4 years of hands-on experience
+in building robust and efficient web applications. Seeking to leverage expertise in
+ReactJS and frontend development to contribute to innovative projects and
+collaborate with dynamic teams. Committed to delivering high-quality solutions that
+meet both user needs and business objectives
+COMPANY: TMA SOLUTION / 2019/08 - 2021/01
+Position: Frontend developer
+At TMA, I participated in a software development project for a major client in the
+logistics industry. In the role of an intern, my tasks included participating in
+requirements analysis, designing and implementing new features of the
+application, as well as assisting in handling and resolving technical issues.
+COMPANY: FPT SOFTWARE / 2021/01 - PRESENT
+Position: Frontend developer
+As part of the FPT Group, I have been involved in a diverse and dynamic work
+environment. During my time at FPT, I have had the opportunity to collaborate
+with talented colleagues and experience engaging software projects. I have
+learned a great deal from this professional environment, enhancing both my
+teamwork and technical skills.
+ROC2K1 / 2019/08 - 2021/01
+Position: Frontend developer
+Led the perfect pixel conversion project aimed at transitioning UI elements from
+Internet Explorer to Chrome and Edge browsers
+UTOP / 2021/01 - 2024/08
+Position: Frontend developer
+The Utop project is a major project undertaken by FPT Software aimed at creating
+a multi-feature online food ordering application. The project includes essential
+FRONTEND DEVELOPER
+OBJECTIVE
+CAREER HISTORY
+PROJECTS
+
+/
+University of Science - VNUHCM
+2013 - 2019
+Physics
+This field focuses on utilizing electronics
+and programming to create efficient and
+user-friendly smart home solutions.
+- Exploring new technologies and side
+projects.
+- Engaging with the developer community
+online.
+- Company culture and team activities.
+- Staying active with sports and outdoor
+hobbies."
+EDUCATION
+HOBBIES
+features such as a rewards system, delivery ordering, adding items to the cart
+functionality, and many more features to optimize the user shopping experience.
+Role: 
+   + Build commons components. 
+   + Collaborated closely with the Backend team to integrate the interface with
+services and databases. 
+   + Create screen of page website based on design.
+LONGCHAU DESIGN GUILDLINE. / 2021/09 - 2022/02
+Position: Frontend developer
+The Long Chau Design Guideline project aims to develop custom 
+components and package them into npm packages to serve as a foundation 
+for the development of other projects within Long Chau.
+ Role:  
+   + Developed custom components following the design guidelines provided. 
+   + Packaged the components into npm packages for easy distribution and reuse. 
+   + Collaborated with the design team to ensure consistency between the 
+components and the design guidelines. 
+LONGCHAU PHARMACY RETAIL SYSTEM / 2022/02 - 2023/12
+Position: Frontend developer
+The Long Chau Pharmacy Retail System is a large-scale project aimed at
+implementing successful digital transformation with advanced solutions such as
+self-service checkout applications, logistics management systems for delivery and
+shipment, real-time inventory management systems, etc. It has been recognized
+as an exemplary digital transformation award-winning enterprise in 2022.
+Role:  
+  + Played a key role in the successful development and implementation of self-
+service checkout applications, enhancing customer experience and operational
+efficiency. 
+  + Contributed to the optimization of logistics management systems, improving
+delivery and shipment processes. 
+  + Assisted in the implementation of real-time inventory management systems,
+ensuring accurate and efficient inventory tracking.
+NTA / 2023/01
+Position: Frontend developer
+The NTA project is a large-scale endeavor focused on booking tours for Japan,
+featuring an extensive system and a sizable team. It aims to provide
+comprehensive tour booking services, catering to various preferences and needs
+of travelers visiting Japan. 
+Role: Developed and maintained responsive user interfaces using ReactJS,
+ensuring cross-browser compatibility and optimal performance.

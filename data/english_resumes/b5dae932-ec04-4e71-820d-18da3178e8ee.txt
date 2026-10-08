@@ -1,0 +1,403 @@
+1  
+CURRICULUM VITAE 
+                     
+PERSONAL DETAILS  
+ 
+•  Name   : Duy Duc Thien  
+•  Nationality   : Viet Nam 
+•  Sex   : Male 
+•  Marital status  : Married 
+•  Citizen Identification : 001089002407 
+•  Mobile   :  
+•  Skype ID  :  
+•  Zalo    :  
+ 
+OBJECTIVE  
+ 
+•  Constantly striving and improving yourself 
+•  Working, supporting, dedicating effectively with colleagues to build a strong company 
+•  Always listen and understand customers. 
+•  Can satisfy customer with sufficient services in professional way 
+•  Work smart and professional 
+•  Bring value to customer 
+•  Build up team member 
+•  Strong in customer relationship 
+ 
+PROFESSIONAL SUMMARY   
+ 
+•  Have a durable knowledge about C/C++ and basic about C# 
+•  Work as Team Leader about Service Now (Low code platform) 
+•  Have a durable knowledge about HTML, CSS  
+•  Really love power of .NET, C#,  MVC, Core an d Micro Service 
+•  Have experience in Web Development: HTML, CSS, Bootstrap, Angular 
+•  Have experience about SQL Server, Oracle 
+•  Can quickly catchup with new large code base. 
+•  Always curious and willing to learn new things.  
+ 
+  
+  
+  
+EDUCATION & CERTIFICATIONS   
+ 
+From: 2009 
+To: 2014 
+School: Hanoi University of Industry 
+Major: Computer Science
+
+2  
+TECHNOLOGY AND SOFTWARE DEVELOPMENT  SKILLS   
+ 
+Level: 1-4 Aware (Basic, need to practice more); 5-7 Knowledgeable (Intermediate, can use it at 
+work); 8-10 Proficient (Advanced, very good to use it at work)  
+Competencies Level 
+Programing Language 
+C Proficient 8/10  
+C++ Knowledgeable  7/10  
+C# Knowledgeable  6/10  
+HTML Markup, CSS, JavaScript Knowledgeable 7/10 
+Technology & Framework 
+.NET Knowledgeable 7/10  
+jQuery Knowledgeable 5/10  
+ServiceNow Proficient 8/10 
+Angular2+ Knowledgeable 6/10 
+Bootstrap Knowledgeable 5/10 
+Database System  
+SQL Server Knowledgeable 7/10 
+Oracle Knowledgeable 5/10  
+Software Design  
+Design patterns Aware 5/10  
+Development Tool 
+IDE: Visual Studio, Visual Studio Code Proficient  8/10 
+GIT, Jira Knowledgeable 7/10 
+Operating System  
+Windows Proficient  9/10  
+ 
+ 
+LANGUAGES  
+ 
+Language Level Note  
+English Good Listening, Speaking, Reading, 
+Writing
+
+3  
+PROJECT LIST  
+ 
+SaiKoSai (Tinh Van) (01/2022- 06/2022) 
+ 
+Project Description 
+This is a delivery and receipt management system for product 
+distributors. Distributors can track the delivery and status of the item. 
+This system switched from Perl to Java. 
+This is a system that receives letters with information sent to the court 
+from users. Then the system handles and notifies relevant departments. 
+From there, the department processes the user's request, and responds 
+to them with a result email 
+Team size 6 
+Responsibilities 
+Main responsibilities: 
+- Development  
++ Received customer tasks. 
++ Then analyzed and gave solutions to the team. 
++ Assessed the complexity of the task. 
++ Finally did those tasks. 
+•  Backend: 
+1)  Created access code between components. 
+2)  Configured database, made access permission. 
+3)  Exposed API. 
+4)  Unit test, Integration Test, User Acceptance Test. 
+•  Front end: 
+1)  Did communication between Server Side, Client Side with UI. 
+2)  Made template using HTML, CSS for teammate. 
+ 
+- Fix bug 
++ Resolved serious bug in previous version. 
+ 
+- Review code. 
++ Got code from another developer branch and reviewed it to see if it 
+is the right code rules of team, need to correct for clean code or not. 
+ 
+- Support new member. 
+   + Supported new member about business and code rules of team. 
+Programming 
+Languages HTML, CSS, Angular, JavaScript 
+Tools Excel, Pos Man 
+Platform, server and 
+database ServiceNow 
+Used technologies ServiceNow Quebec version
+
+4  
+ChiZai (Tinh Van) (10/2021- 12/2021) 
+ 
+Project Description 
+This is the system responsible for storing, processing and exporting 
+information to the website. The system stores, tracks and updates the 
+status changes of related ticket information, then publishes it to the 
+website portal for users to monitor. 
+Team size 8 
+Responsibilities 
+Main responsibilities: 
+- Development  
++ Received customer tasks. 
++ Then analyzed and gave solutions to the team. 
++ Assessed the complexity of the task. 
++ Finally did those tasks. 
+•  Backend: 
+1)  Created access code between components. 
+2)  Configured database, made access permission. 
+3)  Exposed API. 
+4)  Unit test, Integration Test, User Acceptance Test. 
+•  Front end: 
+1)  Did communication between Server Side, Client Side with UI. 
+2)  Made template using HTML, CSS for teammate. 
+3)  Researched parse data between difference widgets, pages. 
+ 
+- Fix bug 
++ Tested, fixed, maintained bugs about both backend and front end. 
+ 
+- Review code. 
++ Got code from another developer branch and reviewed it to see if it 
+is the right code rules of team, need to correct for clean code or not. 
+ 
+- Support new member. 
+   + Supported new member about business and code rules of team. 
+Programming 
+Languages HTML, CSS, Angular, JavaScript 
+Tools Excel, Pos Man 
+Platform, server and 
+database ServiceNow 
+Used technologies ServiceNow Quebec version
+
+5  
+SenTan (Tinh Van) (07/2021- 10/2021) 
+ 
+Project Description 
+This is a ServiceNow premise project. The main task of the team is to 
+research and understand how ServiceNow stores and processes data in 
+the Incidents, Problems process. In addition, the team also learned about 
+other components of ServiceNow such as: Work Flow, Flow Designer, 
+Portal, Client Side, Server Side... The team also completed the application 
+to receive and feedback information to users about the ITSM, ITOM 
+system 
+Team size 5 
+Responsibilities 
+Main responsibilities: 
+- Research about ServiceNow components 
+- Development  
++ Received customer tasks. 
++ Then analyzed and gave solutions to the team. 
++ Assessed the complexity of the task. 
++ Finally did those tasks. 
+ 
+- Fix bug 
++ Tested, fixed, maintained bugs about both backend and front end. 
+ 
+- Review code. 
++ Got code from another developer branch and reviewed it to see if it 
+is the right code rules of team, need to correct for clean code or not. 
+ 
+- Support new member. 
+   + Supported new member about business and code rules of team. 
+Programming 
+Languages HTML, CSS, Angular, JavaScript 
+Tools Excel 
+Platform, server and 
+database ServiceNow 
+Used technologies ServiceNow Quebec version
+
+6  
+Camera Security project (09/2020– 06/2021) 
+ 
+Project Description: 
+This is a project based on a camera system to perform security and 
+control the entrance and exit of areas. The project's customer is 
+Panasonic. The project is deployed on many types of Camera 
+Team size 22 
+Responsibilities: 
+Main responsibilities: 
+- Development 
++ Maintained and fixed bugs for  MVC web par t of project 
+- Unit Test 
++ Made C# code to perform Unit Testing of  so urce code. 
++ Finally did those tasks. 
+•  Backend: 
+1)  Made C# Test Code. 
+2)  Fixed existing bugs. 
+3)  Updated features of existing web system. 
+ 
+•  Front end: 
+1)  Get data from Backend and show in UI. 
+2)  Create simple UI (html, CSS). 
+3)  Understand basic about html, component, service, module.               
+ 
+- Fix bug 
++ Got bugs from tester and fix them. 
+ 
+Programming Languages: , C#  
+Tools Window, Visual Studio  
+Platform, server and 
+database Windows, SQL Server  
+Used technologies:  MVC 4
+
+7  
+UNIQLO project (06/2019– 08/2020) 
+ 
+Project Description: 
+The system is in charge of checking whether the shipments and product 
+containers are in sufficient quantity or not. If not enough will give a 
+warning. The system uses a handheld code scanner device  
+Team size 4 
+Responsibilities: 
+Main responsibilities: 
+- Development  
++ Received customer tasks. 
++ Implement database 
++ Create store procedure and function in Oracle 
++ Coded checking products 
++ Finally did those tasks. 
+•  Backend: 
+       1)  Configured database in the project's   resource. 
+        2) Unit test, Integration Test 
+ 
+•  Front end: 
+1)  Apply Window Form  
+ 
+- Fix bug 
++ Tested and fixed bugs 
+Programming Languages: C#  
+Tools Window, Oracle  
+Platform, server and 
+database Windows embedded, Oracle  
+Used technologies: Window Form
+
+8  
+HOUSING CAD project (11/2018– 03/2019) 
+ 
+Project Description: 
+The task of the project is to convert the system from a 32-bit version to 
+a 64-bit version. Project members are responsible for estimating the 
+number of lines of code that need to be changed, fixing errors that 
+occur using the corresponding data type. With warnings it can be 
+ignored 
+Team size 6 
+Responsibilities: 
+Main responsibilities: 
+- Convert 
++ Knew data types in x86 and x64. 
++ Estimate number of lines of code. 
++ Change data type from x86 to corresponding data type in x64. 
+Programming Languages: C/C++  
+Tools Window, Visual Studio  
+Platform, server and 
+database Windows, .NET  
+Used technologies: C++MFC
+
+9  
+WACOM project (01/2018– 10/2018) 
+ 
+Project Description: 
+The project's business is simulating drawing and designing electronic 
+circuits. Components are calculated and designed accurately with 
+manufacturing information. The design on software ensures consistency 
+and compatibility between components  
+Team size 22 
+Responsibilities: 
+Main responsibilities: 
+- Development  
++ Received customer tasks. 
++ Then analyzed and gave solutions. 
++ Made detail design 
++ Assessed the complexity of the task. 
++ Finally did those tasks. 
+•  Backend: 
+1)  Research existing source code 
+2)  Define effect part of new code 
+3)  Coding new features of Symbol device base on Input device 
+ 
+- Fix bug 
++ Tested the system 
++ Fixed 30/45 bugs during 3 months 
+ 
+Programming Languages: C++  
+Tools Window, Visual Studio  
+Platform, server and 
+database Windows, SQL Server  
+Used technologies: GDI, C++MFC
+
+10  
+PS4SDK project (01/2016– 12/2017) 
+ 
+Project Description: 
+The project conducts automated testing for PS4 develop. Member's daily 
+job is to run available test cases, test tools and libraries. In addition, the 
+member conducts testing according to a random scenario. Finally, will 
+report the error to the customer, and fix the error if required  
+Team size 24 
+Responsibilities: 
+Main responsibilities: 
+- Made test case 
+- Testing 
++ Received customer tools and libraries. 
++ Executed test code. 
++ Tested existing bugs. 
++ Did scenario test, free test to detect new bugs. 
++ Reported to the customer. 
+ 
+- Maintained 
++ Update the required features from customer. 
+ 
+- Fix bugs 
++ Fixed the bugs if customer request. 
+Programming Languages: C/C++, Make file  
+Tools Window, Visual Studio  
+Platform, server and 
+database Windows  
+Used technologies:
+
+11  
+CarNavi2 project (09/2014– 03/2015) 
+ 
+Project Description: This is a project to develop maps and multimedia for car boards. Project 
+using C programming language and Qt platform  
+Team size 10 
+Responsibilities: 
+Main responsibilities: 
+- Development 
++ Be trained in real project 
++ Coded contact module 
+- Testing 
++ Made QML file using C# 
++ Tested source code in car’s board 
++ Created report to PM  
+ 
+Programming Languages: C/C++  
+Tools Qt Creator, Linux  
+Platform, server and 
+database Linux  
+Used technologies: Qt 
+ 
+TARGETS 
+ 
+No Name Description Time 
+1 English Listening, Speaking, Reading, Writing 
+competently 1 year 
+2 English Direct communication with customers 1,5 year 
+3 Japanese Get Japanese N5 Certification 6 months 
+4 Japanese Get Japanese N4 Certification 1 year 
+5 Japanese Get Japanese N3 Certification 3 years 
+6 Japanese Get Japanese N2 Certification 4 years 
+7 C#,  MVC, Core, Micro 
+Service, Front End Technical Have a durable knowled ge 3 years 
+8 C#,  MVC, Core, Micro 
+Service, Front End Technical 
+Become Senior Developer, Technical 
+Leader 4 years 
+ 
+HOBBIES 
+•  Learning new IT Technical 
+•  Reading books about IT, novels 
+•  Listening to music, singing, make new songs base on existing music 
+•  Making six-eight poems 
+•  Caring and playing with my daughter and my son 
+•  Cooking a delicious meal for my family 
+•  Talking with my relatives 
+•  Playing table tennis, shuttlecock

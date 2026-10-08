@@ -1,0 +1,107 @@
+THÔNG TIN CÁ NHÂN
+Ngày sinh 15/02/1997
+Quốc tịch Việt Nam
+Tình trạng hôn nhânĐã kết hôn
+Giới tính Nam
+NGOẠI NGỮ
+Tiếng Anh Sơ Cấp
+KỸ NĂNG
+Program Launches: C/C++, C#
+Framework: Entity, DevExpress.
+Winform, WPF, OOP.
+Database: MS SQL, MySQL.
+Training Word Skill
+Power Point
+Nhân Viên Tư Vấn Giáo Dục
+Core, Web API
+THÔNG TIN LIÊN HỆ
++ 
+50 Bùi Quốc Khánh, phường 
+Chánh Nghĩa, Thủ Dầu Một, 
+Thành phố Thủ Dầu Một, Bình 
+Dương, Việt Nam
+Nguyễn Văn Nhật Tuấn
+Nhân Viên  - 6 Năm Kinh Nghiệm
+THÔNG TIN CHUNG
+Facebook: Nhật Tuấn | Facebook
+Proﬁle Github: nvntuan123 (Nhat Tuan) ( )
+KINH NGHIỆM LÀM VIỆC
+Project Manager
+Vinamoiltool
+10/2022 - Hiện Tại (4 tháng)
+Quản lý project
+Quản Lý
+Trung Tâm Đào Tạo Lập Trình Tuấn IT
+08/2016 - Hiện Tại (6 năm 6 tháng)
+Đào tạo lập trình từ cơ bản đến nâng cao.
+Nhân Viên
+Trung Tâm Đào Tạo BeCodeChing
+05/2019 - 05/2020 (1 năm 1 tháng)
+Đào tạo tại trung tâm.
+HỌC VẤN
+IT
+Cao đẳng - Cao Đẳng Kỹ Thuật Cao Thắng
+08/2015 - 08/2018 (3 năm 1 tháng)
+HOẠT ĐỘNG
+Tool Management Software
+Project Manager - VinamOil
+10/2022 - 12/2022 (3 tháng)
+- Phân tích yêu cầu, thiết kế hệ thống, thiết kế database, viết document 
+UML.
+- Công nghệ: Winform, , Guna Framework.
+- Ngôn ngữ: C#, MySQL.
+- Mô hình: Model - View - Presenter(MVP)
+- Design pattern: Dependency Injection, Repository Pattern.
+- Công cụ: Visual Studio 2022, MySQL Workbench, Git and Github.
+- Nền tảng: .Net Framework 4.8
+- UML: viết use case, activity diagram, sequence diagram.
+- Unit test.
+Technology Store System Software
+Project Manager - Tuấn IT
+09/2022   
+_ Phần mềm quản lý cửa hàng bán các hàng điện tử - Giáo án dạy học 
+tại Tuấn IT.
+_ Công nghệ: WPF, EntityFramework.
+
+_ Ngôn ngữ: C#.
+_ Mô hình: Model ViewModel Model(MVVM WPF).
+_ Công cụ: Visual Studio 2022, Microsoft SQL Server, Git and Github.
+_ Nền tảng: .Net Core, .Net 6.0
+_ Source code Github: Technology Store System ( )
+_ Viết unit test.
+Web API Token
+Dev - Tuấn IT
+01/2023 - 01/2023 (1 tháng)
+_ Tạo cơ sở dữ liệu với Entity Framework Core Code First.
+_ Framework:  API .NET 7, JWT Bearer Token.
+_ Ngôn ngữ: C#.
+_ Công cụ: Visual Studio 2022, Git and Github.
+_ Github: nvntuan123/WebApi_Asp: WebApi_Asp ( )
+Phần Mềm Quản Lý Cửa Hàng Điện Thoại
+Quản Lý - Tuấn IT
+06/2018 - 08/2018 (3 tháng)
+_ Công nghệ: Winform.
+_ Ngôn ngữ: C#.
+_ Mô hình: Three Layer(GUI - BUS - DAO)
+_ Công cụ: Visual Studio 2015, Microsoft SQL Server, Git and Github.
+_ Nền tảng: .Net Framework.
+_ Source code Github: nvntuan123/QLCHApple: Quản lý cửa hàng apple 
+( )
+_ Project hướng dẫn sinh viên đại học sư phạm kỹ thuật: 
+nvntuan123/ManageProjectStudent: Do quan ly project sinh vien 
+( )
+Game Console Snake & Game Console Minesweeper
+Dev - Tuấn IT
+08/2021 - 09/2021 (2 tháng)
+* Game Snake:
+_ Đồ án cuối khóa lập trình cơ bản C/C++ của học viên.
+_ Ngôn ngữ: C/C++.
+_ Công cụ: Visual Studio 2019, Git and Github.
+_ Trainer: Nhật Tuấn
+_ Github: nvntuan123/SnakeGame: Snake Game in C++ ( )
+* Game Minesweeper:
+_ Giáo án lập trình cơ bản C/C++.
+_ Ngôn ngữ: C/C++.
+_ Công cụ: Visual Studio 2015, Git and Github.
+_ Github: nvntuan123/minesweeper: Project game gò mìn hỗ trợ học viên 
+của trung tâm dạy lập trình Tuấn IT ( )

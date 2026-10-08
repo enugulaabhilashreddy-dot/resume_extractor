@@ -1,0 +1,73 @@
+Ngày sinh
+28/06/1994
+Giới tính
+Nam
+Điện thoại
+Email
+Địa chỉ
+451/3/8 Phạm Thế Hiển, P.3, Q.8,
+MỤC TIÊU NGHỀ NGHIỆP
+Tìm một công việc liên quan đến
+phát triển web hoặc phân tích data.
+Áp dụng những kỹ năng chuyên
+môn và sự hiểu biết vào công việc.
+Đóng góp tích cực vào sự phát triển
+công ty và trở thành một nhân viên
+kỹ thuật chuyên nghiệp.
+KỸ NĂNG
+HTML/CSS
+PHP
+Javascrip/Jquery/Ajax
+React JS/ NextJS
+Tiếng Anh
+Công ty Cổ phần Xe khách Phương Trang – FUTA Bus
+Lines
+03/2022 - Hiện tại
+CÔNG TY CỔ PHẦN VIỄN THÔNG FPT - FPT TELECOM 06/2018 - 3/2022
+CÔNG TY THIẾT KẾ WEBSITE HOÀNG VĨNH PHÁT 05/2017 - 05/2018
+Đại Học Công Nghệ Sài Gòn 10/2012 - 10/2017
+Nhân viên Front-end web (Full time)
+- Phát triển web Front-end : ReactJS + Redux + Antd , NextJs + CMS Strapi 
+Phát triển sản phẩm thanh toán vé xe bằng FutaPay, tra cứu thông tin, điều
+phối chuyến, cài đặt.
+Phát triển Web blog.
+Bảo trì và phát triển sản phẩm.
+Dựng layout khi có thiết kế.
+Nhân viên web developer (Full time)
+- Phát triển web sử dụng framework : Yii2, , AngularJs,ReactJs.  
+Phát triển sản phẩm lưu trữ ﬁle cho người dùng cuối. Phát triển tính năng
+mới, sự kiện khuyến mãi.
+Quản lý database,  sử dụng Mysql, viết procedure, trigger.
+Kết nối API thanh toán với các đối tác khác: MoMo, ShopeePay, BlueSea,
+ZaloPay...
+Đối soát doanh thu các cổng thanh toán
+Triển khai các chương trình, sự kiện đặc biệt trên trang dịch vụ.
+Bảo trì và phát triển sản phẩm
+Dựng layout khi có thiết kế 
+Nhân viên lập trình wordpress (Full time)
++ Xây dựng website dựa trên template, điều chỉnh theo ý kiến khách hàng 
++ Chỉnh sửa custom post type, custom category, custom archive, custome page
+, tạo shortcode, viết function custom 
++ Sử dụng Woocommerce website bán hàng, ACF để tạo custom ﬁeld động 
++ Sử dụng plugin có sẵn 
+Chuyên ngành: Công Nghệ Thông Tin
+Trình độ: Đại học (chính quy)
+Về Kiến thức:  
++ Xây dựng layout theo yêu cầu - responsive : sử dụng HTML, CSS - SCSS , Antd,
+Material IO, Material UI. 
++ Javascipt, Jquery, Ajax : Xử lý các sự kiện, animation, call API. 
++ Redis, mongo, mysql : Lưu trữ dữ liệu. 
++ Biết sử dụng Firebase Authen, Tailwind, Git, Postman , RESTful APIs, ,
+MongoDB, MariaDB, Graphql. 
++ Sử dụng các library có sẵn, sử dụng composer, npm. 
+Về Ý thức và trách nhiệm: 
++ Có khả năng tìm tòi, học hỏi, chủ động trong công việc. 
+TRẦN VŨ LINH LẬP TRÌNH WEB
+KINH NGHIỆM LÀM VIỆC
+HỌC VẤN
+THÔNG TIN THÊM
+
++ Khả năng tiếp thu tốt, ham học hỏi, tinh thần cầu tiến. 
++ Tinh thần trách nhiệm cao: hết mình trong công việc, chịu được áp lực. 
++ Biết lắng nghe, hòa đồng, xử lý tình huống tốt. 
+©

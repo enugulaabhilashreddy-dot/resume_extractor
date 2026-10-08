@@ -1,0 +1,203 @@
+CURRICULUM VITAE  
+      
+PERSONAL DETAILS  
+ 
+ 
+ 
+Full name  Ho Huy Thach 
+Job title  Senior Software Developer 
+Nationality Vietnamese 
+DoB  September 06 th , 1993 
+Gender  Male 
+Cell phone  
+Email          
+Skype        hohuythach 
+Address      1051/41/35, Hau Giang, 13 Ward, 
+                                    6 District, Ho Chi Minh City 
+ 
+PROFESSIONAL SUMMARY 
+•  7 years+ of professional experience in software development. 
+•  Experience in using experience in databases like Oracle, SQL Server 
+•  Have experience with frameworks like .NET, JSF (JavaServer Faces),  
+•  Strong skills in developing and maintaining APIs for banking, web E-commerce, and 
+applications 
+•  Have experience with mentoring, training, and support tasks for members of the team 
+ 
+EDUCATION & CERTIFICATIONS 
+•  Dec 2015: The degree of engineer, IT Faculty, Da Lat University, Vietnam 
+ 
+EMPLOYMENT HISTORY 
+•  Jan 2024 – Now   Senior software developer, VIFON Company  
+•  Apr 2017 – Dec 2023 Senior software developer, Nichietsu System Develop ment, 
+HCMC 
+•  Mar 2016 – Mar 2017 Software developer, DongA Money Transfer, HCMC
+
+TECHNOLOGY AND SOFTWARE DEVELOPMENT SKILLS 
+ 
+Level : 1-4 Aware (Basic, need to practice more); 5-7 Knowledgea ble (Intermediate, can use it 
+at work); 8 -10 Proficient (Advanced, very good to use it at work)  
+Competencies  Level  
+Programming Languages  
+MVC ,  LinQ , Entity Framework  Proficient , 8 /10  
+ Knowledgeable , 7/10  
+.Net Core, .Net Core MVC  Proficient , 8/10  
+Java, JSP  Proficient , 8 /10  
+Frontend Web Technologies  
+HTML5, CSS3  Knowledgeable , 7/10  
+CSS, JavaScript,  JQuery  Proficient , 8/10  
+Databases  
+SQL Server  Proficient , 9/10  
+MySql , SQLite  Knowledgeable , 8/10  
+Oracle  Proficient , 9/10  
+Tools  
+IDE: Visual Studio,  IIS , NetBean, Glassfish Server  Proficient , 9/10  
+Crystal report  Knowledgeable , 7/10  
+Computing platform 
+Azure  Knowledgeable , 8/10  
+ 
+LANGUAGES 
+ 
+Language  Level  Note  
+English Good Reading, Writing 
+English Basic Verbal skills
+
+PROJECT LIST 
+ 
+VIFON Portal (01/2024 to 06/2024) 
+Project description 
+Develop new modules for the employee management system  
+(document management functions, manage meal registration, and 
+control entrance gates ) 
+Responsibilities 
+Responsible for .Net developer, DB admin, and Data Engineer  
+- Communicate with team members and departments: Supply, 
+factory, IT team 
+- Collaborate with the team to analyze and discuss project 
+requirements, ensuring a comprehensive understanding of the scope 
+- Ensure compatibility and integration requirements across  systems  
+Programming languages  C#, JQuery, Java Script 
+Tools Visual Studio, SVN 
+Platform, server, and 
+database  IIS, SQL 
+Technologies .NET Core 4.5 
+ 
+ 
+Sales process management system (07/2018 to 12/2023) 
+Project description Develop, implement, maintain, and upgrade new modules for the 
+Sales process management system (client: Heineken Vietnam) 
+Responsibilities 
+Responsible for .Net developer, DB admin, and Data Engineer  
+- Communicate with team members and departments: marketing, 
+sales, risk management 
+- Collaborate with the team to analyze and discuss project 
+requirements, ensuring a comprehensive understanding of the scope 
+- Optimize code for efficiency and performance. Address and fix 
+any bugs that arise during the development process 
+- Build additional functions to support the sales team’s daily work 
+- Ensure compatibility and integration requirements across  systems  
+Programming languages  C#, Typescript, Java Script 
+Tools Visual Studio, SVN 
+Platform, server, and 
+database  IIS, SQL 
+Technologies .NET Core 4.5
+
+Customer transaction management system (02/2018 to 07/2018)  
+Project description Develop, upgrade, and maintain new modules for the NOIS system 
+(client:  Bank of Mizuho - NEC Corporation, Japan) 
+Responsibilities 
+Responsible for developer 
+- Communicate with team members 
+- Development the new functionality on the new app  
+- Implement CRUD for both UI Admin and Client and BE 
+- Conduct thorough testing, including unit testing, integration testing, 
+and system testing, to ensure the reliability and functionality of the  
+developed systems 
+- Participate in code reviews to ensure code quality, adherence  to 
+coding standards, and knowledge transfer within the development 
+team  
+Programming languages   Typescript, jQuery 
+Tools Visual Studio, SVN 
+Platform, server, and 
+database  Oracle, SQL, IIS 
+Technologies .NET Core 2.2, jQuery 
+ 
+Solicitors Regulation Authority System (09/2017 to 02/2018) 
+Project description Building an Application Developed for The law firm of the Unit ed 
+Kingdom Bar Association (client: Hunter Macdonald Ltd., England) 
+Responsibilities 
+Responsible for software developer 
+- Communicate with team members 
+- Scrum application development  
+- Receive and analyze requests from customers 
+- Develop applications according to customer requirements  
+- Test the application after completing each sprint  
+- Implement features  
+Programming languages  C#, Typescript, Java Script 
+Tools Visual Studio, Git 
+Platform, server, and 
+database  
+Dynamic CRM, InRule, FormIO 
+ 
+Technologies Microsoft Azure, SCRUM
+
+Prudential insurance contracts (04/2017 to 09/2017) 
+Project description Management program and support for printing Prudential insurance 
+contracts  (client: Prudential Vietnam ) 
+Responsibilities 
+Responsible for software developer 
+- Communicate with team members 
+- Analyze requirements, analysis/designs 
+- Program maintenance 
+- Implement migration for changing the database  
+Programming languages  C#, 
+Tools Visual Studio, Crystal Report, SVN 
+Platform, server, and 
+database  IIS, SQL Server 
+Technologies .NET Core 2.2 
+ 
+ 
+Remittance transaction management system - DongA Money Transfer  (04/2017 to 
+09/2017) 
+Project description Develop, implement, maintain, and upgrade new modules for the 
+Remittance transaction  management system  
+Responsibilities 
+Responsible for software developer 
+- Convert the functionality of the old app into the new app  
+- Development the new functionality on the new app  
+- Implement migration for changing the database 
+- Implement CRUD on UI Admin and Client 
+- Implement CRUD on BE 
+- Collaborate with business analysts and stakeholders to gather and 
+analyze requirements for insurance and credit-related systems 
+- Design and architect Java-based solutions for insurance and cre dit 
+management systems, ensuring scalability, performance, and 
+security  
+Programming languages  Java 
+Tools NetBean, SVN 
+Platform, server, and 
+database  Oracle, Glassfish Server  
+Technologies Java Server Faces
+
+REFERENCE 
+ 
+•  For VIFON Company:  
+ Nguyễn Mạnh Cường (Mr.) - IT Management -  
+- (+ . 
+ Trần Văn Vương (Mr.) - IT Software –  - (+ . 
+ 
+•  For Nichietsu System Development:  
+ Trần Hữu Hoàng (Mr.) - Managing Director - - (+ 
+ 
+ Nguyễn Thị Hoài Thương (Ms.) - HR Manager & BD Manager (Staffing Service) - 
+- (+  
+ 
+•  For Heineken Vietnam (my client): Phan Đại Phong (Mr.) - Head of IT  supervisor - 
+- (+  
+ 
+•  For NEC Corporation, Hunter Macdonald Ltd., Prudential Vietnam (my client):  
+ Nguyễn Minh Dũng (Mr.) - HR Manager - (+  
+ Nguyễn Thị Hoài Thương (Ms.) - HR Manager & BD Manager (Staffing Service) - 
+- (+  
+ 
+•  For DongA Money Transfer period: Lê Thị Hồng Nhung (Ms.) - Chief Huma n Resources 
+Officer - - (+

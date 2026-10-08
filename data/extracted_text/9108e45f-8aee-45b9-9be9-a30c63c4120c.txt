@@ -1,0 +1,224 @@
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 09/ /2018
+- Có gần 3 năm kinh nghiệm lập trình Android.
+- Có kinh nghiệm làm trong môi trường ngân hàng
+- Có kinh nghiệm, kiến thức về business khi làm các sản phẩm Mobile Banking.
+- Sử dụng thành thạo các ngôn ngữ: Java, Android Native (Java / Kotlin)
+- Có kinh nghiệm làm việc với Git, Jira.
+- Nắm rõ mô hình Agile và quy trình Scrum trong phát triển phần mềm.
+- Có kiến thức về UML: Class Diagram, Use case, Activity Diagram, Sequence Diagram,
+Component Diagram, Package Diagram,...
+- Sử dụng thành thạo các tools: Android Studio, NetBeans, Eclipse, Visual Diagram, Visual
+Studio, Sublime Text, ...
+LÀM VIỆC TẠI TPBANK 09/2020 - HIỆN TẠI
+Mục Tiêu Nghề Nghiệp
+- Luôn nâng cao kiến thức chuyên môn và đạt được những vị trí cao hơn trong công việc.
+ Học Vấn
+- Chuyên ngành: Information Technology
+ PR Bản Thân
+ Kinh Nghiệm Làm Việc
+ -Vị trí: Chuyên Viên Lập Trình
+   - Project: HYDROBANK (là key member của dự án)
+      + Business domain: Mobile Banking
+      + Thời gian: 09/2020 - Hiện Tại
+      + Mô tả app: 
+        * Ngôn ngữ: Java
+        * Là sản phẩm Mobile Banking.
+        * Phạm vi sử dụng: Người dùng sử dụng tài khoản ngân hàng TPBank.
+        * Với ứng dụng này khách hàng có thể dễ dàng thực hiện các giao dịch, thao tác ngay trên
+chính chiếc smartphone của mình bất cứ khi nào, bất cứ nơi đâu.
+        *  Top 1 ứng dụng ngân hàng được tải nhiều nhất tại Việt Nam.
+        * Tích hợp công nghệ định danh khách hàng điện tử (eKYC) toàn diện trên ứng dụng di
+động.
+        * Được thiết kế với nền tảng microservice, cho phép nâng cao khả năng đáp ứng giao
+dịch cùng lúc cho hàng triệu khách hàng.
+      + Vai trò trong dự án:
+        * Là key member của dự án, tham gia maintenance các chức năng cũ và phát triển các
+chức năng mới (tích hợp phương thức xác thực E-Token+, kết nối dịch vụ với các đối tác, tạo
+tài khoản thanh toán Alias,...)
+      + Kinh nghiệm học được: 
+        * Có kinh nghiệm làm việc tại một trong những ngân hàng số hàng đầu Việt Nam.
+        * Sự tỉ mỉ, kỷ luật trong công việc khi được làm việc trong một môi trường ngân hàng lớn.
+        * Nâng cao kiến thức về Mobile Banking business.
+        * Nâng cao kỹ năng code.
+        * Kiến thức về công nghệ Backbase.
+     + Link reference:
+ 13/07/1996
+ Nam
+
+
+ Khương Đình, Thanh Xuân, Hà
+Nội
+
+KỸ NĂNG
+Kỹ năng lập trình Java/Android Native
+(Java / Kotlin)
+Tư duy thuật toán
+Tiếng Anh
+Tin học văn phòng
+Kỹ năng giao tiếp
+Kỹ năng làm việc nhóm
+Khả năng thích nghi
+SỞ THÍCH
+Đọc sách, tìm hiểu và cập nhật
+thông tin về nhiều lĩnh vực trong và
+ngoài nước, đặc biệt là lĩnh vực
+công nghệ thông tin.
+Đá bóng, xem phim, đi du lịch.
+Vũ Đức MạnhVũ Đức Mạnh
+ỨNG TUYỂN VỊ TRÍ ANDROID DEVELOPER
+0
+
+LÀM VIỆC TẠI VNPAY 02/ /2020
+l=vi&gl=US
+ 
+    
+ -Vị trí: Android Developer / Software Engineer
+   - Project: EXIMBANK (là key member của dự án)
+      + Business domain: Mobile Banking
+      + Thời gian: 05/ /2020
+      + Mô tả app: 
+        * Ngôn ngữ: Java
+        * Là sản phẩm Mobile Banking.
+        * Phạm vi sử dụng: Người dùng sử dụng tài khoản ngân hàng Eximbank.
+        * Là ứng dụng Mobile Banking để người dùng Eximbank thực hiện các hoạt động Banking
+thông qua Internet 24/7.
+        *  Người dùng Eximbank có thể thực hiện đầy đủ có hoạt động thao tác qua app Mobile
+Banking như: Chuyển tiền, Kiểm tra thông tin tài khoản, tiết kiệm, Nạp tiền điện thoại,...
+        * Các chức năng của app: Login, QRPay, Chuyển khoản, tiết kiệm, nạp tiền điện thoại, tra
+cứu thông tin tài khoản, nạp tiền điện thoại, tra cứu lịch sử giao dịch, OTT, ...
+      + Vai trò trong dự án:
+        * Là key member của dự án, tham gia maintenance app ở version cũ và phát triển các
+chức năng của app ở version new design.
+        * Chạy checklist dự án.
+        * Setup, build project qua Zenkin.
+      + Kinh nghiệm học được: 
+        * Hiểu và có khả năng thực hiện được các tính năng của dự án Mobile Banking.
+        * Nâng cao kỹ năng đọc, hiểu requirement của một dự án Mobile Banking.
+        * Nâng cao kiến thức về Mobile Banking business như OTP, OTT, Soft OTP, ...
+        * Setup, build project qua Zenkin.
+        * UI/UX của app Mobile Banking.
+     + Link reference:
+  
+   - Project: SACOMBANK (CAMBODIA) (là key member của dự án)
+     + Business domain: Mobile Banking
+     + Thị trường: Cambodia
+     + Thời gian: 04/ /2020
+     + Mô tả app:
+       * Ngôn ngữ: Java
+       * Là sản phẩm Mobile Banking.
+       * Phạm vi sử dụng: Người dùng sử dụng tài khoản ngân hàng Sacombank tại Cambodia.
+       * Là ứng dụng Mobile Banking để người dùng Sacombank tại Cambodia thực hiện các
+hoạt động Banking thông qua Internet 24/7.
+       * Người dùng Sacombank tại Cambodia có thể thực hiện đầy đủ có hoạt động thao tác
+qua app Mobile Banking như: Chuyển tiền, Kiểm tra thông tin tài khoản, tiết kiệm, Nạp tiền
+điện thoại,...
+       * Các chức năng của app: Login, QRPay, Chuyển khoản, tiết kiệm, nạp tiền điện thoại, tra
+cứu thông tin tài khoản, nạp tiền điện thoại, tra cứu lịch sử giao dịch, lưu danh bạ thụ hưởng,
+...
+     + Vai trò trong dự án:
+       * Là key member của dự án, tiếp nhận dự án từ tháng 04/2020 và tham gia phát triển các
+chức năng như chuyển khoản (trong ngân hàng và liên ngân hàng), thanh toán dư nợ, tích hợp
+OTT, tra cứu thông tin tài khoản, Nạp tiền điện thoại, ...
+       * Dev-IT cho toàn bộ app.
+       * Setup, build project qua Zenkin.
+     + Kinh nghiệm học được:
+       * Hiểu và có khả năng thực hiện được các tính năng của dự án Mobile Banking.
+       * Nâng cao kỹ năng đọc, hiểu requirement của một dự án Mobile Banking.
+       * Nâng cao kiến thức về Mobile Banking business như OTP, OTT, Soft OTP, ...
+       * Setup, build project qua Zenkin.
+       * UI/UX của app Mobile Banking.
+
+LÀM VIỆC TẠI FPT SOFTWARE (HƠN 1 NĂM KINH NGHIỆM) 12/ /2020
+   
+   - Tham gia support và phát triển các dự án Saigonbank, Seabank, Ví VNPAY,
+KienLongBank, VETC...
+    
+ -Vị trí: Android Developer / Software Engineer
+   - Project: myFSOFT (là key member của dự án)
+      + Business domain: Mobile
+      + Thời gian: 12/ /2019
+      + Mô tả app: 
+        * Ngôn ngữ: Kotlin
+        * Là sản phẩm product.
+        * Phạm vi sử dụng: Toàn bộ FPT Software
+        * Là một hệ sinh thái cho toàn bộ FPT Software. Mọi hoạt động của nhân viên FPT
+Software cần thực hiện trên web tools đều có thể thực hiện trên app. 
+        * Thực hiện quản lý tất cả các hoạt động của FPT Software, như quản lý hệ thống xe đưa
+đón nhân viên Bus Router, Shuttle Bus; hệ thống chấm công quẹt thẻ cho nhân viên toàn bộ
+FPT Software.
+        * Là một trong những dự án product trọng điểm của FPT Software, được các cấp lãnh
+đạo rất quan tâm do tầm quan trọng của nó đối với công ty. Đã đạt được nhiều giải thưởng
+trong các cuộc thi phạm vi tập đoàn FPT.
+        * Các chức năng của app: New, Wiki, Work, Game, SmartID, Job, Organization chart, Bus
+Info, ...
+      + Vai trò trong dự án:
+        * Là key member của dự án, tham gia code base project, custom view, logic khó trong
+project.
+        * Code nhiều chức năng của project (UI + Logic) như: News, Post Job, , Organization
+chart, Bus Info, Notification ...
+        * Code animation cho toàn bộ app.
+        * Nâng version app, Dev-IT cho toàn bộ app.
+        * Training các member mới của team android trong dự án.
+      + Kinh nghiệm học được: 
+        * Hiểu rõ được từng quy trình phát triển của một sản phẩm product.
+        * Có kỹ năng đọc, hiểu requirement.
+        * Kiến thức về QA.
+        * Tạo design, solution technical.
+        * Coding + Dev-IT + Gen Swagger.
+        * UI/UX + Design Pattern.
+        * Sử dụng Room, MVVM, MVP.
+        * Làm việc teamwork.
+        * Kỹ năng truyền đạt (do training new member trong dự án)
+        * Sử dụng thành thạo Jira.
+        * Release một sản phẩm product.
+     + Link reference:
+  
+   - Project: myFPT (là key member của dự án)
+     + Business domain: Mobile 
+     + Thời gian: 08/ /2020
+     + Mô tả app:
+       * Ngôn ngữ: Kotlin
+       * Là sản phẩm product.
+       * Phạm vi sử dụng: Toàn bộ FPT
+       * Là ứng dụng phát triển dựa trên ứng dụng myFSOFT nhưng với quy mô hệ sinh thái lớn
+hơn là toàn bộ tập đoàn FPT. Toàn bộ hoạt động của nhân viên tập đoàn FPT đều có thể thực
+hiện trên app.
+       * Được chủ tịch Trương Gia Bình khen ngợi và đánh giá là một dự án tiềm năng lớn.
+       *Ngoài một số chức năng giống ở trên myFSOFT, có nhiều tính năng mới như eRich,
+Lucky Money,...
+
+Android Certified Application Developer AND
+Certificate Samsung Internship Program 2018
+THAM GIA CUỘC THI LẬP TRÌNH QUỐC TẾ SAMSUNG
+COLLEGIATE PROGRAMMING CUP 2017
+2017
+     + Vai trò trong dự án:
+       * Là key member của dự án, tham gia code base project, custom view, ...
+       * Code nhiều chức năng chính trong app (UI + Logic).
+       * Nâng version app, Dev-IT cho toàn bộ app.      
+       * Code animation cho toàn bộ app.
+       * Training các member mới của team android của dự án
+       * Quản lý, giao task, review code các member mới của team android trong dự án (3 new
+member)
+     + Kinh nghiệm học được:
+       * Nâng cao kỹ năng đọc, hiểu requirement.
+       * Viết QA một cách chuyên nghiệp.
+       * Tạo design theo material, solution technical.
+       * Nâng cao kỹ năng Coding + Dev-IT.
+       * Nâng cao kỹ năng, kiến thức về UI/UX + Design Pattern.
+       * Nâng cao khả năng teamwork.
+       * Nâng cao kỹ năng presentation do hay tham gia các buổi seminar về công nghệ mới
+android.
+ Chứng Chỉ
+ Hoạt Động
+Vai trò: Thí sinh dự thi
+- Nội dung: Thi về thuật toán và cấu trúc dữ liệu.
+- Sử dụng các ngôn ngữ C / C++ / Java
+ Thông Tin Thêm
+- Là người nhiệt tình, chăm chỉ, trung thực, cẩn thận.
+- Có tinh thần cầu tiến, sáng tạo, làm việc siêng năng, kiên nhẫn, chịu được áp lực công việc
+và có tinh thần chịu trách nhiệm cao trong công việc.
+- Sẵn sàng tiếp thu ý kiến, cải thiện nhược điểm.
+- Chủ động trong công việc.
+- Có khả năng quản lý thời gian tốt.
+©

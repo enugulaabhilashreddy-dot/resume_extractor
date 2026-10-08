@@ -1,0 +1,119 @@
+LÊ NGỌC HÂN
+THÔNG TIN CÁ NHÂN
+
+
+
+
+
+01-01-1992
+Nam
+Thủ Thừa, Long An
+TIN HỌC
+Word
+Excel
+PowerPoint
+Outlook
+TIẾNG ANH
+Nghe
+Nói
+Đọc
+Viết
+SỞ THÍCH
+Câu cá, Du lịch, Ăn uống
+LẬP TRÌNH VIÊN
+MỤC TIÊU NGHỀ NGHIỆP
+Với trên 3 năm kinh nghiệm làm việc trong ngành Công nghệ thông tin, Thành thạo về ngôn 
+ngữ lập trình PHP,.. và có kiến thức về  jQuery, CSS, HTML, JavaScript, MySQL, Nodejs...  
+Tôi hy vọng vị trí lập trình viên tại Quý công ty sẽ là cơ hội để tôi ứng dụng những kỹ năng 
+mình có. Đồng thời phát huy hơn nữa chuyên môn của bản thân và học hỏi thêm để góp 
+phần phát triển công ty trong những năm tiếp theo.
+KỸ NĂNG
+Kỹ năng chính:
+Kỹ năng khác:
+Lập trình PHP Zend Framework 1x
+ Lập trình frontend: HTML, Jquery, CSS (Bootstrap V3-5) ;Có 
+kiến thức về Magento, Nodejs, Lavarel, SEO  
+KINH NGHIỆM LÀM VIỆC
+ - 08-2014 10-2015
+HỌC VẤN
+Chuyên ngành:
+Tên bằng cấp:
+Loại tốt nghiệp:
+ - 
+Chuyên ngành:
+Tên bằng cấp:
+Loại tốt nghiệp:
+ - 
+Chuyên ngành:
+Tên bằng cấp:
+Loại tốt nghiệp:
+ - 
+Chuyên ngành:
+Tên bằng cấp:
+Loại tốt nghiệp:
+ - 
+Chuyên ngành:
+Tên bằng cấp:
+Loại tốt nghiệp:
+ - 
+10-2010 10-2014
+ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH
+Khoa học máy tính
+Kỹ sư
+Trung bình khá
+05-2013 07-2013
+TRUNG TÂM ĐÀO TẠO CÔNG NGHỆ THÔNG TIN NHẤT NGHỆ
+Lập trình website năng cao Zend Framework
+Chứng chỉ
+Giỏi
+08-2013 09-2013
+TRUNG TÂM ĐÀO TẠO CÔNG NGHỆ THÔNG TIN NHẤT NGHỆ
+Search Engine Optimization (SEO)
+Chứng chỉ
+Giỏi
+09-2020 10-2020
+CÔNG TY CỔ PHẦN LẬP TRÌNH ZEND VIỆT NAM
+LẬP TRÌNH WEBSITE NĂNG CAO LARAVEL FRAMEWORK
+Chứng chỉ
+Khá
+04-2020 06-2020
+TRUNG TÂM ĐÀO TẠO TIN HỌC KHOA PHẠM
+FULL STACK JAVASCRIPT MEAN
+Chứng chỉ
+Khá
+
+Mô tả công việc:
+Thành tích đạt được:
+Mô tả công việc:
+Thành tích đạt được:
+ - 
+LẬP TRÌNH VIÊN
+CÔNG TY TNHH THIẾT KẾ WEBSITE TRÍ PHẠM
+- Lập trình frontend: HTML, CSS, JQUERY cho các layout PSD.
+- Lập trình cho các dự án website sử dụng PHP
+- Tối ưu hóa website theo tiêu chuẩn SEO;
+- Tái cấu trúc lại các website theo yêu cầu;
+- Thực hiện các công đoạn để đưa website vào hoạt động như upload dữ liệu lên host, xử lý 
+lỗi, sự cố liên quan;
+- Lập tài liệu xây dựng hệ thống và tài liệu hướng dẫn người sử dụng.
+- Hoàn thành tốt công việc được giao từ cấp trên.
+- Nắm vững CSS, HTML, Jquery
+11-2015 10-2022
+LẬP TRÌNH VIÊN
+CÔNG TY TNHH TM XNK HIỂN ĐẠT
+- Phân tích thiết kế hệ thống;
+- Lập trình frontend: HTML, CSS, JQUERY cho các layout PSD
+- Tối ưu hóa website theo tiêu chuẩn SEO;
+- Tái cấu trúc lại các website theo yêu cầu;
+- Thực hiện các công đoạn để đưa website vào hoạt động như upload dữ liệu lên host, xử lý 
+các lỗi và sự cố liên quan;
+- Lập tài liệu xây dựng hệ thống và tài liệu hướng dẫn người sử dụng;
+- Hoàn thành tốt công việc được giao từ cấp trên.
+- Có thêm kiến thức cơ bản về Magento, Nodejs, Lavarel  
+- Nắm vững CSS, HTML, Jquery
+- Một số dự án website đã làm:
++
++
++
++
+....

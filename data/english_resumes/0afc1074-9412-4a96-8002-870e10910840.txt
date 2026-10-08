@@ -1,0 +1,192 @@
+PERSONAL DETAILS
+Candidate Name Mr Ha (1989)
+Race/ Gender Vietnamese/ Male
+Residential Area Ho Chi Minh, Vietnam
+Language English (Pre Intermediate), Vietnamese
+(Native)
+Marital Status Single
+Phone
+Email
+EDUCATION BACKGROUND & TRAINING COURSE
+2007 - 2010 Software Engineering
+Ly Tu Trong College of Ho Chi Minh City
+2010-2012 Bachelor of Software science
+Industrial University of Ho Chi Minh City
+PROPOSAL FOR CANDIDATE
+Attributes Willing to learn, supportive and
+responsible, committed.
+Able to work under high pressure
+Ability to self-study documents and apply
+new technologies
+Being resourceful, good organizational
+skill
+Goal-oriented, independent, drive and
+initiative
+Experience 8+ years of working experience in Web
+application, Web service:
+Experience working with a PHP
+
+framework(
+Strong Yii2
+, CakePHP)
+Experience working with a Javascript
+framework (Angular)
+Working knowledge of databases and
+SQL, MYSQL
+Experience working with Linux
+environments (Ubuntu 18.04, etc.) and
+web server (Apache, Nginx, etc.)
+Experience building or working with Rest
+APIs
+Ability to manage multiple, competing
+priorities simultaneously
+Able to work well both independently and
+with the team to ensure quality.
+Love to learn and ask questions, be
+detail-oriented, and enjoy working with
+people.
+English:
+Pre Intermediate
+, and willing to
+improve your English skill.
+PHP
+Yii2 framework,
+Yii2: RESTful api,
+Angular Framework
+Angularjs,
+Nodejs,
+Mysql,
+Javascript,Jquery,Ajax,
+Css, Html
+
+PROFESSIONAL EXPERIENCE
+Name of employer :  E-SPACE (Vietnamese  online education  company)
+Designation:  Product Manager
+Tenure : 2015 - 2020
+Reason for leaving:
+I am currently looking for a full-time position in an environment that offers a greater
+challenge, increased benefits for myself, and the opportunity to contribute my experience
+and knowledge to the company advance efficiently and productively.
+Project Name E-land
+Project Link
+Description E-land is a product startup Real estate
+technology platform.
+It's a product real estate technology
+platform that helps connect real estate
+brokers with each other.
+Development Yii2 framework, nodejs, Mysql
+Project Name E-space
+Project Link
+Description E-space is a product startup education of
+Paxcreation company.
+It’s a product that my boss brought from
+Japan to develop and operate in Vietnam.
+After 3 years of operation, E-space
+separated from the Paxcreation company
+to operate separately.
+
+E-space had been in development and
+operation for 8 years.
+Project ideas
+We hire foreign teachers to open class
+schedules on E-space.
+We will divide the lesson into a 10-class,
+20-class, 30-class package and resell it to
+students.
+Each session on E-space has 25 minutes
+and 50 minutes.
+Each time, students will go to the E-space
+system such as App, Website to book class
+schedules through the system.
+At class, students will join the teacher
+through the live stream online platform.
+Build System:
+We started a project with 2 people to build
+a system.
+I was the one responsible for analyzing the
+request ideas from my boss.
+Data and functions are designed and
+developed by me.
+The product was finished in 3 months,
+including basic functions such as: Teacher
+opening class schedule, closing class
+schedule, students setting a class schedule,
+canceling a class schedule …
+After the project came into operation, I
+was responsible for developing the
+extended functions until now.
+Function system:
+Sell and pay the package via E-space by
+integrating payment functions.
+Manage the opening of the teacher's
+
+schedule, teacher's hours, the quality of
+the teacher's teaching.
+Manage class schedules, cancellations and
+purchased packages.
+System livestream, chat, record video
+during teaching.
+Export payroll reports by month,
+Export revenue calculation report
+Export reports calculating the number of
+students enrolled monthly
+The system to build to manage teaching
+and booking.
+The system can record and output video
+after student and teacher class finishes.
+E-space system includes page basic
+functions:
+Teacher page is page for teacher
+Student page is page for student
+Company page is page for company
+Admin page is setting system
+Backend page is page for employees
+App for student Iphone/Ipad, Android,
+Windows
+App for teacher Iphone/Ipad, Android,
+Windows
+Achievement We develop the product in 8 years
+Development Yii2 framework, Yii2 api, nodejs, nodejs
+socket, WebRTC, Mysql, Angularjs,
+Java for app, Web RTC
+Project Name E-land
+Project Link
+
+Description E-land is a page for sale real estate for rent
+Achievement We develop the product in 2 years
+Development Yii2 framework, Yii2 api, nodejs, nodejs
+socket, Mysql, Jquery, Javascript, Ajax.
+Project Name Boxo
+Project Link
+Description Chat systems like facebook
+Achievement We develop the product in 3 months
+Development Sequelize ORM, nodejs, nodejs socket,
+Mysql, Jquery, Javascript,
+Name of employer : Pax Creation Asia,
+Designation:  Web Developer
+Tenure : 2013 - 2015
+Project Name E-space
+Project Link
+Description The system my boss brought from Japan
+since 2012
+After that, The system was analyzed and
+redesigned from the Japanese teaching
+system
+Job description:
+Project Name HR management system
+Description Employee management system.
+
+The manager will assign jobs to
+employees through the system
+The employee accepted,canceled the job
+The employee entrust other employees
+Calculate and pay employees
+Manage the working hours of employees.
+App for android, ios, windows
+Achievement We finished the project in about 1 years.
+Development Yii2 Api, Angularjs 1.
+Project Name
+Description Japanese language learning and teaching
+project
+Achievement I finished the project about 2 months
+Development Yii2 framework

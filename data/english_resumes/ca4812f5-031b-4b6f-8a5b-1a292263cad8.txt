@@ -1,0 +1,210 @@
+Tran Quoc Ung  
+(Trần Quốc Ứng) 
+Senior Java Developer (Open Part-time / Freelancer) 
+ 
+SUMMARY 
+• Has over 8 years of software engineering focus on software application (Java – 
+Web about 6 years). 
+ 
+• Core Responsibilities: software developer, participate in new software module 
+development (Web application / windows Application). Verify and manage the 
+defects   
+ 
+• Other skills:   
+- Develop functionalities. 
+- Software development with Java - Struts and Hibernate. 
+- Using Oracle DB and MSSQL2k5. 
+- Participation in new software module development. 
+- Verify and manage the defects. 
+- Supporting team member. 
+- Design and analyse programming document. 
+  
+• Accomplishments:   
+- Having good knowledge in software system. 
+- Having good experience in team spirit. 
+- Having well experience in solving problems. 
+- Experience of working in high pressure environment and requiring accuracy. 
+- High responsibility in my work. 
+ 
+• Technologies: Struts 1, Spring, Hibernate 3.2, Entity Framework 6.0.1. 
+ 
+• Languages :   
+o English:    Well written and verbal (TOEIC 495 pts) 
+o Japanese:  JLPT N5 Certificate (100% background JLPT N4) 
+ 
+TECHNICAL SKILLS 
+• Database Management Systems: SQL Server, Oracle 
+• Foreign Languages: English, Japanese 
+• Frameworks/ Platforms: EJB, Struts, Spring, Hibernate & NHibernate, .NET Framework 3.5 & 4.0, 
+CQ5, Selenium 2.0 WebDriver, JavaFX, Entity Framework (.NET), Android SDK, Junit, Mockito, Java 
+Coding Coverage. 
+• IDE (Integrated Development Environments): MS Visual Studio, Eclipse 3.5, Eclipse Juno, 
+Maven. IntelliJ. 
+• VCS (Version control sources): SVN, GIT (Source Tree tool) 
+• Bug tracking: JIRA, especially Redmine 
+• Operating Systems: Windows 
+• Programming Languages: , JAVA. 
+• Soft Skills: Communication Skill, problem solving, critical thinking, team work spirit 
+• Software Quality Assurances: Software Development 
+• Mobile: Basic knowledge about Android programming 
+• CI/CD Tools: Jenkins
+
+WORK EXPERIENCE 
+TERRALOGIC 
+Project name: XIFIN PORTAL 
+Position:      Senior Software Engineer 
+Durations:     2019/02 – Now 
+• Description: XIFIN Portal is a product of XIFIN company. The XIFIN technology platform facilities 
+connectivity and workflow automation for accessing and sharing clinical and financial diagnostic 
+data, linking healthcare stakeholders in the delivery and reimbursement of care. 
+ 
+• Responsibilities:  
+- Developing new features / story on software module development.  
+- Read and understand the specification requirements. 
+- Implement functional, fix bug, new features. 
+- Trouble shooting when manager required. 
+ 
+• Technologies:   
+- Eclipse Platform. 
+- Back-end : Java Spring MVC / Springboot 
+- Front-end : JQuery, JQgrid and Select2 
+- JIRA, Bitbucket and Git. 
+- Junit 4 and Mockito. 
+ 
+• Achievements: 
+- Experience about Spring framework and related components. 
+ 
+AUREOLE IT  
+Project name: OAK System 
+Position:      Software Deployment Staff  
+Durations:     2018/01 – 2019/01 
+Module: Production Management Processes 
+• Description: OAK (Operating Automation System) is a Software System’s Production 
+Management Processes. It’s suitable for Plastics companies want to manage product creation 
+processes based on Barcode.  
+It’s included 3 parts:  
+- Handy: worker using handy to read barcode (contains products made by stages) for each 
+processes. (the barcode is created by W/O). 
+- Windows Form: Leader Or Manager using to manage W/O (Work Order) for each processes. 
+- IIS (Web Services): Handy and Windows Form connect with IIS to execute performing taskes 
+with Database. 
+ 
+• Responsibilities:  
+- Developing new software module development.  
+- Communicate with end user to resolve issues, Q&A and give the solutions based on their 
+requirements. 
+- Supporting team member about technologies and specification.  
+- Research new technologies when needs. 
+- Read and understand the specification about workflow business and system design.  
+- Trouble shooting when manager required.
+
+• Technologies:   
+- .NET Framework 3.5. 
+- IIS (Webservices). 
+- Windows Form. 
+- SVN. 
+- Handy Simulator. 
+- SQL Server 2014 
+- Redmine 
+ 
+• Achievements: 
+- Make sure all the client’s issues must be resolved with customer satisfaction including 
+both Saturday and Sunday. 
+- Communication Skills with customer satisfactions. 
+- Windows Form programing with Visual Studio. 
+- IIS configurations. 
+ 
+Project name: L2 project (8th) 
+Position:      Senior Java Deloper  
+Durations:     2015/04 – 2017/12 
+Module: Gas Management System 
+• Description: L2 project is a large project about ERP system which AIT is developing for MITANI 
+SANGYO Corporation (development with 8st). It includes modules for many different sectors 
+including furnishing, construction, chemicals, ... and It was developed from 2004.  
+At now my team is developing for MITANI GROUP about gas management system. 
+  
+• Responsibilities:  
+- Developing in new software module development.  
+- Supporting for team member about technologies and specification.  
+- Research new technologies when needs. 
+- Read and understand the specification about workflow business and system design. 
+- Design and analyse for master sector programming document. 
+- Communicate & QA with Japanese customer by emails and redmine bug tracking by 
+Japanese. 
+- Trouble shooting when manager required. 
+ 
+• Technologies:   
+- Java – Struts 1, Hibernate 3.2, Oracle (writing the PACKAGES). 
+- HTML – Java scripts, CSS. 
+- JSP, J2EE, JSTL, Redmine. 
+- SVN.  
+ 
+• Achievements: 
+- Make sure all relevant information for the team and project are shared and discussed 
+before acknowledgement. 
+- Research new technologies quickly when you need. 
+- High responsibility with my working. 
+- Experienced in clean code/coding standards. 
+ 
+Project name: BRIDGESTONE  
+Position:     Software Developer 
+Durations:    2014/05 – 2015/03 
+Module: BSW-Store Management 
+• Description: Bridgestone is large corporation about wheel industry, and they has setup the 
+factory in Hai Phong to develop business in Vietnam. BSW (Bridgestone Software) cooperate with 
+AIT to develop the warehouse management system depends on the exists system to purpose:  
+o Management reception products before move to the warehouse.
+
+o Convert Database from Oracle to SQL server base on the old warehouse management 
+exists. 
+o Developing new features like as management address, … in warehouse containing 
+products. 
+ 
+• Responsibilities:  
+- Read and understand workflow system, basic design system and design the document for 
+developer.  
+- Set up the handy terminal machines with Web Services (SOAP). 
+- Convert from Oracle to SQL server (Packages -> Store procedure, trigger.). 
+- Testing development base on design document. 
+- Supporting document design for developer. 
+ 
+• Technologies:   
+-  
+- ORACLE (Packages).  
+- SQL SERVER (Store procedure, trigger, DML, DDL, …). 
+- Web services (SOAP) 
+ 
+• Achievements: 
+- Have basic knowledge about Handy Terminal Machines. 
+- Read and understand specification system document. 
+- Design and analyse the specification for developer base on system requirement. 
+ 
+SUTRIX MEDIA  
+Project name: SENJA project 
+Position:         Java developer 
+Durations:      2013/08 – 2014/05 
+Module: Automation Project 
+• Description:  Senja framework (SELENIUM + JAVA) is a portable software testing for web 
+applications. It provides a record/play back tool for authoring tests. It bases on the SELENIUM 
+framework, it support for the QC engineer several keywords to create test-scripts and automate to 
+test.  
+ 
+• Responsibilities:  
+- Developing in new software module development.  
+- Get feedback from QC when they interact on this software and make the solutions to 
+resolve it.  
+- Research HP QuickTest Pro and apply the ideas of automation to the framework.  
+- Supporting team member.  
+ 
+• Technologies:   
+- JavaFX 2.0. 
+- XML.  
+- Selenium framework. 
+- TestNG reporter. 
+ 
+• Achievements: 
+- Have basic knowledge about Automation testing – with Selenium frameworks. 
+- Have experience to work with JavaFX 2.0 to make desktop applications. 
+ 
+EDUCATION 
+• Bachelor degree, Information Technology, Hoa Sen University (2011)

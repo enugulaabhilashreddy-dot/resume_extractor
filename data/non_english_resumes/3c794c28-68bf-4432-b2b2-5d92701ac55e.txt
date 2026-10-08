@@ -1,0 +1,160 @@
+✉
+
+ Birthday: 01/05/1991 - Address: Mễ Trì,
+Hà Nội
+CÁC KỸ NĂNG
+NGÔN NGỮ LẬP TRÌNH
+- Java, PHP, JavaScript, Python,
+Flutter(Dart)
+DATABASE
+- MariaDB, SQL Server, PostgreSQL,
+MongoDB, Cassandra, Redis, HBase
+CÔNG NGHỆ SỬ DỤNG
+- Spring Boot, Microservices(Spring Cloud),
+VueJS, Quasar UI, Angular, ReactJS,
+Flutter, Bigdata, AI, Data warehouse,
+Pentaho, Spark, Hortonwork, Hadoop,
+Tableau, RabbitMQ, Kafka, Docker,
+Kubernetes, RestAPI, SOAP, KongAPI, GIT,
+SVN....
+KHÁC
+- Agile, Scrum, Planning
+- CI/CD (Jenkins, Gitlab)
+- Sử dụng tốt CentOS, có kiến thức tốt về
+tối ưu hệ thống(cache, database, cluster,
+api...)
+- Có kiến thức tốt về Solution Architect
+- AI(pytorch)
+- DevOps
+SỞ THÍCH
+Đọc sách - Học hỏi kiến thức mới ở nhiều
+lĩnh vực
+Đá bóng - Tham gia hoạt động đá bóng của
+công ty hàng tuần
+GIẢI THƯỞNG
+PHẠM VĂN ĐẠT
+DEVELOPER
+MỤC TIÊU NGHỀ NGHIỆP
+Là một người làm công nghệ, tôi luôn khao khát phát triển bản thân để trở thành một
+chuyên gia giỏi trong lĩnh vực phần mềm. Tôi đặt mục tiêu tạo ra những giải pháp hiệu
+quả và tối ưu, đáp ứng nhu cầu đa dạng của người dùng và thúc đẩy doanh nghiệp phát
+triển. Với sự ham học hỏi, tôi luôn cập nhật những công nghệ mới, đồng thời tận dụng kỹ
+năng phân tích và giải quyết vấn đề để xây dựng các ứng dụng đa dạng, linh hoạt, thân
+thiện với người dùng. Tôi mong muốn gia nhập một đội ngũ sáng tạo, nơi tôi có thể đóng
+góp kiến thức, kinh nghiệm của mình và đồng thời có thể hợp tác và học hỏi nâng tầm
+bản thân hơn nữa.
+KINH NGHIỆM LÀM VIỆC
+ NHÂN VIÊN PHÁT TRIỂN DỊCH VỤ VAS(PHP, JAVA) // 10/2013 - 10/2015
+Công ty Cổ phần giải pháp di động thông minh
+- Tham gia phát triển các dịch vụ VAS với các nhà mạng di động Vinaphone, Viettel,
+Mobifone, Vietnamobile- Nhận và xử lý công việc theo phân công của leader- Vận hành,
+monitor đảm bảo hệ thống hoạt động ổn định
+ TRƯỞNG NHÓM PHÁT TRIỂN DỊCH VỤ VAS // 11/2015 - 10/2017
+Công ty Cổ phần giải pháp di động thông minh
+- Đầu mối kết nối, triển khai các dịch vụ với đối tác telco
+- Hỗ trợ các member trong nhóm
+ TRƯỞNG PHÒNG PHÁT TRIỂN DỊCH VỤ VAS // 10/2017 - 02/2020
+Công ty Cổ phần giải pháp di động thông minh
+- Chịu trách nhiệm triển khai các dịch vụ VAS
+- Lên plan, phân chia công việc, kiểm tra, giám sát tiến độ dự án
+- Tìm kiếm công nghệ, hỗ trợ các member trong phòng
+ PHÓ PHỤ TRÁCH CÔNG NGHỆ // 02/2020 - 02/2021
+Công ty Cổ phần Kết nối Cargolink Việt Nam
+- Quản lý, review code member
+- Lên plan, phân chia công việc, kiểm tra, giám sát tiến độ dự án theo Agile/Scrum
+- Tìm kiếm công nghệ, hỗ trợ các member trong team
+ TRƯỞNG NHÓM/SENIOR // 03/2021 - 05/2021
+Công ty Hệ thống Thông tin FPT (FPT Information System - FPT IS)
+- Xây dựng module eContract trong dự án Đấu thầu điện tử(Bộ kế hoạch đầu tư)
+ SA // 03/2021 - 05/2021
+Công ty Heroesoft
+- Xây dựng giải pháp cho backend
+ PHỤ TRÁCH CÔNG NGHỆ MẢNG THỜI TIẾT // 05/2021 - Hiện tại
+CÔNG TY CỔ PHẦN GIẢI PHÁP THỜI TIẾT WEATHERPLUS
+
+Nhân viên, qu ả n lý tiêu bi ể u trong nhi ề u
+n ă m c ủ a công ty
+- Thi ế t k ế , tri ể n khai, xây d ự ng h ệ  th ố ng d ự  báo th ờ i ti ế t- Ch ị u trách nhi ệ m v ề  công ngh ệ ,
+gi ả i pháp cho h ệ  th ố ng
+H Ọ C V Ấ N
+ CHUYÊN NGÀNH: CÔNG NGH Ệ  THÔNG TIN // 09/2009 - 09/2014
+Đ ạ i h ọ c Xây D ự ng Hà N ộ i
+T ố t nghi ệ p lo ạ i Khá
+D Ự  ÁN
+ NHÀ NÔNG XANH // 2014 - 09/2019
+Thuê bao di đ ộ ng Vinaphone,Vietnamobile,Mobifone
+10
+L ậ p trình viên, Tr ư ở ng nhóm, Tr ư ở ng phòng
+- Phân tích và thi ế t k ế  h ệ  th ố ng
+- Phát tri ể n module
+- T ố i ư u code
+- S ử a l ỗ i
+- Vi ế t các API k ế t n ố i v ớ i h ệ  th ố ng đ ố i tác
+- V ậ n hành d ị ch v ụ
+- Java(Spring Boot), Microservices(Spring Cloud), MariaDB, PHP, RabbitMQ, MongoDB,
+Redis
+ OKKO // 2017 - 09/2019
+Thuê bao di đ ộ ng Vinaphone
+5
+Tr ư ở ng phòng
+- Ti ế p nh ậ n d ị ch v ụ
+- V ậ n hành h ệ  th ố ng
+- Maintain, phát tri ể n tính n ă ng theo yêu c ầ u kinh doanh
+- .Net, SQLServer, Oracle
+ CÁC D Ị CH V Ụ  KHÁC(KHO Ả NG 20 PROJECT) // 2014 - 09/2019
+Thuê bao di đ ộ ng Vinaphone,Vietnamobile,Mobifone
+10
+L ậ p trình viên, Tr ư ở ng nhóm, Tr ư ở ng phòng
+- Phân tích và thi ế t k ế  h ệ  th ố ng
+- Phát tri ể n module
+- T ố i ư u code
+- S ử a l ỗ i
+- Vi ế t các API k ế t n ố i v ớ i h ệ  th ố ng đ ố i tác
+- V ậ n hành d ị ch v ụ
+- Java, MariaDB, PHP, RabbitMQ, MongoDB, Redis...
+ PROFILE USER, NBO // 10/2019 - 02/2020
+Thuê bao di đ ộ ng Vinaphone,Vietnamobile,Mobifone
+5
+Tr ư ở ng phòng
+- Tìm hi ể u công ngh ệ  Bigdata
+
+- Phân tích và thi ế t k ế  h ệ  th ố ng
+- Phát tri ể n module
+- H ỗ  tr ợ  member
+- Java, Kafka, Spark, Hadoop, Hbase, Pentaho, Hortonwork...
+ ISCALE // 10/2020 - 02/2020
+T ổ ng c ụ c đư ờ ng b ộ  Vi ệ t Nam
+10
+Senior dev
+- Ti ế p nh ậ n và tìm hi ể u source code
+- Phát tri ể n tính n ă ng m ớ i
+- .Net, MongoDB, SQLServer
+ SÀN V Ậ N T Ả I // 02/2020 - 02/2021
+Khách hàng c ầ n v ậ n chuy ể n hàng hóa
+15
+PM & Scrum Master & Coder & DevOps
+- Tìm hi ể u công ngh ệ  Bigdata
+- Phân tích và thi ế t k ế  h ệ  th ố ng
+- Phát tri ể n module
+- H ỗ  tr ợ  member
+- Microservices(Spring Cloud),Java, Kafka, PostgreSQL, Cassandra, Spark, Hadoop,
+Hbase, VueJS, Quasar, TypeScript, Cordova
+ Đ Ấ U TH Ầ U Đ I Ệ N T Ử // 03/2021 - 05/2021
+B ộ  k ế  ho ạ ch đ ầ u t ư
+80
+Tr ư ở ng nhóm/Senior
+- Phát tri ể n module eContract trong t ổ ng th ể  d ự  án
+- Java(Spring Boot), Oracle, AngularJS
+ HEROESOFT // 01/2022 - 07/2022
+B2C
+30
+Partime
+- SA
+- AWS, Keycloak, KongGateway, Docker
+ D Ự  BÁO TH Ờ I TI Ế T - NOWCASTING // 05/2021 - Hi ệ n t ạ i
+B2B-B2C
+30
+Ch ị u trách nhi ệ m công ngh ệ  (IT)
+- Thi ế t k ế t, xây d ự ng h ệ  th ố ng, ch ị u trách nhi ệ m công ngh ệ , gi ả i pháp cho h ệ  th ố ng
+- Java(Spring Boot), ReactJS, NodeJS(ExpressJS), PostgreSQL, Bigdata(Hbase, Hadoop,
+Spark), AI(pytorch) © topcv.vn

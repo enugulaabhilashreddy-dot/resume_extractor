@@ -1,0 +1,158 @@
+Email:  | Phone: |Address: Trung Hoa Ward, Cau Giay District, Ha Noi Capital  
+THIEN DINH DANG | PROJECT MANAGER  
+OBJECTIVE  With 5 years of experience working as a Senior Developer and 4 years of 
+experience working in the role of a Product Owner in the field of ERP, my 
+biggest dream is to devote all my effort to building a powerful ERP 
+system using a microservices architecture, leveraging cutting-edge 
+technologies to perfectly cater to the evolving needs of most companies. 
+To me, this is not only a goal but also a mission to dedicate my 
+capabilities in the Fifth Industrial Revolution.  
+WORK EXPERIENCE 07/2021  – NOW  
+VIETTEL COMMERCE  
+Position: System Admin, Product Owner (Java)  
+•  Platform migration and technology upgrade of the ERP system for Viettel 
+Commerce 
+•  Developing the My Viettel Store application version 2.0 using the React Native 
+framework  
+•  Developing the ERP web-based ERP application using Srping Boot and Angular 
+•  Installing the Elastic Stack system, applying it to monitoring system and application 
+performance management 
+•  Recruitment and personnel training 
+•  Report directly to the director 
+ 
+06 /201 9 – 07/2021  
+VIETTELIMEX  
+Position: , System Admin, Bussiness Analyst, Product Owner (.NET)  
+•  Maintain product PROERP for Viettelimex 
+•  Product owner of mobile app My ViettelStore version 1.0  using for Viettelimex 
+•  Monitor resource, database and app server of ProERP & My ViettelStore system 
+•  Optimization framework 
+•  Personnel training 
+•  Report directly to the manager 
+02/201 6 – 06/2019  
+NHAT CUONG SOFTWARE  
+Position: Project Manager , Development Team Leader 
+•  Maintain product PROERP for Nhat Cuong Group 
+•  Building new product PROERP for Viettelimex
+
+Page 2 Thien Dinh Dang | Project Manager 
+ 
+•  Interviewing, training and supporting new employees 
+•  Optimization framework 
+•  Manage teamwork: Assign/distribute tasks, manage work progress, solve related 
+problems and give on-time solutions 
+•  Report directly to the director 
+06 /201 9 – 01/201 6 
+NHAT CUONG MOBILE COMPANY  
+Position: Senior .Net Developer PROERP System 
+•  Build new project PROERP for Nhat Cuong Mobile 
+•  Framework development: Design, dev base classes, Authenticate, helper, utilities, 
+common functions 
+•  Training for newbies about framework, technology & business. 
+PROJECT HAS JOINED  
+ 
+PLATFORM MIGRATION ERP SYSTEM | VIETTEL COMMERCE  
+07/2021 - NOW 
+ 
+Customer  Viettel  Commerce  
+Description  Platform migration and technology upgrade of the ERP 
+system 
+Team size  17 -25  
+My position  Product Owner , System Admin  
+My responsibilities  - Research and system architecture design  
+- Research and installing the Elastic Stack system 
+- Config and monitor systems, applications 
+- Design and turning Database 
+ 
+Technologies used  - Java: Spring Boot, Angular, .NET Core, Redis, Elastic Stack, 
+Oracle Database, Docker Swarm 
+ 
+MAINTAINT PRODUCT PROERP | VIETTELIMEX 
+6/2019 – 07/2021 
+Customer  Viettelimex  
+Description  Maintain system, optimization performance and develop 
+more features 
+Team size  5 ~ 30  
+My position  Bussiness Analyst, System Admin
+
+Page 3 Thien Dinh Dang | Project Manager 
+ 
+My responsibilities  - Receive user’s requests for new features, problems and 
+analyze requirement 
+- Estimate, Document URD, SRS, UAT 
+- Monitor performance and maintain systems according to 
+requirements, troubleshoot issues and outages 
+- Reporting 
+Technologies used  - C# .NET, D evexpress , Web APIs, Oracle Database , Tomcat 
+API 
+ 
+ENTERPRISES MANAGEMENT SYSTEM PROERP | NHATCUONG SOFTWARE  
+2/2016 – 6/2019 
+ 
+Customer   ,
+Description  Construct and develop ProERP Purchasing, Inventory, Sales, 
+CRM, Warranty, Human Resource, Asset Management, 
+Accounting, Reports, Mobile app 
+Team size  5 ~ 30  
+My position  Team leader , Project manager  
+My responsibilities  - Receive user’s requests and analyze the rationalization and 
+the feasibility 
+- Assign/distribute tasks, manage work progress, solve related 
+problems and give on-time solutions 
+- Setup system’s working environment 
+- Reporting 
+ 
+Technologies used  - C# .NET, D evexpress ,  MVC, Web APIs, Oracle 
+Database, Apache Solr, Mongo DB, SignalR 
+ 
+ ENTERPRISES MANAGEMENT SYSTEM PROERP | NHATCUONG MOBILE 
+2014 – 2016 
+Customer  ,
+Description  Construct and develop ProERP Purchasing, Inventory, Sales, 
+CRM, Warranty, Human Resource, Asset Management, 
+Accounting, Reports.  
+Team size  5 ~ 20  
+My position  Developer  
+My responsibilities  - Development: Analyzing, designing, coding, fixing, reviewing 
+and optimizing code
+
+Page 4 Thien Dinh Dang | Project Manager 
+ 
+- Setup system’s working environment . 
+- Reporting 
+ 
+Technologies used  - C# .NET, D evexpress ,  MVC, Web APIs, Oracle 
+database, SQL Server 
+ 
+PROFESIONAL SKILLS: PROJECT MANAGEMENT  
+Software project management and evaluate software product quality, Agile-Scrum 
+PROGRAMMING LANGUAGES: 
+Visual Studio .Net: C#, HTML, XML, JSON... Besides 
+DATABASE :  
+Oracle Database, MS SQL Server, MS Access, MongoDB, Solr 
+OTHERS :  
+TFS, JIRA, SVN, Metabase 
+Microsoft IIS, Caching (Memcached, Redis Cache), also know about CentOS and Oracle 
+Linux, Tomcat API 
+APPLICATION PROGRAMS :  
+Using professionally Outlook, Excel, Word, Power Point and Visio 
+Axure to plan, prototype and hand off to developers 
+Mindjet MindManager to plan projects, analyze processes 
+ 
+ 
+SPECIAL SKILLS: - Ability to work in group, and independence  as well.  
+- Time and human organizing skill 
+- Sort of work effectively.  
+- Have a high sense of responsibility in work.  
+- Good communication, negotiation, presentation skills.  
+- Adapt to new circumstances/surroundings easily. 
+- Ability to work under high pressure to meet deadline 
+EDUCATION:  MAJOR: HO CHI MINH  CITY UNIVERSITY OF TEC HNOLOGY  
+2010 – 2014
+
+Page 5 Thien Dinh Dang | Project Manager 
+ 
+HOBBIES & 
+INTERESTS 
+Exploring open -source software, Participating in groups dedicated to Database 
+Administrators (DBAs) , Travelling, Listening Music, Composing poem

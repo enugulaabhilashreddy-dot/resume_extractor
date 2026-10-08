@@ -1,0 +1,53 @@
+CONTACT ME
+EDUCATION
+223, Trinh Dinh Trong, Tan Phu,
+Ho Chi Minh 
+FUNiX A Technology Training Institute
+Electronics - Telecommunications
+engineering
+Data Analysis
+2022 - 2023
+SKILLS
+2022- 2023
+Nest by AIA 
+Relationship Manager
+Customer service 
+Insurance product consultation 
+Personal financial analysis 
+20121 - 2022
+DANH DANG CO., LTD
+Sales Engineer
+Customer prospecting 
+Sales data analysis 
+Promotion program design 
+Product marketing
+Programming Languages: Python, C
+Data Manipulation and Analysis: Pandas,
+NumPy, Rapids
+D a t a  A n a l y s t
+Do Tu Ky Vi
+WORK EXPERIENCE
+PROJECTS
+TON DUC THANG UNIVERSITY
+2015 - 2022
+Data Visualization: Matplotlib, Pyplot,
+Power BI
+Database: Microsoft SQL Server
+CERTIFICATION
+Toeic 500+
+Microsoft Office Specialist 700+
+Data Analyst Funix
+Visualizing Covid cases using Power BI
+PowerBI Projects
+Link project: 
+Processed data from .json and .csv files with a size of over 35Mb, and visualized the data
+into two dashboards using Power BI as the main tool.
+Visualizing Covid cases using Python
+Python Projects
+Link project: 
+Used Python to collect and analyze data and then visualize the analyzed data.
+Build Data Warehouse
+SQL Projects
+Link project: 
+Used a database on pets to build a suitable data warehouse, performed ETL for the
+database using SQL server and Visual Studio to complete the project.

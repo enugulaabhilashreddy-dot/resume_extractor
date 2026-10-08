@@ -1,0 +1,48 @@
+FABA Technology | 10/2021 - Present
+Senior Frontend Developer
+FABA Technology | 04/2018 - 09/2021
+Junior Web Developer
+FABA Technology | 01/2018 - 03/2024
+Intern Web Developer
+Nguyen Trong Hien
+   - 18/06/1995
+ Nhuan, Thành phố Hồ Chí Minh
+Summary
+eveloper with over 6 years of exp n both frontend and backend development. I have expertise in
+ for frontend work and have used , Laravel, and Golang for backend development. My experience
+ developing e-commerce website opify and WordPress, mentoring junior developers, and leading
+small teams. I am familiar with Agile methodologies, code reviews, and working with microservices. I also have
+basic knowledge of DevOps practices and AWS, and I am currently exploring micro frontend architecture.
+Technical Skills
+Web Developer: React, Laravel, NodeJS, Golang, Cloud Migration Service (AWS.
+Other skills: Team Leader · Tranining
+Work Experience
+Responsibilities
+- Utilized React for frontend development, and  Laravel, and Golang for backend development.
+- Developed several e-commerce websites usin y.
+- Mentored fresher and junior developers.
+- Leading a small team.
+- Conducted code reviews to ensure code quality and adherence to best practices.
+- Worked on projects with microservices.
+- Experienced in writing unit tests and end-to-end tests.
+- Have some knowledge of DevOps and AWS.
+- Currently exploring micro frontend architecture.
+Technologies: 
+PostgreSQL · MySQL ·  · · Amazon Web Services (AWS) · Microservices · Golang · Laravel
+Responsibilities
+- Utilized React for frontend development, and and Laravel for backend development.
+- Used the Agile model for project management and development.
+- Developed several websites using WordPress.
+Technol 
+MySQL ·  · · Laravel
+Responsibilities
+- Learning to use  , and MongoDB.
+Technolog 
+MongoDB ·  · 
+ 
+CV By TopDev 1/2
+
+Education
+Cao Đẳng Kỹ Thuật Cao Thắng | 08/2015 - 10/2018
+Major: Software Engineering
+CV By TopDev 2/2

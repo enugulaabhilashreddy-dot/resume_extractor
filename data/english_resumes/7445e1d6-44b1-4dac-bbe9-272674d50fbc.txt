@@ -1,0 +1,116 @@
+Tran Duc Anh 
+Project Manager 
+Project manager with over 8 years of experience in leading teams in multicultural enviroment, through 
+all phases of product development, from conceptualization to launch. Skilled in managing budgets, 
+schedules, and resources to ensure projects are completed on time and within budget. An adaptability 
+mindset Willingness to continuously learn and adapt to emerging trends , technologies, tools, and 
+methodologies in project management and technologies market. 
+WORK EXPERIENCE 
+VTC digicom, Vietnam:           Technical project manager 2022 – Present 
+● Anticipated in requirement indentification process with  project sponsor and BA team to build 
+user stories , systems requirements spectifications, BRD  for LMS, CMS, CRM, and loyalty 
+systems.  
+● Collaborated with DevOps and stakeholders to refactor, design, and implement cloud-native 
+and on-premises solutions. 
+● Consulted stakeholder s on information systems, enviroments, and infastucture based on 
+systems requirements, and cyber securities requirements.    
+● Complied the project schcedule  plan, the resources plan and bussiness case to  higher 
+management help kickstart the projects or sales action. 
+● Engaged in preparation of bidding documents, successfully awarded more than 10 contracts. 
+● alliance leader of AWS with VTC Digicom. In addition, I work on the Openstack project and do 
+coordinating the implementation of cloud-related projects.  
+Viidc, Vietnam:    Project manager – Cofounder 2019 - 2022 
+● Established and expanded strategic partnership with solution provider for virtual realities and 
+digital transformation, successfully consolidating partnerships with 10+ vendors. 
+● Assembled and directed subcontractors and project team, overseeing seamless operations, and 
+achieving the successful closure of multiple project phases using.  
+● Consulted with clients to design and  organize optimal tech stacks for delivering solutions, 
+resulting in the successful delivery of over twenty solutions to satisfied customers , resulting in 
+a 95% customer satisfaction rate. 
+● Conducted in-depth research and analysis of virtual reality and rel ated technologies markets, 
+providing crucial insights to the management board for investment decisions resulting in an 80% 
+success rate in profitable investments.  
+Hanelcom, Vietnam:          Techinical lead/ project manager 2016 – 2020 
+● Lead team of more than 20 engineers, successfully delivered 9 information systems  (Fiber 
+optical network, LAN network, IT equipment, CCTV, Servers, and Storage equipment …)  
+and 2 softwares package s of Hanoi - metro line 3 project.  
+● Empowerd communication skill in Interface with 9 other sub-groups, the consultant, project 
+sponsor as well as PMO in Hanoi - metro line 3 project. 
+● Supervised the risk plan and change documentation such as configuration, change request… 
+● Collaborated closely with French subject matter experts in metro to customize the system  
+design and functions development to align with and project requirements and standards  of 
+Hanoi - metro line 3 project management board , 
+● Enaged in formulating the project proposal and contract negotiation for contactual packages 
+6c, 6e, 9 of Hanoi - metro line 3 project and other projects. 
+● Spearhead in preparation of project schedule, work breakdown structure, project budget, 
+reources plan, technical documents, bidding documents, technical design, acception 
+documents. 
+● Utilized data -driven insights to strategize and optimize project workflows and resource 
+allocation, improved order fulfillment by 20% . 
+● Planned and prepared work package deloyments of DR site (Network, and storage solution) 
+at Hanel DC.  
+● Collaborated with develop er team, designed system architecture, overseeing successful 
+migration and deployment of disaster recovery site with zero downtim e for a large -scale 
+IoT device monitoring and data collection system, supporting over 100,000 devices.  
+ 
+ 
+CONTACT 
+• Ha Noi Vietnam  
+•  
+•  
+DOB 
+• 26/11/1987 
+SKILLS 
+Technical Skills: 
+• Software Development 
+• Hardware Deployment 
+• Information System design 
+• Engineering 
+language Skills: 
+• English (good) 
+• Vietnamese (native) 
+Techniques: 
+• Quality Management 
+• Project Management (Waterfall, 
+Agile) 
+• Change Management 
+• Scheduled  
+• Resources plan 
+• Comunication 
+EDUCATION 
+Computer sciences  
+Genetic Hà Nội university 
+of science and technology 
+program 
+Ha Noi Vietnam - 2011 
+OTHER  
+• Google specialization of project 
+management. 
+• Scrum/agile training 
+• Thales KPI and Procedure for 
+project deployment. 
+• Certification for Plan and 
+Management IT project 
+• Certification for Monitor of IT 
+project 
+• Certification for installation 
+manager of IT project 
+• Certification for bidding 
+manager of IT project
+
+AGRIBANK:                                           Techinical project officer 2013 – 2016 
+● Planned and Deployed software sollution and h ardware package for Branch and office.  
+● Prepared Project documents such as  system requirements and planning budget according 
+to Agribank regulations . 
+TOPEXPRESS HK:                        Techinical project officer 2010 – 2013 
+● Conducted and completed more than 500 survey reports for NodB site. 
+● Scheduled and monitored  installaion activities for over 1500 NodeB of EVN Telecom 3G 
+network. 
+● Scheduled and mangaged commisioning activities for EVN Telecom 3G network, joined over 
+1000 NodeB to the network with 90% NodeB turn on whithout techical issues. 
+● Validated handover report for more than 1500 NodeB while successfully negotiated to close 
+100% of issues list. 
+● Acted as Brcs Engineer for team of 5 Developers, success on handover 3G networks 
+monitoring system with over 100 usecases.  
+● Validated and closed otimization phase for 100 NodeB site in Bankok Thailand for 
+Truemove 3G network

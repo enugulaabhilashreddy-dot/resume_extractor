@@ -1,0 +1,63 @@
+KINH NGHIỆM LÀM VIỆC
+11/2020  >>   06/2023
+CÔNG TY CỔ PHẦN CÔNG NGHỆ UNIT
+Chuyên viên lập trình
+- Hiểu rõ về các nghiệp vụ về bảo hiểm. 
+- Có khả năng trong việc phân tích các yêu cầu, nêu ra các vấn đề hoặc các tình
+huống có thể xảy ra để làm rõ hơn về các yêu cầu, cập nhật lại tài liệu hoặc các yêu
+cầu, báo cáo với các bên liên quan khác, ... 
+- Kết hợp với các bên liên quan như BSA, QC, end-user,... để hỗ trợ thiết lập, điều tra,
+khắc phục và báo cáo về các lỗi trên các môi trường như SIT, UAT, PROD. 
+- Phân tích, thiết kế, xử lý các dạng report/letter. 
+- Có kinh nghiệm trong việc quản lý thời gian, kế hoạch, sắp xếp ưu tiên các công
+việc đồng thời của nhiều dự án.  
+- Phát triển và kiểm tra các quy trình của dự án triển khai trên môi trường AWS. 
+- Sử dụng thành thạo các công cụ như DB2, MySQL, MS SQL, Postman,... 
+08/2018  >>   08/2020
+CÔNG TY CỔ PHẦN GIẢI PHÁP DOANH NGHIỆP TOÀN CẦU
+Lập trình viên
+- Hiểu rõ các quy trình nghiệp vụ về bộ cung ứng ERP (mua, bán, kho,...). 
+- Phối hợp phân tích, kiểm tra và cải thiện các yêu cầu về kỹ thuật hoặc quy trình
+nghiệp vụ với BSA, end-user,... 
+- Phát triển và kiểm tra các quy trình bộ chức năng sản xuất, kiểm nghiệm, bộ mẫu
+in, bộ kho động của dự án về thực phẩm, thuốc ,... 
+- Kỹ năng phân tích, giao tiếp, làm việc độc lập hoặc làm việc nhóm tốt và làm việc
+được dưới áp lực. 
+- Sử dụng thành thạo các công cụ thiết kế các báo cáo như JasperReport, Excel,... 
+HỌC VẤN
+2023  >>   2024
+COURSERA
+Software Testing and Automation Specialization
+Khóa học online trên Coursera của University Of Minnesota
+2013  >>   2018
+ĐẠI HỌC CÔNG NGHỆ SÀI GÒN(STU)
+Chuyên ngành: Công nghệ thông tin
+Tốt nghiệp loại Giỏi, điểm trung bình 8.5
+CHỨNG CHỈ
+ISTQB CERTIFIED TESTER FOUNDATION LEVEL (CTFL) 
+MỤC TIÊU NGHỀ NGHIỆP
+- Học hỏi, áp dụng kiến thức và phát triển
+khả năng viết test cases, sử dụng test
+techniques để kiểm tra các chức năng,... 
+- Cải thiện các kỹ năng giao tiếp, phân
+tích yêu cầu hoặc tài liệu, phối hợp với các
+bên liên quan khác, giải quyết vấn đề,... 
+- Trở thành một Tester chuyên nghiệp. 
+- Đạt được chứng chỉ ISTQB CT-TAE trong
+2 năm tiếp theo. 
+KỸ NĂNG
+Java
+MS SQL, DB2, Oracle DB,..
+AWS
+Kỹ năng phân tích
+Kỹ năng giao tiếp
+JSON/XML
+JUnit, TestNG
+PHP/HTML/CSS
+Selenium, Appium, JMeter, Cucumber
+Jira
+  26/12/1995   Nữ
+    
+  Q.11,   
+Lâm Ngọc Tâm
+Nhân viên kiểm thử

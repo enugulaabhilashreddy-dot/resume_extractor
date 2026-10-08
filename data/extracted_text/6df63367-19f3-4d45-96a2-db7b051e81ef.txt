@@ -1,0 +1,134 @@
+CONTACT
+134/55 TTH02, District 12, Ho Chi
+Minh, Vietnam
+PERSONAL PROFILE
+Gender : Male
+Birthday : 06/02/1996
+Marital status : Single
+Nationality : Vietnamese
+Country: Vietnam
+SKILLS
+Language
+Programing
+Database
+Automation Test
+Basic Testing
+API Test
+Analyze Document
+Manual Test
+Planning
+Manage
+Estimate Time
+Cucumber
+Gherkin
+Performance Test
+Security Test
+Scrum
+Bug Report and Bug
+Tracking
+LANGUAGES
+PHẠM LÊ HẢI SƠN
+QC Engineer
+To become a Software Tester, I have to use my skills and knowledge to
+develop projects where strong project management and analysis skills
+will be useful in providing services to customers.
+EXPERIENCE
+3/2022 - Now
+QA/QC Leader - FPT Software - Full time
+Team-size: 20 members 
+Description: 
+Check e-commerce transactions 
+Test the customer management system and livechat, chatbot
+Test connected between Platform-Warehouse-Delivery-Customer. 
+Check orders for e-commerce site systems, import/export values,
+chatbots, promotions/priority care/customer gratitude and manage
+payments through payment channels maths. 
+Technology: Js, Elixor, progress SQL, firebase
+9/2020 - 3/2022
+QA/QC Leader - FPT Software - Full time
+Team-size: 15 
+QC of team work about car insurance in C99 Project of FPT Software. 
+Check the vehicle's conditions, expired and insurance form 
+Check insurance benefits of sellers, buyers and resellers 
+Technology: Ruby on rails, AWS cloud, Progress SQL, Jenkin
+1/2020 - 9/2020
+QA/QC Engineer - FPT Software - Full time
+Team size: 10 
+Description: 
+Test electronic card payment system for medical examination and
+treatment services at hospitals such as Ho Chi Minh City Eye Hospital,
+Tropical Hospital, Cho Ray Hospital, Thong Nhat Hospital. Check the
+medical record management system, distribute treatment items and
+make payments on tekmedi card 
+Technology: Google API, NFC, MongoDB, Js Mocha Framework, Java
+selenium, appium, Postman
+6/2018 - 12/2019
+Leader - Wisky Solution - Contract/ Freelance
+Team size: 20 
+Description: 
+Test for retail system, employee attendance management and card
+payment of Passio coffee chain and Bici cosmetics chain. Check the
+number of products, the number of orders in the day and the system's
+revenue. At the same time, check the payment process through
+electronic cards and loyalty cards of the system. 
+Team Leader for software system error management system of this
+company 
+Technoloy: Katalon, Selenium, .Net core, Xamarin, Log, Firebase, SQL
+Server, Transaction
+Year(s) of Experiment: 4
+Current Level: Experienced (Non - Manager)
+
+LANGUAGES
+English
+Level: Normal
+Certification:
+CAREER INFORMATION
+Level: Experienced (Non - Manager)
+Salary: Negotiable
+Job type : Full time
+Industry: IT - Software
+Location: Ho Chi Minh
+REFERENCES
+FullName: NGO HOAI PHUONG
+Position: SOFTWARE ARCHITECT
+Company: FPT SOFTWARE
+Phone:
+Email:
+6/2017 - 6/2018
+Quality Control - Cybozu Japan - Full time
+Team size: 20 
+Description: 
+Tester for Teamwork software system of this company. 
+Check attendance system, schedule, chat, report, manage work and
+personnel 
+Technology: Java, Jmester, Postman, Tracking Log
+EDUCATION
+Highest Degree Level: Bachelor
+School: FPT University
+Degree: Bachelor
+Graduated in: 12/ 2019
+Description: Software Engineer
+OTHER ACTIVITIES
+Organization: coaching
+Level: Trainer
+Start Date: 6/2019
+End Date: Present
+Training manual test and Basic Automation Test with Selenium
+OTHER CERTIFICATES
+Certificate name: PSM1
+Issued By: Scrum
+From: 13/04/2021
+Expired Date: Unlimited
+Certificate name: Ruby Programing and MVC Framework
+Issued By: FPT Software
+From: 06/09/2021
+Expired Date: Unlimited
+Certificate name: PSM2
+Issued By: Scrum
+From: 14/05/2021
+Expired Date: Unlimited
+CAREER HIGHLIGHTS
+Build Testing Framework with Selenium by C#
+Build Testing Framework using Mocha Framework by NodeJS
+Build Testing Framework using Jenkin by Ruby
+©  Care e rBuild e

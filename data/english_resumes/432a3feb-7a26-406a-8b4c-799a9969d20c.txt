@@ -1,0 +1,284 @@
+Luc Thanh Tung 
+Delivery Manager 
+(YoB: 1984 | Tel:  | Email: ) 
+ 
+ 
+EDUCATION  
+ 
+2003 - 2008 
+Hanoi Open University 
+ 
+LANGUAGE 
+ 
+• Vietnamese 
+• English (reading, writing) 
+ 
+TECHNICAL SKILLS  
+ 
+• Has more than 13 years of experience in 
+software development 
+• More than 11 years of experience in project 
+management 
+• Familiar with Agile/Scrum methodology and 
+can use Jira to manage backlogs and tasks  
+• High responsibility to team’s goal 
+• Proficient in reporting tools
+
+WORK EXPERIENCES 
+ 
+ 
+AHT Tech JSC (ArrowHiTech) 
+Delivery Manager 
+•  Person in charge of production teams 
+•  Understand customer and market needs 
+•  Solution research and decision making 
+•  Designing software and solutions for applying suitable UI/UX 
+•  Team and plan management 
+•  P&L management 
+•  Building up division 
+ 
+(2021 – Present)  
+ 
+Digital Factory PMO at Golden Gate Group 
+PMO 
+•  Understand customer and market needs 
+•  Solution research and decision making 
+•  Team and plan management 
+ 
+(2020 – 2021) 
+FPT Software  
+BA Leader  
+•  Analyze business and building solution with customers 
+•  Lead the BA team to archive project goals 
+•  Training and build up BA team for 
+ 
+(2019 – 2020) 
+MISA JSC  
+Director For Gorvernment Division  
+•  Understand customer and market needs 
+•  Solution research and decision making 
+•  Designing software and solutions for applying suitable UI/UX 
+•  Team and plan management 
+•  P&L management 
+•  Building up unit 
+ 
+(2009 – 2019)
+
+PROJECTS 
+ 
+MISA Series 
+Position (s) Developer 
+Description  Accounting project for small and medium enterprises 
+Technologies 
+● Development:  .NET  
+● Database: SQL Server 
+Programming Language   
+ 
+ 
+MISA Series 
+Position (s) Project Manager 
+Description  Accounting project for state government  
+Technologies 
+● Development: .NET  
+● Database: SQL Server 
+Responsibility 
+● Planning  
+● Progress reports 
+● Risk management 
+● Project Operation 
+ 
+ 
+MISA X1 Series 
+Position (s) Project Manager 
+Description  Accounting project for state government  (Report)  
+Technologies 
+● Development: .NET  
+● Database: SQL Server 
+Responsibility 
+● Planning  
+● Progress reports 
+● Risk management 
+● Project Operation
+
+MISA Series 
+Position (s) Project Manager 
+Description  Accounting project for communal state government  
+Technologies 
+● Development: .NET  
+● Database: SQL Server 
+Responsibility 
+● Planning  
+● Progress reports 
+● Risk management 
+● Project Operation 
+ 
+ 
+MISA X1 Series 
+Position (s) Project Manager 
+Description  Accounting project for communal state government  (Report)  
+Technologies 
+● Development: .NET  
+● Database: SQL Server 
+Responsibility 
+● Planning  
+● Progress reports 
+● Risk management 
+● Project Operation 
+ 
+ 
+ Series 
+Position (s) Project Manager 
+Description  Property management project for administrative and non -business units  
+Technologies 
+● Development: 
+● Database: SQL Server 
+Responsibility 
+● Planning  
+● Progress reports
+
+● Risk management  
+● Project Operation 
+ 
+ 
+ Series  
+Position (s) Head of Analysis and Design 
+Description The project serves public administrative operations such as registration 
+of birth, death, marriage... 
+Technologies 
+● Development: 
+● Database: SQL Server 
+Responsibility 
+● Unified solution  
+● Bringing development strategy 
+● Product acceptance 
+ 
+ 
+ Series  
+Position (s) Head of Analysis and Design 
+Description Personnel management project for administrative and non -business 
+units 
+Technologies 
+● Development: 
+● Database: SQL Server 
+Responsibility 
+● Unified solution  
+● Bringing development strategy 
+● Product acceptance 
+ 
+ 
+ Series  
+Position (s) Head of Analysis and Design 
+Description  Project of production management for processing industrial products  
+Technologies 
+● Development: 
+● Database: SQL Server
+
+Responsibility 
+● Unified solution  
+● Bringing development strategy 
+● Product acceptance 
+ 
+ 
+ Series  
+Position (s) Head of Analysis and Design 
+Description  The project serves schools from high school to university  
+Technologies 
+● Development: 
+● Database: SQL Server 
+Responsibility 
+● Unified solution  
+● Bringing development strategy 
+● Product acceptance 
+ 
+ 
+BCCS3.0  
+Position (s) BA Leader 
+Description  Viettel's upgrade project, upgrading from BCCS2 version to BCCS3  
+Responsibility 
+● Business analysis  
+● Software solution design 
+● Team Management 
+ 
+ 
+ 
+MJS  
+Position (s) BA Leader 
+Description  Integration project of Japanese partner with FPT Software  
+Responsibility 
+● Business analysis  
+● Software solution design 
+● Team Management
+
+iHRP  
+Position (s) PMO 
+Description  Product Development HRM  
+Responsibility 
+● Responsible for managing internal and partner project teams  
+● Development planning 
+● Make a roadmap to meet the needs 
+ 
+ 
+Job Market  
+Position (s) PMO 
+Description  Product of idle human resource management of restaurants  
+Responsibility 
+● Responsible for managing internal and partner project teams  
+● Development planning 
+● Make a roadmap to meet the needs 
+ 
+ 
+KPI Dashboard  
+Position (s) PMO 
+Description  Statistical project reporting data for all levels of company leaders  
+Responsibility 
+● Responsible for managing internal and partner project teams  
+● Development planning 
+● Make a roadmap to meet the needs 
+ 
+ 
+G-Office  
+Position (s) PMO 
+Description  Internal software for all members of Golden Gate Group  
+Responsibility 
+● Responsible for managing internal and partner project teams  
+● Development planning 
+● Make a roadmap to meet the needs
+
+G-Time  
+Position (s) PMO 
+Description  Internal communication software for Golden Gate Group  
+Responsibility 
+● Responsible for managing internal and partner project teams  
+● Development planning 
+● Make a roadmap to meet the needs 
+ 
+ 
+VIETTEL VSMART 3.0  
+Position (s) Internal PM 
+Description Product upgrade project from VSMART 2.0 version to VSMART 3.0 
+serving 8000 Viettel employees 
+Responsibility 
+● Planning  
+● Progress reports 
+● Risk management 
+● Project Operation 
+ 
+ 
+LPBANK UNIFORM  
+Position (s) Internal PM 
+Description The project named Uniform serves all transactions connected to CORE 
+Banking of Lien Viet Post Bank 
+Responsibility 
+● Planning  
+● Progress reports 
+● Risk management 
+● Project Operation
+
+BAMBOO AIRWAYS WEBSITE  
+Position (s) Internal PM 
+Description  Website of Bamboo Airways  that allows user to book flight tickets  
+Responsibility 
+● Planning  
+● Progress reports 
+● Risk management 
+● Project Operation

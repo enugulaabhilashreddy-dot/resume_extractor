@@ -1,0 +1,55 @@
+TRAN XUAN THANG
+Business Analyst
+EDUCATION
+Ly Tu Trong Technical College (09/ /2012)
+- Major: Information Technology 
+- Graduation as Strong Pass level
+WORKING EXPERIENCE
+Song An Limited Liability Company (05/ /2015)
+Software tester
+-Provides Medical solutions on Winform and Web
+-Write test cases
+-Review test cases
+-Log bugs during testing
+QA Solutions Limited Liability Company( 10/ /2021)
+QC Leader 
+-Provide Medical solutions on Winform and Web
+-Provide solutions to help users better manage patient information,
+medical examination and treatment process, hospital fees..
+-Weekly planning for the team, weekly briefing report
+-Write test cases
+-Review test cases
+-Log bugs during testing
+-Building a coordinated operation process between teams in the
+company
+QA Solutions Limited Liability Company( 04/ /2022)
+ Business Staff
+-Receiving requested information from customers and deployment
+team
+-Analyze requirements and resolve problems with customers
+-Break down functions into small tasks
+-Design new feature mockups and write workflows
+-Scrum meeting with DEV + QC team to finalize internal issues
+-Add URD Document, Requirement Specification Document
+BACKGROUND INFORMATION
+ 01/06/1991
+ Male
+
+
+ 16/34A Tan Chanh Hiep Ward, Dist 12
+
+CAREER GOALS
+- Looking for a professional working
+environment with good salary and promotion
+opportunities
+- Looking forward to having the opportunity to
+devote myself
+PERSONAL SKILLS
+Management skills
+Communication skills
+Logical thinking
+CERTIFICATES
+CCNA certificate granted by VN Pro center
+HOBBIES 
+- Learning new technology
+- Playing soccer

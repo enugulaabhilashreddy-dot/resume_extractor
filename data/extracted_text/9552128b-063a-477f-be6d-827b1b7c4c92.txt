@@ -1,0 +1,151 @@
+NGUYEN VU HUNG  
+Phone number: 
+Email:   
+ 
+PERSONAL INFORMATION 
+FULL NAME :  NGUYEN VU HUNG 
+DATE OF BIRTH :  05/11/1996   PLACE OF BIRTH :  Ha Tinh 
+SEX :  Male    RELIGION  :  Non 
+ADDRESS : Hau giang Street, Ward 12, District 6, Ho Chi Minh City 
+SUMMARY 
+• 4 years of experience in software and system programming in the field of education. 
+• 2 years as Team Leader. 
+• 2 years of Fullstack programming experience. 
+• I am a logical person, with strong analytical skills to solve problems even in a pressurized working environment. 
+• Passionate about new technologies and languages. 
+SKILLS & TECHNOLOGIES 
+• C#, JavaScript, TypeScript. 
+• HTML5, CSS3, SCSS. 
+•  MV C5, WPF, Entities framework, JQuery. 
+• Reactjs, Nextjs, Nodejs, Expressjs. 
+• SQL server, MySQL, MongoDB. 
+• Visual Studio, Visual Studio Code. 
+• Adobe illustrator. 
+• Git, Jira. 
+PROFESSIONAL EXPERIENCE 
+DAI TRUONG PHAT EDUCATION GROUP  June 2019 - present 
+Dai Truong Phat Education Group is a corporation specializing in English teaching and learning curriculum. Specializes in 
+providing paper books as well as software for teachers, parents and students. Already present in most provinces of 
+Vietnam as well as countries: Laos, Cambodia, Thailand, Singapore. 
+ Projects participated: 
+- Testbank ( :  
+• Description:
+
+o Built to help teachers create and manage online exams easily with content that follows the main 
+curriculum and follows Cambridge standards. 
+o Allow teachers to organize online/offline exams. 
+o Supports a set of nearly 70 templates to create different types of questions. 
+o Easily create test questions by question matrix and by skill (listening, speaking, reading, writing). 
+o More than 100,000 questions already on the system. 
+o More than 1000 exams already on the system. 
+o More than 20,000 teachers and students are using the system. 
+o Teachers easily control, statistics scores as well as track student learning results. 
+• Languages and technologies: 
+o TypeScript, HTML5, SCSS, CSS3. 
+o Reactjs, Nextjs, React Suite. 
+o MySQL. 
+• Key responsibilities: 
+o Team Leader: 3 members 
+▪ Coordinate and assign tasks to members. 
+▪ Provide technical and technology support to members. 
+▪ Solve problems faced by the group. 
+▪ Review member's source code. 
+▪ Training new technologies for members. 
+o Fullstack Developer: 
+▪ Design of source code structure, Database Structure. 
+▪ Programming from Frontend to Backend and Database. 
+▪ Perform the main functions in the system. 
+▪ Optimize the speed of functions on the system. 
+- Build Logs system for all software systems of Dai Truong Phat Education Group:  
+• Description: 
+o Track all user actions on all software systems in a single place. 
+o Used to analyze user behavior for other systems. 
+o Used to quickly detect system errors during actual use. 
+o View eduhome user usage statistics reports by resource, geographic location, etc … 
+o View error statistics by device and version used. 
+• Languages and technologies: 
+o JavaScript, HTML5, SCSS, CSS3. 
+o Reactjs, Nextjs, React Suite. 
+o Nodejs, Expressjs. 
+o MongoDB. 
+• Key responsibilities: 
+o Team Leader: 1 member 
+▪ Provide technical and technology support to members. 
+▪ Solve problems faced by the group. 
+▪ Review member's source code. 
+▪ Training new technologies for members. 
+o Fullstack Developer: 
+▪ Design of source code structure, Database Structure.
+
+▪ Programming from Frontend to Backend and Database. 
+▪ Perform the main functions in the system. 
+ 
+- LMS i -course (Learning Management System):  This is a learning management system developed and exclusively 
+distributed by Dai Truong Phat Education Group. 
+• Description:  
+o Online teaching support. 
+o More than 500 schools, 1000 teachers, 100,000 students are using the system. 
+o For teachers, the system supports classroom management, class schedules, student lists, student 
+assessment and monitoring of each student's work progress. 
+o For students' parents, the system supports homework, monitors progress, class schedules and evaluates 
+teachers. 
+o With other management accounts, the system supports the management of teachers, students for each 
+area, school and other additional resources. 
+o Support functions as an ERP for education: time attendance, teacher salary calculation,  student tuition 
+collection,.... 
+• Languages and technologies: 
+o Microservice architecture. 
+o C#, HTML5, CSS3. 
+o jQuery, Bootstrap. 
+o  MVC5 , Entities framework. 
+o SQL Server 2012 R2. 
+• Key responsibilities:  
+o Team Leader: 6 members 
+▪ Coordinate and assign tasks to members. 
+▪ Provide technical and technology support to members. 
+▪ Solve problems faced by the group. 
+▪ Review member's source code. 
+▪ Training new technologies for members. 
+o Fullstack Developer: 
+▪ Design of source code structure, Database Structure 
+▪ Programming from Frontend to Backend and Database. 
+▪ Perform the main functions in the system. 
+ 
+- E-Commerce Exchange for education offline version, application on windows (eduhome):  
+• Description: 
+o The model is similar to the App Store or Google Play, providing nearly 1000 educational applications on 
+the app store . 
+o Deployed in Vietnam, Laos, Cambodia, Thailand. 
+o The system currently has 600,000 users. 
+o 30,000 concurrent hits. 
+o Application version on windows (for offline use) for teachers in class. In an unstable internet 
+environment, teachers will pre-load digital content on computers to teach.  
+o Full support for popular windows operating systems: Windows 7, Windows 10. 
+• Languages and technologies:
+
+o Windows Application: 
+▪ C#. 
+▪ WPF .NET framework. 
+o API: 
+▪ C#. 
+▪  MVC5, Entities framework.  
+▪ SQL Server 2012 R2. 
+• Key responsibilities: 
+o Team Leader: 3 members 
+▪ Coordinate and assign tasks to members. 
+▪ Provide technical and technology support to members. 
+▪ Solve problems faced by the group. 
+▪ Review member's source code. 
+▪ Training new technologies for members. 
+o Fullstack Developer: 
+▪ Design of source code structure, Database Structure 
+▪ Programming from Frontend to Backend and Database. 
+▪ Perform the main functions in the system. 
+EDUCATION 
+University of Information Technology - Vietnam National University Ho Chi Minh City                                 2014 – 2019 
+- Computer Engineering – Specialization: Embedded system and robot. 
+REFERENCE 
+Full name: LUONG NGUYEN HAI ĐANG 
+Phone number: 
+Title: Digital Solution Director 
+Company: DAI TRUONG PHAT EDUCATION GROUP

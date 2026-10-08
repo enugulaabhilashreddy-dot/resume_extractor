@@ -1,0 +1,134 @@
+SƠ LƯỢC BẢN THÂN 
+Tôi là ngư ời dễ gần, sống tình c ảm và thiên v ề cuộc sống gia đình . Trong công vi ệc tôi luôn 
+chú trọng vào kết quả vì thế phần lớn luôn đáp ứng được yêu cầu công việc từ công ty. 
+Với tính hòa đồng, tôi cũng được nhiều đồng nghiệp yêu mến do đó những lúc gặp khó khăn 
+trong công việc tôi thường nhận được sự hỗ trợ để có thể vượt qua nhẹ nhàng.  
+KỸ NĂNG 
+ Quản lý đội nhóm. 
+ Quản lý công việc. 
+ Phân tích và giải quyết vấn đề. 
+ Kỹ thuật chuyên môn. 
+ Chịu áp lực công việc tốt. 
+ Kỹ năng làm việc nhóm. 
+ Tổ chức và quản lý thời gian. 
+ Lập kế hoạch. 
+ Kỹ năng giao tiếp. 
+KINH NGHIỆM CHUYÊN MÔN 
+ Quản trị hệ thống Microsoft Windows 
+o Triển khai hệ thống Windows server : Domain Controller, DNS server, DHCP 
+server, Group policy, Files server, Printer server,… 
+o Xây dựng hệ thống Mail server Microsoft Exchange 
+o Bảo mật hệ thống. 
+o Backup / restore data 
+ Microsoft 365 và các dịch vụ cloud 
+ Ảo hóa server VMware ESXi 
+ Quản trị cơ sở hạ tầng 
+o Triển khai hệ thống mạng LAN, WAN 
+o Remote control 
+o Thiết bị mạng, Router, Firewall, Camera, Voice IP, SAN, NAT, v.v… 
+ Hỗ trợ người dùng 
+ Xây dựng và quản trị website Wordpress 
+ Xây dựng và phát triển kênh truyền thông : Fanpage Facebook, Youtube  
+ Triển khai ERP 
+ Tài liệu IT, chính sách IT 
+ Tham vấn và báo cáo BOD 
+ 
+IT Manager
+ 
+ĐẶNG THỨC TOÀN
+
+THÀNH TÍCH 
+ Xây dựng hệ thống làm việc từ xa hiệu quả cho công ty trong mùa dịch 
+ Phát triển team IT mạnh. 
+ Xây dựng chính sách IT và tài liệu IT cho công ty. 
+ Ảo hóa hệ thống server vật lý giúp tiết kiệm chi phí và tăng khả năng quản trị hệ 
+thống. 
+ Triển khai thành công hệ Microsoft 365. 
+ Phối hợp với các phòng ban để triển khai thành công ERP cho công ty. 
+QUÁ TRÌNH LÀM VIỆC 
+2021 – hiện nay : IT Manager - Công ty Cổ Phần Dược Phẩm Việt Hà.  
+Nhiệm vụ công việc : 
+ Quản lý team IT 
+ Quản trị hệ thống ảo hóa VMWare vSphere 6.5, vCenter 6.5. 
+ Quản trị hệ thống máy chủ ứng dụng : Domain Controller (PDC, ADC), Print server, App 
+Server,  DHCP, … 
+ Cơ sở dữ liệu : Microsoft SQL 
+ Quản trị Microsoft 365 
+ Quản trị ERP 
+ Quản trị website 
+ Chịu trách nhiệm về cài đặt, bảo trì phần cứng và một số phần mềm. 
+ Đào tạo và hỗ trợ người dùng cuối về các lĩnh vực CNTT. 
+ Quản trị mạng LAN, WAN (5 site - TCP / IP, VPN, VLAN, Routing, NAT, Radius,…) 
+ Quản trị hệ thống monitoring (Solarwinds) 
+ Quản lý truy cập mạng an toàn cho người dùng từ xa. 
+ Quản lý cơ sở hạ tầng mạng nội bộ bao gồm: tường lửa, máy chủ, thiết bị chuyển mạch, 
+hệ thống camera và điện thoại IP. 
+ Thực hiện và quản lý các quy trình bảo mật. 
+ Lập lịch nâng cấp, sao lưu. 
+ Quản lý tài sản IT 
+ Viết tài liệu CNTT (để đào tạo, hướng dẫn sử dụng, ...). 
+ Tư vấn cho BOD về các giải pháp CNTT. 
+ Đề xuất và thực hiện các cải tiến và hiệu quả. 
+ Chính sách CNTT. 
+ 
+2019 – 2021 : IT Manager - Công ty TNHH Thực Phẩm và Giải Khát Việt Nam.  
+Chịu trách nhiệm về hệ thống  CNTT hàng ngày của công ty như quản lý server, quản trị mạng, 
+tài khoản người dùng, xử lý sự cố, trợ giúp và tư vấn người dùng. Duy trì các ứng dụng máy 
+tính, bảo mật hệ thống CNTT và viễn thông. 
+Quản lý đội IT support và triển khai cơ sở hạ tầng CNTT cho chuỗi cửa hàng mới. 
+Nhiệm vụ công việc : 
+ Tăng cường cơ sở hạ tầng CNTT thông qua việc triển khai các công nghệ mới. 
+ Chịu trách nhiệm về cài đặt, bảo trì phần cứng và một số phần mềm. 
+ Triển khai hạ tầng CNTT cho chuỗi cửa hàng mới.
+
+ Đào tạo và hỗ trợ người dùng cuối về các lĩnh vực CNTT. 
+ Quản trị mạng LAN, WAN (TCP / IP, VPN, VLAN, Routing, NAT, Radius,…) 
+ Quản trị Mail Server Exchange và Mdeamon. 
+ Quản trị Windows Server: Domain Controller, DNS, DHCP, FTP, ... 
+ Quản trị VMware ESXi  
+ Quản lý truy cập mạng an toàn cho người dùng từ xa. 
+ Quản lý cơ sở hạ tầng mạng nội bộ bao gồm: tường lửa, máy chủ, thiết bị chuyển mạch, 
+hệ thống camera và điện thoại IP. 
+ Thực hiện và quản lý các quy trình bảo mật. 
+ Lập lịch nâng cấp, sao lưu. 
+ Tư vấn xây dựng hệ thống ERP (SAP). 
+ Quản trị Office 365 và các dịch vụ đám mây. 
+ Viết tài liệu CNTT (để đào tạo, hướng dẫn sử dụng, ...). 
+ Tư vấn cho BOD về các giải pháp CNTT. 
+ Đề xuất và thực hiện các cải tiến và hiệu quả. 
+ Chịu trách nhiệm tuyển dụng và đào tạo nhân viên CNTT mới. 
+ Chính sách CNTT. 
+2010 – 2019 :  IT Executive - Công ty TNHH Thương Mại Dịch Vụ Vân Hậu  
+Quản lý toàn bộ hệ thống CNTT của công ty. Duy trì các ứng dụng máy tính để bàn, mạng cục 
+bộ, bảo mật CNTT và viễn thông. 
+Nhiệm vụ công việc : 
+ Setup và quản trị mạng LAN, WAN (5 site). 
+ Setup và quản trị Windows Server: Domain Controller, DNS, DHCP, FTP, ... 
+ Setup và quản trị Mail Server Exchange 2010. 
+ Setup và quản trị VMware ESXi. 
+ Chuyển đổi toàn bộ máy chủ vật lý sang VMware ESXi. 
+ Sao lưu / Khôi phục dữ liệu, Chống virus, Bảo mật. 
+ Quản trị Cơ sở hạ tầng CNTT. 
+ Dịch vụ mạng (DNS, DHCP, Wifi, VPN,…). 
+ Hỗ trợ người dùng cuối. 
+ Lựa chọn và mua phần cứng và phần mềm thích hợp. 
+ Viết tài liệu CNTT (để đào tạo, hướng dẫn sử dụng, ...). 
+ Hỗ trợ công tác truyền thông công ty. 
+BẰNG CẤP 
+ Kỹ sư Công Nghệ Thông Tin – Học Viện Công Nghệ Bưu Chính Viễn Thông.  
+ Chứng chỉ ảo hóa VMware ESXi 
+ Chứng chỉ quản trị hệ thống Microsoft Windows MCSA  
+ Chứng chỉ quản trị mạng Cisco CCNA  
+ Chứng chỉ quản trị mạng Networks & Security 
+MỤC TIÊU NGHỀ NGHIỆP 
+Tôi muốn tìm công việc có thu nhập ổn định, có thể làm việc lâu dài.
+
+Tôi cũng mong muốn có thể phát triển công việc trong công ty và có cơ h ội được phát triển 
+bản thân để trở thành người quản lý IT giỏi. 
+THÔNG TIN CÁ NHÂN 
+Ngày sinh : 06/08/1974  
+Giới tính  : Nam 
+Điện thoại :  
+Email :  
+Địa chỉ : TTA-08-20A chung cư Lê Thành, đường Hồ Văn Long, phường Tân Tạo, quận Bình Tân, 
+Tp. Hồ Chí Minh.

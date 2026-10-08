@@ -1,0 +1,351 @@
+1  
+Curriculum Vitae 
+ 
+I. PERSONAL INFORMATION 
+ 
+ 
+ 
+Full Name PHAN DINH VAN 
+Gender Male 
+Date of Birth July 14nd 1992 
+Place of Birth Quang Ngai 
+Email 
+Contact Phon 
+Current Address: Tan Dong Hiep Ward,  Di An City, Binh Duong Province 
+Home Address:Xuan An Village, Tinh Hoa Ward, Tp. Quang Ngai City, Quang Ngai Province. 
+ 
+Nationality: 
+Vietnam 
+Marital Status: 
+Married 
+ID/Passport No: 
+051092006111 
+Current position: 
+❖ Developer of It’s A Beautiful Way 
+❖ Developer of Unlimited Design And Technology 
+Hobbies: 
+Reading books, listening to 
+music, playing soccer and  
+traveling 
+Desired Position: 
+Manager 
+Target:  
+Become a project manager for the 
+next 3 years 
+ 
+II. CHARACTERISTICS 
+Strengths 
+1. Programming Language: PHP, C++, C# 
+2. Database Management System: MS SQL 
+Server, MySQL, Oracle, MongoDB 
+3. High concentration, Creative, Teamwork 
+4. Careful, Friendly 
+5. Logic thinking 
+Weaknesses  
+1. Height restrictions. 
+2. I’m not good at English since I have not had a 
+chance to work in an English communication 
+environment. 
+ 
+III. EDUCATIONAL QUALIFICATION 
+Name of School/University 
+(In English) 
+Qualification & Major Duration of Course 
+From To 
+Ho Chi Minh City University 
+of Technology and Education 
+Good database, Programmer 
+Web (.Net, PHP), Programmer 
+Application (.Net), Software 
+Testing, Software Project 
+Management 
+2010 2015 
+Other Professional Qualifications: Vocational training certificates at colleges and intermediate schools
+
+2  
+IV. LANGUAGE CAPABILITIES: 
+Language Speaking Listening Writing Reading 
+English Basic Basic Rather Rather 
+ 
+V. EMPLOYMENT HISTORY 
+Name of Company Nature of Business 
+Duration of employment 
+From 
+YYYY/MM 
+To 
+YYYY/MM 
+THL Soft Developer 2016/01 2017/07 
+Amagumo Labs Developer 2017/08 2020/01 
+Pungkook Saigon II Developer 2020/02 2022/01 
+It’s A Beautiful Way Developer 2022/01 2024/06 
+Unlimited Design 
+And Technology 
+Developer 
+(freelancer) 
+2023/09 Now 
+ 
+VI. SUMMARY OF WORKING EXPERIENCE 
+Programming Language 
++     PHP, Laravel Framework, WordPress Web, NodeJS (learned), Elastichsearch (learning) 
++     ,  Vuex, Reactjs, Redux 
++     Web (HTML, HTML5, CSS, CSS3, Tailwind CSS , jQuery, JavaScript, Bootstraps, Ajax) 
++     .NET Core (ASP), Web MVC  
++     Queues, Transaction , Postman API, REST APIs, WebSocket, Web Services API 
++     Query Data from MS SQL Server, MySQL, Oracle, MongoDB 
++     Git, Gitlab, GitHub, Bitbucket, SVN 
++     Docker, XAMPP, Linux, Redis, Windows Server 
+ 
+VII. DETAIL DESCRIPTION OF PROJECTS DONE: 
+Casebook 
+March 2016 - November 2016 
+Client Korean 
+Description ⚫  The manager of the Store can manage all the information of 
+employees, add new, calculate revenue, make reports. 
+⚫ Function login, logout, validate form, design database 
+Team size 2 
+Position Developer 
+Responsibilities ⚫ Implement code functions according to the design file 
+⚫ Recommending technical solutions and tools. 
+Technologies MVC5,  SQL Server, HTML5, CSS3, jQuery, JavaScript, 
+Bootstrap, SVN.
+
+3  
+KBPharm 
+December 2016 - July 2017 
+Client Korean 
+Description ⚫ The manager of the System can manage all information of the user, 
+make all report. 
+⚫ Function login, logout, validate form, module products, d esign 
+database 
+Team size 3 
+Position Developer 
+Responsibilities ⚫ Implement code functions according to the design file 
+⚫ Recommending technical solutions and tools. 
+Technologies MVC5,  SQL Server, HTML5, CSS3, jQuery, JavaScript, 
+Bootstrap, SVN. 
+ 
+ 
+TimeSheet 
+August 2017 - December 2017 
+Client Vietnamese 
+Description ⚫ Requirements analysis and database design. 
+⚫ Create login, and logout functions and functions add, edit, and delete 
+all pages.  
+⚫ Manage time work of all employees, make reports, export reports to 
+PDF and Excel, send mail. 
+Team size 1 
+Position Technical Leader and Developer 
+Responsibilities ⚫ Leading project planning, design, and implementation. 
+⚫ Identifying and resolving technical issues. 
+⚫ Communicating with stakeholders. 
+⚫ Implement code functions according to the design file 
+⚫ Recommending technical solutions and tools. 
+Technologies   PHP, Laravel Framework, MySQL, Queue, HTML5, CSS3, jQuery, 
+JavaScript, Git. 
+ 
+ 
+DypFISH 
+January 2018 - April 2018 
+Client French 
+Description ⚫ Requirements analysis and database design. 
+⚫ Create function add, edit, delete all page s. Export report to PDF 
+and excel. Upload and download file. 
+Team size 1
+
+4  
+Position Technical Leader and Developer 
+Responsibilities ⚫ Leading project planning, design, and implementation. 
+⚫ Identifying and resolving technical issues. 
+⚫ Communicating with stakeholders. 
+⚫ Implement code functions according to the design file 
+⚫ Recommending technical solutions and tools. 
+Technologies  PHP,  Laravel Framework, MySQL, Queue, HTML5, CSS3, jQuery, 
+JavaScript, Git. 
+ 
+ 
+Learn ReactJS and Angular 5 
+May 2018 - June 2018 
+Client Vietnamese 
+Description ⚫ Read document and make example. 
+⚫ Create login, logout function, call API from client (use reactjs or 
+angular 5). Export page to excel and PDF. Upload and download 
+file 
+Team size 1 
+Position Developer 
+Responsibilities ⚫ Make a plan to study. 
+⚫ Report learning progress to my boss. 
+⚫ Demo of worked examples. 
+Technologies  PHP,  Laravel Framework, MySQL,  ReactJS, Angular 5, Queue, HTML5, 
+SCSS, jQuery, JavaScript, Git. 
+ 
+ 
+Warehouse Con Ong 
+July 2018 - September 2019 
+Client French 
+Description ⚫ Requirements analysis and database design. 
+⚫ Build the warehouse admin system.  
+⚫ Build POS sales systeml. 
+Team size 2 
+Position Technical Leader and Developer 
+Responsibilities ⚫ Leading project planning, design, and implementation. 
+⚫ Communicating with clients and team members. 
+⚫ Managing team performance and workload. 
+⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Communicating with stakeholders. 
+⚫ Implement code functions according to the request.
+
+5  
+⚫ Recommending technical solutions and tools. 
+⚫ Performing code reviews and providing feedback. 
+Technologies  PHP,  Laravel Framework, MySQL, Queue, HTML5, CSS3, jQuery, 
+JavaScript, Git. 
+ 
+ 
+Coffee Mylife Admin web 
+October 2019 - January 2020 
+Client Vietnamese 
+Description ⚫ Requirements analysis and database design. 
+⚫ Build the warehouse admin system.  
+⚫ Create login, logout function and function add, edit, delete all 
+pages (user, category….). 
+⚫ Export page to excel, Upload and download file, Send mail. 
+⚫ Convert database My SQL Server to My SQL. 
+Team size 1 
+Position Technical Leader and Developer 
+Responsibilities ⚫ Leading project planning, design, and implementation. 
+⚫ Communicating with clients. 
+⚫ Managing team performance and workload. 
+⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Communicating with stakeholders. 
+⚫ Implement code functions according to the request. 
+⚫ Recommending technical solutions and tools. 
+⚫ Performing code reviews and providing feedback. 
+Technologies  PHP,  Laravel Framework, MySQL, Vuejs, Queue,  HTML5, SCSS, 
+jQuery, JavaScript, Git. 
+ 
+ 
+Pungkook Video 
+February 2020 - January 2021 
+Client Korean 
+Description ⚫ Requirements analysis and database design. 
+⚫ Build the admin system.  
+⚫ Create login, logout function and function add, edit, delete all 
+pages (gallery, my video….). 
+⚫ Upload, crop video, add the logo to the video. 
+⚫ Comment function (realtime). 
+Team size 2 
+Position Technical Leader and Developer
+
+6  
+Responsibilities ⚫ Leading project planning, design, and implementation. 
+⚫ Communicating with my boss and team members. 
+⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Communicating with stakeholders. 
+⚫ Implement code functions according to the request. 
+⚫ Recommending technical solutions and tools. 
+⚫ Performing code reviews and providing feedback. 
+Technologies  Core ,  SQL Server, Vuejs,  Queue,  HTML5, SCSS, 
+jQuery, JavaScript, Github, Windows Server. 
+ 
+ 
+MES 
+February 2020 - January 2022 
+Client Korean 
+Description ⚫ Draw chart all report. 
+⚫ Write api and view statistical data.  
+⚫ Upload files. 
+⚫ Check SQL query and optimize. 
+Team size 4 
+Position Developer 
+Responsibilities ⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Implement code functions according to the request. 
+⚫ Recommending technical solutions and tools. 
+Technologies  MVC, SQL Server , Oracle, HTML5, SCSS, jQuery, JavaScript, 
+Github, Windows Server. 
+ 
+ 
+Fabrique 4 
+January 2022 - June 2022 
+Client French 
+Description ⚫ Create API get, create, update, and delete data on all pages. 
+⚫ Participate in making some pages on the front end. 
+Team size 4 
+Position Technical Leader and Developer 
+Responsibilities ⚫ Communicating with my boss. 
+⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Implement code functions according to the request. 
+⚫ Recommending technical solutions and tools.
+
+7  
+⚫ Performing code reviews and providing feedback. 
+Technologies  PHP,  Laravel Framework, MySQL, Vuejs, Docker, Queue,  HTML5, 
+SCSS, jQuery, JavaScript, Git. 
+ 
+ 
+Ancitrak 
+July 2022 - August 2022 
+Client English 
+Description ⚫ Draw chart all report. 
+⚫ Create api get, update, data all charts. 
+⚫ Create api add data to draw charts. 
+⚫ Upload files. 
+Team size 4 
+Position Technical Leader and Developer 
+Responsibilities ⚫ Leading project planning, design, and implementation. 
+⚫ Communicating with my boss and team members. 
+⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Implement code functions according to the request. 
+⚫ Recommending technical solutions and tools. 
+⚫ Performing code reviews and providing feedback. 
+Technologies  PHP,  Laravel Framework, MySQL, Vuejs, AWS(S3), Docker, Queue, 
+Tailwindcss, HTML5, SCSS, jQuery, JavaScript, Git. 
+ 
+ 
+Alpagino 
+September 2022 - June2024 
+Client French 
+Description ⚫ Requirements analysis and database design. 
+⚫ Import data from excel file, create, update, delete all page (users, 
+layouts….). 
+⚫ Export PDF HD, PDF  BD, export excel. 
+⚫ Upload files. 
+⚫ Create roles, permission. 
+⚫ Design and create database total, database project. 
+⚫ Pagination pages (paging to prints) auto for projects. 
+⚫ Sync data. 
+⚫ Send mail. 
+Team size 5 
+Position Developer 
+Responsibilities ⚫ Participate in the project planning, design, and implementation.
+
+8  
+⚫ Communicating with my boss and team members. 
+⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Implement code functions according to the request. 
+⚫ Recommending technical solutions and tools. 
+⚫ Performing code reviews and providing feedback. 
+Technologies  PHP,  Laravel Framework, MySQL, MongoDB, React js, Docker, Web 
+Service, AWS(S3), Queue, HTML5, SCSS, jQuery, JavaScript, Git. 
+ 
+ 
+Evantra 
+March 2024 - May 2024 
+Client Belgium 
+Description ⚫ Create pages using design files . 
+⚫ Create form get infor and send mail. 
+⚫ Payment by paypal. 
+Team size 2 
+Position Developer 
+Responsibilities ⚫ Communicating with my boss and team members. 
+⚫ Ensuring timely and quality delivery. 
+⚫ Identifying and resolving technical issues. 
+⚫ Implement code functions according to the request. 
+⚫ Recommending technical solutions and tools. 
+Technologies  Wordpress (Elementor), CSS, jQuery, JavaScript.

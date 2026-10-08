@@ -1,0 +1,573 @@
+CURRICULUM VITAE 
+ 
+PHAN THANH HOA 
+ 
+ 
+Profile Information 
+  
+Date of birth:  18/12/1992 
+Sex:   Male 
+Nationality:   Viet Nam           
+Address:  133 Bang Dang Street – Ward 2 – Tan Binh district 
+Phone:  
+Email:            
+ 
+Education 
+ 
+ 
+2010-2014 
+ 
+Computer Science – HCM City Open University 
+ 
+ 
+2016– Now 
+ 
+Athena Group (CCNA , MCSA 2008 -2012) 
+ 
+ 
+Career Planning 
+ 
+ 
+Short Term 
+(1– 3 Year) 
+ Learning Security and become to Security Specialist 
+ Learn specialist Networking  
+ Learn Linux 
+ 
+Long Term 
+(3-5 Years) 
+ Become master Security 
+ Become master Networking 
+ 
+Work Experience 
+ 
+2018 
+- 
+Now 
+IT Supervisor – SIP CORP  
+1. Helpdesk Support and IT Infrastructure 
+ Manage all aspects of the implementation and  operation of information and functional 
+systems for the Company, including software applications, network, phone systems and 
+end-user computers. 
+ Manage 3 IT staff to resolve issues in a timely manner: PC, Printer, Laptop (400 PC 
+and more than 100 printer) 
+ Oversee all IT support requests, incidents and  problems, manage all IT Helpdesk 
+processes for communicating outage/emergency activities to the Company. 
+ Manage the System: Domain AD, DHCP, DNS, File Server, Email, SQL, Vmware 
+Vsphere ESXI, Hyper-V, vCenter, Central Server, … 
+ Manage networking: Firewall, LAN, WAN, Leased Line, VPN. 
+ Manage Camera system (More 300 cam) Analog and IP Camera.
+
+
+ 
+Provide help desk and technical services assistance to employees.
+ 
+
+ 
+Implement, maintain, and ensure maximum uptime for IT s
+ystems.
+ 
+
+ 
+Oversee the provisioning of the end
+-
+user services.
+ 
+
+ 
+Ensure minimal downtime or interruption to staff productivity.
+ 
+2.
+ 
+Data
+ 
+Monitoring & Maintenance, Backup Security 
+ 
+
+ 
+Ensure security of information technology assets, data, network access, and backup 
+sys
+tems.
+ 
+
+ 
+Maintain inventory and details of IT Equipment including asset numbers and user 
+registers.
+ 
+
+ 
+Ensure Software licencing in full compliance with requirements and instructions.
+ 
+
+ 
+Ensure integrity of databases is maintained and monitored.
+ 
+
+ 
+Ensure frequent Bac
+k
+-
+ups of management working stations and all servers
+, 
+maintenance and update patch for Server, Client.
+ 
+
+ 
+Administers user accounts.
+ 
+
+ 
+Ensure and manage user access rights are set up correctly and permanently reviewed.
+ 
+3.
+ 
+IT Policy Development
+.
+ 
+
+ 
+Develop and enhance
+ 
+Information Systems policies and procedural manuals to assure 
+data accuracy, security, legal and regulatory compliance.
+ 
+
+ 
+Develop best practices and written documentation for all server maintenance.
+ 
+
+ 
+Team Management & IT Budget.
+ 
+
+ 
+Manage IT staff, which includ
+es hiring, training, guidance, and discipline.
+ 
+
+ 
+Manage annual IT budget and ensure cost effectiveness.
+ 
+
+ 
+Manage hardware and software vendor relationships.
+ 
+4.
+ 
+Others
+.
+ 
+
+ 
+Support ERP Team, 
+Attendance Management
+ 
+software.
+ 
+ 
+2017
+ 
+IT Deputy 
+–
+ 
+Fuji CAC Joint Stock Compa
+ny 
+–
+ 
+Fuji Electric Group (12/2016
+-
+now)
+ 
+
+ 
+Manage 3 IT staff to resolve issues in a timel
+y manner: PC, Printer, Laptop (250 PC and 
+more than 8
+0 printer)
+ 
+
+ 
+Manage the infrastructure IT, technical support, F
+AX, Printer, Scan, Wifi, LAN, 
+Internet, 
+website, License,
+ 
+Software.
+ 
+
+ 
+Manage
+ 
+the 
+System
+: Domain AD, DHCP, DNS, File Server, Email, SQL
+,
+ 
+Vmware 
+Vsphere
+ 
+ESXI
+, Hyper
+-
+V, vCenter, Central Server,
+ 
+…
+ 
+
+ 
+Maintenance and update patch for Server, Client.
+ 
+
+ 
+Backup database AD, ERP, Camera,
+ 
+Router Config,
+ 
+NAS,
+ 
+(Veeam Backup and SQ
+L 
+Backup)
+….
+ 
+
+ 
+Manage environment sensors system data center room.
+ 
+
+ 
+Manage networking: Firewall, LAN, WAN, Leased Line, VPN.
+ 
+
+ 
+Manage Camera system (More 
+2
+00 cam) Analog and IP Camera.
+
+ Manage call center: PDX system and One contact system. 
+ Manage email server. 
+2016 
+ 
+IT Executive – System Admin – Help Desk – Tan Hiep Phat Group (02/2016 – 12/2016) 
+ IT Executive support and manage end user: PC, Laptop, Printer, OS, (400 PC) … 
+ Support, design and deployment network project. 
+ Manage the infrastructure IT: Printer, Switch, Wifi, Internet, LAN, Intranet, Time 
+Attendance machine, Software. 
+ Maintenance and update patch to client ( 1400 client) 
+ Manage, install all software. 
+ Manage email profile, Outlook, monitor computer status. 
+ Manage environment sensors system data center room. 
+ Manage  and export data time attendance to HR dept. 
+2015 
+IT Technical –Customer Service Team – Vietnam eSports Company(VED) – Garena Group ( 
+12/2014-02/2016) 
+ Technical support internet room with Gcafe, Cyberpay software. 
+ Support account gamer : LOL and FO3 
+ Troubleshoot, consulting for customer using the services of company. 
+ IT Helpdesk CS room. 
+ 
+ 
+ 
+2014 
+Internship at ESC Online Solution (06/2013 – 03/2014)  
+ Design website by open source (Joomla, tomato, nuke Viet,.. ) : HTML 5, CSS3,.. 
+ Participation main project. 
+ Hand over and signing contracts with customers. 
+ Troubleshoot, consulting for customer using the services of company. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2012 
+Technical support – Open Universary( 2011-2014) 
+ Leader team support : 20 collabrator 
+ Support, install software 
+ Support hardware 
+ Maintenance and fix hardware, software 
+ Support the network and computer system design input. 
+Shichida Institute of Education, Vietnam 
+ Collaborators in Information Technology.  
+ Cleaning, arranging teaching aids.  
+ Support the design of network lines for the company. 
+ Supports server installation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2010 
+Admin in Group BINH DINH compatriot  
+ Manage group diary. 
+ Communicate information about BINH DINH compatriot for all members 
+ Confirm the entry of members - more than 122,000 members. 
+ Up program for boards off flavor.  
+ Confirm – collect the post of members in group.  
+  Links:
+
+Social work
+ 
+2011
+ 
+
+ 
+Partner with Open Universit
+y students in HCM City
+.
+ 
+
+ 
+National University Entrance Exam Support Campaign in COLLEGE OF FOREIGN 
+ECONOMIC RELATIONS.
+ 
+
+ 
+Participate in programs on environmental protection.
+ 
+
+ 
+Deputy camp society of 2
+nd
+ 
+Binh Dinh Camp.
+ 
+2012
+ 
+
+ 
+Partner with Open University students
+ 
+in HCM City.
+ 
+
+ 
+Support for new students entering of the first day
+ 
+at University
+.
+ 
+
+ 
+Currency profile, detailed instructions, in particular the schedule, find 
+accommodation for new students entering the school.
+ 
+
+ 
+Held the Mid
+-
+Autumn festival for children in Giong
+ 
+Rieng 
+-
+Kien giang province.
+ 
+
+ 
+Organizing Committee of 3
+rd
+ 
+Binh Dinh camp.
+ 
+2
+013
+ 
+
+ 
+Technical coll
+aborator of the school welcome the
+ 
+new students.
+ 
+
+ 
+Held the Mid
+-
+Autumn festival for Khmer children in Vi
+nh Long.
+ 
+
+ 
+Held the Mid
+-
+Autumn festival in the Children’s house
+ 
+of Ho Chi Minh City.
+ 
+
+ 
+Team leader of 4
+th
+ 
+Binh Dinh Camp
+.
+ 
+
+ 
+Participated in several school clubs
+-
+organizations such as: the martial arts CLUB ....
+ 
+
+ 
+ 
+And also participate in many other charitable social programs.
+ 
+2014
+ 
+
+ 
+Technical support to welcome the new stude
+nts admission. 
+ 
+
+ 
+Joined and held Mid
+-
+Autumn festival for poor children in Hamlet 1, 2, 3, 4 in Hiep 
+Phuoc 
+-
+ 
+Nha Be District. 
+ 
+
+ 
+Team leader of 5
+th
+ 
+Binh Dinh  camp.
+ 
+
+ 
+ 
+Green Summer Volunteer Campaign 
+at Hiep Phuoc commune 
+-
+ 
+Nha Be District 
+-
+ 
+HCMC. 
+ 
+
+ 
+Obtain munici
+pal certificate of merit, Hiep Phuoc
+ 
+commune, Nha Be District of 
+excellent soldiers Green Summer Volunteer Campaign
+.
+ 
+ 
+Skills
+ 
+ 
+Languages
+ 
+
+ 
+Vietnamese (mother language
+)
+ 
+
+ 
+English (communication
+)
+ 
+Expertise
+ 
+
+ 
+Proficiency in Microsoft Office, Internet ...
+ 
+
+ 
+Database 
+management, SQL server, Linq, Access ...
+ 
+
+ 
+C++, C#.
+ 
+
+ 
+Mobile programming windowsphone
+.
+ 
+
+ 
+HTML5,  CSS3, Dreamweaver…..
+ 
+
+ 
+MCSA 
+2008, 
+2012, CCNA
+ 
+
+ 
+Proshow Producer, Aegisub....
+ 
+
+ 
+Proficient use of social networks.
+ 
+
+ 
+Design and implementation of network infrastructure syste
+ms.
+
+Soft
+-
+skills
+ 
+
+ 
+Team work
+ 
+
+ 
+Organize, communicate.
+ 
+
+ 
+Ability to handle situations well.
+ 
+
+ 
+Flexible behavior.
+ 
+
+ 
+ 
+To withstand high pressure job.
+ 
+
+ 
+Experienced travel
+ 
+
+ 
+Ability to learn.
+ 
+
+ 
+Ability to anticipate problems, risks and find ways to overcome.
+ 
+ 
+ 
+Hobbies
+ 
+Photo
+graphy, travel, reading, watching movies and concerts, singing, meet friends, making the clip with 
+effects. 
+ 
+ 
+Reviews myself 
+ 
+ 
+Sociable, friendly, approachable, highly responsible work, humor, funny, easy to talk with everyone
+.

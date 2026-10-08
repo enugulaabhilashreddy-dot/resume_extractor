@@ -1,0 +1,139 @@
+Lê Khoa
+Developer
+Short-term goals:
+Leverage 3 years of programming experience to contribute
+to software projects, ensuring high quality and performance.
+Participate in advanced training courses to enhance
+technical expertise.
+Long-term goals:
+Aspire to become an expert in the company’s core
+technologies, with the capability to design and implement
+advanced software solutions. Contribute to improving
+operational efficiency and developing more competitive
+products. Develop management and leadership skills to
+prepare for a team lead or technical manager role within the
+next 3-5 years.
+
+ lekhoa.lekho gmail.com
+ 15/09/1998
+ Tân Phú - Hồ Chí Minh
+Information Technology
+07-2018 - 06-2020 • Khá
+INFORMATION TECHNOLOGY
+COLLEGE HOCHIMINH CITY
+C# 4
+SQL 4
+JavaScript 4
+OPC PHARMACEUTICAL JOINT-STOCK
+COMPANY • IT SOFTWARE
+05-2021 - 06-2024
+- Managed and developed internal software systems,
+with a focus on C# and SQL Server, ensuring high
+performance and stability.
+- Implemented and customized ERP applications such as
+Bravo and SAP, optimizing business processes and
+enhancing operational efficiency.
+- Developed web applications using MVC architecture to
+support and automate business functions.
+- Designed and programmed document and human
+resource management applications, improving workflow
+processes and increasing internal productivity.
+- Developed and managed SQL Server databases,
+creating and maintaining effective data systems to meet
+organizational needs and support data analysis activities.
+- Built and developed Android mobile applications for
+sales and data reporting, enhancing the company's data
+management and analytical capabilities.
+- Collaborated with business units to identify software
+needs, developing custom solutions to meet specific
+THÔNG TIN CƠ BẢN
+HỌC VẤN
+TIN HỌC
+KINH NGHIỆM LÀM VIỆC
+
+Bravo 4
+SAP 4
+Web (MVC) 4
+Android 3
+Accounting software/ Application
+accounting
+4
+Office 4
+Tiếng Anh 4
+- Reading books
+- Playing sports
+- Software development
+departmental requirements.
+- Conducted software testing and debugging, ensuring
+applications function accurately and regularly updating
+security patches.
+- Performed routine maintenance and upgrades of
+software systems, ensuring compliance with technology
+standards and information security.
+- Developed and delivered training programs for staff on
+new software systems, enhancing their ability to use and
+maximize technology tools.
+- Participated in requirement analysis, planning, and
+implementation of new software projects, ensuring
+projects were completed on time and within budget.
+TAI-YUAN GARMENTS CO., LTD • IT SERVER
+06-2020 - 04-2021
+- Provided technical support for staff, managing and
+troubleshooting remote server systems, particularly
+those from Taiwan.
+- Administered the company's software systems,
+ensuring optimal performance and timely issue resolution.
+- Managed and maintained surveillance camera systems,
+server infrastructure, and printers, ensuring continuous
+operation and minimizing downtime.
+- Monitored and analyzed server performance,
+performing optimization and system upgrades to meet
+business needs and enhance security.
+- Established and managed server security measures,
+including regular data backups, system recovery, and
+intrusion protection.
+- Coordinated with other departments to integrate new
+software solutions and improve the company’s overall
+workflow processes.
+- Performed routine checks and updates of operating
+systems and software on servers, ensuring compliance
+with standards and security requirements.
+DAI TIN INFORMATION COMPANY LIMITED • IT
+SUPPORT
+06-2018 - 06-2019
+- Provided technical support to post offices, banks, and
+local businesses, handling software, hardware, and printer
+issues.
+- Installed and configured internet networks, ensuring
+NGOẠI NGỮ
+SỞ THÍCH
+
+stable and secure connectivity for clients.
+- Installed and set up Windows operating systems,
+configured computer hardware, and optimized device
+performance.
+- Performed routine maintenance on IT systems and
+equipment, ensuring continuous and efficient operation.
+- Guided and trained end-users on software usage and IT
+tools, enhancing their ability to handle basic
+troubleshooting independently.
+- Managed and monitored IT assets, ensuring timely
+updates and scheduled maintenance.
+Coordinated with external service providers to resolve
+complex issues and upgrade systems.
+IT Skills:
+- IT System Management: Servers, networks, software,
+hardware.
+- Software and Application Development: Web (C#, MVC),
+mobile (Android), SQL Server.
+- ERP Implementation: Bravo, SAP.
+- System Security and Optimization.
+Soft Skills:
+- Problem Solving
+- Communication and Teamwork
+- Time Management
+- User Training and Support
+Analytical Skills:
+- Business Requirements Analysis
+- System Performance Optimization
+KỸ NĂNG

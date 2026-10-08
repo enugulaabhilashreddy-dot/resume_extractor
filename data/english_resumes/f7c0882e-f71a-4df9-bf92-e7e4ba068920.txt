@@ -1,0 +1,145 @@
+Nguyen Hai
+MANAGER
+10 NĂM KINH NGHIỆM
+ +84-901732888
+ 
+ Phòng 2004 M7 Mipec Kiến Hưng, Hà Đông,
+Hà Nội, Quận Hà Đông, Hà Nội, Việt Nam
+Ngày sinh: 02/09/1979
+Quốc tịch: Người Việt Nam
+Tình trạng hôn nhân: Đã kết hôn
+Giới tính: Nam
+
+I love IT! I hang out with a lot of tech nerds. I am a tech and political geek myself. I tried to pick up
+new tech every day, especially in artificial intelligence, machine learning, deep learning, data
+science, 
+I regularly attend tech meetups and I know a lot of powerful people in the tech industry.
+ 
+Risk Management
+Time Management
+Problem Solving
+Java
+Scrum Master
+Agile
+ReactJS
+JavaScript
+My SQL
+C++
+C#
+PHP
+Flutter
+Adroid
+Swift
+HTML
+Research Papers
+Python
+Tensorflow
+ 
+Tiếng Anh
+ 
+Mức độ thành thạo: 
+Cao Cấp
+THÔNG TIN CHUNG
+KỸ NĂNG
+NGÔN NGỮ
+KINH NGHIỆM LÀM VIỆC
+Research, prototype, and train state-of-the-art image segmentation and
+classification models.
+Develop innovative algorithms and solutions for real-time object detection,
+instance segregation, image segmentation, and object tracking.
+Work with the team to integrate computer vision into industrial-level
+software solutions
+Stay up to date with tech, prototype with and learn new technologies,
+proactive in technology communities
+Learn from peers in computer vision, machine learning, and the engineering
+community
+Deliver on time with a high bar on the quality of research, innovation, and
+engineering
+Responsibilities for:
+02/2022 - Hiện Tại
+ONCOM Communication and Technology
+- Analysis of VOIP system
+- Programming VOIP system, selling international calling scratch cards
+- C ++ , MY SQL database
+- Completing VoIP products
+- Operating and testing the system
+02/2006 - 10/2008
+The New Generation Company
+- Programming and developing SMS center system (message center)
+- Analysis of billing system (CDR)
+- Connect with carriers (Viettel, mobifone, Vinaphone)
+- Trial operation and put into use
+C ++ programming language, dot NET, SQL Server
+01/2009 - 03/2011
+VnTelecom
+- Set up and build dating online projects
+04/2011 - 12/2011
+HTC Group
+Technical Director
+Programmer
+Team Leader
+Project Manager
+
+- Coordinate with other departments to optimize the project before going into
+the development stage
+- Analyze similar projects to find out the best functions for online dating
+project
+- Discuss with the coding development team by each function and each stage.
+- Operate optimally the online dating system and create online and offline
+events with the company's event team
+- Responsible for setting up a project to build connection systems with
+Vietnamese mobile network providers (Viettel, Vinaphone, Mobifone, Gfone)
+- Prepare a financial estimate for the project
+- Communicate with partners and stakeholders to build a smooth system
+- Assign tasks to project members and recruit staff if necessary.
+- Responsible for monitoring, reviewing, promoting and motivating members to
+complete according to plan
+- Responsible for commissioning and testing each and every part of the
+system
+- Responsible for the documentation using software
+- Responsible for transferring and guiding the actual system operation
+- Programming language JAVA, WEB API, C #, MYSQL, MSSQL Server.
+02/2012 - 03/2016
+Vnincom
+- Project planning
+- Financial planning
+- Recruitment of personnel for the project
+- Selection of platforms for project development
+- Focus on mainly open source languages: Java, JavaScript, Python, Android,
+React JS, Ext JS, Flutter, iOS.
+- Scrum, Agile...
+Databases focus on open source platforms: mysql, postgresql, h2 etc.
+- Responsible for monitoring the progress, test run in phases until 100%
+completion of the project.
+- Responsible for creating manual documents to customers and partners.
+- Responsible for checking the appropriate hardware (server, related
+equipment) to install and operate the entire system.
+- Responsible for project risk management including protection system,
+backup system, overload prevention system.
+04/2016 - 07/2021
+Phu Minh communications and technology JSC
+Technical Director
+Project Manager
+CHỨNG CHỈ
+2022
+Coursera
+2022
+Coursera
+2022
+Coursera
+Introduction To TensorFlow For Artificial Intelligence, Machine Learning, And Deep Learning
+Convolutional Neural Networks In TensorFlow
+Sequences, Time Series And Prediction
+
+2022
+ TensorFlow Developer Specialization
+NGƯỜI THAM KHẢO
+Giám đốc - FTC Group
+ - 
+Giám Đốc - Vietglobal
+ - 
+Giám Đốc - Anh Minh Media
+ - 
+Nguyễn Tiến Hoàng
+Nguyễn Đình Huy
+Nguyễn Tuấn Ngọc

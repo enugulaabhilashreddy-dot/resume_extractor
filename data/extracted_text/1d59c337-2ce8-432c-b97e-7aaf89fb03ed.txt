@@ -1,0 +1,99 @@
+NGUYỄN THỊ BÍCH
+LẬP TRÌNH VIÊN FRONT END
+ 29/02/1992
+ Nữ
+
+
+ số 11 ngõ 29 Nguyễn Thái Học, Đống Đa,HN
+
+MỤC TIÊU NGHỀ NGHIỆP
+Không ngừng học hỏi trao dồi những kiến thức về
+lập trình để phát triển kỹ năng chuyên môn.
+KỸ NĂNG
+Tìm kiếm, đọc hiểu tài liệu tiếng anh chuyên môn
+Có tư duy logic tốt, nắm vững lập trình  HTML,
+SCSS
+Sử dụng thành thạo Bootstrap, Jquery Mobile
+Thành thạo Photoshop, Zeplin, figma, illustrator
+Sử dụng  Git, Sourch tree, SVN
+GIẢI THƯỞNG
+- Hội thi tay nghề thiết kế Web của Bộ Công
+Thương
+HỌC VẤN
+ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP
+Ngành học: Công nghệ thông tin  (Từ tháng 10/2010 đến tháng
+9/2014)
+Chuyên ngành: Kỹ sư phần mềm
+Xếp loại: Khá
+KINH NGHIỆM LÀM VIỆC
+CÔNG TY VINECOM
+Vị trí: Lập trình viên (Từ tháng 9/2014 đến 30/5/2015.)
+- Code HTML từ file Photoshop
+CÔNG TY PHẦN MỀM CITIGO
+Vị trí:  Lập trình viên (Từ 01/06/2015 đến hiện tại.)
++/ Code HTML từ Photoshop,  illustrator, Png, Img.
+DỰ ÁN THAM GIA
++/ CODE WEB  CITIGO 
+Đây là Website công ty citigo .
+Ngôn ngữ sử dụng: HTML, CSS, JS, Wordpress
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt. 
+Link app: 
++/ CODE WEB  KIOTVIET 
+Đây là Phần mềm quản lý bán hàng KiotViet .
+Ngôn ngữ sử dụng: HTML, CSS, JS,
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link app: 
++/ CODE WEB 
+Đây là dự án  nội bộ Vingroup
+Ngôn ngữ sử dụng: HTML, CSS, JS
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link web: 
++/ CODE WEB  
+Đây là dự án giảng dạy học chơi đàn.
+Ngôn ngữ sử dụng: HTML, CSS, JS
+
+SỞ THÍCH
+- Nghe nhạc
+- Ăn uống.
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link web: 
++/ CODE WEB  HEALTHBUZZ  
+Đây là dự án tìm việc .
+Ngôn ngữ sử dụng: HTML, CSS, JS
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link web: 
++/ CODE GOLDEN NAILS
+Đây là Web Nail .
+Ngôn ngữ sử dụng: HTML, CSS, JS
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.                                                                         
+Link web: 
++/ CODE CÔNG TY TUẤN VINH
+Đây là Website bán hàng.
+Ngôn ngữ sử dụng: HTML, CSS, JS
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link web: 
++/ CODE KHÓA HỌC VIETJACK
+Đây là Website học online.
+Ngôn ngữ sử dụng: HTML, CSS, JS
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link web: 
++/ CODE 
+Đây là Trang website về tin tức bất động sản .
+Ngôn ngữ sử dụng: HTML, CSS, JS
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link web: 
++/ CODE IWORK
+Đây là Website tìm việc làm.
+Ngôn ngữ sử dụng: HTML, CSS, JS
+Responsive hỗ trợ trên các thiết bị và tương
+thích với các trình duyệt.
+Link web:

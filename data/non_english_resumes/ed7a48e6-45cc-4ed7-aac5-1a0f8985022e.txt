@@ -1,0 +1,123 @@
+LÝ LỊCH TRÍCH NGANG 
+ 
+THÔNGTIN CÁ NHÂN:  
+ 
+Họ Tên: Nguyễn Anh Tuấn     
+Ngày sinh:  27/11/1979 
+Địa chỉ: 451/70B Phạm Thế Hiển F.3 Q.8 
+Điện thoại:   
+Email:   
+  
+ 
+• MỤC TIÊU NGHỀ NGHIỆP: 
+Mong muốn trở thành Giám Đốc Công Nghệ Thông Tin xuất sắc, làm việc trong một môi 
+trường năng động đầy thử thách và có nhiều cơ hội phát triển nghề nghiệp. 
+ 
+Ngành nghề quan tâm: 
+▪ Viễn thông, CNTT. 
+▪ Chứng khoán,  ngân hàng. 
+▪ Bán lẻ. 
+ 
+• KINH NGHIỆM LÀM VIỆC: 
+• 10/2023 – Nay: Trưởng Phòng IT Công ty TNHH TM Laria (The Farmers Market) 
+• Tư vấn, giám sát, thi công hạ tầng, triển khai ph ần mềm quản lý các chi nh ánh 
+mới. 
+• Quản lý, tuyển dụng, vận hành, đào tạo nhân viên mới về hạ tầng, phần mềm 
+SAP B1, POS 
+• SAP B1 
+• Financials 
+• CRM 
+• Sale A/R 
+• Purchasing A/P 
+• Inventory 
+• Production 
+• Quản lý, monitor, xử lý sự cố phát sinh (network và system) 
+• Lập kế hoạch, giám sát chi phí, kế hoạch mua sắm và làm việc với đối tác. 
+• Nâng cấp hạ tầng các chi nhánh cửa hàng, kho và datacenter để hổ trợ vận hành 
+SAP và POS 
+• Báo cáo trực tiếp BOD 
+ 
+▪ 01/2023 –  Tháng 09/2023: Quản lý hạ tầng toàn quốc Công ty CP Vacxin Vi ệt 
+Nam (VNVC) 
+❖ Tư vấn, giám sát, thi công hạ tầng, triển khai ph ần mềm quản lý các chi nh ánh 
+mới. 
+❖ Quản lý, tuyển dụng, đào tạo nhân viên IT mới về hạ tầng 
+❖ Quản lý, monitor, xử lý sự cố phát sinh (network và system) 
+❖ Lập kế hoạch, giám sát chi phí, kế hoạch mua sắm và làm việc với đối tác. 
+❖ Báo cáo trực tiếp Giám Đốc/Phó Giám Đốc IT
+
+▪ Tháng 01/2015 – Tháng 12/2022 : Trưởng Phòng CNTT Công Ty TN HH SƠN 
+TÙNG (Sản xuất, may gia công, wash, phân phối về Jeans , bán sỉ, lẻ ngành hàng thời 
+trang Jeans.) 
+❖ Tư vấn, thiết kế, thi công hệ thống CNTT toàn công ty 
+❖ Xây dựng mới toàn bộ hệ thống CNTT ( Hệ thống Camera, Tổng đài điện 
+thoại nội bộ, tổng đài IP, Print Server, Fax, Photocopy)…., hạ tầng mạng tại nhà 
+máy và tạo kết nối với các chi nhánh bán hàng. 
+❖ Kinh nghiệm triển khai hệ thống CNTT đa chi nhánh (Datacenter, chi nhánh 
+(kho, chuổi cửa hàng bán lẻ) 
+❖ Kinh nghiệm triển khai, cấu hình các thiết bị của: Swtich Cisco, Server IBM, 
+Router Draytek, Router wifi Ruckus, Firewall Fortigate 200D, Sophos SG210, 
+Meraki, Hyper –V ,  VSPhere 6.7 , vmware ESXi…. 
+❖ Thành viên trong dự án triển khai hệ thống quản trị nguồn nhân lực ERP cho 
+nhà máy 
+▪ Hệ thống SAP (4Hana) chuyên dùng cho sản xuất (đơn vị tư vấn FPT) 
+▪ Quản trị sản xuất 
+▪ Kho 
+▪ Bán hàng 
+▪ Mua hàng 
+▪ Tài chính kế toán 
+❖ Phân tích, thiết kế và Lập trình phần mềm hổ trợ người dùng nhập liệu, quản 
+lý (VB 6.0, C# , DevExpress 19.2, Entity Netframwork , SQL 2016) 
+▪ Phần mềm quản lý nhà ăn 
+▪ Tính chi phí Wash 
+▪ Phần mềm bán lẻ (shop) đa chi nhánh (ngành hàng thời trang) 
+▪ Quản lý yêu cầu thu, chi 
+▪ Quản lý nhân sự (module nhân sự) 
+❖ Lập kế hoạch bảo trì hệ thống và phát triển hệ thống phục vụ phát triển kinh 
+doanh cho công ty. 
+❖ Định hướng, cố vấn c ho BGĐ về CNTT cho t ương lai phát triển của nhà 
+máy. 
+❖ Thiết lập ngân sách, chi phí về (lương, bảo trì hệ thống CNTT hằng năm) 
+❖ Chịu trách nhiệm trước TGĐ về các hoạt động CNTT toàn công ty. 
+ 
+▪ Tháng 3/2006 – 01/2015: Tổ Trưởng Phòng Công Nghệ Thông Tin Công ty TNHH 
+TM-DV Thiên Nam Hòa (Siêu Thị Điện Máy Thiên Hòa). 
+❖ Chịu trách nhiệm toàn bộ sự cố hệ thống bán hàng, giao nhận, kho , đường 
+truyền….. 
+❖ Lập kế hoạch bảo trì bảo dưỡng Server, Client cũng như hệ thống mạng toà n 
+chi nhánh và trụ sở Chính. 
+❖ Cài đặt và cấu hình: Camera, Printers, Server, Router, Switch, 
+Firewall…….(IBM, Draytek,Cisco, Fortinet, Linksys, Meraki Cisco…..) 
+❖ Tuyển dụng và đào tạo nhân viên IT mới cho các trung tâm 
+❖ Tư vấn, thiết kế và xây dựng hệ thống m ạng mới cho  chi nhánh kết nối với 
+trụ sở chính 
+❖ Tham gia xây dựng chương trình  phầm mềm hỗ trợ người dùng 
+▪ Tháng 05/2004 – 05/2005: Công tác tại Hợp tác xã thương mại và dịch vụ Củ Chi. 
+❖ Phụ trách mua linh kiện máy tính về ráp và bán tại HTX 
+❖ Tuyển dụng đào tạo nhân sự cho bộ phận kỷ thuật cài đặt và sữa chửa 
+❖ Xây dựng mới hệ thống mạng máy tính cho HTX
+
+▪ Tháng 10/2002 – 04/2003: Lập trình viên cho công ty GHP Far East (Trong Công 
+Viên Phần Mềm Quang Trung) 
+▪ Tháng 09/2001 – 09/2002: Nhân viên hỗ trợ người dùng má y tính cho công ty 
+Silkroad System  
+VN 
+❖ Hỗ trợ người dùng máy tính và khắc phục sự cố máy tính cũng như mạng 
+máy tính. 
+  
+   
+• TRÌNH ĐỘ HỌC VẤN: 
+▪ Tốt nghiệp Cử nhân Công nghệ Thông Tin trườ ng Đại Học Dân Lập Hùng Vương 
+(1998-2004) (hệ chính quy, luận văn tốt nghiệp loại Trung khá). 
+▪ Anh văn chuyên ngành máy tinh (đọc hiểu tài liệu chuyên nghành máy tính.) 
+▪ Hoàn thành khóa học giao tiếp, phục vụ khách hàng (có chứng chỉ) 
+ 
+• KỸ NĂNG: 
+▪ Kỹ năng đàm phán rất tốt, giao tiếp tốt. 
+▪ Lập trình VB 6.0 và SQL 2008 , C#, DevExpress, Entity Netframwork , SQL 2012 
+▪ SEO Google Adward 
+▪ Khả năng lãnh đạo tốt, hòa đồng, thân thiện, nhanh nhẹn 
+▪ Có tinh thần học hỏi, siêng năng 
+▪ Làm việc dưới áp lực cao 
+▪ Làm việc theo nhóm cũng như độc lập rất tốt 
+▪ Tuyền dụng, đào tạo và quản lý nhân sự IT.

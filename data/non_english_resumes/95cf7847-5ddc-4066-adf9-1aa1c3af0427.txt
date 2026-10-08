@@ -1,0 +1,136 @@
+Trần Hoàng Nam 
+ 
+Curriculum Vitae 
+ 
+Ngày sinh: 14/02/1990 
+Giới tính: nam 
+Điện thoại:  
+Email:  
+Địa chỉ: 66 đường Số 4, P. Bình Hưng Hòa A, 
+Q. Bình Tân, TP. Hồ Chí Minh 
+ 
+Thông tin dự tuyển 
+ 
+- Vị trí dự tuyển: Nhân viên lập trình C# .Net (FullStack) 
+ 
+KỸ NĂNG 
+ 
+Kỹ năng chính:  
+- BackEnd: ASP .Net Core, abp framework,  MVC 4,…  
+- FrontEnd: html, css, javascript, jquery , angular+ (3-4 tháng), reactjs (1-2 năm – 
+hiện tại đang làm),...  
+- Database:  
+o MS SQL Server: có thể viết store procedure, function, view,...  
+o MongoDb, PostGreSQL, …. 
+Kỹ năng khác: Tháo lắp máy tính. Học hỏi những công nghệ khác nếu có yêu cầu. 
+ 
+KINH NGHIỆM LÀM VIỆC 
+ 
+08/2022 – nay 
+2 năm 
+Công ty TNHH Thiết Bị Minh Tâm 
+Loại hình công ty: thương mại, kinh doanh thi ết bị y tế (máy 
+xét nghiệm, hóa chất,…) 
+Chức vụ: Nhân viên lập trình 
+Mô tả: lập trình fullstack (.net core, reactjs).  
+- Chuyển đổi công nghệ: chuyển đổi phần mềm (quản lý 
+bệnh viện/phòng khám) đang có của công ty (project 1 
+layer, giao tiếp database bằng câu query trong code 
+backend,..) thành nhiều layer, áp dụng 
+EntityFramework,… 
+- Fix bug. Phát triển, chỉnh sửa các tính năng theo yêu 
+cầu. 
+Kinh nghiệm đạt được: reactjs,…
+
+01/2021 – 07/2022 
+1.5 năm 
+Công ty Cổ Phần Công Nghệ Trường Minh Thịnh 
+Loại hình công ty: Công ty phát triển phần mềm 
+Chức vụ: Nhân viên lập trình, Leader 
+Mô tả: lập trình backend app dành cho khách hàng xem đơn 
+hàng (được liên kết từ app chốt đơn livestream đã có trước 
+đó). Nghiên cứu microservice. 
+Kinh nghiệm đạt được: abp framework, kafka,… 
+ 
+08/2020 – 01/2021 
+6 tháng 
+Công ty TNHH TMDV & Tư Vấn Không Gian Sạch 
+Loại hình công ty: dịch vụ vệ sinh nệm, sofa,… 
+Chức vụ: Nhân viên lập trình. 
+Mô tả: lập trình các chức năng của phần mềm quản lý công ty, 
+quản lý quy trình dịch vụ, hợp đồng,.... Công nghệ: API, 
+.NetCore, Angular 2+ , MySQL, MongoDb…  
+Kinh nghiệm đạt được: angular 2+,... 
+ 
+06/2015 – 06/2020 
+5 năm 
+Công ty TNHH Kiến Vương 
+Loại hình công ty: thương mại, kinh doanh hóa ch ất. 
+Chức vụ: Nhân viên lập trình. 
+Mô tả: Lập trình, phát triển PM quản lý tồn kho, quản lý nhập - 
+xuất hàng. Công ngh ệ  MVC 4, MS SQL Server, html, 
+css, javascript, Jquery, dhtmlx, highchart,...  
+Kinh nghiệm đạt được: SQL Server; javascript, các thư vi ện 
+jquery, dhtmlx, highchart, bootstrap,…; hi ểu biết các quy trình 
+nhập xuất hàng, quy trình ho ạt động công ty. 
+ 
+09/2013 – 03/2015 
+1.5 năm 
+Công ty TNHH Tin Tấn (TinTanSoft) 
+Loại hình công ty: Công ty phát triển phần mềm. 
+Chức vụ: Nhân viên lập trình. 
+Mô tả:  
+- Lập trình, phát triển PM quản lý tồn kho, quản lý nhập - 
+xuất hàng: công ngh ệ  MVC 4, MS SQL Server, 
+html, css, javascript, Jquery, JqueryUI, bootstrap,...  
+- Chỉnh sửa, phát triển PM quản lý Spa & Salon: công ngh ệ 
+, My SQL,...  
+Kinh nghiệm đạt được:  MVC 4; có th ể viết store 
+procedure, function, trigger; tương đ ối thành thạo javascript, 
+jquery, bootstrap,…  
+ 
+ 
+HỌC VẤN 
+ 
+10/2009 – 01/2014 Trường Đại Học Kĩ Thuật Công Nghệ TP Hồ Chí Minh 
+(HUTECH) 
+Chuyên ngành:  
+Bằng cấp:  
+Tốt nghiệp loại:  
+Công Nghệ Phần Mềm 
+Kĩ sư 
+Trung bình 
+04/2011 – 09/2011 Trường Đại Học Kinh Tế TP Hồ Chí Minh
+
+Chuyên ngành:  
+Bằng cấp:  
+Tốt nghiệp loại: 
+Kế Toán Doanh Nghiệp 
+Chứng chỉ hoàn thành khóa h ọc 
+Khá 
+04-2016 – 06/2016 Trung Tâm Nhất Nghệ 
+Chuyên ngành: 
+Bằng cấp: 
+MCSA 2008 
+Chứng chỉ hoàn thành khóa h ọc 
+ 
+MỤC TIÊU NGHỀ NGHIỆP 
+ 
+Học hỏi, rèn luyện các kĩ năng, đặc biệt là các kĩ năng mềm (giao tiếp – đàm phán – 
+thuyết phục – lãnh đạo). Cố gắng để có mức lương cao. 
+ 
+TIN HỌC 
+ 
+Tin học văn phòng 
+- MS Word:   Khá  
+- MS Excel:   Khá 
+- MS Power point:  Trung Bình 
+- MS Outlook:   Trung Bình 
+ 
+NGOẠI NGỮ 
+ 
+TIẾNG ANH 
+- Nghe: Kém 
+- Nói: Kém 
+- Đọc: Trung Bình 
+- Viết: Kém

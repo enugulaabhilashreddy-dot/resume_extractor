@@ -1,0 +1,126 @@
+MY RESUME 
+ 
+Full name :  Nguyen Viet Chi Thien 
+Day of birth: 14-9-1984  
+Gender :   Male 
+Address   : ng, ward 11, Go Vap District , TPHCM. 
+Phone : 
+E-Mail    : 
+ 
+ 
+ CAREER 
+   
+I want to create a lot of  value for my organization with my passion and a lot of 
+knowledge, practical experience, and self-development skills is my care 
+ 
+ EDUCATION 
+ 
+• Graduated with major in network administration-  India International Institute of infor mation 
+Technology NIIT 
+• Bachelor of Information Technology - Ho Chi Minh Open University 
+• Participated in the following topics : Build the network infrastructure  windows server 2003, 
+2012, 2016 , AD, DNS, DHCP, File server, SQLserver, firewall, VPN, Website và  Mail 
+Exchange + zimbra, server Linux, Nas….. 
+• Microsoft certificate system administrator (MCSA) 
+• Microsoft certificate system engineer (MCSE) 
+• Linux 
+ 
+ WORK EXPERIENCE 
+ 
+Experience:  More than 10 years of experience in the IT field 
+ 
+ Orient Commercial Joint Stock Bank (OCB) 
+2/2017- Present   
+Position: Operational support supervisor  
+Size: More than 5000 people 
+ 
+• Document standards, policies, and procedures to facilitate inter- and intra- departmental 
+knowledge sharing. 
+• Manage IT service desk team to support (analysis, plans, report and resolution) computer 
+hardware and software issues via phone or in-person support 
+• Research, evaluate, and recommend hardware and software to support end-user computing 
+requirements. 
+• Train users in the operations of IT peripheral compliance. 
+• Create and maintain procedural documentation, including inventories, licensing, and 
+maintenance contracts. 
+• Develop and maintain working cooperation with departments and vendors to preserve 
+hardware and software standards while reducing 
+• Document standards, policies, and procedures to facilitate inter- and intra- departmental 
+knowledge sharing. 
+• Provide administration and support for the IP network. 
+• Administer and support the AD, Exchange, and other server technologies 
+• Manage network infrastructure & enduser system with internet, Lan/Wan, access door, 
+Callcenter IP system… 
+ 
+ DATVIET VAC MEDIA ENTERTAINMENT GROUP
+
+10/2010 – 2/2017 
+Position: IT support  
+Size: Some 500 people  
+ 
+• System management CNTT include:  Windows Server / Windows xp, 7, 8, 10 and support 
+more than 500 user used computer daily. 
+• Perform analyst and troubleshooting to ensure system stability, security and availability. 
+Propose  and provide  business IT solution and manage problems 
+• Monitor the network system  LAN / WAN, connect and support for the office and branch  for 
+the different locations 
+• Troubleshoot LAN, server ,related issue (domain ,file server, Dhcp, Dns, Adsl, mail, 
+printerserver ...) 
+• Technical recovery support for the remote access, help for end users, anti- virus, data backup 
+• Set up computer for new user and manage Callcenter analog 
+• Troubleshoot and repair all hardware and software  
+• Coordinating to support teamwork 
+ 
+ NAM VIET Joint Stock Company 
+10/2007 - 2010 
+Position: IT Teamleader 
+Size:  Some 100 people 
+• Manage the network system, change the entire upgrade system infrastructure server domain 
+(AD, DHCP, DNS, Fileserver, Firewall, Database...) 
+• Monitor , update & develop website internal 
+• Change the old email system to a new , stable and efficient email server using google mail 
+solution 
+• Build the system of information security and safety of use 
+• Supplying materials / investing in IT equipment (PC/Laptop/projector/printer/UPS….) 
+• Give plan to maintain, regular maintain, make sure good for the system . 
+• Guide & support troubleshooting computer users 
+• Troubleshoot system lan/wan 
+• Research suitable solutions for business work. 
+ 
+ 
+ EXPERIENCE - PROJECT 
+ 
+Project manage 
+• Deploy  & manage Service desk ITSM service provider CNTT to for user 
+• Deployment of Desktop central project for workstation management system 
+• Deploy to move infrastructure 
+• Build process of service provision and request handling, equipment asset process 
+• Monitor and service classification to support follow & assign with time logical 
+• Office (2003, 2010, 2013, 2016, 365) 
+• Windows (Microsoft xp, 7, 8, 10, windows server 2003, 2012, 2016….) Linux (Ubuntu, centos, 
+fedora), MacOS. 
+• Server (IBM, Dell, HP), Cisco, Draytek, Load balance Linksys, Wifi, NAS… 
+• Else: Joomla, SQL, other hardware  ..v.v… 
+ 
+ 
+ 
+ SKILLS 
+ 
+• Read & understand specialized English documents and find information 
+• Work independently/ group ,diligent and careful 
+• Solve the problem quickly, teamwork, Leadership, planning, organization.
+
+• Have a sense of responsibility and honesty, take initiative in work 
+• Fun, active and sociable. 
+• Project Management Software documentation, Microsoft office. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ INTERESTS 
+ 
+• Read book and listen to music 
+• Travel – sport

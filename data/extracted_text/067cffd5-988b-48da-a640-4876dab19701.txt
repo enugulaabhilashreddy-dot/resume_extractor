@@ -1,0 +1,269 @@
+CURRICULUM  VITAE  
+                     
+PERSONAL DETAILS  
+ 
+● Name  Nguyen Van Chung  
+● Nationality  Vietnamese 
+● Date of Birth  November 06th, 1992 
+● Place of Birth Hanoi, Vietnam 
+● Sex  Male 
+● Marital status Married 
+● Address Duong 2 – Mai Dinh – Soc Son – Ha Noi  
+● Phon 
+● Email  
+● Skype  chungnv92   
+ 
+ 
+OBJECTIVE  
+ 
+Develop my programming skills, analyze systems and become a solution architect.  
+ 
+PROFESSIONAL SUMMARY  
+I have good knowledge in software engineering, experience in professional software companies as Java 
+-Technology Developer for 8 years. Good knowledge in Java , Java script, Jquery, SQL... Have 
+experience in Windows and Linux platforms.  
+I also have the ability to learn, research solutions. Always patient, careful and creative. Good skills to 
+work independently, teamwork and communication to solve complex problems.  
+ 
+EDUCATION & CERTIFICATIONS  
+ 
+From To University 
+FPT – Aptech : HDSE certificat 
+KINH NGHIỆM LÀM VIỆC 
+ 
+From  To  Company 
+03/2016                                                                 Present Company:  Ominext JSC  
+Website: 
+11/ /2016 Company: INET Corporation  
+Website: 
+05/ /2014 Company: CMC Soft  
+Website: 
+11/ /2014  Company: Ancoti JSC
+
+ACHIEVEMENTS  
+ 
+Year Achievements  
+2019  Ominext JSC : Excellent staff of the year  
+ 
+TECHNOLOGY AND SOFTWARE DEVELOPMENT  SKILLS  
+ 
+Level : 1-4 Aware (Basic, need to practise more); 5-7 Knowledgeable (Intermediate, can use it at work); 8-10 
+Proficient (Advanced, very good to use it at work)  
+Competencies  Level  
+Java technologies Proficient, 8/10 
+Others open source Java-based technologies or frameworks: Struts, 
+Struts 2, SpringBoot, Spring MVC, Hibernate, JPA, Firebase và 
+Google Cloud Functions, GRPC, Microservices 
+Proficient, 8/10 
+SQL language: MySQL, OracleDB, PostgreSQL, MongoDB … Proficient, 8/10 
+Tools IDE: Eclipse, NetBean, Intellij Proficient, 8/10  
+HTML, CSS, JavaScript Knowledgeable, 7/10 
+SVN, Git, Git flow Proficient, 8/10 
+Web Portals: Liferay Portal Knowledgeable, 5/10 
+Web Services Knowledgeable, 7/10 
+Web servers and application servers: Apache Tomcat Knowledgeable , 6/10  
+System analysis and design Knowledgeable, 7/10  
+Software Architecture Knowledgeable, 7/10  
+Others: Jenkins, Sonarqube, Jasper report … Knowled geable, 7/10 
+ 
+LANGUAGES  
+ 
+Languages  Level  
+English  Read and translate documents  
+ 
+ 
+PROJECTS  
+ 
+1.  Project  (08/2018 – Present) 
+ 
+Company: Ominext JSC 
+Client:  
+Project  Description: 
+- Create a relationship between doctor (DR) and pharmacist (MR). 
+- Manage user information, medical examination information, drugs... 
+- Create groups in the hospital, groups outside the hospital and manage the 
+groups. 
+- Create meeting frames displayed on the calendar and handle meeting 
+schedules between DR and MR 
+- Real-time handling of side-menu indicators 
+- Processing statistical reports detailing meeting history information 
+                                                                                           
+Responsibilities: - Teamlead
+
+- Perform detail design and estimate 
+- Design database 
+- Review other developers’ code.  
+Programming Languages 
+and used technologies:  
+MongoDB, SpringBoot, Restful API, Firebase, Google Cloud Functions,  
+Google Pub/Sub, Jenkins, GRPC, Microservices  
+Tools Intellij, Robo3T 
+Platform, server and 
+database  MongoDB 
+ 
+2.  Project PHC - Hospital ( 03/2017 – 06/2018 ) 
+ 
+Company: Ominext JSC  
+Client:  
+Project  Description: 
+Management of hospital information about the department, doctors, other 
+configuration information related to the time of admission, book online 
+reception. Dealing online with  booking appointments for patients, sending 
+email daily…  
+Responsibilities: 
+- Support Team Lead to analyze requirements. 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS. 
+- Review other developers’ code. 
+ 
+Programming Languages 
+and used technologies:  
+Java, SQL, HTML, Javascript, CSS, Ibatis, Spring, Spring MVC, Jasper 
+Report, Restful API  
+Tools Eclipse, Navicat, Remote Desktop Connection , Ireport 
+Platform, server and 
+database  Java, Windows, PostgreSQL  
+ 
+3.  Project IMAGE – HTML5 (11/2016 – 03/2017) 
+ 
+Company: Ominext JSC  
+Client:  
+Project  Description: 
+Build web pages using HTML5-Canvas to create templates so that users 
+can add text, images, edit photos, zoom in, crop and save and export to 
+PDF, PNG...  
+Responsibilities: 
+- Support Team Lead to analyze requirements. 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS. 
+- Review other developers’ code. 
+ 
+Programming Languages 
+and used technologies:  Html5, Canvas, PHP Cake, FabricJS … 
+Tools NetBeans, WinSCP, SSH Secure File Transfer 
+Platform, server and 
+database  Java, Linux
+
+4.  Project Flyout (06/2016 – 11/2016) 
+ 
+Company: Ominext JSC  
+Client:  
+Project  Description: 
+Website for employers finding employees. Include candidate 
+management information, job management, education level, candidate's 
+desires, search for candidates, send mail export CV file…  
+Responsibilities: 
+- Team Lead 
+- Design database 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS. 
+- Review other developers’ code. 
+ 
+Programming Languages 
+and used technologies:  Java, SQL, HTML, Javascript, CSS, JSF, Hibernate, Jasper report … 
+Tools Eclipse, Navicat, Ireport 
+Platform, server and 
+database  Java, Windows, MySQL 
+ 
+5.  Project Y Ba Nha Khoa (03/2016 – 05/2016) 
+ 
+Company: Ominext JSC  
+Client:  
+Project  Description: Patient information management, dental map display, user statistics 
+report, visitor statistics…  
+Responsibilities: 
+- Support Team Lead to analyze requirements. 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS. 
+- Review other developers’ code. 
+ 
+Programming Languages 
+and used technologies:  
+Java, SQL, HTML, Javascript, CSS, Ibatis, Spring, Spring MVC, Jasper 
+report  
+Tools Eclipse, Pg Admin, Remote Desktop Connection , Ireport 
+Platform, server and 
+database  Java, Windows, PostgreSQL  
+ 
+6.  Project (10/2015 – 03/2016) 
+ 
+Company: INET Corporation  
+Client:  
+Project  Description: 
+Building service management functions, service packages, information 
+partners associated with the service. Report revenue statistics, report 
+MO -MT, export data to excel file…  
+Responsibilities: 
+- Support Team Lead to analyze requirements. 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS. 
+- Review other developers’ code.
+
+Programming Languages 
+and used technologies:  Java, SQL, HTML, Javascript, CSS, JSF, JDBC, Jasper report  
+Tools NetBeans, Ireport, SSH Secure File Transfer 
+Platform, server and 
+database  Java, Linux, OracleDB  
+ 
+7.  Project Backend LiveScore (01/2016 – 03/2016) 
+ 
+Company: INET Corporation  
+Client:  
+Project  Description: Write APIs for communication between the client-server for user 
+information, charge rates, user registration, and login via facebook…  
+Responsibilities: 
+- Support Team Lead to analyze requirements. 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS. 
+- Review other developers’ code. 
+ 
+Programming Languages 
+and used technologies:  Java, JDBC, Restful API  
+Tools NetBeans, SSH Secure File Transfer 
+Platform, server and 
+database  Java, Linux, OracleDB  
+ 
+8.  Project SSL Proxy (05/2014 – 11/2014) 
+ 
+Company: CMC Soft  
+Client:  
+Project  Description: 
+Manage the entire system as a proxy, database and hardware. Configure 
+hardware, view hardware and hardware status information, and network. 
+It allows administrators to configure system parameters, Query uses 
+traffic information, creates and manages user policies, views access 
+logs ...  
+Responsibilities: 
+- Support Team Lead to analyze requirements. 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS. 
+- Review other developers’ code. 
+ 
+Programming Languages 
+and used technologies:  
+Java, SQL, HTML, Javascript, CSS, Struts 2, Hibernate, Jasper report 
+… 
+Tools NetBeans, Ireport 
+Platform, server and 
+database  Java, Linux, MySQL 
+ 
+9.  Project APT Travel (11/2012 – 03/2014)
+
+Company: Ancoti JSC  
+Client:  
+Project  Description: 
+Building a website introducing tourism products: tours, hotels, cars, 
+yachts, etc. Management of product information, orders, statistical 
+reports on each product...  
+Responsibilities: 
+- Support Team Lead to analyze requirements. 
+- Perform detailed design. 
+- Develop Java, SQL, HTML, Javascript, CSS.  
+Programming Languages 
+and used technologies:  Java, SQL, HTML, Javascript, CSS, Struts, Liferay portal … 
+Tools Netbeans 
+Platform, server and 
+database  Java, Linux, MySQL 
+ 
+ HOBBIES  
+Reading books, music, movies, games ...

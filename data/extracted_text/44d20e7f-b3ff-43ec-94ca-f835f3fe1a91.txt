@@ -1,0 +1,111 @@
+M I D D L E  J A V A  D E V E L O P E R
+L E  T U A N  D U Y  A N H
+I'm passionate about information
+technology, I like to listen to music,
+I play piano in my free time, or
+when I have pressure, I like to
+enjoy food and doing charity
+Drawing and Learn new Tech
+Travel to meet new people in many
+places
+"I have seven years of experience in making and
+developing WebApp and WebApi in java language. I
+also sometimes use NET language in some side
+projects. My main goal is to become a software
+developer and learn more about new technology. I
+desire to pay a contribution by using my creativity when
+working in teamwork and having good performance. I
+chose the jobs related to software developer areas to
+achieve those objectives."
+I n t e r e s t s
+P r o f i l e
+E d u c a t i o n
+Information technology
+Oct. 2011 – Oct. 2015
+TON DUC THANG UNIVERSITY
+No. 103, 346 Apt.,332 Aly, Phan
+Van Tri Str., 11 Ward, Binh Thanh
+Dist
+live:ikuysle
+S k i l l s  &  A s s e t s
+Languages & Scripting: Java, Kotlin, .NET.
+Operating Systems: Windows.
+Databases:  Oracle, SQL Server, MySQL, PostgreSQL,
+Redis. Web Servers: IIS, Apache.
+Source Control: Git.
+Bug tracking: Jira, Redmine, Trello, Azure DevOps.
+IDE development: Visual Studio, Eclipse, Intellij .
+Language: English [Reading and writing]
+
+ORGANIZATION Dirox
+PROJECT Equisoft-Centralize
+ROLE Backend Developer
+Work Description EQS-Centralize is an insurance agency management system that offers a
+powerful way to connect clients, policies, and other contracting and compliance
+systems to a single platform.
+Client Industry Insurance
+Skill set utilized Kotlin
+Issue / Bug tracking tool Jira, Azure DevOps, Azure boards
+Code versioning tool Git Azure
+UI & Controls used React JS
+E x p e r i e n c e
+ORGANIZATION TPBank - FICO
+PROJECT FINONE
+ROLE Backend Developer
+Work Description Create API, maintain to support automatic input for input partners' data entry
+company (SmartNet, Sai Gon BPO, Data Entry, ...) Process loan information and
+enter customer information. Profile on FinOne Nuclear Software Company [F1]
+website; provide a solution to input data into the system support faster, faster, and
+more accurate input.
+Client Industry Credit bank - Data Entry
+Skill set utilized Java
+Issue / Bug tracking tool Jira, Excel
+Code versioning tool GitLab
+UI & Controls used Vue JS
+
+ORGANIZATION ITSOL
+PROJECT DMS ONE - CLIMS - LOS
+ROLE Backend Developer
+Work Description
+Create, maintain and develop for DMS project to manage sales on website and
+mobile devices (android, IOS) customers of Viettel. Add new - edit - find
+solutions for functions of product promotion, total order, order, agent
+booking,...
+Support FIS and Aurionpro-Integro to create, maintain and deploy credit
+creation, approval and management system for Sacombank.
+Viettel Company
+Sacombank
+Client Industry Insurance - Credits Bank
+Skill set utilized Java
+Issue / Bug tracking tool Jira
+Code versioning tool GitLab
+UI & Controls used HTML5, NodeJS, CSS, Bootstrap
+ORGANIZATION STAR INNOVATIONS
+PROJECT HRM
+ROLE Backend Developer
+Work Description Create, maintain and develop human resource management systems for
+Japanese companies. The system includes employee information, outsourcing,
+books in the company's library, and equipment information of employees.
+Client Industry Human resource management for Japanese company
+Skill set utilized Java
+Issue / Bug tracking tool Jira
+Code versioning tool GitLab
+UI & Controls used HTML5, NodeJS, CSS, Bootstrap
+
+ORGANIZATION HONG HOANG TECHNOLOGY
+PROJECT WebApp - WinApp
+ROLE Backend Developer
+Work Description Create, maintain, design and develop systems (admin - sales) on (websites -
+software applications) of companies; beauty salon chains in Vietnam.
+Client Industry Chain stores - beauty salons
+Skill set utilized - WINFORM
+Issue / Bug tracking tool Jira
+Code versioning tool GitLab
+UI & Controls used HTML5, NodeJS, CSS, Bootstrap
+Year Position Company
+2021 - now Middle Java Developer Dirox
+2019 - 2021 Middle Java Developer TPBank - FICO
+2016 - 2019 Middle Java Developer ITSOL
+2015 - 2016 Junior Java Developer STAR INNOVATIONS
+2013 - 2015 Junior .NET Developer HONG HOANG TECHNOLOGY
+C a r e e r  S u m m a r y

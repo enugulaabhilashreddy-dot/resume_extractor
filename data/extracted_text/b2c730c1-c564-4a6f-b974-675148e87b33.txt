@@ -1,0 +1,170 @@
+SAI GON UNIVERSITY Oct 2011 - June 2016
+DHL SUPPLY CHAIN 10/2021 - 08/2022
+BHD STAR CINEPLEX 08/2018 - 10/2021
+ EDUCATION
+Major: Enterprise Information System
+Information Technology Engineer of SaiGon University.
+ WORK EXPERIENCE
+IT TMS Supervisor
+• As an IT Supervisor in the TMS team at DHL Supply Chain (DSC), I have
+experience in working and deploying the entire integrated supporting
+system for transport operations, comprising: 
+• Guide and participate in the development and execution of operational
+processes & system training and development programs. 
+• Work closely with existing external & internal customers on changes
+required to support their ongoing business requirements. 
+• Transportation Management System (TMS - BluJay/E2O): 
+ - Analyze and translate business requirements to functional business
+speciﬁcations. 
+ - Design solutions based on all the features of the applications and the
+customer’s requests. 
+ - Transform the inquiry to a systematic process, enabling the system
+management in operation’s expectations. 
+ - Manage Change Request: convey requirements to the developers.
+Manage budget and timeline for change. 
+ - Creating functional speciﬁcations for solutions. 
+ - Conduct scenarios, testing, and case studies. Documenting materials and
+training for Super Users. 
+ - Maintain the system’s performance and support the end-to-end process. 
+ - Supporting business transition and helping to establish change. 
+• Delivery Connect – Mobility Service Delivery: Implement Mobility Service
+to provide real-time track and trace Pick Up and Delivery process. 
+• My Supply Chain Track & Trace – Dashboard: Implement functions of the
+dashboard to enhance customers’ visibility on their order status by Geo-
+positioning the shipment. 
+• Directly working with SmartLog to manage and support on GPS Track and
+Trace system which has been using at DSC to record nearly real-time
+transport activities. 
+• TMS Project Management: 
+ - Manage IT project milestones and timelines. 
+ - Ensure to deliver of projects on time and within budget. 
+ - MS Power BI Report: Develop report templates to provide essential
+insights for strategic management, relating to shipment combination, trip
+planning, route optimization, and KPI tracking. 
+ • Oracle SQL: Retrieve selective data from the provided database resource
+that is the input for BI Report. 
+ • TMS Project: DHL Transport Network, APAC AOT, IBM, Pepsico, Unilever, 
+Brigestones…
+IT Manager
+Trần Văn Dũng  
+IT Manager
+ 07/04/1993
+ Male
+
+
+ 125 Nguyen Thi Tan,
+P2,Q8 
+OBJECTIVE
+- First of all and biggest goal is to
+ﬁnd an environment that can be
+applied and promote the
+knowledge, experience, and skills
+of an IT manager including
+infrastructure, applications,
+human resources, ﬁnance, ideas
+and plans for the Company's
+development. 
+- The second goal, I will capture
+85% of the assigned work in 2
+months, and 100% of the work
+after 3 months so that will start
+with the Company to create
+effective management and
+operation of the Information
+Technology System. 
+- And the next big and long-term
+goal is to engage and accompany
+development with the Company
+as long as possible.
+
+BHD STAR CINEPLEX 03/2016 - 08/2018
+RESPONSIBILITIES: 
+• Manage day to day operations of IT systems, organize and support all IT
+systems to agreed service level standards.  
+• Create and maintain an Information Technology & Management strategy
+and ensure it suitable for company strategy and policy.  
+• Manage and develop the Information Management team (Application
+Development, Web Development, Infrastructure Administration, IT Support),
+prioritize workloads, set objectives, improve IT Team performance, and
+results.  
+• Working with other departments to propose, deliver IT service to deﬁned
+SLAs(Service Level Agreements). 
+• Develop and maintain a disaster recovery plan for critical applications.
+Responsible for IT hardware, software, and maintenance procurement. 
+ 
+ CINEMA HEAD OFFICE ERP SYSTEM: 
+• Built disaster recovery plan for critical servers and applications, ensuring
+99.9% uptime and full functionality. 
+• Responsible for all applications, services, and internal IT systems of the
+company (Network, Firewall, AD, DC, DNS, DHCP, Mail Server, SAN, VPN,
+etc.). 
+• Directly working with Vista Group software partners in New Zealand to
+plan management, operation, upgrade Cinema - ERP system (Back Ofﬁce,
+Cashdesk, POS, CRM, Voucher Giftcard, API.v.v).  
+• Ensuring that all systems are connected and operating stably, meeting
+online and ofﬂine business needs (More than 15,000 transactions are made
+into the system every day). 
+ 
+DIGITAL DEVELOPMENT:  
+• Directly manage and assign personnel for each integrated project (Online
+ticketing system, Members system(CRM), Payment gateways, etc.)  
+• Connecting online ticketing system with sale channels/Payment
+Gateways (Tix, Ticket box, MoMo, ZaloPay, AirPay, VNPAY)  
+• Project management to build a new online booking application to replace
+the Company's old application. 
+ 
+NEW PROJECTS: 
+• Managing all the Company's IT projects for new branches also repairing
+and renovating cinema sites  
+• Planning and the time to complete the general IT system with
+construction 
+ 
+ 
+ 
+IT Executive Teamleader
+• Manage IT staffs to support all of cinema sites 
+• Directly involved in installing and setting up IT systems for new branches 
+• Operating and supporting handling system errors (Network, Server,
+PBX/IP PBX, Database, Web Services, etc.) 
+• Support and guide the personnel in the team to handle devices: POS, PC,
+Wiﬁ Marketing, CCTV, etc. 
+• Supervise and support the operation of using the Vista software system
+
+Leadership skills
+Projects Management
+Time Management
+Presentation
+Communication
+Problem--solving
+Microsoft MCSE: Core Infrastructure 2020
+Cisco CCNA: Cisco Certiﬁed Network Associate 2017
+Top 3 Best Employees of the year 2016-2017
+Le Hoang Minh 
+Opeation Director 
+Mobile:  
+for Accounting, Marketing, Sales, etc. 
+• Monitor and ﬁx error showing showtimes and fares 
+• Monitoring and handling system errors Usher Point, Kiosk 
+• Responsible for creating new accounts, decentralizing new employees
+when required. 
+• Monitoring and handling errors for the online booking system of Cinema
+Sites 
+• Maintain inventory of equipment and parts as well as documentation of
+vendor activities. 
+• Develop and document system standards for computer and network
+devices. 
+• Recommend and schedule repairs to the LAN/WAN. 
+• Provide technical training and support for end-users.
+ SKILLS
+ CERTIFICATIONS
+ HONORS & AWARDS
+ ACHIEVEMENTS
+Successfully deployed the world-class Cinema software: Vista
+Entertainment Solutions. Over 10 modules for business ( Point Of Sales,
+Backofﬁce, CRM, Loyalty, Voucher - GiftCard, Dashboard Reporting, etc.) 
+ 
+Successfully deployed the new booking application to replace the old
+application. And saved 5000$ /Year 
+ 
+Successfully built the new Kiosks, Digital Signage for Cinema sites. 
+ REFERENCES

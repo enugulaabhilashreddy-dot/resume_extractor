@@ -1,0 +1,98 @@
+LE THANH TUNG
+Test Leader
+Test skills
+Smart TV 
+Computer
+Powerpoint 
+Soft skill
+Negotiation 
+Football, music, beer
+Take advantages of test skills & experience and understanding
+software process, test technical to become a professional tester and
+bring a lot value to company. From that, I will contribute to development
+of Company not only as a tester.
+Test lead July 2019 - Present
+VinID Company
+Main responsibilities:
+ - Create test plan, sprint report for each sprint
+ - Test API, mobile, web (iOS, Android, Chrome)
+ - Review product requirement, UI/UX
+ - Creating and reviewing test documents (test case, test report, bug)
+ - Control task, issue, effort for each member
+Discuss with customer, partners about business, issue…
+ - Raising as well as solving whenever a problem occurs
+ - Suggest solutions, ideas for PO/BA to resolve issues about product
+ - Summarizing and reporting to PM and test manager about working
+status, testing progress, test result, issue for each sprint
+ Feature
+ - General trader lending (create bank account, register lending account)
+ - CASA linking (create bank account, link bank as payment account)
+ - Wallet (Link bank, unlink bank, fund in, fund out)
+ - Check out (payment by wallet, linked bank, napas)
+ - Group fund
+ - Money transfer
+Test lead June 2018 - June 2019
+FPT Software
+Main responsibilities:
+ - Planning and implementing test activities with different test target
+ - Managing and monitoring a testing team with 5 members 
+ - Analyzing requirement, creating and reviewing test documents such
+as: test policy, test design, test case, test report, bug report
+ - Summarizing and reporting to customer as well as higher leader
+about working status, testing progress, test result, issue, etc.
+ - Raising as well as solving whenever a problem occur 
+ - Develop requirement (create test viewpoint, function list, test design,
+test case and checklist)
+ - Manage test document, configuration (Network, server, broadcast
+environment)
+ - Review test reports, bug lists and log bugs
+ - Support members when they met issues and find the
+ - Communicate, discussing with customer about bug, issue or Q&A
+about requirement
+Product: Smart TV (Android OS)
+Sub-lead Sep 2017 - May 2018
+FPT Software
+Jan 23, 1993
+Male
+
+
+Hanoi, Vietnam
+
+Thông tin
+Skills
+Interests
+Objective
+Work experience
+
+Main responsibilities:
+ - Develop requirement for new mobile app (create test design, check
+list and test case)
+ - Review test report
+ - Control execute test progress of test team
+ - Communicate, discussing with customer, dev team about bug, issue,
+improve requirement…
+Product: Mobile app
+Test member Aug 2015 - Sep 2017
+FPT Software
+Main responsibilities:
+ - Develop document for new mobile app (create test design, check list
+and test case)
+ - Execute test
+Product: Smart TV
+Captain July 2019 - Present
+VinID football club
+- Organize tournament
+Member June 2021 - Present
+Union Corporation
+- Organize music event
+10/2020 : 1st Speed Up We Are One
+08/2019 : 2nd Vingroup Football Tournament
+/2018 : The quality hero at business unit
+10/2017 : 1st FPT 13/9 Football CUP
+FPT University Oct 2011 - Dec 2015
+Major: Software engineer
+GPA: 6.6/10
+© 
+Activities
+Honors & Awards
+Education

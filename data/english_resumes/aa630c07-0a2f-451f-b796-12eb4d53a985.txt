@@ -1,0 +1,287 @@
+Copyright © 2021 Rikai Technology Co., Ltd 
+ 
+ 
+LE HUU NGOC 
+ 
+Gender: Male 
+Day of birth: 17/10/1995 
+Email:  
+Phone: 
+EXPIRIENCE SUMMARY 
+OBJECTIVE 
+ 
+To be a developer, I will strive in a challenging and interesting working environment, 
+especially in Development Applications. My aim is to affirm myself, contribute my 
+knowledge, skills, and experience to promote my career in Software Developer; that will be 
+my job objectives in the next years. 
+ 
+EXPIRIENCE SUMMARY 
+ 
+09/2016 - now 
+ 
+  
+Skill Proficiency Experience Last used Notes 
+Database Management System 
+PostgreSQL 4-Applied theory 2y 2020  
+My SQL 3-  Practical application 5y 2021  
+MongoDB 2-Limited experience 1y 2018  
+Oracle 2-Limited experience 1y 2019  
+Programming Language/Frameworks/Platforms 
+Java 3-Practical application 2y 2018  
+Ruby 3-Limited experience 2y 2021  
+PHP 2-Limited experience 1y 2021  
+C# 2-Limited experience 1.5y 2021  
+ReactJS 3-Practical application 3y 2021  
+Laravel 2-Limited experience 1y 2021  
+Elixir 1-Basic knowledge 0.5y 2019  
+Rspec 3-Limited experience 1.5y 2021  
+Jest (Unit test, integration test) 3-Practical application 1y 2021  
+Redis 2-Limited experience 1y 2021  
+Git 3-Practical application 4y 2021  
+AWS S3,  AWS EC2, AWS API 
+Gateway, AWS Lambda 
+2-Limited experience 1y 2021  
+Firebase 2-Limited experience 1y 2021  
+ElasticSearch 2-Limited experience 1y 2021
+
+PROJECT(S) 
+ 
+Project name Position Duration  
+B2A Full stack developer 01/2021 –Now 
+General information ▪ Number of member: 8 
+Project Scope ▪ Build project 
+Descriptions ▪ It is possible to integrate personnel data scattered throughout 
+the company and visualize it in a cross-cutting manner, and 
+each employee and the current state of the organization about 
+"what is happening now" that personnel personnel and on-site 
+managers want to know most. It is possible to understand the 
+issues, issues, and their causes. 
+Interface systems ▪ Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+▪ Linux 
+Software technologies 
+▪ Ruby on rails 
+▪ ReactJS 
+▪ MySQL 
+▪ ElasticSearch 
+Development tools  
+▪ Visual studio code 
+▪ Git 
+ 
+Project name Position Duration  
+B2C Full stack developer 01/2021 –Now 
+General information ▪ Number of member: 10 
+Project Scope ▪ Maintenance project 
+Descriptions ▪ Develop new feature for EC system 
+Interface systems ▪ Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+▪ Linux 
+Software technologies 
+▪ Ruby on rails 
+▪ ReactJS 
+▪ MySQL 
+▪ ElasticSearch 
+Development tools  
+▪ Visual studio code 
+▪ Git
+
+Project name Position Duration  
+CRM Full stack developer 1/2019 –04/2020 
+General information ▪ Number of member: 10 
+▪ The Outsource Project for Japan customer 
+Project Scope ▪ Build project 
+Responsibilities ▪ Customer Relationship Management allows to manage 
+customers, employees, campaigns, … 
+Interface systems ▪ Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+▪ Linux 
+Software technologies 
+▪ Ruby on rails 
+▪ ReactJS 
+▪ MySQL 
+Development tools  
+▪ Visual studio code 
+▪ Git 
+ 
+ 
+Project name Position Duration  
+Traffic Java developer/ Onsiter 8/2018 – 12/2018 
+General information  Number of member: 8 
+ The Outsource Project for Japan customer 
+Project Scope  Analyzing business, researching technology, function design, 
+basic design, detail design, coding. 
+Responsibilities  Build project. 
+Interface systems  Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+ Window s 
+ JDK 8 
+ 
+Software technologies 
+ Spring Framework 4, Hibernate, JPA, Maven 
+ Bootstrap, Ajax/jQuery 
+ PostgreSQL 
+ 
+Development tools  
+ Eclipse IDE 
+ SVN
+
+Project name Position Duration  
+Carebook Java developer 4/2018 – 08/2018 
+General information ▪ Number of member: 7 
+▪ The Outsource Project for Vietnam customer 
+ 
+Description ▪ A system allows doctor create clinic to manage patients, 
+medical records. Patient uses app to seek the suitable 
+doctor/clinic and follow current disease status. 
+Project Scope ▪ Analyzing business, researching technology, function design, 
+basic design, detail design, coding. 
+Responsibilities ▪ Maintenance project. 
+Interface systems ▪ Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+▪ Windows 
+▪ JDK 8 
+ 
+Software technologies 
+▪ Spring Framework 4, Hibernate, JPA, Maven 
+▪ Bootstrap, Ajax/jQuery 
+▪ MySQL Server 5.7 
+▪ MongoDB 3.4 
+ 
+Development tools  
+▪ Eclipse IDE 
+▪ MySQL Workbench 
+▪ SVN 
+▪ Robomongo 
+ 
+Project name Position Duration  
+Zetta Cloud Java developer 9/2017 – 3/2018 
+General information  Number of member: 7 
+ The Outsource Project for Japan customer 
+ 
+Description  The medical system is running large amounts of data, needing 
+to transfer data from Oracle to MySQL. 
+Project Scope  Analyzing business, function design, basic design, detail design, 
+coding. 
+ 
+Responsibilities  Coding and test function convert database Oracle to MySQL 
+Interface systems  Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+ Windows 
+ JDK 8 
+ 
+Software technologies 
+ Spring Framework 4, Mybatis, Maven
+
+ MySQL Server 5.7 
+ Oracle 11g 
+ 
+Development tools  
+ Eclipse IDE 
+ MySQL Workbench 
+ SVN, Git 
+ Oracle SQL Developer 
+ 
+Project name Position Duration  
+Restaurant portal Java developer 7/2017 – 8/2017 
+General information  Number of member: 4 
+ The Outsource Project for Vietnam customer 
+ 
+Description  Restaurant management system allows to manage menus, 
+order items, reports. 
+Project Scope  Analyzing business, researching technology, function design, 
+basic design, detail design, coding. 
+ 
+Responsibilities  Design and coding upon customer requirement 
+ 
+Interface systems  Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+ Window s 
+ JDK 8 
+ 
+Software technologies 
+ Spring Framework 4, Hibernate, JPA, Maven 
+ Bootstrap, Ajax/jQuery 
+ MySQL Server 5.7 
+Development tools  
+ Eclipse IDE 
+ MySQL Workbench 
+ SVN 
+ 
+Project name Position Duration  
+SHC Portal Project Java developer / Onsiter 2/2017 – 8/2017 
+General information  Number of member: 8 
+ The Outsource Project for Malaysia customer 
+ 
+Description  A system manages user’s asset and retail leasing in the 
+building. 
+Project Scope  Function design, screen design, basic design, detail design, 
+coding. 
+Responsibilities  Coding functions upon customer requirement 
+ Join in update functions when customer change request 
+Interface systems  Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment
+
+ Window s 
+ JDK 8 
+ 
+Software technologies 
+ Spring Framework 4, Hibernate, JPA, Maven 
+ Bootstrap, Ajax/jQuery 
+ MySQL Server 5.7 
+ 
+Development tools  
+ Eclipse IDE 
+ MySQL Workbench 
+ SVN 
+ 
+ 
+Project name Position Duration  
+Customer 
+Relationship 
+Management 
+(CRM) 
+ASP Web Developer 9/2016-1/2017  
+General 
+information  Number of member: 5 
+Description  The project enables the customer to store information, create 
+customer relationships with the products, cases and work notes. 
+ Employees can search and handling customer issues quickly. 
+Along with OI Software to save the call log of customers and 
+employees. 
+Project Scope  Design, coding, testing 
+Interface systems  Web Application 
+Technology used 
+ 
+DEVELOPMENT ENVIRONMENT 
+Software environment 
+ Windows 
+ Visual Studio 2015 
+ SQL server 2012 
+Software technologies 
+ 
+ Bootstrap, Ajax/jQuery 
+ MySQL Server 5.7

@@ -1,0 +1,47 @@
+Huynh Quoc Hoa
+/ne( 
+/gtb
+/♀nedn
+ 251/33 Vuon Lai, An Phu Dong Ward, District 12, Ho Chi Minh City
+OBJECTIVE
+Data Engineer and Data Scientist with 2+ years of experience in WeAI company, seeking full-time AI
+Engineer and Data Scientist roles.
+EDUCA TION
+Industrial University of Ho Chi Minh city 2017 - 2021
+- Department of Computer Science
+- GPA: 3.34/4.0
+WORK EXPERIENCE
+Ho Chi Minh City , Kyanon June, 2019 - Dec, 2019
+Machine Learning Engineer Intern
+- Learning machine learning
+- Image processing
+Ho Chi Minh City , W eAI Feb, 2020 - Feb, 2023
+Data Scientist - Data Engineer
+- Collect and process data
+- Research recommendation system
+- Research topic modeling
+- Research data digitization
+- Apply automated digitizing tools to system
+- Research latex OCR based on Transformer Model
+RESEARCH
+GANs for sparse data tomography , Graduation thesis
+- Research about Generative Adversarial Network (GAN) model and Computed Tomography (CT) data.
+Build and train Pix2pix GAN model to improve CT image quality.
+W eIUH Smart App, IUH Young Scientific Conference
+Apply of T opic Modeling with Regularized Latent Semantic Indexing , IUH Young Scientific
+Conference
+- Understand and implement topic modeling Regularized Latent Semantic Indexing method. Application
+to analyze the necessary skills of the jobs in a small group of Data Science.
+Design an Ontology-based model for Intelligent Querying system in Mathematics
+Education, Journal of Interdisciplinary Mathematics
+- Design a structure of knowledge graph to integrate into Ontology Rela-Ops model to create an
+intelligent querying system in the knowledge domain about high school mathematics.
+SKILLS
+Key skills: Machine Learning Algorithms, Model Development, Data Visualization, Data Analysis
+Techical skills:Python, Matlab, Latex, SQL,MongoDB,HTML/CSS,Selenium, Pandas, NumPy, Scikit-
+Learn, Tensorflow, PyTorch, Docker, Github Actions
+Languages: Vietnamese, English
+Soft Skills: Working group, Self-study, Communication
+ACHIEVEMENTS
+- IUH Young Scientific Research Student 1st time in 2019
+- IUH Young Scientific Research Student 2nd time in 2020

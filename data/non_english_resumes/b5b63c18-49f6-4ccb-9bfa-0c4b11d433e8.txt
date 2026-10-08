@@ -1,0 +1,73 @@
+/
+Lê Xuân Chiến
+Mục tiêu nghề nghiệp:
+Giới tính: 
+Ngày sinh: 
+Điện thoại: 
+Email: 
+Địa chỉ: 
+LẬP TRÌNH VIÊN
+Trở thành lập trình viên fullstack 
+Ngoài ra, tôi cũng có mong muốn làm việc trong một môi trường 
+chuyên nghiệp, chế dộ đãi ngộ tốt để có thể phát triển kinh nghiệm 
+nghề nghiệp và các kỹ năng của bản thân. 
+HỌC VẤN
+Chuyên ngành:
+Trình độ:
+Loại tốt nghiệp:
+ - 
+ĐẠI HỌC GIAO THÔNG VẬN TẢI
+Công nghệ thông tin
+Đại học
+Giỏi
+KINH NGHIỆM
+Mô tả:
+Thành tích đạt được:
+ - 
+TRUNG TÂM NGHIÊN CỨU VÀ PHÁT 
+TRIỂN ĐIỆN THOẠI SAM SUNG
+Lập trình viên
+Bảo trì và phát triển chức năng cho Bixby 
+Suggestion app 
+ Bảo trì và phát triển chức năng chi Bixby 
+Home app
+- 3 năm liền được đánh giá hoàn thành tốt 
+công việc bởi team leader và part leader
+KỸ NĂNG
+- Lập trình Android Java 
+- Lập trình fonrtend bằng Reactjs, React Native và Angular 
+Typescript 
+- Lâp trình backend bằng nodejs express và nestjs 
+- Lập trình back end java spring 
+- Lập trình back end php 
+- Hiểu biết về cơ sở dữ liệu mysql, mongodb 
+- Ký năng tốt về HTML và CSS 
+- Tư duy phản biện 
+- Khả năng thuyết trình 
+SỞ THÍCH
+Nam
+Số 6 Ngách 50 Ngõ 68 Cầu 
+giấy Phường Quan Hoa 
+Quận Cầu giấy Thành phố 
+Hà Nội
+TIẾNG ANH
+NGHE
+NÓI
+ĐỌC
+VIẾT
+TIN HỌC
+WORD
+EXCEL
+POWERPOINT
+OUTLOOK
+
+- Đọc sách nghiên cứu lịch sử 
+- Chơi game 
+NGƯỜI THAM KHẢO
+Họ và tên: 
+Công ty: 
+Vị trí/chức vụ: 
+Điện thoại: 
+Nguyễn Mạnh Duy
+Trung tâm nghiên cứu và phát triển phần mềm samsung
+Team leader của Bixby

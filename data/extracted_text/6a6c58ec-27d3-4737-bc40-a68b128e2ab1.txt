@@ -1,0 +1,171 @@
+Lữ Tài Lân 
+Driving Innovation and Efficiency 
+Time School Name & Location  From T 
+1996 2000 Chính Nghĩa Elementary School D.5  
+2001 2005 Hồng Bàng Secondary School  D.5  
+2006 2009 Nguyễn Hiền High School D.11  
+2010 2014 Tôn Đức Thắng University D.7 - Major: IT / CS 
+2014 2018 TOEIC 840 - 860 
+ 
+EDUCATION 
+PROFILE 
+A dedicated System Specialist with strong expertise in Data Analyst, I am 
+knowledgeable and experienced in leveraging data-driven insights to 
+optimize processes for enhanced efficiency and productivity . Proficient in 
+building insightful reports using Power BI/ Tableu, and skilled in creating VBA 
+macros to automate manual tasks. Seeking an opportunity to leverage my 
+technical proficiency and problem -solving skills. I am committed to driving 
+efficiency, productivity, and revenue growth through the effective utilization 
+of cutting-edge technologies to extract, analyze, and visualize data . 
+SAP 
+SFDC 
+SQL 
+Power BI/ Tableu 
+Excel VBA 
+90% 
+80% 
+85% 
+90% 
+95% 
+ 
+98% 
+ 
+98% 
+ 
+SKILLS 
+Contacts 
+ 
+ 
+ 
+ 
+Phan Anh, Tan Phu, Ho Chi 
+Minh, 70000, Vietnam
+
+WORK EXPERIENCE 
+INSEE - SIAM CITY CEMENT(VIETNAM)  
+SYSTEM SPECIALIST 
+(February 2019 - October 2023) 
+System Support: 
+• Offer technical assistance and troubleshooting expertise for systems such as SAP, SFDC, 
+Ordering, Dispatching, and others.  
+• Ensure seamless system functionality and resolve system -related issues promptly.  
+• Manage user accounts, maintenance, reports, auto reports, and operational tasks.  
+ 
+Application Management & Process Enhancement:  
+• Create Webs (PHP, Sharepoint) / Apps (VBA Macro, Power Apps) to automate processes, 
+streamline repetitive tasks, and enhance productivity.  
+• Identify opportunities for process improvement within the department and propose 
+innovative solutions.  
+• Collaborate with end-users to understand their application needs and implement solutions 
+accordingly. 
+• Translating business requirements into technical requirements.   
+ 
+Data Analysis: 
+• Utilize Power BI, QlikView, and SFDC to create reports, provide data -driven insights, and 
+present data relevant to the COMMERCIAL department.  
+• This aspect of my responsibilities involves comprehensive data management, including 
+data gathering, cleansing, and ETL (Extract, Transform, Load) processes.  
+ 
+Data Security: 
+• Maintain strict data security protocols when handling customer information.  
+• Educate customers on data protection and privacy best practices.  
+ 
+Documentation: 
+• Maintain accurate records of customer accounts and interactions  on SFDC database. 
+• Document common questions and issues, along with their resolutions, for future reference.  
+ 
+Communication: 
+• Effectively communicate with customers via email, chat, or phone to address inquiries and 
+resolve issues. 
+• Collaborate with cross -functional teams to relay customer feedback and concerns for 
+continuous improvement  via Cases module on SFDC . 
+• Bridge the gap between business requirements and technical implementation, ensuring 
+that the resulting IT solution aligns with the organization's objectives.
+
+WORK EXPERIENCE 
+INSEE - SIAM CITY CEMENT(VIETNAM)  
+WEB-APP ADMIN OFFICER  
+(October 2018 - January 2019)  
+User Acceptance Testing (UAT):  
+• Collaborate with various internal team to ensure that the web application meets user 
+requirements and functions as expected.  
+• Report any issues or bugs identified during UAT to the Vendor for resolution.  
+ 
+Customer Account Creation:  
+• Accurately create customer accounts in the InseeConnect Website.  
+• Ensure that all customer information is entered correctly and securely.  
+ 
+User Instruction: 
+• Provide clear and concise instructions to customers regarding the use of the web 
+application. 
+• Assist customers in navigating the platform and its features.  
+• Offer guidance on order placement, account management, and troubleshooting common 
+issues. 
+ 
+Technical Support: 
+• Offer technical expertise, provide guidance and support to Insee internal team when 
+dealing with web development vendors. 
+• Provided post-launch support and updates, addressing client feedback and enhancing 
+existing projects. 
+ - Order Management Web / App
+
+WORK EXPERIENCE 
+Coastal Health Clinic  
+System Administrator  
+(July 2018 - September 2018)  
+Took care of everything IT -related: 
+• Set up clinic website and email system.  
+• Set up the clinic’s wifi network.  
+• Set up a security camera system.  
+• Set up a local phone system.  
+• Set up computers / laptops for the clinic.  
+• Write guidelines for clinic employees to utilize the equipment.  
+• Setup programmable led board sign.  
+ 
+Thinkteal 
+Web developer / designer  
+(March 2017 - July 2018) 
+• Set up and maintain Thinkteal company website.  
+• Develop & Design Wordpress website based on the client's requirements.  
+• Assist other developers when needed with graphic design, export, preparing graphic 
+assets, etc. (Sketch, Photoshop, Illustrator)  
+• Work and communicate directly with clients to ensure everything’s working smoothly. 
+(Porsche, Vichy etc.) 
+• Maintain website for clients of Havas Riverorchid agency.  
+ 
+ 
+International Trade Supplier Business  
+IT officer / Marketing officer  
+(March 2015 - December 2015)  
+• Set up + maintain the company’s e -commerce website. 
+• Help register and sell their product (phone accessories) on various b2c e -commerce 
+platforms (Lazada, VatGia, Sendo, etc.)
+
+ACHIEVEMENTS 
+2023 
+1/ Created a SharePoint site for SAP knowledge sharing . 
+ 
+ 
+2/ Nominated for Insee Innovation Award 2022: BCP Ordering website to manage the 
+temporary order from customers.  
+ 
+ 
+2022 
+Developed a BCP Ordering website to s upport many departments (Commercial, Supply Chain, 
+Transportation...) throughout a lengthy SAP upgrade, allowing Insee to continue serving 
+customers.  
+ 
+Completed:  
+1/ Data Visualization & Storytelling  @ TC Data  
+2/ Data Cleansing & Modeling  @ TC Data  
+3/ Data Engineering with Azure Data  @ TC Data
+
+ACHIEVEMENTS 
+2020 
+Completed: Planning & Organising skills  
+ 
+ 
+2019 
+Completed: Pro Power BI for Desktop  @ Tân Đức ITS  
+ 
+Completed: Effective Communication skills course

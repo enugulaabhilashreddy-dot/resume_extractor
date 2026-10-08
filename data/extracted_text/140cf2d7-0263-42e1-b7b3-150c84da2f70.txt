@@ -1,0 +1,85 @@
+HTML/CSS
+PHP
+VUE JS
+NUXT JS
+QUASAR
+LARAVEL
+MY SQL
+REACT JS
+watch movie Music
+- Apply for a Developer position
+- Find good opportunities to learn and develop
+from other speople and  become a professional
+programmer.
+Git, Bitbucket, GitLap
+Tây Nguyên University (2014 > 2018)
+Major: Information Technology
+GPA: 3.16/4
+BAOMI company (7/2022 > now)
+Developer frontend
+Tech: Nextjs , Reactjs , HTML,  CSS, Javascript 
+Work: 
+     - Convert ﬁle ﬁgma in to HTML, CSS, javascript  and connect api. 
+    - Create website use framework Next js 
+ 
+AES company (6/2020 > 6/2022)
+Developer frontend
+Tech: , Vuejs , HTML,  CSS, Javascript 
+Work: 
+     - Convert ﬁle ﬁgma,  photoshop in to HTML, CSS, javascript  and connect api. 
+    - Create website use framework Vue js, Nuxt js 
+ 
+Beeknights company (4/2019 > 6/2020)
+Developer Backend and frontend
+Project: Sqkii-pwa 
+Tech: framework. 
+Work: 
+     - Convert ﬁle Sket in to HTML, CSS, javascript and intergrate api. 
+Project: Product for Beeknights Company. 
+Tech: Vuejs framework, Laravel frameword, postgresql. 
+Work: 
+    - Backend: use Laravel write Write api for use fontend 
+    - Fontend: convert ﬁle Sket in to HTML, CSS, javascript and intergrate api. 
+Project: Sqkii-land. 
+Tech: Quasar framework, Firebase. 
+Work: 
+   - Backend: use Firebase Function. 
+   - Fontend: convert ﬁle Sket in to HTML, CSS, javascript and intergrate api. 
+NGUYỄN THỊ THU HUYỀN
+Developer
+25/02/1996 Female
+ 
+Ho Chi Minh, Viet Nam 
+yen250296
+OBJECTIVE
+SKILLS
+TOOL
+INTERESTS
+EDUCATION
+EXPERIENCE
+
+Robustar company (9/2018 > 3/2019)
+Developer Backend and frontend
+Project: farm management. 
+Tech: Vuejs framework, Laravel frameword, MySQL. 
+Learn: React native. 
+Work: 
+     - Login, create farm, device manage. 
+      - Create api add weight. 
+Project: Atom Ads. 
+Tech: Vuejs framework, Laravel frameword, MySQL, Wordpress, Google Adwords
+Api. 
+Work: 
+    - Google sign in 
+    - Get client customer google ads. 
+    - Get report google ads google api. 
+    - Create plugin ATOMADS in Wordpress and get info account, categories,
+products. 
+    - Get location by name google api. 
+   - Setting campaign in google adwords. 
+Bamboo company (6/2018 > 9/2018)
+Developer Wordpress
+- Create wordpress site 
+- Site maintenance 
+- Edit website interface. 
+©

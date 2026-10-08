@@ -1,0 +1,54 @@
+Trung Long Le
+Front-end Developer
+Ho Chi Minh
+Work Experience
+Front-end Developer
+02/2021 - 02/2022
+ 
+ 
+ 
+Mobile Developer
+02/2022 - 09/2022
+ 
+ 
+Front-end Developer
+10/2022 - Aresent
+ 
+ 
+ 
+Education
+Bachelor, Software Technology
+09/2017 - 06/2022
+Thu Dau Mot University
+Eraduated with EAj 7.0 and English EAS certiGcate 7.1
+Hi, I’m Long, I’m front-end developer with 2 year with
+React  ( 1+ YOE  with  typescript), over  6 months  with 
+React-native. Beside that I had experience with NodeJs 
+and  symfony. Have  strong  in  independent  work  skill 
+and problem solving
+CTA Solution
+Build an web application for manage order and workKows of department 
+Build an OFRs web application for manage and improve work performance
+Build an :inance web application for manage debt, cash Kow
+Build landing page for marketing in some feature events of the year
+(summer vacation, mid autumn,..)
+Responsibility•
+  D Tevelopment frontend site
+D Sesting
+D Maintenance
+Language programming• HSML,CQQ, JQ , JPuery ReactJs (Redux-saga, 
+Ausher(BEjMQ)), Qymfony
+VSPORT
+Build production social network app
+Responsibility•
+D Build component core
+D Maintenance
+Language programming • React native, NextWs, socket
+TavicoSoft
+Build qeb application for manage workKows
+Build qeb application for manage documents
+Responsibility•
+D Build component core, custom library
+D Maintenance
+D Sesting
+Language programming• ReactJs, socket, Grebase, WDuery, bpmn

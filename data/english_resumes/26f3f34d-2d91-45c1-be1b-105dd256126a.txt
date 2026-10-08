@@ -1,0 +1,186 @@
+Year of birth
+1992
+Residence
+Hanoi
+PERSONAL INFORMATION
+VNPT EPAY
+Award of Excellence 
+(Best employee of year) - 
+Planning division
+
+Will-be Solutions Vina
+Best potential leader of 
+year
+
+ACHIEVEMENTS
+Language
+English
+Korean
+Tools
+Excel
+Google sheet
+Power point
+Word
+Drawio
+Figma
+Others
+Logical thinking
+Management
+Multi task
+Teamwork
+SKILLS
+NGAN DANG THI KIM
+SENIOR BUSINESS ANALYST
+VNPT EPAY
+Senior Business Analyst | Planning Executive
+1. Business analysis
+- Defining services at high level such as business 
+model, business goals
+- Making detail analysis for system development 
+*Output: Business requirement documents, Product 
+requirement documents, Functional & Non-functional 
+Requirement Specifications (activity diagrams, 
+wireframes, prototype, UX, main data for APIs...)
+2. Projection & Project management:
+- Working with Product manager on making product 
+roadmap basing on business goals
+- Breaking down from product roadmap to backlogs, 
+prioritizing & grouping backlogs into phases
+- Making detail schedule of development for each 
+phase including analysis, design, development, QA, 
+launching, pilot
+- Monitoring, updating, reporting actual progress
+3. QA
+- Working with IT to make testcase & Conducting SIT, 
+UAT
+4. Service monitoring
+- Monitoring service after each phase update (for new 
+development)
+- Daily service monitoring by making data analysis
+5. User training 
+- Conducting trainings for both internal and external 
+users 
+7. Service improvement
+Basing on analyzed data & clients' feedback to get  
+the insights and make proposals for:
+- Product improvement
+- Business improvement such as increasing profit by 
+saving cost
+8. Others:
+- Working with Product manager in making service 
+policy, P&L stimulation
+- Making business proposals for merchants, partners
+- BA leader: training BAs, assigning other BAs 
+between projects
+- English/ Korean/ Vietnamese interpretation (ad-hoc)
+2018 - Present
+Will-be Solutions Vina
+Business Analyst
+- Market research & feasibility analysis 
+- Defining business processes, main functions
+- Supporting IT team in making System Requirements 
+Specification
+EXPERIENCE
+
+Hanoi
+
+
+CONTACT
+Will-be Solutions Vina
+Project Assistant
+- Assisting Project Manager in planning & following up 
+project progress
+- Participating in making bidding documents, 
+contracts, project deliverables, project signoff & 
+acceptance documents
+- Working as the project contact point
+- Vietnamese/ English Interpretation
+- Other project administration tasks
+E-WALLET
+VNPT EPAY
+B2B2C E-wallet
+1. Related entities:
+- User: Individual/ Corporate users
+- External connection: Product providers (Partners), 
+Payment processors, Merchants
+2. Main modules being in charge of:
+- E-wallet for individual users (App, Web-view in app), 
+including:
++ Basic functions: Register/ Login, KYC, Bank linking, 
+Cash-in, Cash-out, Money transfer, Wallet limit...
++ Value added services on e-wallet: Mobile top-up, Bill 
+payment, Voucher purchase
++ Payment: processing payments by the payment 
+methods provided in e-wallet
+- E-wallet for corporate users (Website), including: 
+Cash-in, Cash-out, Money transfer, Settlement for 
+collected transactions, Transaction monitoring...
+- Backoffice for internal management
+2020 - Present
+ECOMERCE
+VNPT EPAY
+Ecommerce website for game, mobile cards, bill 
+payment
+1. Related entities:
+- User: Individual buyer
+- External connection: Product providers, Payment 
+processors
+2. Main modules being in charge of:
+- Services/ products on website 
+- Payment: proceeding purchases from buyer by 
+multiple payment methods 
+- Promotion: creating promotions for sales/ business 
+purposes
+- Backoffice for internal management and for partners
+2020 - Present
+PROJECTS
+
+PAYMENT GATEWAY
+VNPT EPAY
+Payment gateway for ecommerce websites/ 
+application to process transactions from buyer
+1. Related entities:
+- User: Merchants
+- External connection: Banks, Payment gateways, E-
+wallets
+2. Main modules being in charge of:
+- Payment processor: processing transaction from 
+merchants, supporting payment methods such as: 
+Card, E-wallet, QR, Bank transfer,... 
+- Payment window: channel for buyers to make 
+payments
+- Backoffice for internal management and merchants 
+including customer management, settlement, 
+reconciliation, operation, reports, function 
+configuration
+2018 - Present
+CONSULTING PROJECT
+Will-be Solutions Vina
+Market research & feasibility analysis for the 
+development of a leading payment gateway
+CENTRALIZED AND INTEGRATED PAYMENT 
+PLATFORM - SYSTEM INTEGRATION PROJECT
+Will-be Solutions Vina
+System integration project 
+Providing centralized and integrated payment service 
+platform for bill, tax, social insurance payment 
+(Research & making proposal)
+REPORT SUBMISSION SYSTEM TO STATE BANK OF 
+VIETNAM - SYSTEM INTEGRATION PROJECT
+Will-be Solutions Vina
+System integration project 
+Providing report submission system for a bank to 
+submit required reports to the State Bank of Vietnam
+PROCUREMENT OF DATA MANAGEMENT, DATA 
+WAREHOUSE AND RELATED APPLICATIONS FOR 
+THE STATE BANK OF VIETNAM (SG4)
+Will-be Solutions Vina
+System integration project 
+Providing Data Submission, Data Warehouse and 
+Business Intelligence Software for the State Bank of 
+Vietnam
+National Economics University
+Hanoi
+Degree of Bachelor
+Major: Business English
+EDUCATION

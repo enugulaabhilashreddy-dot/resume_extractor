@@ -1,0 +1,251 @@
+Doan Van Kim Long
+No.264 , Luong Dinh Cua street, District 2, HCMC, Viet Nam
+   skype: doanvankimlong
+Natural Sciences University
+University of Information Technology
+Carbonnology Freelancer 04/2020 - Present
+Long Dan - Kim Son 07/ /2020
+WheelPro Web Shop 02/ /2019
+BICC Department at VP Bank 08/ /2019
+EDUCATION
+Major: Software Engineer
+GPA: 7.03/10
+Total Credits: 231/210
+Major: Master of Computer Science
+GPA: 7.34/10
+Total Credits: 65/60
+WORK EXPERIENCE
+Tech Lead / Senior Developer
+Main responsibilities:
+-  Maintenance Fix Bug
+- Create new Plugins API and Customize GrandNode Open Source
+- Coding app in Ionic Angular
+Technologies:
+- .Net (C#) API, Angular, MS SQL
+-  Open source GrandNode (C#, JQuery, MongoDB)
+-  Ionic Angular
+Tech Lead / Senior Developer
+Main responsibilities:
+- Create and assign task 
+- Support team (technical, keeping environment, etc…) 
+- Resolve problem (daily meeting, weekly meeting)
+- Report for Team in UK 
+- Support Operator Software in VN
+- Coding
+Technologies: C#, JQuery, Angular, MS SQL
+ Senior Developer
+Main responsibilities:
+- Create module payment (DIBS Payment), Tax (Tax Environment, Product Tax, etc) 
+- Coding
+Technologies: Open source GrandNode (C#, JQuery, MongoDB)
+ Senior DI (DATA INTERGRATED)
+Main responsibilities:
+- Create and fix sp, table oracle
+- Get and Convet data(xml – clob type – oracle database) for report team
+
+Prudential 02/ /2018
+03/ /2018
+FPT SoftWare 04/ /2017
+School Outfitter 11/ /2016
+- Coding 
+Technologies: C#, Oracle
+ Onsite Senior Software developer
+Main responsibilities:
+- Create Report
+- Coding WinForm
+Technologies: C#, Crystal report, Acces, MS SQL
+ Senior Software Developer
+Main responsibilities:
+- Developing PBI convert JSON, XML to text format.
+- Investigate technology to convert PDF to Text, Image to PDF, PDF to Image.
+- Investigate Technology to get higher performance when show Windows Form.
+- Developing PBI: print label with Mectec Printer
+- Investigate Bug Security when upgrade windows package (windows 7).
+Technologies: C#, LINQ, VISUAL STUDIO 2013, WPF, Win form
+Senior Software Developer(DEV 3)
+Main responsibilities:
+- Investigate: 
+ ○ running external Process (file *.exe), pass parameter to external program from main application, close
+external program when main application close
+ ○ integrate Lync API (UCMA 5.0) to Application, using chat other user . they use Lync Client
+ ○ upgrading program solution. Rule: if users are using old version. They will interrupt by upgrading.
+ ○ Upgrade Project Delphi
+  +How to replace module to solve it problem
+  + what tech to implement and affect of old module (TTable, TQuery..) when replace by new Tech (ADO Tech
+to resolving it)
+  + Database and Module Connect
+ - Coding:
+ ○ Share/assign form(WPF): build model and logic control, share report order for other doctors, assign to other
+doctor, build processing and query, insert, update database using LinQ, Entity, MS SQL, C#
+ ○ Developing SoftWare support Project
+ 
+Technologies:
+- MS SQL 2014
+- C#, LINQ, ENTITY, VISUAL STUDIO 2013, WPF - MVVM
+- WinForm
+- Addins OutLook, Run External Program, Reg Express (parse string format)
+- My SQL
+- Delphi 7, ADO
+Mid Software Developer
+Main responsibilities:
+- Developing Report about sale
+- Fixing bug for process function (C#)
+- building scrip SQL to optimize database
+
+ACB 8/ /2015
+Working Free Time 10/ /2015
+BIDV- BRANCH NAM BINH DUONG 01/ /2010
+FPT University Jan 2018 - Feb 2019
+Technologies:
+- MS SQL
+- C#, , JQuery,Entity, MVC 3, SVN
+Software Developer
+Main responsibilities:
+- Design Windows Form and processing function, class. And solution are used in function and class with
+structure of Corebanking.
+- Build SQL script for module
+- With input analysis document
+- Implement Windows Form, class, function, and solution, SQL script follow by Designing document.
+- HR SoftWare : Implement report about leaving, checking in, checking out, and salary on day, month,
+ export report module to excel file.
+Technologies:
+- UML- Oracle databases 
+- Windows form (C#), OSI UI framework 
+- Using OSI framework to connect DB Oracle, and returning results are Dataset, SQL plus query language
+- Visual Studio 2010.
+- MySQL Databases\
+- Export to file in MS Excel
+Software Developer
+Main responsibilities:
+- Investigate Print text to printer
+- Implement Model PHP to query, update, insert data to database
+- Design Printing bill: sale product, total sale on day, month, year
+- Store report: product remain, leave, and sale or move to other store
+- Coding view : finding jobs and candidate . Using Jquery, PHP, Query Data
+- Building other view in Html5 and Jquery, Process Model in PHP to Query, Insert, Update Data, Session and
+Cookie
+- fixing bug: Jquery, PHP script.
+- Converter: Vb6 to  
+ 
+Technologies:
+- Java Android and bit command in printer
+- My SQL
+- PHP, JQuery, MVC, sublime, SVN
+- Vb6, , Oracle, ADODB
+IT Support
+Main responsibilities:
+-maintain, install and update software: ATM machine, SoftWare, Router. 
+- configure router and switch. Resolving down network and close connection
+ 
+Technologies: Java,VB, JSP, Oracle
+ACTIVITIES
+Mentor
+- Support Student Out of Working Time
+
+TOEIC Certificate with score 565 issued by IIG 2014
+Pedagogical Training for college and university lecturers issued by university of social
+sciences and humanities
+2017
+To achieve a highly responsible, challenging and personally well-suitable position in a
+strong, prestigious and potential organization.
+In order to devote to the best of my ability to the long-term success and prosperity of the
+joined group.
+Language English
+Soft Skill Mind Map, Speed Reading
+Mr Duy
+Team Leader of 
+Mobile:
+Hoang Trieu
+Team Leader of VP Bank
+Mobile:
+CERTIFICATIONS
+HONORS & AWARDS
+SKILLS
+REFERENCES
+PROJECTS
+QHA ERP (Carbonnology – Expert Team)
+( )
+Customer US Company
+Description Website Sport an Gym
+Team size 3
+My position Tech Lead - Senior Developer
+My responsibilities - Maintain and Fix Bug
+Technologies used - Angular , (MVC), MS SQL
+City Market Website (Carbonnology – Expert Team)
+( )
+Customer Product for company
+Description Website market
+Team size 3
+My position Tech Lead - Senior Developer
+My responsibilities - Create new Plugins
+- Customize GrandNode Open Source
+Technologies used -Open source GrandNode (C#, JQuery, MongoDB)
+Market Mobile App (Carbonnology – Expert Team)
+( )
+Customer Product for company
+Description Mobile app for buy product
+
+Team size 3
+My position Tech Lead - Senior Developer
+My responsibilities
+- Create new Plugins API
+- Customize GrandNode Open Source
+- Coding app in Ionic Angular
+Technologies used - Open source GrandNode (C#, JQuery, MongoDB)
+- Ionic Angular
+Apollo SAP API (LONGDAN - KIMSON)
+( )
+Customer Internal product
+Description Warehouse software connect to SAP by API
+Team size 5
+My position Tech Lead - Senior Developer
+My responsibilities
+- Create and assign task 
+- Support team (technical, keeping environment, etc…) 
+- Resolve problem (daily meeting, weekly meeting)
+- Report for Team in UK 
+- Support Operator Software in VN
+- Coding C#
+Technologies used - C#, JQuery, Angular, MS SQL
+Grand Node ( WheelPro Web Shop Project)
+( )
+Customer Norway Website
+Description website sale Wheel
+Team size 6
+My position Senior Software Developer
+My responsibilities - Create module payment (DIBS Payment), Tax (Tax Environment, Product Tax,
+etc) - Coding C#
+Technologies used Open source GrandNode (C#, JQuery, MongoDB)
+Pega (VP Bank)
+( )
+Customer Internal Product
+Description Get and Convet data(xml – clob type – oracle database) for report team
+Team size 4
+My position Senior Software Developer
+My responsibilities - Create and fix sp, table oracle
+- Coding C#
+Technologies used - C#, Oracle
+printing service ( Onsite Prudential Company)
+( )
+
+Customer Internal Product
+Description report
+Team size 5
+My position Senior Software Developer
+My responsibilities - Create Report
+- Coding WinForm
+Technologies used - C#, Oracle
+CODEIT ENTERPRISE (Restaff Company)
+( )
+Customer Norway company
+Description Auto Industry
+Team size 10
+My position Senior Software Developer
+My responsibilities
+- Investigate technology to convert PDF to Text, Image to PDF, PDF to Image.
+- Investigate Technology to get higher performance when show Windows Form.
+- Investigate Bug Security when upgrade windows package (windows 7).
+- Developing PBI convert JSON, XML to text format.
+- Developing PBI: print label with Mectec Printer
+Technologies used C#, LINQ, VISUAL STUDIO 2013, WPF, Win form
+©

@@ -1,0 +1,294 @@
+HỒ SƠ XIN VIỆC  
+THÔNG TIN CÁ NHÂN  
+Họ và tên: Nguyễn Trung  
+Ngày sinh: 26/03/1985 
+Địa chỉ:  Tiên Dược, Sóc Sơn, Hà Nội 
+Email:  
+Di động:   
+HỌC VẤN 
+Trình độ Nơi đào tạo Ngành Tốt nghiệp 
+Đại học Trường Đại học 
+Sư phạm Hà Nội 2 
+Công nghệ Thông tin Khá 
+Thạc sỹ Trường Đại học 
+Công nghệ 
+Công nghệ Thông tin Khá 
+KINH NGHIỆM LÀM VIỆC 
+Thời gian Vị trí công tác Tổ chức công tác Địa chỉ tổ chức 
+2007 – 2008 Kỹ sư phần mềm Công ty đầu tư tài 
+chính VMF 
+172 Trấn Vũ – Ba 
+Đình – Hà Nội 
+2009 – 2018 
+Nghiên cứu viên Viện Công nghệ 
+Thông tin 
+18 Hoàng Quốc 
+Việt, Cầu Giấy, Hà 
+Nội 
+2018 - 2021 
+Nghiên cứu phát 
+triển phần mềm, AI 
+Công ty cổ phần 
+FSI 
+139 Cầu Giấy – 
+Cầu Giấy – Hà Nội 
+Nay: 107 Nguyễn 
+Phong Sắc - Cầu 
+Giấy – Hà Nội 
+2021 - 2022 
+Nghiên cứu phát 
+triển phần mềm, AI 
+Công ty Cyber Eyes 107 Nguyễn Phong 
+Sắc - Cầu Giấy – 
+Hà Nội 
+CÁC KỸ NĂNG
+
+Kĩ năng Chi tiết 
+Tin học văn phòng Sử dụng thành thạo các công cụ Word, Excel, Power Point 
+Tiếng Anh Trình độ B 
+DỰ ÁN 
+STT Tên, mô tả Vị trí, vai trò Công nghệ sử dụng 
+1 Phát triển phần mềm 
+Xử lý dữ liệu hàng hóa 
+xuất nhập khẩu 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển module  key 
+(Xử lý dữ liệu hàng hóa) 
+- Team leader nhóm phát 
+triển 
+- SQL Server 
+-  
+2 SREM - Xây dựng  hệ 
+phần mềm hỗ trợ đổi 
+mới quản lý giáo dục 
+Phụ trách phân hệ Lập kế 
+hoạch giảng dạy, xếp Thời 
+khoá biểu 
+- Khảo sát yêu cầu 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển module  xếp tự 
+động và tinh chỉnh dữ 
+liệu sau khi xếp tự động 
+- Tham gia phát triển , lead 
+các module nhập xuất dữ 
+liệu khác 
+- SQL Server 
+-  
+- C++ 
+3 Phát triển phần mềm xử 
+lý ảnh viễn th ám tr ên 
+nền phần mềm GRASS 
+- Phân tích thiết kế hệ 
+thống 
+Phát triển phần mềm 
+- C, Visual C++, 
+ 
+4 Nghiên cứu, thiết kế và Phát triển module - C, Visual C++,
+
+phát triển các tính n ăng 
+phỏng “thị  giác” và 
+“thính giác”  tiếng Việt 
+cho robot thông minh 
+tương tác bằng hệ phát 
+triển Microsoft 
+Robotics Studio 
+ 
+5 Nghiên cứu thiết kế và 
+chế tạo hệ thống điều 
+khiển bằng hội thoại 
+tiếng nói tiếng Việt hai 
+chiều tích hợp cho xe 
+lăn điện thông minh 
+Phát triển module - C, Visual C++ , 
+PSoC 
+6 Nghiên cứu thiết kế và 
+chế tạo hệ  thống điều 
+khiển bằng tiếng nói 
+tích hợp vào robot hút  
+bụi tự động thông minh 
+Phát triển module - C, PSoC 
+7 Nghiên cứu ứng dụng 
+phương pháp mã hóa dữ 
+liệu áp dụng cho bảo 
+mật thông tin ảnh 
+DICOM 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+8 Nghiên cứu thiết kế, 
+xây dựng hệ thống tích 
+hợp và chia sẻ dữ liệu 
+ảnh DICOM phục vụ 
+khám, điều trị tại các 
+bệnh viện trên địa bàn 
+Hà Nội. 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển module, phân 
+hệ 
+- SQL Server 
+-  
+9 Nghiên cứu phương 
+pháp tổng hợp tiếng 
+- Phân tích thiết kế hệ 
+thống 
+- Embedded Visual 
+C++
+
+Việt cho hệ thống có tài 
+nguyên hạn chế và thiết 
+bị di động 
+- Phát triển module 
+10 Nghiên cứu kĩ thuật 
+tăng cường độ tương 
+phản ảnh viễn thám 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+11 Nghiên cứu phát triển 
+mẫu Robot Phỏng sinh 
+học có khả năng hội 
+thoại tiếng Việt 
+- Phát triển module, phân 
+hệ 
+- C, Visual C++ , 
+C#, PsoC 
+12 Phần mềm quản lý và 
+tìm kiếm đề tài trùng 
+lăp 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+- SQL Server 
+-  
+13 Module phần mềm bóc 
+tách thông tin  ảnh 
+CMND 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- OpenCV 
+- C++ 
+14 Module phần mềm bóc 
+tách thông tin  ảnh các 
+form biểu mẫu, bảng 
+biểu: Văn bản hành 
+chính, lưu đồ  A0 lỗ 
+khoan, bảo hiểm , báo 
+cáo tài chính, phiếu Tư 
+pháp, phiếu thông tin 
+khách hàng siêu thị 
+BigC, phiếu thông tin 
+khách hàng ngân hàng 
+SHB, phiếu dân cư – 
+Bộ công an, hóa đơn , 
+hợp đồng… 
+- Phân tích t hiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- OpenCV 
+- Deeplearning
+
+15 Phần mềm Quét, bóc 
+tách và quản lý thông 
+tin phiếu dân cư – Bộ 
+công an 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+- SQL Server 
+-  
+- OpenCV 
+- Deeplearning 
+16 Tool phần mềm bóc 
+tách các trường thông 
+tin biểu mẫu 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- OpenCV 
+- Deeplearning 
+17 Tool phần mềm bóc 
+tách các trường thông 
+tin bảng biểu 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- OpenCV 
+- Deeplearning 
+18 Module phần mềm nén 
+ảnh 
+- Phát triển phần mềm -  
+- OpenCV 
+19 Module phần mềm nắn 
+chỉnh ảnh 
+- Phát triển phần mềm -  
+- OpenCV 
+- Deeplearning 
+20 Module phần mềm 
+phân tích cấu trúc bảng 
+trong ảnh bảng biểu 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- OpenCV 
+21 Phần mềm quản lý bán 
+hàng 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- SQL Server 
+22 Phân mềm quản lý nhà 
+hàng 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- SQL Server 
+23 Phần mềm quản lý nhân - Phân tích thiết kế hệ -
+
+sự thống 
+- Phát triển phần mềm 
+- SQL Server 
+24 Nghiên cứu phương 
+pháp nâng cao chất 
+lượng ảnh 
+- Xây dựng thuật toán 
+- Phát triển phần mềm 
+-  
+25 Nghiên cứu phương 
+pháp tổng hợp ảnh y tế, 
+viễn thám 
+- Xây dựng thuật toán 
+- Phát triển phần mềm 
+-  
+26 Phần mềm chấm thi trắc 
+nghiệm tự động 
+- Phân tích thiết kế hệ 
+thống 
+- Phát triển phần mềm 
+-  
+- Access DB 
+ 
+LĨNH VỰC CÓ KINH NGHIỆM 
+ OCR: thành th ạo xây d ựng các mô hình OCR s ử dụng Công ngh ệ Deep 
+learning, triển khai đến ứng dụng thực tế. 
+ Tiền xử lý, nhận dạng, bóc tách  thông tin CMND, hộ chiếu, tài li ệu, phiếu 
+điều tra, bảng biểu, triển khai đến ứng dụng thực tế. 
+ Ứng dụng Deeplearning để detect đối tượng trong ảnh tài liệu, triển khai đến 
+ứng dụng thực tế. 
+ Ứng dụng Deeplearning để crop, nắn chỉnh ảnh, triển khai đến ứng dụng thực 
+tế. 
+ Các mô hình học máy, nhận dạng, xử lý ảnh, nén ảnh. 
+ Mô hình MapReduce với Hadoop, Spark 
+ Ứng dụng thông tin quản lý làm việc với CSDL

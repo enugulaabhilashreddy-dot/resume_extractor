@@ -1,0 +1,252 @@
+Phan
+Đình Kiên
+L
+ập Trình Viên Full Stack (.Net , ReactJs, Vue.Js)
+Nam
+M
+ục tiêu nghề nghiệp:
+Ngăn hạn :
+********
++ 
++
+Tr
+ở thành nhân viên chính thức của công ty sau khi thử việc
+Có công vi
+ệc ổn định, trở thành một nhân viên xuất sắc , tích luyện thêm kinh
+nghi
+ệm rèn luyện kỹ năng sử lý công việc hiệu quả, chính xác , nhanh chóng
+********
+********
+Dài h
+ạn :
+S
+ố 6 Ngõ 85 Xuân Thủy, Cầu
+Gi
+ấy, Hà Nội
++ 
++
+Có
+cơ hội được trải nghiệm và làm việc ở những vị trí cao hơn
+G
+ắn bó lâu dài với công ty
+01
+TH
+ỜI GIAN: 
+********
+H
+ỌC VẤN
+H
+ọc Viện Kỹ Thuật Quân Sự
+Tên b
+ằng cấp: Đại Học
+Chuyên ngành: Truy
+ền Thông Và Mạng Máy Tính
+Lo
+ại tốt nghiệp: Khá
+02 
+KINH NGHIỆM
+LÀM VI
+ỆC
+TH
+ỜI GIAN: 
+********
+Công Ty C
+ổ Phần Công Nghệ WINDSoft Việt Nam
+NHÂN VIÊN
+Mô t
+ả công việc:
++ T
+ừ 2-2018 đến 5-2018 : Thực tập tại công ty
+Th
+ực tập sinh tại công ty , tham gia khóa đào tạo về lập trình ******** mvc
+T
+ừ 6-2018 đến 12-2018 : Cộng tác viên
+-
++
+-
+-
+Tham gia d
+ự án quản lý tài liệu cho trung tâm tiếng nhật
+Tham gia vào d
+ự án xây dựng ứng dụng tích điểm dekko
++ T
+ừ tháng 1-2019 đến tháng 12-2020
+-
+-
+Tham gia d
+ự án quản lý trung tâm gia sư
+Tham gia d
+ựa án xấy dựng áp cho phòng khám nha khoa My Auris
+Thành tích
+đạt được:
++
++
+2******** : T
+ừ thực tập sinh được nhận vào làm nhân viên chính thức
+2019 -2020 
+:
+Được nhận giải thưởng nhân viên xuất sắc của công ty
+TH
+ỜI GIAN: 
+********
+T
+ập Đoàn NOVAON
+NHÂN VIÊN
+Mô t
+ả công việc:
+Tham gia phát tri
+ển sản phẩm CRM với một số tính năng như :
++ 
+T
+ừ 
+2020 
+đến 
+2021 : Triển khai hệ thống sử dụng ******** Mvc và 
+angularjs
+-
+-
+-
+-
+-
+-
+-
+-
+Tích h
+ợp tổng đài Call center (Vht, CMC Telecom, CCal )
+Tích h
+ợp với Kiotviet
+Xây d
+ựng chức năng Module sản phẩm
+Xây d
+ựng chức năng Lịch Trực nhân viên
+Tích h
+ợp Mailchimp
+Xây d
+ựng chức năng Custom field
+Báo cáo ph
+ễu chuyển đổi , hiệu xuất theo nhân viên ,cuộc gọi
+Xây d
+ựng chức năng quản lý tương tác gửi Email, Sms, Cal
+
+- Xây d
+ựng chức năng Form đăng ký
+-
+-
+Phát tri
+ển mobile web sử dụng webpack ,vuejs
+C
+ải Tiến tốc độ hệ thống sử dụng redis cache , tối ưu db
++ T
+ừ 2021 Đến 2022 : Chuyển đổi công nghệ sang 
+sử dụng Dotnet Core và React.js
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Tìm hi
+ểu Dotnet core , Abp framework, react.js, để áp dụng vào hệ thống crm
+C
+ải tiến lại toàn bộ bd của hệ thống
+Xây d
+ựng tính năng quản lý người dùng và cơ cấu tổ chức
+Xây d
+ựng chức năng quản lý Lead , Deal
+Tích h
+ợp background job và cache cho dự án
+Xây d
+ựng chức năng Hạn mức bảo hộ
+Xây d
+ựng chức nâng Tool thu quyền
+Tích h
+ợp tổng đài Oncal er do chính Novaon phát triển
+Xây d
+ựng chức năng quản trị doanh mục
+Xây d
+ựng tính năng import dữ liệu (lead/deal/company/contact)
+Migrate d
+ữ liệu từ db cũ lên db mới
+C
+ải tiến tốc độ hệ thống
+Xây d
+ựng tính năng quản lý nhiệm vụ quộc hẹn của nhân viên
+Xây d
+ựng tính năng check in, checkout khi mà nhân viên đi gặp khách hàng
+Xu
+ất báo cáo nhiệm vụ cuộc hẹn
+Vi
+ết api cho phía app mobile sử dụng
+Thành tích
+đạt được:
++
++
+2******** :
+Được nhận giải thưởng nhân viên Tiềm Năng của tập đoàn
+2******** :
+Được nhận giải thưởng nhân viên Xuất Sắc của tập đoàn
+03
+K
+ỹ năng chính:
+K
+Ỹ NĂNG
++ Ngôn ng
+ữ lập trình : 
+c, ******** mvc , net core, reactJs, vueJs
+. Background job, Webhook, Cache, Entity framework code first, Linq , Dapper,
+Elasticsearch,webpack, redux
++
++ 
++ 
++
+Công c
+ụ quản lý công việc : Jira , Trel o
+Công c
+ụ quản lý source code : git
+Framework: abp,ant design
+K
+ỹ năng khác:
++ 
++ 
++ 
++
+Kh
+ả năng làm việc đập lập
+Giao ti
+ếp
+Thuy
+ết Trình
+T
+ự tìm hiểu và học tập công nghệ mới
+TIN H
+ỌC
+TI
+ẾNG ANH
+S
+Ở THÍCH
++ 
++
+Đá bóng , Bi A 
+Tìm Hi
+ểu kiến thức mới
+Words
+Nghe
+Excel
+Nói
+Power Point
+Outlook
+Đọc
+Vi
+ết
+
+Sdfdsds f

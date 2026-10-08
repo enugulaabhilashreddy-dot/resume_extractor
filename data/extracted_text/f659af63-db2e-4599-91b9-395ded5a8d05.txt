@@ -1,0 +1,171 @@
+Curriculum Vitae of 
+Bui Xuan Ngoc 
+hday: 1 
+Mobile:  Email:  
+ss: Q12 
+Personal profile  
+A multi-skilled professional with a track record of managing and developing various M&E, 
+infrastructure, software projects: SAP BI, DMS, CRM, HRM, OEE KPI, MES, server virtualization.  
+Able to manage stakeholder expectations and willing to take full responsibility for the 
+delivering of project objectives. Bui Xuan Ngoc is an easy going individual who enjoys 
+challenging and diverse roles and is confident working with people from different teams. 
+Presently looking to join a company that rewards effort and initiative, whilst at the same 
+time providing plenty of progression and development opportunities to its employees. 
+ 
+Academic qualification  
+ in Information Technology – Hung Vuong University (1996 – 2000) 
+ 
+Additional certificates  
+- Exceptional Customer Service 
+- Supervisory Skills 
+- Negotiation Skills 
+- Effective Presentation Skills 
+- Finance for non-Finance Personnel 
+- Advanced Business Writing Skills 
+- P2 (PRojects IN Controlled Environments) Project Management  
+ 
+Areas of expertise  
+Project Management – IT management – Network/Security – Automation/Manufacturing. 
+ 
+Work experience  
+ 
+Quyet Thang High Technology Development Co., Ltd 
+Technical Manager  
+May, 2022 - current  
+- Manage technical department to carry out installation and after sales support for projects: AI, M&E, vehicle access 
+control, management software (CRM, WMS, QR code packaging, DPM) for manufacturing, F&B, electricity, pharma 
+companies. 
+- Provide leading-edge solutions to solve customer’s requirements in production and business management. Prepare 
+proposal, presentation, quotation for project bidding.  
+- Define scope of work, project plan and schedule, estimate cost and resources. 
+- Prepare documents & draws (User guides, test cases, firewall rules, support doc, equipment connection/network 
+diagram, electrical wiring) for project commissioning.     
+- Manage and follow up hardware equipment purchase for projects/commercial orders. Manage department tools and 
+assets, PC/laptop and company network leased-lines. 
+- Liaise with customers, partners in order to establish trust, increase product knowledge, and drive more sales 
+- Prepare and manage operating budget for department.  
+- Manage technicians and Dev by recruiting, training, and coaching employees, setting clear job expectations, and 
+conducting performance appraisals. 
+ 
+Project:  
+- Applying AI (swine count) for CP poultry farm 
+- Installed and integrated RFID access control to Sales system for CP Feed factories. 
+- Developed WMS with integrated QR code printing and labelling machines for CP Animal Health Technical Service 
+Office.
+
+EXPERIENCE & KEY COMPETENCIES  
+Project Management 
+o Experience of working in large-scale, multi-countries projects (APAC and EU). Working in outsourced projects on 
+both sides: client and vendor. 
+o Experience in business processes: Sales distribution, warehouse management, customer service, digital marketing, 
+financial reporting. 
+o Good documentation, presentation, report writing skills. Able to articulate technical jargon to a non-technical 
+audience. 
+o Ability to manage multiple projects simultaneously and under pressure. 
+o Internal and external stakeholder management.  
+o Good negotiation and persuading skills.  
+o Strong attention to detail and focus on task completion. 
+o Demonstrated ability to work with and support cross-functional project teams. 
+ 
+Technology skills 
+ 
+ 10 years’ experience in ERP (SAP & BI), DMS, HRM, CRM (MS Dynamics), other software implementation and 
+roll-out project in project management roles. 
+ Experience in infrastructure projects (server virtualization, data centralization) in planning, budget, preparation, 
+execution, go-live and hyper-care support. 
+ Experience in IT equipment management and support:  firewalls, DNS, HTTP, FTP, SSL, and other security-
+related issues. 
+ Experience in SAP, Windows Server, Linux, IBM/HP Servers, MS SQL Database, Oracle, MySQL, WAN, LAN, 
+cameras, and VMWare. 
+ Experience in migration, troubleshooting and recovery software and database with risk mitigation. 
+ Know how to manage, backup & restore data, perform fine-tuning and optimizing for operational systems.  
+ Well understand about integration of legacy system with modern system in both hardware and software 
+aspects.  
+ 
+Strength 
+ 
+ Creative thinking. Hard work. Accurate, neat, punctual. 
+ Can-Do spirit, self-responsibility.  
+ Engage to learn new technology.  
+ 
+Hobbies 
+ Enthusiasm for travelling (biz trips & personal vacation), discovering new sightseeing, culture, food. 
+ Take photos, listen music, watch movies, play ping-pong, go hiking and camping.
+
+EARLY CAREER 
+Vu Thao Technology Joint Stock Company 
+Project Manager 
+Sep 2021 – April 2022  
+ 
+ Work directly with clients to clearly define project requirements (requirements, workload, 
+ schedule…) 
+ Plan the implementation of the project 
+ Make a project plan to prevent and manage risks and arising during project implementation 
+ Project management, progress and quality. Follow up and direct the time to ensure the project is implemented 
+ Complete with quality and on schedule 
+ Summarize and report to the project leadership according to the company's product improvement appraisal 
+regulations 
+ Proposing a plan for effective organization and management of the project. Participate in building and 
+improving work processes 
+ company 
+ Perform other duties as requested by the Board of Directors 
+ Manage 10 employees 
+ Participating in the development and exploitation of the application with the Mobile Dev team. 
+ Project:  
+-  Digital Process Management (DPM) for EVN 
+-  DPM for BW Industry 
+-  Document Management Information System for Techcombank. 
+ 
+SaoBacDau Service  
+Solution Director 
+May, 2017 – May, 2021  
+ Acted as pre-sales, supported sales to find and engage customers. 
+ Prepared proposal, presentation, quotation for project bidding. 
+ Prepared OPEX budget. Estimate cost, resources for project implementation. 
+ Collected user requirements, business processes. Define WBS, prepare project plan, schedule, risk assessment, 
+deliverable documents.  
+ Conducted and monitoring multiple concurrent projects execution to meet with agreed scopes, timeline and 
+quality. 
+ Managed customer expectation, change request, feedback.  
+ Negotiated cost incurred, SOW, timeline changed. 
+ Resolved escalation, confliction between stakeholders (internal and external). 
+ Mentored and coached staff to ensure work efficiently and professional. 
+ 
+Business Owner 
+June 2014 – April 2017 
+ Managed my own business that provides IT hardware & software services: infrastructure revamp projects, 
+software customization & roll-out projects
+
+FrieslandCampina Vietnam  
+Application Specialist  
+Mar 2005 – May 2014 
+ Participated in ERP projects as project coordinator.  
+ First-level supported ERP: SD module, SAP BI. 
+ Leaded outsourced projects (CRM, HRM, EDI, other software) 
+ Developed in-housed application.  
+ User support / training. 
+ 
+SONY Vietnam  
+IT Supervisor   
+Sep 2003 – Feb 2005 
+ 
+ Leaded outsourced projects (Sales system, Cognos BI, HRM). 
+ Developed in-housed application.  
+ User support / training. 
+ 
+EIS Inc. 
+Innovation Manager   
+July 2002 – Aug-2003 
+ 
+ Researched and developed VoIP, instant message application based on Jabber. 
+ Leaded Java developers team to implement website, customs CRM projects for clients; to develop SaaS product.    
+ 
+Atlas Industries 
+Software Developer   
+January 2000 – June 2002 
+ 
+ Worked in outsourcing projects (websites, web-based applications). 
+ Supported IT network system and security solution. 
+ 
+ 
+Thank you for your reading.

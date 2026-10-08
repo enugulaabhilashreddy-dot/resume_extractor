@@ -1,0 +1,229 @@
+Feb 23, 1991 
+ 
+   
+  Tân Phú District, HCM 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABOUT ME 
+As a PO/BA with over 10 years of experience, I have chances to approach and provide the 
+system solution to optimize the needs of enterprises in various domains like Finance, 
+Manufacturer, Retail, E -commerce... Especially I quite confident about my great 
+professional knowledge of ERP. 
+I’m seeking opportunities to transform company practices into fresh, cost -effective 
+solutions leading to more efficient operations. 
+ 
+EDUCATION 
+Jun 2012 Graduated from University of Economics and Law, Ho Chi Minh City 
+• Major: Management Information System 
+• GPA: 8.1/10 
+• Rank: Very Good 
+Dec 2016 Computerized Accounting Certification issued by University of 
+Economics Ho Chi Minh City 
+Dec 2018 Certificate of Advanced Business Analysis 3.0 
+Jun 2019 Certificate of Agile – Scrum professional issued by Apex Global 
+ 
+ 
+SUMMARY 
+✓
+ Over 10 years of experience as Business Analyst, Product Owner with 5 years is as 
+BA leader 
+✓
+ Expert of ERP system 
+TRƯƠNG NGỌC PHƯƠNG THẢO
+
+✓
+ Knowledgeable of project & product development life cycle 
+✓
+ Knowledgeable of accounting 
+✓
+ Strong analytical skills; ability to understand complex processes with rigorous 
+attention to detail
+ 
+✓
+ Have experience in MSSQL, Oracle 
+✓
+ Ability to design UI/UX, layout and navigation flows by using tools like Mockup, 
+Visio, Balsamiq, Azure, Figma 
+✓
+ Familiarity with Agile Software Development Methodology as Product Owner role
+ 
+✓
+ Experience with Atlassian tool-set: Jira, Confluent 
+✓
+ Professional communication skills, familiarity with collaboration tools
+ 
+✓
+ Good at English 
+WORK EXPERIENCE 
+Nov 2021 - Present 
+Business Analyst Lead Cum Product Owner at Sovico Group 
+•
+ Domain: Digital Transformation For Sovico Group & Government 
+Partners 
+•
+ Take responsibility as Principal BA of ERP product (OneSuite) of Sovico 
+group 
+o
+ Build business architecture for product 
+o
+ Define product feature list 
+o
+ Document BRDs 
+o
+ Support to review FSD of BA members 
+o
+ Support UAT and operation when launching product 
+•
+ Perform business analysis for various projects of different domains: Loyalty 
+(Vietjet Air), Healthcare (VietNamKhoeManh), e-Government (HoChiMinh 
+Communist Youth Union), etc. 
+•
+ Define and improve the BA processes 
+•
+ Manage BA team with volume of 8 members. Including: 
+o
+ Structure the BA workloads 
+o
+ Build OKRs and KPIs for the team 
+o
+ Coach and mentor team members 
+•
+ Take responsibility as Product Owner role in Scrum team to support Product 
+Delivery stage:
+
+o
+ Collaborate with Product Manager to determine the finalcial, business 
+and operational requirements. Based on that define the product roadmap 
+o
+ Define backlog 
+o
+ Support team as a Scrum Master to drive Scrum events 
+o
+ Responsible for the implementation to ensure the committed release 
+plan & productive team 
+May 2020 - Oct 2021 
+Senior Product Owner at ZALO Company 
+•
+ Domain: Advertising (Zalo Ads) 
+•
+ Collect and analyze feedbacks/requirements from customers, stakeholders and 
+other teams to shape requirements, features and products 
+•
+ Translate product strategy into detailed requirements and prototypes 
+•
+ Scope and prioritize activities based on system, business and customer impacts 
+•
+ Work closely with development teams to ensuring that deliverables are 
+understood and released with quick time-to-market  
+•
+ Co-operate with Data Analyst team to define and analyze data, users’ 
+feedbacks and metrics to measure the product’s performance 
+•
+ Make creative recommendations to expand product vision and optimal 
+resources 
+Dec 2018 – Apr 2020 
+Product Owner at TEKO Company 
+•
+ Domain: Warehouse Management/ Supplier Relation Management 
+Responsibility to manage warehouse of company as a retailer which have more 
+than 60 branches in nation wide 
+•
+ Support PM in term of requirements for multiple projects from starting phase 
+to the closure
+ 
+•
+ Discuss directly with operation departments to understand their needs 
+•
+ Add more values to product and requirements
+ 
+•
+ Advise, support and collaborate with the development team 
+•
+ Work with technical team and relevant teams to design optimal solution 
+•
+ Take owner of writing related documents such as Business solution document, 
+User Story, Functional Specification, User Guide, etc 
+•
+ Design mockup/wireframe based on the requirements
+
+Jun 2016 – Dec 2018 
+Business Analyst Leader at ASOFT Company
+  
+•
+ Domain: ERP system 
+ 
+•
+ Responsible for the survey, receiving business requirements, consulting 
+solutions 
+•
+ Writing solution documents and getting confirmation from the customer 
+•
+ Planning and take the main responsibility for product development 
+•
+ Assignment, work management and support for team members 
+•
+ Support relevant teams in the process of working 
+•
+ Design and write Software Requirement Specification (SRS)  
+•
+ Design database and manage data of ASOFT ERP system
+ 
+Sept 2015 - Jun 2016 
+Business Analyst at ASOFT Company 
+•
+ Domain: ERP system 
+ 
+Including many modules such as Accounting, Warehouse, Supply chain, Orders 
+management, Human Resource, etc 
+•
+ Handle many projects as a Business Analyst: Meiko, Angel, etc 
+•
+ Design prototype to show how the end-user will interact with the product’s 
+interface 
+•
+ Design database and manage data of ASOFT ERP system  
+•
+ Write analyze/solution document and user guide 
+•
+ Analyze and integrate the newest Circulars. Especially implemented 
+successfully Circular 200 for ASOFT-ERP system 
+July 2012 – Sept 2015 
+ Business Analyst at DigiNet Corporation with ERP system – Lemon3 
+•
+ Domain: ERP system 
+ 
+Manage Financial module and support other modules: Project Management, 
+CRM, Real Property
+
+•
+ Work with deployment team to clarify information about the customer's 
+requirements 
+•
+ Write functional specifications document for developers and QCs  
+•
+ Design data model and develop database (store procedure, view, function, 
+trigger..) and support design reports  
+•
+ Give a quick UAT before transferring to QC department  
+•
+ Manage timeline and priority of all project and tasks  
+•
+ Support end-user and software maintenance  
+ 
+PERSIONALITIES  
+➢
+ Ability to research and approach new knowledge, to use it in realistic situations 
+effectively 
+➢
+ Ability to multitask, strong attention to detail, self-motivated, willingness to take 
+initiative  
+➢
+ Ability to analyze problems and identify resolutions at a functional level 
+➢
+ Excellent organizational, communication and presentation skills

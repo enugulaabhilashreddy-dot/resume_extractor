@@ -1,0 +1,55 @@
+Bui Vuong Thang
+District 2, HCM City, Vietnam
+  
+Front-End HTML, CSS, ReactJS, Mobx, Redux, Ant Design
+Back-End NestJS, GraphQL, MongoDB
+MegaNet - Developer Aug 2018 - Jul 2020
+FPT Software - Developer Aug 2020 - Mar 2021
+TOEIC: 680/990
+Bachelor: Computer Science
+2014
+SUMMARY
+I'm Bui Vuong Thang, a webdeveloper with 2 years ofexperience in JavaScript. I love to work in a professional team ,dynamic
+environment to learning from teammate and improve myself. I can work wellwithin the group
+SKILLS
+WORK EXPERIENCE
+PROJECTS:  MGN
+Description: Internal system management of the software of the company including warehouse management page and inventory
+report.
+Team size: 5
+Position: Full-Stack Developer
+Responsibilities: - Joining meeting with team and client to get clear requirements.
+ - Develop the module of the system using frameworks.
+Technologies:- ReactJS, MobX, GraphQL, Ant Design.
+- NestJS, MongoDB, GraphQL Server.
+Accomplishments: - Learned new technologies and frameworks. 
+- Improved teamwork and communication skills.
+- Improved research skills.
+PROJECTS: MKT
+Description: WiFi marketing system that allows users to book location to place ads on the free WiFi log in page
+Team size:8
+Position: Full-Stack Developer
+Responsibilities:- Joining meeting with team and client to get clear requirements.- Develop the module of the system using
+frameworks.
+Technologies: - ReactJS, MobX, GraphQL, Ant Design.
+- NestJS, MongoDB, GraphQL Server.
+Accomplishments:
+- Improved teamwork and communication skills.
+- Improved research skills.
+Description: A Dashboard that user can manage their business KPI, also integrate World Map that has their business location for
+management.
+Team size: 8
+Position: Front-End Developer
+Responsibilities:
+ - Joining meeting with team and client to get clear requirements.
+ - Develop the module of the system using frameworks.
+ - Review Code for other members.
+ Technologies: 
+- ReactJS, Redux, Ant Design
+Accomplishments:
+- Learned to use Figma and building layout base on design
+- Learned to develop software follow Scrum development process
+- Improve English Communication Skill.
+- Improved research skills.
+CERTIFICATIONS
+©

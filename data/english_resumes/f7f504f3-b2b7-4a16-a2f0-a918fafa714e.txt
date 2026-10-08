@@ -1,0 +1,143 @@
+NGUYỄN XUÂN SONG
+IT MANAGER AND ERP/SUPER APP PROJECT MANAGER  - 16 NĂM KINH NGHIỆM
+928 Le Van Luong, Phuoc Kien, Nha Be, Huyện Nhà Bè, Hồ Chí Minh, Việt Nam
+MỤC TIÊU NGHỀ NGHIỆP
+With 16 years experience in IT manage, i am looking for a chance with ITM, CIO, CTO position
+THÔNG TIN CÁ NHÂN
+Ngày sinh 19/04/1980 Quốc tịch Việt Nam
+Tình trạng hôn nhân Đã kết hôn Giới tính Nam
+NGOẠI NGỮ
+Tiếng Anh  > Trung Cấp
+KỸ NĂNG
+Time Management Skill Security System Management Công Nghệ Thông Tin
+Infrastructure Management Budget Management Leadership Management
+Coatching Skill Problem Solving Management Leadership Skill Project Management
+KINH NGHIỆM LÀM VIỆC
+IT Manager, ERP/SUPER APP PM 06/2019 - 08/2023
+TNI KING COFFEE
+IT Manager | ERP, Super App Project Manager inchage of infrastructure security, Application, ERP, Super App-
+  reponsibility of F&B chains,  managing all the IT team aroud + 15 stafts (include infra & security, Application & mobile 
+app, ERP team)
+- Develop strategies and roadmaps long-term (5-year) for IT projects in the period 2019-2024 (Mobile Supper App, 
+Ecommerce, Social platform, Internal Application....
+- ePOS project for store system (Main project)
+- DMS project
+- WE 4.0 Super App (ecommerce platform, payment, order, inventory…) (Main project)
+- ERP D365 project(Main project)
+- Name card 4.0 project (mini project)
+- Digital signage project (mini project)
+- Website system (mini project)
+- Plan to build ERP D365 project for the company - Planning and manage IT department budget.
+- Plan to build infrastructure and security for projects: DMS, EPOS, Super App, ERP, Email, FA, HR & payroll of the 
+company.
+- Reponsible for hiring all staﬀ positions of department resulting in company growth and yearly set our internal team 
+KPIs targets.
+- Develope and review budget preparation to ensure it completed with stared goals
+- Plan to build, upgrade, and secure the company's network infrastructure
+- Build processes, regulations and security policies of the IT department, manage IT system risks to ensure business 
+continuity...
+- Building a centralized camera management system for all stores chain across the country.
+- Building a monitoring system for All system ( Internet lines, servers, IT devices, ﬁrewall… using the zabix system to 
+warning all incident via mail, SMS, telegram application.
+- Building a smart Digital signage advertising system for all the stores across the country.
+Building a centrally managed security and anti-virus system with McAﬀe EPO, DLP
+
+Infrastructure and security Manager 03/2017 - 06/2019
+Con Cung Joint Stock Company
+- Planning budget for Infrastructure & network security department.
+- Develop infrastructure and security for the entire ERP system, Email system, Financial Accounting system of the 
+company.
+- Plan to build the DR Site system at VDC2 DC for ERP, CCAPP, FIN, VoIP, Replicate DB.
+- Plan short-term and long-term management of infrastructure, IT assets, software copyright for the company.
+- Consulting and implementing ERP solutions for Biochem International J.S. Company Ltd.
+- Consulting and implementing ERP, CRM solutions for AnTin tourism and investment joint stock company
+- Plan to build, upgrade and secure the network infrastructure of the company.
+- Planning IT development strategy to ensure that in 2019, it will reach 800 stores across the country.
+- Develop the processes, regulations and security policies of the IT department, manage IT system risks to ensure 
+continuous business operations ...
+- Building a centralized camera management system for more than 500 stores across the country.
+- Build an online meeting system with Skype for business.
+- Build a monitoring system for transmission lines, servers, IT devices by Zabbix system and incident warning system 
+via telegram application.
+- Build a KPI system for Infrastructure departments to ensure network infrastructure and IT equipment in stores 
+operating continuously and without interruption.
+- Building a smart digital signage advertising system for more than 500 stores across the country.
+- Build a centralized security and anti-virus system with McAfee EPO, DLP.
+- Search, negotiate with Vendor to get IT equipment contracts for Con Cung chain stores with the best cost in the 
+market, price stability, best maintenance services.
+IT Manager 08/2011 - 03/2017
+Đặng Lê - Trung Nguyen Legend
+- Planning budget management for the IT department.
+- Responsible for managing the entire network, security, Email, Video conference of TNG (TNG, CTY G7, Dang Le 
+Co., Trung Nguyen Singapore Company).
+- Building website projects on tourism, e-commerce.
+- Deploying Oﬃce 365 system for TNI company (TN international).
+- Building the infrastructure of a DMS system for corporations (Production system, Training System, UAT system).
+- Plan to build a centralized wiﬁ system for TNG.
+Infrastructure Leader 08/2007 - 08/2011
+Trung Nguyen Legend
+- Responsible for managing the entire network, security, Email, Video conference of TNG (TNG, CTY G7, Dang Le 
+Co., Trung Nguyen Singapore Company).
+- Responsible for upgrading and maintaining AD (Active Directory) system - Domain controller 2012.
+- Develop processes, security policies of the company, IT equipment allocation process, IT troubleshooting process, 
+regulations for setting passwords for all employees, system data backup process, Standard naming regulations for 
+IT equipment ...
+- Build a Symantec backup system for corporations (Symantec backup exec 2012).
+- Responsible for building, managing and backing up the DMS system infrastructure for the group.
+- Plan to build an Oﬃce 365 system for the entire corporation
+- Build a centralized security and anti-virus system with McAfee EPO, DLP.
+- Build system checklists for IT departments on backup systems, DMS, Email, ERP daily.
+- Build a Video Conference system by Polycom device between Head Oﬃce and 10 branch sites.
+- Plan to build, manage and maintain Exchange Server 2007 Windows Server, Email system, Exchange 2010, SQL 
+Server 2008 Email and Mega WAN system of the Group.
+- Plan to upgrade Exchange Server 2007 system to Email Exchange 2010 for TNG
+- Planning to build TNG's VoIP system (between the Center and its branches).
+- Plan to build, manage and maintain the network security system, the Email 2007 Exchange, the server system in 
+Singapore.
+
+- Plan to build, manage and maintain the network security system, the email exchange 2010 and server system for 
+Dang Le company.
+Infrastructure Leader 05/2005 - 06/2007
+DONA BITI’S IMEX CORP., PTE., LTD
+- Responsible for conﬁguring, planning, maintaining System Setwork, System Server Web ISB, Mail server... - 
+Responsible for Backup system Mail server, proﬁle User, database when have requests - Responsible for Technical 
+support for all another IT staﬀ. - Responsible for Conﬁguring, mantaining system Windows NT, Exchange Server, 
+SQL Server - Responsible for all IT systems. This includes OS support and maintenance (Windows Server), 
+messaging infrastructure (Exchange Server), user helpdesk support (roaming proﬁles, shared folders, MS-Oﬃce, 
+etc.), backup/restore, business continuity planning. - Responsible for maintaining network services (DHCP, Internet 
+access), conﬁguring and maintaining security (ﬁrewalls, remote access), liaise with vendors and service providers 
+(hardware suppliers, telecom operators).
+HỌC VẤN
+IT Management Skills (IT Manager) 02/2012 - 08/2012
+Khác - Info Chief
+1. Make plan - Develop and manage IT operations budget, capital budget eﬀectively 2. Develop a comprehensive 
+strategy to develop IT short and long term (3 months, 9 months, 12 months, 24 months ) 3. Planning , management 
+processes and IT operations as: LAN-WAN, data-center, Business Application, Enterprise System, Storing backup, 
+restore data 4. Build security regulations , policies and activities of the IT department , risk management IT systems 
+to ensure business continuity...
+MCSE(Microsoft Certiﬁed Systems Engineer) 05/2008 - 08/2008
+Khác - Nhat Nghe Trainning Computer Network center
+Experienced in (Implementing, managing, maintaining a Microsoft windows server all version, Mail Exchange all 
+Version, ISA Server)
+CCNA (Cisco Certiﬁed Networking Associate) 01/2008 - 04/2008
+Khác - Nhat Nghe Trainning Computer Network center
+CCNA (Cisco Certiﬁed Networking Associate)
+Experienced in system CISCO(conﬁguring router, switching , routing, VLAN…)
+Network Fundamentals
+Infrastructure Management
+LAN Switching Technologies
+Routing Technologies
+Infrastructure Services
+Infrastructure Security
+....
+C.E.H ( Certiﬁle Ethical Hacker) 06/2006 - 12/2006
+Khác - Nhat Nghe Trainning Computer Network center
+Experienced in security system network (internet, Lan , web, Wan, server, Prevent virus, attacker and protection…)
+Information Technology 03/2000 - 03/2004
+Cử nhân - Hue University
+-2004 Hue Science University of Hue city
+Bachelor of Information Technology
+NGƯỜI THAM KHẢO
+CHAU VAN VAN  - + CIO - TNI KINGCOFFEE
+Nguyen Quoc Minh  - Chairman - Con Cưng Group
+LE HOANG DIEP THAO   TGD - TNI KINGCOFFEE

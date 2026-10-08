@@ -1,0 +1,71 @@
+LE ANH HUY  
+ |  | Cam My District, Dong Nai 
+SUMMARY 
+A full -stack developer with 6 + years of experience in the tech industry , involved in all stages of the 
+software development lifecycle, from planning and design to testing and deployment. A proactive 
+professional who is skilled in algorithm analysis, code changes, bug fixes, idea generation, and system 
+integration, with a strong focus on optimizing performance and ensuring reliable deployments across 
+cloud and on -premises environments. Proven ability to collaborate with cross -functional teams, 
+effectively managing multiple projects in fast-paced, high-pressure settings Adaptable and able to drive 
+projects to meet business objectives. 
+FUNCTIONAL EXPERTISE 
+ Frontend development: JavaScript, ReactJS/NextJS, HTML, CSS, SASS, Tailwind;  
+ Backend development: C#, Microservices; 
+ Database management: Microsoft SQL Server (MSSQL Server), SAP Hana; 
+ Deployment and Infrastructure: Docker, CI/CD, Kubernetes; 
+ Teamwork and problem-solving. 
+WORK EXPERIENCE 
+MARTECH JSC                          
+The company specializes in manufacturing boiler systems and pressure equipment; its products and services are 
+trusted by leading corporations such as Unilever, P&G, URC, Cargill, THP, Asian Foods, C.P Group, and others. 
+TECH LEAD                                    03/2022 – PRESENT  
+Contributed to the development of Martech Portal, a human resource management system, and Martech Payroll, 
+a web application for payroll processing, with integrated data from Martech Portal to ensure accurate and 
+efficient payroll management. 
+ Develop scalable and modular backend services using C#, gRPC, RabbitMQ , and microservices 
+architecture to ensure efficient data flow 
+ Build and maintain responsive user interfaces using ReactJS and TypeScript 
+ Implement and manage APIs using gRPC for inter -service communication, ensuring fast and 
+reliable data exchange between different microservices 
+ Lead the development of scalable project structures using microservices architecture to ensure 
+modularity and efficient deployment 
+ Implement containerization strategies by utilizing Docker to streamline application deployment, 
+improve scalability, and ensure consistency across environments 
+ Set up and manage CI/CD pipelines using GitLab CI and Docker Hub, ensuring smooth integration 
+and automated deployment for faster release cycles 
+ Create and modif y reports within the SAP Business One system to meet evolving business 
+requirements, ensuring accurate data insights for stakeholders 
+ Manage and query databases in SAP Hana  to ensure efficient data storage and retrieval, and 
+generate business reports using Crystal Reports to meet dynamic reporting needs 
+ Work closely with a team of 4 members to ensure effective execution of project goals. 
+POSCO ICT 
+The company supports customers' smart business solutions by providing comprehensive services in maintenance, 
+electrical, EIC, IT (MES/ERP/SCM), IT infrastructure (H/W), and development. 
+SOFTWARE DEVELOPER                                              08/2020 – 03/2022 
+Developed the Posco VST Homepage, the company's main website, and the Posco VST ECM, an enterprise document 
+management application for efficiently storing and managing company documents. 
+ Designed and implemented an ECM system to manage and store enterprise content, utilizing C# 
+for backend services and ReactJS for user interface development 
+ Integrated and managed application state using Redux Core to ensure smooth and efficient data 
+flow
+
+ Applied the Repository Pattern  to manag e data access logic in the backend, improving 
+maintainability and separation of concerns within the application 
+ Performed comprehensive testing and debugging of both frontend and backend components to 
+ensure the reliability and functionality of the application. 
+BITI’S 
+A brand specializing in the production of shoes and sandals in Vietnam, established in 
+– 05/2020 
+Developed and o versaw the design, development, and continuous enhancement of timekeeping and 
+payroll software to ensure accurate employee tracking and seamless payroll processing 
+ Led the development of a custom Wage Rate Calculation program that calculates employee 
+compensation based on work productivity, enhancing payroll accuracy and efficiency 
+ Utilized C#, VBA, VB6, SQL, and Microsoft Access to build, maintain, and upgrade legacy business 
+systems, ensuring smooth operation and data accuracy 
+ Performed thorough testing and debugging of payroll and timekeeping systems to ensure software 
+quality and minimize errors in employee compensation. 
+EDUCATION 
+Bachelor of Information Technology, Dong Nai Technical College, 2014 - 2017 
+ADDITIONAL INFORMATION 
+Language   English (intermediate), Vietnamese (native) 
+Computer science  MS Office (Word, Excel, PowerPoint).

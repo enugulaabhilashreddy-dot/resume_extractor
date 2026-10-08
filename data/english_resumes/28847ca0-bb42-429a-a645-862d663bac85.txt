@@ -1,0 +1,259 @@
+Project Manager   
+Ta Viet Ninh’s CV                                                                          1 
+ 
+  
+ 
+TA VIET NINH 
+  Project Manager 
+ 
+PERSONAL DETAILS 
+ 
+• Name  Ta Viet Ninh 
+• Date of birth  Augus 
+• Sex  Male 
+• Marit 
+• Phon 
+• Skype
+• Email    
+PROFESSIONAL SUMMARY 
+• 3+ years of experience in software project management 
+• 5 years of experience as a .Net (C#) programmer. 
+• 5 years of experience working with Oracle, SQL Server, MySQL database systems. 
+SOFTWARE 
+• Databases: Oracle, MySQL, SQL Server 2005, 2008, 2012. 
+• Programming Languages: .NET (C#), JavaScript, HTML, CSS. 
+• Programming Tools: Visual Studio  2008, 2010, 2012, 2013 , NetBeans, PL/SQL, SQL 
+Navigator. 
+• App server / Middleware: Apache, Microsoft IIS. 
+• Configuration Management tools: SVN, TFS, VSS. 
+• OOAD/OOP: Object Oriented Programming (OOP), Unified Modeling Language (UML). 
+• Other tools: Microsoft (Word, Excel, PowerPoint, Visio, Project Plan), EdrawMind 
+OPERATING SYSTEMS 
+• Oracle Linux, Red Hat Linux. 
+• Windows Server 2003/2008/2012/2016; Microsoft Windows XP/7/8.1/10/11.
+
+Project Manager   
+Ta Viet Ninh’s CV                                                                          2 
+ 
+PROFESSIONAL EXPERIENCE 
+WORK EXPERIENCE 
+September 2019 – Now 
+Position Head of Department 
+Organization FPT Information System 
+Job description Project Manager 
+ 
+March 2016 – August 2019 
+Position Employee 
+Organization FPT Information System 
+Job description Developer, TeamLead, Project Manager 
+ 
+August 2013 – March 2016 
+Position Employee 
+Organization FPT Software 
+Job description Developer 
+ 
+ 
+PROJECT LIST 
+Digitize the insurance process  July 2021 – October 2021 
+Position Project Manager 
+Project Description 
+ Project Description: 
+Implement the insurance digitization process: digitally sign records, perform 
+calculations and integrate core systems and provide portals for end users 
+Responsibilities: 
+• Participating in solution consulting, bid respo nse and contract 
+negotiation 
+• Study and analysis customer requirements, acceptance criteria, 
+software requirement specification, design 
+• Planning, assign tasks, define workflow 
+• Manage team , control quality and progress of project 
+• Cost planning, sales planning, resource planning for the project 
+• Control risk manager  
+• Budget control 
+Technologies Used: 
+• Management Source/Document: SVN 
+• Management Tool: JIRA 
+• Working Process: Waterfall 
+Team size:  18 members
+
+Project Manager   
+Ta Viet Ninh’s CV                                                                          3 
+ 
+ 
+Deploying the Zalo API integration service  March 2021 – June 2021 
+Position Project Manager 
+Project Description 
+ Project Description: 
+Implement API services that allow o ther users/applications to send one or 
+more different types of messages to Zalo recipients 
+Responsibilities: 
+• Participating in solutio n consulting, bid response and contract 
+negotiation 
+• Study and analysis customer requirements, acceptance criteria, 
+software requirement specification, design 
+• Planning, assign tasks, define workflow 
+• Manage team , control quality and progress of project 
+• Cost planning, sales planning, resource planning for the project 
+• Control risk manager  
+• Budget control 
+Technologies Used: 
+• Management Source/Document: SVN 
+• Management Tool: JIRA 
+• Working Process: Waterfall 
+Team size:  6 members 
+ 
+ 
+R&D Project  January 2021 – August 2021 
+Position Project Manager 
+Project Description 
+ Project Description: 
+Building an omni -channel connection platform, serving the cooperation 
+between businesses to promote sales, increase revenue and profit. 
+Responsibilities: 
+• Learn the business/needs  of businesses that sell products. Building 
+the idea of a connected platform 
+• Plan, build implementation costs and protect R&D projects with the 
+leadership team 
+• Planning, build team, assign tasks, define workflow 
+• Manage team , control quality and progress of project 
+• Cost planning, sales planning, resource planning for the project 
+• Control risk manager  
+• Budget control  
+Technologies Used: 
+• Management Source/Document: SVN 
+• Management Tool: JIRA 
+• Working Process: Waterfall 
+Team size:  7 members
+
+Project Manager   
+Ta Viet Ninh’s CV                                                                          4 
+ 
+Maintenance project of software/integrated systems 
+ 
+ January 2018 – Now 
+Position Project Manager 
+Project Description 
+ Project Description: 
+Group of maintenance projects: maintenance of Vietnam deposit insurance  
+(DIV) information system, maintenance of  information sys tem of Vietnam 
+national credit information center  (CIC), maintenance of information system 
+of National Financial Supervisory Commission Vietnamese (NFSC) 
+Responsibilities: 
+• Participating in solution consulting, bid response and contract 
+negotiation 
+• Study an d analysis customer requirements, acceptance criteria, 
+software requirement specification, design 
+• Planning, assign tasks, define workflow 
+• Manage team , control quality and progress of project 
+• Cost planning, sales planning, resource planning for the project 
+• Control risk manager  
+• Budget control 
+Technologies Used: 
+• Management Source/Document: SVN 
+• Management Tool: JIRA 
+• Working Process: Waterfall 
+Team size:  More than 30 members 
+ 
+ 
+Information management Vietnam Deposit 
+Insurance 
+ March 2016 – December 2017 
+Position Team lead, developer 
+Project Description 
+ Project Description: 
+Management information collection, check deposit major and make deposit 
+reporting system. 
+Responsibilities: 
+• Team lead (Manage member, planning, assign tasks, review codes) 
+• Developer (Database design, Coding) 
+Technologies Used: 
+• Languages: .Net (C#) 
+• Database: Oracle server 
+• Management Source: TFS, SVN 
+• IDE: Visual Studio 2013 
+• Management Tool: JIRA 
+• Working Process: Waterfall 
+Team size:  More than 100 members
+
+Project Manager   
+Ta Viet Ninh’s CV                                                                          5 
+ 
+Centralized Accounting System Vietnam Customs  September 2015 – March 2016 
+Position Team lead, developer 
+Project Description 
+ Project Description: 
+Centralized accounting system managed import -export, tax, fees for 
+commodities. Provide lookup system, reporting to support Vietnam  Customs, 
+cargo tracking and businesses.  
+Responsibilities: 
+• Team lead (Manage member, planning, assign tasks, review codes) 
+• Developer (Database design, Coding) 
+Technologies Used: 
+• Languages: HTML, CSS, .Net 
+• Javascript Library: JQuery 
+• Database: Oracle server 
+• Management Source: VSS 
+• IDE: Visual Studio 2013 
+• Management Tool: JIRA 
+• Working Process: Waterfall 
+Team size:  12 members 
+ 
+ 
+Structural Integrity Compliance System February 2015 – August 2015 
+Position Developer 
+Project Description 
+ Project Description:  
+SICS is the management system of geological information on climate 
+offshore petroleum rig each of Petronas . Predicts that climate and given the 
+risk to help minimize the damage as much as possible Responsibilities: 
+• Developer (Database design, Coding) 
+Technologies Used: 
+• Languages: HTML, CSS, .Net 
+• Javascript Library: JQuery 
+• Database: SQL server 
+• Management Source: VSS 
+• IDE: Visual Studio 
+• Management Tool: JIRA 
+• Working Process: Scrum - Agile 
+Team size:  18 members
+
+Project Manager   
+Ta Viet Ninh’s CV                                                                          6 
+ 
+Port Ship Management System September 2014 – January 2015 
+Position Developer 
+Project Description 
+ Project Description:  
+Maintain and enhance old system . Develop module manage port wit h and 
+report. 
+Responsibilities: 
+• Developer (Coding) 
+Technologies Used: 
+• Languages: HTML, CSS, .Net, MVC, Entity Framework Code First 
+• Javascript Library: JQuery 
+• Database: SQL server 
+• Management Source: SVN 
+• IDE: Visual Studio 
+• Management Tool: JIRA 
+• Working Process: Scrum - Agile 
+Team size:  11 members 
+ 
+ 
+ 
+NextG August 2013 – August 2014 
+Position Developer 
+Project Description 
+ Project Description:  
+Migrate app manage document (from .net framework 1.1 to .net framework 
+4.5) 
+Responsibilities: 
+• Developer (Coding) 
+Technologies Used: 
+• Languages: HTML, CSS, .Net 
+• Javascript Library: JQuery 
+• Database: SQL server 
+• Management Source: VSS 
+• IDE: Visual Studio 
+• Management Tool: JIRA 
+• Working Process: Scrum - Agile 
+Team size:  30 members

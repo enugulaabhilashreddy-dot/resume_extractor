@@ -1,0 +1,203 @@
+1 
+Process Innovation 
+ 
+PERSONAL INFORMATION   
+Full name:  Hieu Nguyen Trung (Mr.) Skype: Trunghieu200525 
+Nationality:  Vietnamese Tel:  
+Position:  Supervisor Email:  
+ 
+ 
+EDUCATION 
+▪ Bachelor of Business and Administration, Greenwich University of UK 2012 
+▪ English Certificate from Victoria University of Wellington, New Zealand 2010. 
+▪ SAP Cerificate Application Associate – Procurement. 
+▪ SAP Overview Qualification from FPT Software (MM, FICO, SD)  
+▪ ABAP qualification from FPT Software. 
+▪ Excellent English. 
+▪ German A2 Standard Level 
+ 
+LANGUAGE SKILLS  
+ Fluent Good Fair 
+Vietnamese ✓   
+English ✓   
+German  ✓  
+ 
+SUMMARY 
+• Year years of experience in SAP. 
+• SAP Certified Application Associate – Procurement  
+with SAP ERP 6.0 EHP6 (MM): C_TSCM52_66 
+• Have knowledge and experience to maintain and implement mostly 
+international projects 
+• A drive for excellent performance, top results and 
+accomplishments. 
+• Strong critical thinking and problem solving skills. 
+• Effective teamwork and collaboration with colleagues and team 
+members. 
+• Excellent English and German writing and verbal skills. 
+• Strong business background. 
+• Key communicator with foreign customers
+
+2 
+TECHNICAL SKILL 
+Category Skills 
+ 
+▪ SAP System: SAP ERP 6.0 EHP5 
+▪ SAP Material Management (MM): Enterprise 
+Structure, Procurement process, Inventory 
+Management. 
+▪ SAP Integration: The integration between MM 
+modules with SD, WM, and QM Module and Barcode 
+system. 
+▪ SAP Basic: Transport Request Management, 
+Authorization Management… 
+▪ SAP Interface: BAPI Interface… 
+▪ SAP Migration: LSMW, customized program with 
+BDC. 
+▪ Foreign Languages: English 
+▪ Soft Skills: Time management, Communication, 
+Team work. 
+▪ Operating Systems: MS Word, MS Excel, MS PP, 
+MS Visio… 
+Years of 
+experience 
+ 
+6 
+SAP MM Material Management 
+ 
+Order Fulfillment Process 
+ 
+Inventory and Warehouse Management Process
+
+3 
+PROJECT REFERENCES 
+From 
+ 
+To Company/ Position/Project/Relevant technical and management 
+experience  
+Sep 2016 Current Position : MIS Supervisor 
+Company: SAMSUNG ELECTRONICS CO., LTD 
+Responsibilities: 
+• SAP G -ERP administrator with modules: SD/LE/MM/FI/CO, handle all 
+processes: Sales, Logistics, Accounting, Workflow for both 02 subs 
+SAVINA(CE/IT) and SEVT(HHP) 
+• Mobile DMS system administrator and fully support Sales & MD 
+• GSBN and B2B system administration to support B2B business. 
+• System administrator of external Samsung RMCE program: Mobile MCS, 
+FSM Sam Club.. 
+• Co work and follow HQ guideline to deploy new SAP process for SAVINA, 
+SEVT 
+• Give full training for users in nationwide: Samsung employee, Field Force 
+RS, Customers. 
+• Setup EDI interface system with extern al Samsung partners and 
+customers (KAM, ASP, MD) 
+• Have a good relationship with all departments to understand business 
+needs to improve process and system. 
+ 
+Feb 2016 Aug 2016 Position : SAP MM Consultant 
+Project : Shiseido Vienam 
+Project Description: 
+FCV is a very big brand of comestic product in Japan.  
+My team is currently support their system in many modules FICO, MM, 
+WM,SD, WM, PP, ABAP and Basis 
+ 
+Responsibilities: 
+- Master data management. 
+- Main functions for MM module 
+- Gather user requirements, analyze the current business processes 
+and scenarios of the client and recommend/develop solution. 
+- Develop Basic Designs based on fix-gap analysis. 
+- Prepare and send Q&A to customer team. 
+- Training user about MM process. 
+Record issue log and report
+
+4 
+PROJECT REFERENCES 
+From 
+ 
+To Company/ Position/Project/Relevant technical and management 
+experience  
+Jun 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jan 2016 Position: SAP MM Consultant 
+Project : Sankei Vietnam 
+Project Description: 
+SANKEI is international company for producing fabric, cloth for domestic 
+Japanese Marktet 
+My Team implemented SAP  system for all of process including Logistics, 
+FI, Reports, and full-training for users 
+Responsibility:  
+- Implement SAP system 
+- Main functions for Procurement, Sale, FI processes 
+- Gather user requirements, analyze the current business processes 
+and scenarios of the client and recommend/develop solution. 
+- Develop Basic Designs based on fix-gap analysis. 
+- Prepare and send Q&A to customer team. 
+- Training user about MM process. 
+- Record issue log and report 
+ 
+Nov 2015 
+ 
+May 2015 Position : SAP MM Consultant 
+Project : Frieslandcampina – Dutch Lady Vietnam 
+Project Description: 
+FCV is one of the biggest companies across the world, specializes 
+producing milk and products from Milk. In this project, my team is 1 st level 
+support, cover all of process in SAP including FICO, MM, SD, WM, PP, 
+QM.  
+ 
+Responsibilities: 
+- Master data management. 
+- Main functions for MM module 
+- Gather user requirements, analyze the current business processes 
+and scenarios of the client and recommend/develop solution. 
+- Develop Basic Designs based on fix-gap analysis. 
+- Prepare and send Q&A to customer team. 
+- Training user about MM process. 
+- Record issue log and report
+
+5 
+PROJECT REFERENCES 
+From 
+ 
+To Company/ Position/Project/Relevant technical and management 
+experience  
+Apr 2014 Oct 2015 
+ 
+Position : MM Consultant 
+Project: SAP Implementation for UMC ELECTRONICS VIETNAM 
+LIMITED.  
+Working place : Vietnam 
+Project Description: 
+UMC is a leading supplier of Electronic Manufacturing Services (EMS) 
+that has achieved industry success by creating relationships of trust with 
+our customers and supply chain partners. The UMC group delivers 
+cutting-edge products and solutions that place the utmost priority on 
+customer satisfaction. 
+In this project, my project team is responsible to implement the SAP ERP 
+system (include FI, CO, SD, MM, PP, and Barcode system) for a leading 
+supplier of EMS services.  
+Responsibilities: 
+- Get requirements from user, analyze and write Blueprint 
+(Functional Design). 
+- Training for user Business flow in SAP. 
+- Write out FS (Functional Specification) documents and work with 
+ABAP Consultant for developing Add-on programs. 
+- Create new reports in SAP system for customer. 
+- Support users do UAT. 
+- Do Data Migration from legacy system to SAP system for Go -live 
+phase. 
+- Support after Go-live. 
+Support users do the Physical count the first time on SAP system.
+
+6

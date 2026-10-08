@@ -1,0 +1,50 @@
+NGUYEN V AN DAT
+AI ENGINEER
+Dong Tam, Hai Ba Trung , Ha Noi
+♂phone ✉ /linkedin /github
+Education
+Hanoi University of Science and Technology Aug 2017 – Aug 2022
+Engineer of Electrics and Telecommunications GPA: 3.21/4.0
+Technical Skills
+• TOEIC: 640
+• Programming Languages: Python, C++
+• Developer Tools: VS Code, Pycharm
+• Technologies: K8s, Kafka, GitHub, Docker, GitLab CI/CD, Stable Diffusion, LLM, Langchain (RAG)
+• Framework: Triton, Pytorch, Tensorflow, FastAPI, ONNX, Keras
+• Database/Storge: MySQL, MongoDB, S3
+Experience
+HBLab Apr 2024 - Now
+AI Engineer Ha Noi
+• Participating in the development Japanese POCR system (Extract Layout, Table Reconstruction)
+• Maintaining and developing functions for the Japanese OCR system (C++, Java)
+• Researching pipeline LLM using Langchain(RAG)
+Onsite MB Bank Mar 2022 - Mar 2024
+AI Engineer Ha Noi
+• Developed a solution and pipeline full pipeline OCR for Bank. Pipeline: Text Detection, Rotate Image, Text
+Recognition, Extraction Information. Optimize: Accuracy about 94% - 95% per paper , and Performance about 1s -
+3s per paper on triton
+• Participating in the backend API development of the MLOps MB Bank. Automated Model Deployment and
+Training Functionality (Kafka, MongoDB)
+• Developing and Building an eKYC Solution for Banking. Accuracy OCR: 98% , developing a model classification id
+card(21 classes) with accuracy 99%
+• Building and Developing a full pipeline signature verification. Pipeline: Model signature detection, Model the role of
+the signer detection to find out if the person signed or not
+• Developing a Feature Extraction Model for Image Repository in a Bank using EfficientNet Model.
+Viettel Post Jan 2021 – Mar 2022
+Intern - AI Engineer Ha Noi
+• Developing an Object Detection Model for Viettel Post Warehouse. Programming C to control servo (a leaser distance
+sensor be assembled with a servo), return a distance from laser to object. Programming python to segmentation object
+with U2Net model, return area of the object. Return a result of estimate the volume. Volume = Area of the object *
+Height
+Lab EDABK May 2020 – Aug 2022
+Research Student HUST
+• Building and developing a model for detecting defects in phone screen products, deploying it on a server.
+• Building and developing a model to address the problem of detecting and tracking intruders in a monitored area
+using the DeepStream platform.
+Prizes and Awards
+Hackathon Jun 2021
+Archive 2nd Hackathon
+• Won Second Award: International Hackathon “IT Solutions for Business” held by Irkutsk National Research Technical
+University on June 2-7, 2021 Master’s Scholarship at Irkutsk National Research Technical University
+HUST Aug 2020
+Annual Incentive Scholarship of HUST University (20201)

@@ -1,0 +1,98 @@
+Các kỹ năng
+Front - end:
+Có khả năng thiết kế giao diện website
+đẹp sử dụng HTML/HTML5, CSS/CSS3,
+Javascript, Bootstrap, JQuery.
+Thiết kế web responsive tự động co giãn
+để thích ứng với nhiều loại màn hình thiết
+bị khác nhau như PC, Laptop, Tablet,
+Mobile.
+Back - end:
+C#(OOP): class, Interface, inheritance,...
+Phân tích, thiết kế CSDL trên SQLServer.
+select, insert, update, delete, store
+procedure, ...
+Học vấn
+Đại Học Kinh Tế - Kỹ Thuật Bình Dương, Công nghệ thông tin
+08/2019  -  Đến nay
+Sinh viên chuẩn bị tốt nghiệp
+Kinh nghiệm làm việc
+Công Ty Cổ Phần Công Nghệ Và Truyền Thông Computing, Thực
+Tập Sinh
+07/11/2021  -  09/09/2022
+- Học tập và thực tập trên các dự án thực tế về Website do công ty
+giao.
+Chứng chỉ
+2021:
+FRONT-END WEB DESIGN (HTML5, CSS3, BOOTSTRAP)
+2021:
+FRONT-END WEB DEVELOPMENT (JS AND JQUERY)
+2021:
+BACK-END DEVELOPMENT (C# OOP AND SQL SERVER) 
+2022:
+ WEBSITE MVC CORE DEVELOPMENT
+Hoạt động
+Đại Học Kinh Tế - Kỹ Thuật Bình Dương, Tình nguyện viên
+NGUYỄN ANH TUẤN
+LẬP TRÌNH VIÊN MVC CORE API
+Giới tính
+Nam
+Ngày sinh:
+29/07/2001
+Email:
+Điện thoại:
+Địa chỉ:
+Hẻm 215/31 tổ 84 khu phố 6 đường
+Nguyễn Đức Thuận phường Hiệp
+Thành Tp. Thủ Dầu Một tỉnh Bình
+Dương.
+
+Lập trình website  MVC Core 6.x
+với: controller, action, entity framework,
+view, models, viewcomponent, ... 
+Lập trình  WEB API với:
+controller, service, interface, dependency
+injection, entity framework.
+Tiếng Anh:
+Có khả năng đọc hiểu tài liệu và giao tiếp
+Tiếng Anh ở mức cơ bản.
+Làm việc nhóm:
+Vui vẻ, hòa đồng, học hỏi trao dồi kinh
+nghiệm.
+Giải thưởng
+2022: Đã xuất sắc giành giải nhất cuộc thi "
+THIẾT KẾ WEBSITE BETU 2022".
+Các dự án đã làm
+- Website doanh nghiệp TauThuyenViet 
+- Website bán hàng Shopping 
+- Website quản trị AdminSystem 
+Sở thích
+- Thiết kế website 
+- Lập trình website 
+- Đọc sách chuyên ngành CNTT
+- ThS.Lê Minh Hiếu 
+-  
+- Giảng viên - Trưởng bộ phận CNTT - Trường Đại Học Kinh Tế - Kỹ
+Thuật Bình Dương - BETU 
+08/2019  -  27/08/2019
+Chiến dịch gây quỹ, quyên góp tổ chức chương trình “Xuân Yêu
+Thương" năm 2021 tại Trung Tâm Mái Ấm Tình Mẹ 2.  
+Hiến máu tình nguyện.  
+Trao quà trung thu cho thiếu nhi.
+Người tham chiếu
+Thông tin liên hệ
+Tôi là một người rất đam mê CNTT, đặc biệt là lập trình các ứng dụng
+web-app theo nhu cầu của thực tế. Tôi muốn mình có thể cùng với
+những đồng nghiệp của mình tạo nên những sản phẩm CNTT tuyệt
+vời nhất phục vụ cho đời sống.
+ 
+Nếu được quý công ty nhận vào thực tập, tôi luôn sẵn sàng nhận tất
+cả các công việc do công ty giao. Tôi sẽ nỗ lực hết sức để hoàn
+thành tốt công việc được giao. Tôi cũng sẽ cố gắng hết sức để có thể
+trở thành nhân viên chính thức của công ty sau khi hết thời gian thực
+tập. Xin cảm ơn công ty đã quan tâm.
+ 
+Thông tin liên hệ:
+- Họ và tên: NGUYỄN ANH TUẤN
+- Số điện thoại:
+- Email:

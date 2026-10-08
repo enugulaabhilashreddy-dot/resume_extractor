@@ -1,0 +1,61 @@
+CURRICULUM VITAE 
+ 
+PERSONAL INFORMATION 
+Full name  : Tran Thi Yen Duyen 
+Date of birth : 01/03/1985 
+Gender : Female 
+Phone :  
+Email : 
+Address : 43/49 Da Nam, Ward 2, District 8, HCM City 
+More than 10 years in ERP application support with deep knowledge about ERP Oracle 
+EBS: SCM, FIN, OPM, CST...; In addition, have strong knowledge about Account ing and 
+IT. Be able to adapt to new system with ease.  
+SKILLS 
+−  Fluently with Oracle EBS R12 and experience with SCM, FIN, OPM, ledger report... 
+−  Can handle workload properly under high presure 
+−  Usually planning, suggest solution and strategy to solve challenge problems 
+−  Can manage to finish assignment together with team as well as alone with ease. 
+WORKING EXPERIENCE 
+ From 02/2022 to present: Oracle ERP Consultant in Hoa Sen Group (HSG): 
+- Support departments and branchs for Oracle SCM, OPM, FIN, CST 
+- Setup Oracle system and write users’ guide when company has new process 
+- Fixed error system in ERP of company. 
+- Update or Write new reports when user required  
+ From 01/6/2018 to 06/2021: Accountant Employee in Accounting – Finance Department 
+in Saigon Pharmaceutical Company Limited (Sapharco): 
+•  Manage of inventory and cost analysis (ODM)
+
+•  Manage inspection of warehouse management, inventory management. 
+•  Control accounting records in Oracle software: revenue, turnover, expe nses, 
+capital expenditure, depreciation, amortization, debts and other operations 
+•  Creating account and closed AR, AP, GL monthly period 
+•  Check between the end balance account and GL 
+•  All analysis reports when being requested by the Board of Directors. 
+•  Prepare Receivable reports and Payable reports. Reported to:  Chief accountant 
+and General Director 
+•  Analysis profit and lost of company, management expense 
+ From 04/2013 to 31/5/2018: Software administrator ERP Oracle in Sa igon 
+Pharmaceutical Company Limited (Sapharco): 
+−  Support departments and branchs for Oracle purchasing, order manageme nt, 
+inventory, financials. 
+−  Manage code: customer, supplier, items, tax apply  
+−  Manage of COA: create, edit, decentralized on the account system , output in 
+financing reports. 
+−  Creating account and closed AR, AP monthly period, fixed error system 
+−  Setup Oracle system and write users’ guide when company has new process. 
+−  Training and support users for of purchase Order, sale order, warehous e, 
+receivable account, Payable account for user in Oracle softwar e in all locations, 
+troubleshoot by tracking data flow through company systems. 
+ From 12/2008 to 04/2013: Support User Employee in Saigon Pharmaceutical Company 
+Limited (Sapharco): 
+−  Manage, setup, backup/restore, troubleshoot issue for network, hardware, software 
+−  Manage organization accounts, user priviledges, email system 
+ACHIEVEMENTS
+
+−  Certificate of Merit of the Board of Directors in three years: 2015, 2016 and 2017 
+−  Emulation soldiers in 2011  
+EDUCATION 
+−  Chief Accountant Certificate - Economics University - HCMC (2019) 
+−  English: Toefl 497 - Ho Chi Minh City Open University (2013) 
+−  Master in finance and banking – Ho Chi Minh City Open Universty (2011 –2013) 
+−  Information technology engineer  – Can Tho University (2004 – 2008)

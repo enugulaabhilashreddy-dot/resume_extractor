@@ -1,0 +1,111 @@
+QUACH BAO HUNG
+Binh Thanh District, HCMC •  • 
+"Results-driven Manual Tester with 3 years of experience implementing testing solutions for hospital information systems. Delivered operational
+improvements resulting in a 30% increase in testing efficiency. Skilled in reporting defects and collaborating with technical teams"
+WORK EXPERIENCE
+MANUAL TESTER May 2023 - Aug 2024
+VMED GROUP JOIN STOCK COMPANY HCMC, VIET NAM
+Reviewed and analyzed specification documents to author comprehensive test cases, achieving a 30% increase in software quality
+assurance efficiency.
+Executed API-based automated testing to identify backend issues, resulting in a 30% reduction in bug resolution time.
+Developed and maintained a library of over 100 reusable test cases, improving testing efficiency and enabling faster onboarding of new
+QC team members.
+Identified and reported more than 50 critical defects during the testing phase, contributing to significant enhancements in product stability
+and reliability.
+MANUAL TESTER May 2022 - May 2023
+QAS CORPORATION HCMC, VIET NAM
+Reviewed and analyzed specification documents to author comprehensive test cases, achieving a 30% increase in software quality
+assurance efficiency.
+Executed API-based automated testing to uncover backend issues, resulting in a 30% reduction in bug resolution time.
+Developed and maintained a library of over 100 reusable test cases, enhancing testing efficiency and expediting onboarding of new QC
+team members.
+MANUAL TESTER May 2021 - May 2022
+FPT Telecommunication Joint Stock Company HCMC, VIET NAM
+Analyzed and reviewed specification documents to construct detailed test cases, resulting in a 30% increase in software quality assurance
+efficiency.
+Executed comprehensive testing and compiled detailed reports, leading to a 20% improvement in project accuracy.
+EDUCATION
+SPECIALIZATION: INFORMATION SYSTEMS Aug 2018 - Jun 2024
+University of Information Technology HCMC GPA: Good
+Awaiting the results of my university graduation.
+PROJECTS
+HIS Khoa Viet (Hospital Information System) May 2023 - Jul 2024
+Managed and executed testing activities for the HIS Khoa Viet project.
+Developed an API-based automation tool, increasing testing efficiency by 40% and shortening manual testing time.
+Conducted performance testing, improving system response times by 30% and optimizing overall system operations.
+Identified and analyzed performance issues, implemented solutions that enhanced system reliability by 25%.
+Proposed and deployed improvements, boosting system stability by an additional 20%.
+Compiled detailed reports, providing critical information to the CTO to support decision-making and contribute to the project's success.
+QAS SmartHospital System May 2022 - May 2023
+Developed a comprehensive test plan, reviewed and analyzed the user requirements document for the outpatient subsystem, and created
+detailed test cases.
+Executed performance and functional testing of the system, including in the production environment, increasing system stability by 20%
+and reducing issue resolution time by 25%.
+Collaborated closely with developers to report and resolve bugs and defects, resulting in a 30% reduction in post-deployment issues.
+Delivered a daily summary report of the work to the test leader, enhancing team communication and accelerating project progress.
+CRM website May 2021 - May 2022
+Assisted the test leader in developing the test plan, analyzing the User Requirements Document, and designing test cases.
+Executed comprehensive testing for the CRM website project, identifying and resolving key issues that enhanced system functionality by
+20% and reduced bug reports by 30%.
+Collaborated with developers to track and address bugs and defects, leading to a 25% decrease in post-deployment issues.
+Compiled and submitted a detailed test report upon completion of the testing phase, providing critical insights that supported successful
+project delivery.
+Edu website May 2021 - May 2022
+Assisted the test leader in developing a test plan, reviewing and analyzing the User Requirements Document, and writing test cases.
+Conducted testing for the Edu website project, identifying and resolving critical bugs that improved system performance by 15% and
+reduced user-reported issues by 25%.
+Collaborated with developers to report and fix defects, leading to a 20% decrease in post-deployment errors.
+Compiled a detailed test report upon completion of the project, providing actionable insights that enhanced overall project quality and
+supported timely delivery.
+
+SKILLS
+Test Management:
+ 
+Develop and execute detailed test plans, create and review test cases, prepare test data, and manage test scenarios.
+Test Execution & Reporting:
+ 
+Perform testing, record results, manage bug tracking systems, and generate test progress reports.
+Analysis & Improvement:
+ 
+Analyze test results, identify issues, propose solutions for quality improvement, and ensure high product standards.
+Functional & System Testing:
+ 
+Organize and conduct functional testing, data migration tests, software trials, and system deployment support.
+Integration Testing:
+ 
+Plan and execute integration test to ensure that different system components work together as expected, identify and
+ 
+resolve integration issues, and validate end-to-end workflows.
+API Testing:
+ 
+Design and execute API test cases to ensure API endpoints function correctly, handle edge cases, and meet performance
+ 
+expectations.
+Performance Testing:
+ 
+Conduct performance tests to assess system scalability, responsiveness, and stability under various load conditions,
+ 
+identify performance bottlenecks, and propose optimization solutions.
+Continuous Learning:
+ 
+Proactive in updating new trends and technologies in the industry, with a creative and innovative mindset.
+Process Improvement & Innovation:
+ 
+Participate in productivity and quality process improvements, and research new tools and technologies
+ 
+for application in testing.
+AWARDS
+Good Schoolarship 
+by 
+Information Technology University
+Jan 2021
+CERTIFICATIONS
+TOEIC: 600
+ 
+by 
+IIG
+Aug 2024
+LANGUAGES
+English
+ 
+(Limited working proficiency)

@@ -1,0 +1,95 @@
+Ngày sinh:
+Giới tính:
+Điện thoại:
+Email:
+Địa chỉ:
+Nguyễn Hữu Huy
+CV cá nhân
+15-08-1996
+Nam
+Viêm xá, Hòa Long, TP Bắc Ninh, Bắc Ninh
+MỤC TIÊU NGHỀ NGHIỆP
+Tôi có 4 năm kinh nghiệm phát triển phần mềm với số lượng người dùng và dữ liệu lớn.
+Mục tiêu nghề nghiệp hiện tại của tôi là được học tập, làm việc và nghiên cứu trong môi trường Product chuyên nghiệp. 
+Tôi cũng mong muốn được trao đổi, chia sẻ kinh nghiệm, kỹ năng và kiến thức cùng những đồng nghiệp giỏi xung quanh 
+để tất cả mọi người đều càng ngày càng phát triển bản thân mình hơn nữa.
+HỌC VẤN
+Chuyên ngành học:  
+Loại tốt nghiệp:  
+ - 08-2014 06-2019 Đại Học Bách Khoa Hà Nội
+Điện tử - Viễn thông
+Khá
+Kỹ Sư
+KINH NGHIỆM LÀM VIỆC
+Thành tích đạt được:
+ - 02-2020 03-2024 CT Cổ phần giao hàng tiết kiệm
+Nhân viên lập trình
+Tham gia vào các dự án về Backend và Fronend của công ty bằng ngôn ngữ lập trình 
+PHP(laravel, cakePHP), TypeScript, Javascript(vuejs, nodejs, jquery):
+   - Xử lý, cải tiến, cập nhật và xây dựng các màn hình mới phục vụ cho việc vận chuyển đơn 
+hàng trên Wed như: tìm kiếm tra cứ thông tin đơn hàng, sửa đơn hàng, chốt ca làm việc, danh 
+sách đơn của COD, ...
+   - Thiết kế, xây dựng API cho app COD, Driver...
+   - Xây dưng, thiết kế database cho các tính năng mới trong các dự án.
+   - Phối hợp với các team khác như Bigdata, Map... để xây dựng các tính năng có độ phức tạp 
+lớn như: tự động xây dựng lộ trình di chuyển của COD, tính toán quãng đường di chuyển của 
+COD khi giao hàng...
+   - Tham gia xây dựng Microservices, tách API sang các services khác đúng với tính năng đang 
+sử dụng.
+   - Tối ưu hệ thống, fix slow query, slow url, thực hiện các tính năng về Security(phân quyền, xác 
+thực).
+   - Thực hiện tác tác vụ chạy ngầm như cron job, consumer lắng nghe bin log của database bằng 
+kafka...
+   - Viết unit test cho các chức năng mình đã làm.
+   - Hướng dẫn, phần tích công việc cần làm cho thành viên mới trong team.
+Số lượng thành viên: Agile team từ 20-30 người
+Ví trí công việc: Backend Dev
+Công nghệ sử dụng: PHP(Laravel, CakePHP), TypeScript, Unit test,  MySQL, Domain-Driver 
+Design(DDD), SOLID, Resids, Kafka, HTML, CSS, VueJs, Jquery
+
+Thành tích đạt được:
+ - 
+Thành tích đạt được:
+ - 
+  - Tích lũy kinh nghiệm, kiến thức về logic xử lý, tối ưu hệ thống, thiết kế database với dữ liệu lớn 
+và nhiều người truy cập cùng lúc.
+  - Học hỏi thêm được nhiều công nghệ mới, làm việc trên một quy trình làm việc chuẩn.
+08-2019 01-2020 Công ty TNHH BẢO LINK
+Nhân viên lập trình
+Lập trình và phát triển dự án web của công ty. Trực tiếp xây dựng và hoàn thành gần như 100% 
+dự án Tubead Network:
+   - Tham gia thảo luận để đưa ra phương pháp, hướng giải quyết các vấn đề của dự án.
+   - Xây dựng vào chỉnh sửa giao diện bằng htnl,css và jquery.
+   - Xây dựng CSDL bằng MYSQL.
+   - Viết các API và bảo mật liện lạc giữa các server bằng PHP(Laravel, Lumen).
+Số lượng thành viên: 2 người
+Ví trí công việc: Backend và Frontend DEV
+Công nghệ sử dụng: PHP(Laravel, Lumen), HTML, CSS, Jquery
+  - Tích lũy và có thêm được rất nhiều kinh nghiệm làm việc và kiến thức về lập trình web.
+04-2019 07-2019 CT CỔ PHẦN ĐỔI MỚI CÔNG NGHỆ TÀI CHÍNH FIIN
+Nhân viên lập trình
+Tham gia vào các dự án của công về về lập trình web, API bằng ngôn ngữ lập trình PHP trên nền 
+tảng Laravel:
+   - Viết API nạp rút tiền nhanh và chậm.
+   - Viết API Nạp tiền và nạp thẻ cho các tài khoản.
+   - Xây dựng hệ thông hệ thống web S4S (Trung gian môi giới các dịch vụ sửa chữa, lắp đặt thiết 
+bị... giữa người dùng và đối tác).
+   - Xây dựng giao diện bằng html, css và viết các API...
+Số lượng thành viên: 5 người
+Ví trí công việc: Backend DEV
+Công nghệ sử dụng: PHP(Laravel), HTML, CSS, Jquery
+   - Tích lũy kinh nghiệm, kiến thức về lập trình web bằng PHP(Laravel) và kinh nghiệm làm việc ở 
+môi trường doanh nghiệp.
+KỸ NĂNG
+Kỹ năng chính:
+Kỹ năng khác:
+ - PHP, TypeScript, Kafka, Microservices, Domain-Driver Design(DDD), SOLID, MySQL, OOP, docker, Redis, Unit test,.... 
+ - Vuejs, HTML, CSS, Jquery, JS 
+ - Laravel, CakePHP, TypeScript 
+Sử dụng Git để làm việc nhóm. 
+SỞ THÍCH
+Tìm hiều kiến thức về công nghê, chơi thể thao (đặc biệt là bóng đá).
+NGOẠI NGỮ
+- Nghe: - Nói: - Đọc: - Viết:
+TIẾNG ANH
+Trung bình Trung bình Trung bình Trung bình

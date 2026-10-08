@@ -1,0 +1,217 @@
+SEP 2015 - SEP 2019 HUTECH University
+Specialized: Software Technology.
+GPA: 2.56/4 (Average since ﬁrst years).
+2012 - 2015 Bau Ham high school
+SEP 2015 -  MAY 2019 HUTECH UNIVERSITY
+Make projects at school:
+- Movie view applicationn(Android). 
+- Milk tea Application(Android). 
+ 
+MAY 2019 -  AUG 2019 Xtek company
+Interface editing
+Receive the request of the team leader, edit the interface according to
+the requirements of the website using Html, Css, JavaScript.
+ 
+AUG 2019 -  DEC 2020 Xtek company
+Draw SmartContract ﬂow chart and write SmartContract (JavaScript)
+-Including 10 ﬁelds: Education, Fintech, Healthcare, Banking, Security,
+Warehouse, IOT, Anti counterfeiting, KYC, Agriculture. 
+ 
+DEC 2020 -   FED 2021 Metagame team
+Wiﬁ system management
+Conﬁguring network equipment and setting wiﬁ display screen
+according to customer's request (Html, JavaScript, Css).
+ 
+TA CHONG LONG
+FRONTEND DEVELOPER
+Date of birth:  june 10, 1997
+Gender:  Male
+Phone:
+Email:
+Address:  62 Tan Hoa 2, Hiep Phu, 9 District, HCM City
+Website:
+OBJECTIVE
+- Short-term goal for 2-3 years from now: I try accumulating experiences where i want tobecome a Technical Lead. 
+- Long-term goal for 4-7 years from now:  Furthermore, I hope i will become a PM( Project Manager ).
+EDUCATION
+WORK EXPERIENCE
+
+FED 2021 -   OCT 2021 Metagame team
+Coordinate and make web interface with the team (Html, Css, React
+JS).
+Take customer's request and follow customer's desired sample.
+ 
+OCT 2021 - FED 2022 Metagame team
+Create chatbot and train create chatbot
+- Create chat bot according to customer's request. 
+- Instructions for creating chat bots for people who do not understand
+the code on the available platforms.
+ 
+FED 2022 - PRESENT Metagame team
+Business Analyst
+- Work with customers to take requests and pass them on to the team. 
+- Communicating with the internal team, including transferring
+information and discussing customer requirements.
+- Manage Document of project. 
+- Handing over the project to the customer.
+ 
+2015 - MAY 2019 Hutech university
+Joined activities in school:
+- Joined charity blood donation. 
+- Joined Spring volunteer 
+- Joined traditional camping. 
+ 
+MAY 2019 - DEC 2020 Xtek company
+Joined activities in company:
+- Joined charity blood donation. 
+- Joined Sports activities organized by the company. 
+ 
+DEC 2020 - PRESENT Metagame team
+Joined activities in company:
+- Joined sightseeing tours. 
+- Joined fundraising for charity. 
+ 
+2017 Joined The 1st Makerthon Competition 
+ 
+2018 Global Software Talent Lite (FPT Software) 
+ 
+ACTIVITIES
+CERTIFICATIONS
+
+Javascript Draw FlowChart of SmartContract and write  Flowchart of
+SmartContract. 
+Including 10 ﬁelds: Education, Fintech, Healthcare, Banking, Security,
+Warehouse, IOT, Anti counterfeiting, KYC, Agriculture. 
+ 
+ReactJS, HTML, CSS Coordinate and make web interface with the team.
+ 
+Business Analyst - Work with customers to take requests and pass them on to the team. 
+- Communicating with the internal team, including transferring 
+information and discussing customer requirements. 
+- ManageDocument.
+- Handing over the project to the customer.
+ 
+SKILLS
+PROJECTS
+Admin page and user page
+(MAY 2019 - AUG 2019)
+Customer Company website
+Description Receive the request of the team leader, edit the interface according to the requirements
+of the website using html, css, javascript.
+Team size 3 member
+My position Frontend Developer
+My responsibilities Edit the interface according to the requirements.
+Technologies used Html, Css, JavaScript,....
+Anti-counterfeiting
+(AUG 2019 - OCT 2019)
+Customer Golden Net company
+Description Accept customer request to draw SmartContract ﬂowchart, write SmartContract  and
+hand it over to the bankend developer.
+Team size 5 member
+My position SmartContract Developer
+My responsibilities Draw ﬂowchat and write SmartContract and support backend developer to get the api.
+Technologies used Java Script, BlockChain (SmartContracts running on the company's own platform )and
+draw ﬂowchart in
+Smart farm
+(OCT 2019 - NOV 2019)
+Customer SmartAgri company
+Description Accept customer request to draw SmartContract ﬂowchart, write SmartContract and
+hand it over to the bankend developer.
+Team size 3 member
+My position SmartContract Developer
+
+My responsibilities Draw ﬂowchart and write SmartContract and support backend developer to get the api.
+Technologies used Java Script, BlockChain (SmartContracts running on the company's own platform )and
+draw ﬂowchart in
+Corporate tax payment system
+(NOV 2019 - JAN 2020)
+Customer thailand system sc
+Description Accept customer request to draw SmartContract ﬂowchart, write SmartContract and
+hand it over to the bankend developer.
+Team size 6 member
+My position SmartContract Developer
+My responsibilities Draw ﬂowchart and write SmartContract and support backend developer to get the api.
+Technologies used Java Script, BlockChain (SmartContracts running on the company's own platform )and
+draw ﬂowchart in
+Education library
+(JAN 2020 -  APR 2020)
+Customer Hanoi National University of Education
+Description Accept customer request to draw SmartContract ﬂowchart, write SmartContract and
+hand it over to the bankend developer.
+Team size 3 member
+My position SmartContract, Frontend Developer
+My responsibilities Draw ﬂowchart ﬂowchart and write SmartContract and write the required interface to
+support backend developer to get the api.
+Technologies used Java Script, BlockChain, Html, Css(SmartContracts running on the company's own
+platform )and draw ﬂowchart in
+Library SmartContract
+(APR 2020 - DEC 2020)
+Customer Personal
+Description
+- Draw Flowchart of SmartContract and write Flowchart of SmartContract 
+- Including 10 ﬁelds: Education, Fintech, Healthcare, Banking, Security, Warehouse, IOT,
+Anti counterfeiting, KYC, Agriculture. 
+- Each ﬁeld will write 5 sets of SmartContracts according to customer requirements. 
+Team size 1 member
+My position SmartContract Developer
+My responsibilities Draw ﬂowchart and write SmartContract.
+Technologies used Java Script, BlockChain(SmartContracts running on the company's own platform )and
+draw ﬂowchart in
+Wiﬁ free system
+(DEC 2020 - FED 2021)
+Customer GENEX
+Description Conﬁguring network equipment, setting screen to connect to free wiﬁ according to
+customer requirements.
+Team size 5 member
+My position System management
+My responsibilities Conﬁguring network equipment and setting wiﬁ display screen according to customer's
+request.
+
+Technologies used HTML, CSS, Corel x7, photoshop, scan ip network,...
+Smart Agri, Opico, Oll Ofeplatform
+(FED 2021 - OCT 2021)
+Customer SmartAgri company, Opico team, Hanoi National University of Education
+Description write custom interfaces
+Team size 4 member
+My position Frontend Developer
+My responsibilities Write the interface according to the customer's request
+Technologies used Reactjs, Figma, Corel x7,...
+Payment bot, Sell bot, Fortunetelling bot
+(OCT 2021 - FED 2022)
+Customer Personal
+Description Draw ﬂowchart of Bot and create bot according to customer's request
+Team size 3 member
+My position Leader
+My responsibilities Draw ﬂowchart and create of Bot, guide users to create bots without understanding the
+code
+Technologies used FlowXO,
+Telegram's available platforms: Bot rose, BotFather, protectron,... 
+Asa trade, poolswap, openchain
+(FED 2022 - SEP 2022)
+Customer PS company, Asa team, Personal
+Description Work with customers to take requests and pass them on to the team.
+Team size 6 member
+My position Business Analyst
+My responsibilities
+- Work with customers to take requests and pass them on to the team. 
+- Communicating with the internal team, including transferring information and discussing
+customer requirements. 
+- ManageDocument. 
+- Handing over the project to the customer.
+Technologies used BlockChain, ReactJS, .NET, Angular, MongoDB, Oracle, MySql,...
+Project management and maintenance
+(JAN 2023 - PRESENT)
+Customer Personal
+Description Data management, project maintenance of the enterprise, participate in updating
+functionality, user interface
+Team size 3 member
+My position Data managment
+My responsibilities
+- Update data project. 
+- Edit the interface according to the requirements of the business. 
+- Work with customers to take requests and pass them on to the team. 
+- Communicating with the internal team, including transferring information and discussing
+customer requirements.
+
+Technologies used ReactJS, JS, own platform,...
+©

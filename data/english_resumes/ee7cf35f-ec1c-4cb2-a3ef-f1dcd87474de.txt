@@ -1,0 +1,244 @@
+Hoang Minh ieu  
+Odoo Develope 
+ 
+Tay Son, Dong Da, Ha Noi 
+ 
+ 
+ 
+Summary I am an Odoo Developer with 4+ years of experience in Python, JavaScript, HTML and CSS. I have 
+delivered Odoo solutions for CRM, Sales, Accounting, Purchase, HR and more.  
+Objective • To obtain a challenging position in a reputable organization where I can apply my learnings, 
+knowledge, and skills in software development.  
+• To keep up with new technologies, trends, and challenges in the field and deliver high-quality 
+solutions.  
+• To work in a supportive and respectful environment that fosters growth and learning. 
+Skill • Being familiar with Odoo modules such as CRM, Sales, Accounting, Inventory etc. 
+• Designing and developing Odoo apps (new module development, customization) using 
+Python, XML, HTML, CSS, JavaScript. 
+• Having knowledge of frameworks and libraries in Odoo frontend such as BackboneJS, OWL, 
+jQuery, LESS, SASS and using them to customize or develop new widget, component, field 
+widget, view etc. 
+Experience 08/2022 – now 
+Developer • CMC Global • Ha Noi 
+• Customize modules and develop ERP product on Odoo according to the business analyst's 
+requirements. 
+• Provide consulting and propose solutions related to engineering and technology. 
+03/2022 – 07/2022 
+Developer • Entrust Consulting • Ha Noi 
+• Customize modules and develop ERP product on Odoo according to the business analyst's 
+requirements. 
+• Provide consulting and propose solutions related to engineering and technology. 
+• Support the testing and deployment of software releases, and monitor their performance in 
+production environments. 
+02/2020 – 12/2021 
+Developer • Besco Consulting • Ho Chi Minh City 
+• Customize modules and develop ERP product on Odoo according to the business analyst's 
+requirements. 
+• Provide consulting and propose solutions related to engineering and technology. 
+• Support the testing and deployment of software releases, and monitor their performance in 
+production environments.
+
+01/2019 - 01/2020 
+Developer • Entrust Consulting • Ha Noi 
+• Customize modules and develop ERP product on Odoo according to the business analyst's 
+requirements. 
+• Provide consulting and propose solutions related to engineering and technology. 
+Education Hanoi University of Mining and Geology 
+Major: Software Engineering 
+Project Nippon Paint Marine 
+2022 -2023 
+Description 
+Marine coatings – R&D, improvement, manufacture, sales, and technical 
+services. 
+Modules 
+• CRM & Sales: Managing opportunities, quotations and orders by 
+applications such as dry dock, newbuild, sea stock. Managing 
+products, one-time products, ad hoc, maintenance scheme, 
+vessel area. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+Language/Tools/Framework 
+• Odoo 13, Python, JavaScript. 
+• Git/Fabricator, Linux, Jenkins, Pycharm, PostgreSQL, Anydesk. 
+Team size: 6 (1 BA, 1 QC, 3 Dev)
+
+Son Ha Group 
+2022 
+Description 
+Producing and trading in household and industrial products 
+Modules 
+• Purchase: Management of purchase requisitions, purchasing, 
+supplier, supplier criteria, supplier evaluation. 
+• Inventory: Warehouse management, products, import and 
+export, inventory report, warehouse forecast. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+• Technical support during training and system operation. 
+Language/Tools/Framework 
+• Odoo 15, Python, JavaScript. 
+• Git/Github, Pycharm, PostgreSQL. 
+Team size: 3 (1 BA, 1 Dev, 1 QC) 
+Konni39 
+2022 
+Description 
+Domestic Japanese supermarket chain 
+Modules 
+• Sale: Order management, Shopee API, report. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+• Technical support during training and system operation. 
+ 
+Language/Tools/Framework 
+• Odoo 13, Python, JavaScript. 
+• Git/Github, Pycharm, PostgreSQL. 
+Team size: 3 (1 BA, 1 Dev, 1 QC)
+
+Mutosi 
+2022 
+Description 
+Manufacturing and distributing home appliances. 
+Modules 
+• VoIP: A call center client for customer care in Odoo, make and 
+manage phone calls. 
+• Facebook Live chat: Messenger API integration, send and 
+receive messages on Facebook fan page.  
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+• Technical support during training and system operation. 
+Language/Tools/Framework 
+• Odoo 15, Python, JavaScript. 
+• Git/Github, Pycharm, PostgreSQL. 
+Team size: 7 (2 BA, 3 Dev, 2 QC) 
+Besco HRM Core 
+2021 
+Description 
+Core solution for Besco projects, providing human resource 
+management solutions for businesses. 
+Modules 
+• Human resource: Management of employees, contracts, 
+attendances, time-off, payroll. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support.  
+• Technical support during training and system operation. 
+Language/Tools/Framework 
+• Odoo 14 Enterprise, Python, JavaScript. 
+• Git/Gitlab, Pycharm, PostgreSQL, Linux.
+
+Team size: 3 (2 BA, 1 Dev) 
+ISala 
+2021
+Description  
+Providing religious products. 
+Modules 
+• CRM: Management of customer, lead/ opportunity. 
+• Sale: Management of quotations, orders, refund, sessions, 
+deposit, loyalty program (loyalty points), promotions (voucher, 
+coupon, gift), profit and loss. 
+• Purchase: Management of purchase requisitions, purchasing, 
+supplier, supplier criteria, supplier evaluation. 
+• Inventory: Warehouse management, products, import and 
+export, inventory report, warehouse forecast. 
+• Accounting: Debt, Invoicing. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+• Technical support during training and system operation. 
+Language/Tools/Framework 
+• Odoo 13 Enterprise, Python, JavaScript. 
+• Git/Gitlab, Pycharm, PostgreSQL, Linux. 
+Team size: 4 (2 BA, 2 Dev) 
+Sao Bac Dau 
+2020 - 2021 
+Description 
+Integration of IT and telecommunications systems. 
+Modules 
+• CRM: Management of customer, lead/ opportunity. 
+• Bidding: Management of bids and quotations. 
+• Sale: Management of bids, business contracts, profit and loss, 
+KPI.   
+• Purchase: Management of purchase requisitions, purchasing, 
+supplier, supplier criteria, supplier evaluation. 
+• Project: Management of projects, resources, risks. 
+Responsible
+
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+• Technical support during training and system operation. 
+Language/Tools/Framework 
+• Odoo 11 Enterprise, Python, JavaScript. 
+• Git/Gitlab, Pycharm, PostgreSQL, Linux. 
+Team size: 6 (4 BA, 2 Dev) 
+My Thuat Bui 
+2019 - 2020 
+Description 
+Providing educational services, teaching amateur drawing and selling 
+accompanying painting tools. 
+Modules 
+• Education: Management of classes, lecturers, students, 
+schedules. 
+• Sale: Management of orders, refunds. 
+• Accounting: Invoicing, Payments. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+• Technical support during training and system operation. 
+Language/Tools/Framework 
+• Odoo 13, Python, JavaScript. 
+• Git/Github, Pycharm, PostgreSQL. 
+Team size: 4 (1 BA, 2 Dev, 1 QC)
+
+GoCRM 
+ Description 
+Solutions for CRM and Sales. 
+Modules 
+• CRM: Management of customer, lead/ opportunity, activities, 
+lead scoring. 
+• Sale: Management of quotations and orders, KPI. 
+• Marketing: mass mailing, SMS. 
+• VoIP: Making phone calls. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+Language/Tools/Framework 
+• Odoo 12, Python, JavaScript, CSS. 
+• Git/Github, Pycharm, PostgreSQL. 
+Team size: 11 (3 BA, 5 Dev, 3 QC) 
+Vua Bia 
+2019
+Description 
+Beer company. 
+Modules 
+• Sale: Management of quotations and orders. 
+• E-commerce: Website. 
+Responsible 
+• Software development. 
+• Consulting and proposing solutions related to engineering and 
+technology. 
+• Software testing and quality assurance support. 
+Language/Tools/Framework 
+• Odoo 11, Python, JavaScript, CSS. 
+• Git/Github, Pycharm, PostgreSQL. 
+Team size: 5 (2 BA, 2 Dev, 1 QC)

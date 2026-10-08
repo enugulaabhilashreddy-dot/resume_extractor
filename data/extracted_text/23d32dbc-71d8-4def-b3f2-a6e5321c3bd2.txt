@@ -1,0 +1,195 @@
+1 | Page 
+ 
+CURRICULUM VITAE 
+I - PERSONAL INFORMATION 
+Full name  TRAN DUC VIET 
+Date of birth 01/09/1999 
+Address 105, Yen Hoa, Cau Giay, Ha Noi,  
+Viet Nam 
+Email  
+Phon  
+Position Developer 
+Personal Statement   I am Java Back-End developer. I have 3 years of 
+experience in developing web-based application using Java, 
+REST web services and work in Agile/Scrum. 
+  I am a hard-working, willing to explore new technologies 
+and easily integrate into the new environment. 
+  I am seeking a working environment where I can gain more 
+knowledge and experience to widen not only my technical 
+skills but also people skills. 
+ 
+II - EDUCATION 
+2017 – 2020: National Economics University (NEU) 
+● Bachelor of Information Technology 
+ 
+ 
+III – SOFT SKILLS  
+Skills Description 
+Communication Highly developed communication skills both verbal and 
+nonverbal through experience in working with co-workers, 
+managers, and customers via calls, chat, email or in person. 
+Collaboration 
+&Teamwork 
+ 
+ 
+ 
+ 
+Integrate into all team situations easily and comfortably, 
+possessing a personality that is open to teamwork and 
+cooperation. 
+Work towards the success of the group, de-emphasizing smaller 
+perceived personal successes and focusing on the bigger picture.
+
+2 | Page 
+ 
+Adaptability Capable of working in a fast-paced environment, adapt to all 
+arising situations, and able to develop solutions to problems as 
+they appear to the satisfaction of client. 
+Adapted to new industry standards, actively learn new 
+information to keep up to date with new skill requirements and 
+technological innovations. 
+Research Good researching ability developed through experiences in 
+learning new technologies and apply them into works quickly and 
+effectively. 
+Problem solving Have ability to analyze information and produce comprehensive 
+solutions to different types of problems such as technical, 
+managerial, or interpersonal problems. 
+ 
+IV – FOREIGN LANGUAGES 
+● English: 
+- Aptis C 
+- Listening and reading fluently 
+- Ability to write and speak in basic 
+● Japanese: 
+- Equivalent of N5(I am learning N3) 
+ 
+V. TECHNICAL SKILLS 
+Skill Metrics 
+Skills Last used Proficiency level Experience 
+Techniques & Languages 
+Java 2024 Advanced 3 years 
+JavaScript 2024 Fundamental 3 years 
+SQL 2024 Advanced 3 years 
+HTML/CSS 2024 Fundamental 4 years 
+Frameworks & Libraries 
+Spring Framework 2021 Intermediate 1 years 
+Junit / Mockito /Jest 2023 Intermediate 1 years 
+Databases 
+MySQL 2022 Intermediate 2 years 
+PostgreSQL 2024 Intermediate 2 years
+
+3 | Page 
+ 
+SQL Server 2024 Intermediate 2 years 
+Source Control 
+Git 2024 Advanced  4 years 
+IDE & Tools 
+Visual Studio  2024 Fundamental 3 years 
+Eclipse  2024 Intermediate 2 years 
+SQL Server 
+Management Studio 
+2022 Fundamental  1 years 
+Programming paradigms 
+OOP 
+(Object Oriented 
+Programming) 
+2024 Advanced  4 years 
+ 
+VI - TYPICAL PROJECTS 
+1. Project Universal Kinjirou 
+Company Nittsu System Co., Ltd.  
+Duration 3/2022 > Now  
+Project Description Universal Kinjirou is an internal management system in the company. 
+For examples: Personal information, checkin – checkout, assigned  
+tasks, timekeeping, …  
+Team size 5 members 
+Position (s) Backend Developer, Frontend Developer 
+Responsibility • Developing business features  
+• Communicating with customers when design documents have  
+problems. 
+• Bug fixing & maintenance. 
+• Testing. 
+• Preparing documents for releasing product 
+ 
+Technologies • Backend: Java  
+• Frontend: TypeScript, HTML, CSS, KnockoutJS  
+• Database: PostgreSQL, SQL Server 
+• Unit Test: JUnit 
+• IDE & Tools: Eclipse, Visual Studio Code, SQL Server Management 
+Studio . 
+ 
+2. Project Bao Viet Insurance
+
+4 | Page 
+ 
+Company GCT . TECHNOLOGY SOLUTION JOINT STOCK  
+Duration 9/2021 > 4/2022 
+Project Description Bao Viet Insurance  is a management system for insurance products 
+issued by the company 
+ 
+ 
+Team size 10 members 
+Position (s) Backend Developer, Frontend Developer 
+Responsibility • Requirement gathering & analysis 
+• Developing business features 
+• Bug fixing & maintenance 
+• Testing 
+• Preparing documents for releasing product. 
+Technologies • Framework: Java EJB, Struts Framework . 
+• Database: SQL Server  
+• IDE & Tools: Jdev, SQL Server Management 
+Studio  
+ 
+3. Project CP54 
+Company GCT . TECHNOLOGY SOLUTION JOINT STOCK  
+Duration 6/2021 > 8/2021 
+Project Description CP54 is a user information management project such as managing 
+photos, files, reading files, exporting files,... 
+  
+Team size 5 members 
+Position (s) Backend Developer 
+Responsibility • Requirement gathering & analysis 
+• Write API to handle the assigned business. 
+• Testing 
+• Preparing documents for releasing product. 
+Technologies • Backend: Java 8, Spring Boot 
+• Database: SQL Server 
+• IDE & Tools: IntelliJ IDEA, SQL Server Management 
+Studio  
+ 
+4. Project State Capital Management Committee 
+Company GCT . TECHNOLOGY SOLUTION JOINT STOCK  
+Duration 03/2021 > 05/2021
+
+5 | Page 
+ 
+Project Description State Capital Management Committee is a state capital management 
+project that supports capital management of state-owned enterprises. 
+ 
+Team size 7 members 
+Position (s) Backend Developer 
+Responsibility • Requirement gathering & analysis 
+• Bug fixing & maintenance 
+• Testing 
+• Creating reports from a variety of data sources. 
+Technologies • Backend: .NET 3  
+• Database: Oracle 
+• IDE & Tools: Visual Studio 
+ 
+5. Project e-commerce website 
+Company HT VIETNAM CONSTRUCTION AND TECHNOLOGY JOINT 
+STOCK COMPANY  
+Duration 06/2020 > 12/2020 
+Project Description e-commerce website is a product that helps introduce and support the 
+purchase and sale of products and services on the internet through a 
+system of websites. 
+ 
+Team size 3 members 
+Position (s) Backend Developer, Frontend Developer 
+Responsibility • Requirement gathering & analysis 
+• Develop a number of SEO standard sales websites according to 
+customer requirements 
+Technologies • Backend: PHP (CodeIgniter). 
+• Frontend: HTML5, CSS3, Jquery, SQL  
+• Database: MySQL 
+• IDE & Tools: Visual Code, xampp.

@@ -1,0 +1,87 @@
+TRẦN DUY TÂN
+KỸ NĂNG
+FRONT-END
+Flutter (Dart), HTML5, CSS.
+MVC, MVVM.
+BACK-END
+•Firebase, MongoDB.
+•Python.
+NGÔN NGỮ LẬP TRÌNH KHÁC
+C, C++, Java, PHP, MySQL,
+NodeJS (Express).
+QUẢN LÝ MÃ NGUỒN
+Git (GitHub, GitLab), Subversion.
+TIẾNG ANH
+Đọc hiểu và giao tiếp
+TỰ HỌC
+Tự học và tìm hiểu kiến thức mới.
+CHỨNG CHỈ
+8/2022
+Khóa học lập trình ứng dụng di động 
+đa nền tản với Flutter.
+9/2023 Chứng chỉ Anh Văn B1.
+THÔNG TIN CÁ NHÂN
+
+✉
+
+ Ninh Kiều, TP Cần Thơ
+MỤC TIÊU NGHỀ NGHIỆP
+     Em là sinh viên tốt nghiệp ngành Khoa học máy tính tại Đại học Cần Thơ,
+với tính cách hòa đồng ham học hỏi, tìm hiểu nhiều kiến thức mới và chịu áp
+lực cao trong công việc. Em mong muốn được ứng tuyển vào vị trí công ty
+tuyển dụng, em sẽ cố gắn hoàn thành tốt công việc được giao, học thêm
+nhiều kinh nghiệm chuyên môn và không ngừng phấn đâu để trở thành một
+nhân viên giỏi cho công ty.
+HỌC VẤN
+KHOA HỌC MÁY TÍNH 9/2019 - 12/2023
+Đại học Cần Thơ (CTU)
+Hoàn thành tốt nghiệp ngành Khoa Học Máy Tính
+KHÓA LẬP TRÌNH DI ĐỘNG ĐA NỀN TẢNG VỚI FRAMEWORK FLUTTER
+4/2022 - 7/2022
+Trung tâm Công nghệ phần mềm Đại học Cần Thơ (CUSC)
+Hoàn thành tốt khóa học đúng thời hạng.
+KINH NGHIỆM LÀM VIỆC
+DEVIER: TÌM KIẾM DÂN TỘC DỰA TRÊN VĂN PHI VẬT THỂ BẰNG TRÍ TUỆ
+NHÂN TẠO: ĐỒNG BẰNG SÔNG CỬU LONG (LUẬN VĂN TỐT NGHIỆP)
+8/2023 - 12/2023
+Ứng dụng giúp tìm kiếm dân tộc dựa trên văn hóa phi vật thể bằng AI.
+•Github:
+•Supervisor: Dr. Truong-Thanh Ma
+•Mô tả dự án:
+◦ Ứng dụng được xây dựng bằng framework Flutter(Dart).
+◦Mô hình AI được xây dựng bằng ngôn Python với kiến trúc mạng CNN
+và mô hình SVM giúp phân loại ảnh.
+◦Server được xây dựng bằng ngôn ngữ Python cho gửi và nhận dự liệu,
+xử lý mô hình nhận dạng ảnh.
+◦Xây dựng ChatBot trả lời câu hỏi trong phạm vi liên quan đến dân tộc
+bằng việc kết hợp Google Bard AI vào ứng dụng.
+◦Chức nắng chính:
+▪Tìm kiếm dận tộc bằng hình ảnh và âm thanh.
+▪ChatBot trả lời cậu hỏi liên quan đến dân tộc Việt Nam.
+CÔNG TY TNHH DI4L (THỰC TẬP) 3/2023 - 5/2023
+Viết giao diện chức năng cho ứng dụng Sales
+Xây dựng giao diện chức năng cho ứng dụng Sales:
+•Ngôn ngử sử dụng cho xây dựng chức năng là Dart(Flutter) với quản lí trạng
+thái bằng Bloc và Provider.
+•Tìm hiểu vè học hỏi nhiều kinh nghiệm khi làm việc với dự án thực tế trong
+quá trình thực tập tại công ty DI4L.
+ỨNG DỤNG QUẢN LÝ NHÀ TRẺ (NIÊN LUẬN NGÀNH) 1/2023 - 5/2023
+Ứng dụng giúp quản lý nhà trẻ và điểm danh bằng QR code
+•Github:
+•Mô tả dự án:
+
+◦ Ứng dụng được xây dựng bằng framework Flutter(Dart),
+Firebase được dùng làm cơ sở dữ liệu cho ứng dụng.
+◦Chức nắng chính:
+▪CRUD thông tin giáo viên, thông tin của lớp học, thông tin trẻ
+em và thông tin phụ huynh.
+▪ Điểm danh bằng QR code.
+ỨNG DỤNG NHẬT KÝ ĐỒNG RUỘNG ( NIÊN LUẬN CƠ SỞ) 8/2022 - 10/2022
+Ứng dụng ghi chép lại nhật ký trong quá trình sản xuất nông nghiệp.
+•Github:
+•Mô tả dự án:
+◦ Ứng dụng được xây dựng bằng framework Flutter(Dart), Firebase
+được dùng làm cơ sở dữ liệu cho ứng dụng.
+◦Chức chính: CRUD thông tin người dùng, nhật ký trong nông nghiệp.
+-
+© topcv.vn

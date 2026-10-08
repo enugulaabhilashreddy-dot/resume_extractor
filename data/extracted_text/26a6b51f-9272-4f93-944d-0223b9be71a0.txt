@@ -1,0 +1,120 @@
+Đinh Duy Phong
+Backend Develope
+ ✉    Tan Binh, Ho Chi Minh City, VN
+Short-term goal: Enhance my English language proficiency. Improve my knowledge of DevOps and Cybersecurity.
+Long-term goal: Live and work in a developed country like the US, the EUROPE, or Japan. Establish and successfully run a small business.
+EDUCATION
+FPT University 2013 - 2017
+Bachelor's Degree in Information Assurance 
+The Information Assurance program covers topics such as
+ network security, cryptography, and ethical hacking. Graduates
+emerge ready for roles such as information security analysts or
+cybersecurity specialists. 
+WORK EXPERIENCE
+FPT Information System 02/2021 - 04/2023
+Senior Back End Developer
+• Maintain, refactor, and design Core Backend Service
+• Develop automated scripts using Python
+• Troubleshoot backend errors with other teams
+• Administer GitLab server
+• Administer production Linux servers
+• Mentor junior developers
+• Write software design documents
+FPT Information System 11/2017 - 12/2022
+Full Stack Developer
+• Implement, deploy, and maintain a web-based Incident management system
+• Design UI/ UX using design tools like Figma, Balsamiq Wireframe
+• Write software design documents
+FPT Information System 12/2018 - 12/2022
+Tier 1 Security Analyst
+• Monitor alerts from customer computer systems
+• Report incidents to higher-tiered security analysts.
+SKILLS
+Python Develop RESTful API with FastAPI framework. Write utility scripts such as syncing data between 
+different databases, scheduling tasks, etc. Create message bots and phone call bots.
+FastAPI 2 years of Back End development.
+
+Laravel 3 years of Full Stack development.
+PostgreSQL Write complex queries for charts used in reports. Set up Streaming Replication to ensure high 
+availability. Perform administrative tasks like backup and restore databases and user management.
+Linux The main development environment and production environment. Comfortable with using the 
+command line interface.
+Docker Experience in running Docker in production with docker-compose. Set up a private docker registry. 
+Dockerize web applications.
+Gitlab User management, repository management, configuring CI/CD pipeline.
+NodeJS Some experience with  and Used in hobby projects.
+Django 3 month of Full Stack development.
+Sentry Basic understanding, used in debugging web apps in production.
+Javascript Basic understanding. Experience with developing interactive frontend using libraries like jQuery, 
+ Datetimepicker, etc.
+Boostrap 4 Basic understanding, making modification to website templates written in Boostrap 4.
+Figma Design UI/UX for web apps
+PROJECTS
+Core Backend Service 
+( 02/2021 - 04/2023 )
+Name of customer FPT Information System
+Provides RESTful API endpoints for data related to cybersecurity operations such as Alert and 
+Incident, facilitating the process of incident response. Other tasks include synchronizing data 
+between data sources and on-call management.
+Team size 2
+Position in project Senior Back End Developer
+• Rewrite test cases in Pytest
+• Refactor RESTful API endpoints to comply with best practices
+• Apply CI/CD pipeline to improve the deployment to production
+• Implement new features based on business requirements
+• Write software documents
+Technology description FastAPI, SQLAlchemy, Docker, PostgreSQL, pgAdmin, GitLab CI/CD
+Incident Management Web Portal 
+( 11/2017 - 11/2023 )
+FPT Information System, Vietlott, VIB Bank, WinCommerce, Soc Trang Department of 
+Information and Communication, etc.
+Manage security incidents through a web-based application. Help clients acknowledge and 
+manage incidents happening in their system. Main features include Incident management, User
+
+management, email notification, interactive dashboard, etc.
+2
+Full Stack Developer
+• Gather requirements from stakeholders to create software documents
+• Design and implement the main features
+• Make modifications based on customer requirements
+Laravel, Javascript, jQuery,  Redis, Docker, Nginx, Linux, MySQL, Figma
+Email Sending Service
+( 01/2023 - 02/2023 )
+FPT Information System 
+The Email Sending Service is responsible for managing the email-sending functionality by 
+exposing a RESTful API to other services. It operates in a queue-style fashion, effectively 
+mitigating the risk of request loss to the SMTP server caused by exceeding the maximum 
+number of requests per second. 
+1
+Back End Developer
+• Study relevant technologies, such as Celery library for task queuing and Jinja template for 
+displaying email
+• Implement the main features and conduct manual testing to ensure the new service 
+functions consistently 
+FastAPI, RabbitMQ, Docker
+On-call Shift Schedule Generator
+( 02/2023 - 03/2023 )
+FPT Information System 
+A tool that generates an on-call shift schedule in CSV format. Complies with complex 
+requirements like random and equitable distribution of shifts and is easy to modify.
+1
+Back End Developer
+• Study Python libraries for solving optimization problems like the OR-Tools
+• Implement the main features and conduct manual testing
+Python
+On-call Notification Bot
+( 01/2020 - 08/2022 )
+FPT Information System 
+A bot that automatically makes notifications to on-call shift employees through messages and 
+phone call channels. Escalating to higher tier employees if lower tiers missed their 
+notifications.
+2
+Back End Engineer 
+• Study relevant technologies, such as Asterisk for making phone calls, Python library 
+Asyncio for concurrent tasks, and Telegram RESTful API for sending messages
+
+• Using BI tools like Metabase to visualize phone call data into charts for use in reports
+• Implement the main features and conduct manual testing
+Python, Asterisk, Docker, PostgreSQL, Metabase
+INTERESTS
+web sufring | comics | films | listening to music © topcv.vn

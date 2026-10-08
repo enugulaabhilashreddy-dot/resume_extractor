@@ -1,0 +1,203 @@
+CHU HOANG LINH - CURRICULUM VITAE Page 1 of 6 
+ 
+CURRICULUM VITAE  
+PERSONAL DETAILS  
+ 
+Full Name CHU HOÀNG LINH 
+Job Titles Mobile Developer 
+Date of Birth 25/01/1993 
+Place of Birth Hà Nội - Việt Nam 
+Gender Male 
+Home Address 408 Trần Cung – Cổ Nhuế –  Hà Nội 
+Cell phon  
+Email                        
+ 
+ 
+ 
+EDUCATION HISTORY  
+From:  2011   To: 2016 Hanoi University of Business and Technology - HUBT 
+Tech Master iOS 
+ 
+ 
+ 
+SUMMARY INFORMATION  
+Strong point in working with the group 
+Have 3 years of experience working with Swift language and have more than 1 years of experience working 
+with Dart language 
+Have experience with offline storage, threading, and performance tuning(GCD) 
+Have experience with iOS frameworks such as Core Data, Realm, etc. 
+Have experience with Automation Testing, Appium Framework, and UnitTest. 
+Have experience with Git 
+Working very well with iOS programming apps. 
+Can work with Cross-platform Flutter Dart 
+Have the ability to work under pressure
+
+CHU HOANG LINH - CURRICULUM VITAE Page 2 of 6 
+ 
+EMPLOYMENT HISTORY (Start the nearest company)  
+From: 05/2023 
+To: Now 
+Company name Tinh vân Software(TSO ) 
+Job title iOS, Flutter Developer 
+Job description Programming Application 
+From: 06/2020 
+To: 05/2023 
+Company name Công ty Cổ phần Quảng cáo Trực tuyến 24H 
+Job title iOS Developer 
+Job description Programming Application 
+From: 12/2019 
+To: 06/2020 
+Company name Công ty cổ phần giải pháp Beedu 
+Job title iOS Developer 
+Job description Programming Application 
+From: 06/2019 
+To: 12/2019 
+Company name Công ty công nghệ EPR-Tech Corp 
+Job title iOs Developer 
+Job description Programming Application 
+From: 06/2016 
+To: 06/2019 
+Company name Công ty cổ phần công nghệ Msoft 
+Job title iOS, android Developer 
+Job description Programming Application 
+ 
+ 
+ 
+ 
+ 
+ATTENDED PROJECTS (Start latest work ) 
+ 
+From: 04/2024 
+ 
+To: Now 
+Project Name IIG  
+Client Tinh vân Software(TSO ) 
+Team Size 16 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description Programming Application learn english 
+Used Programming Languages Dart
+
+CHU HOANG LINH - CURRICULUM VITAE Page 3 of 6 
+ 
+From: 10/2023 
+To: 04/2024 
+Project Name BIVN  
+Client Tinh vân Software(TSO ) 
+Team Size 8 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description Warehouse Project Management 
+Application 
+Used Programming Languages Swift 
+ 
+ 
+From: 05/2023 
+To: 10/2023 
+Project Name AGIL  
+Client Tinh vân Software(TSO ) 
+Team Size 8 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description Application for managing installation of 
+lighting equipment, water and electricity 
+meters  
+Used Programming Languages Dart 
+ 
+ 
+ 
+Project Name Viva24h
+
+CHU HOANG LINH - CURRICULUM VITAE Page 4 of 6 
+From: 06/2020 
+To: 05/2023 
+Client Công ty cổ phần quảng cáo trực tuyến 
+24h 
+Team Size 20 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description Best Builder provides features around the 
+process of planning, finding partners, 
+designing and constructing works. At the 
+same time, provide consulting and 
+support services to minimize the worries 
+and risks of investors during the 
+construction process 
+iOS: 
+b%C3%B3ng-%C4%91%C3%A1-tin-
+t%E1%BB%A9c/id1483033670?l=vi  
+ 
+Used Programming Languages Swift 
+ 
+From: 12/2019 
+To: 06/2020 
+Project Name Beedu  
+Client BEEDU 
+Team Size 12 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description - Application connecting family and 
+school 
+- Create and assign exercises easily, 
+detailed statistics, personalize according 
+to each student's level 
+Used Programming Languages Swift
+
+CHU HOANG LINH - CURRICULUM VITAE Page 5 of 6 
+ 
+ 
+From: 07/2018 
+To: 09/2019 
+Project Name Moto  
+Client Viettel Solution 
+Team Size 12 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description - The application allows users to manage 
+the status of vehicles with GPS devices 
+installed. 
+Used Programming Languages Swift 
+ 
+ 
+From: 02/2018 
+To: 06/2019 
+Project Name Car booking  
+Client Viettel 
+Team Size 8 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description A application for booking car. 
+Used Programming Languages Swift 
+ 
+ 
+From: 02/2018 
+To: 06/2019 
+Project Name Car booking  
+Client Công ty ĐƯỜNG LỢI NHÂN
+
+CHU HOANG LINH - CURRICULUM VITAE Page 6 of 6 
+Team Size 8 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description Recruit people for suitable jobs based on 
+CV 
+Used Programming Languages Swift 
+ 
+ 
+From: 06/2016 
+To: 02/2018 
+Project Name Application Utility  
+Client Công ty MSOFT 
+Team Size 12 
+Position Coder 
+Responsibilities Programming Application 
+Project  Description Clone App Android Utility 
+Used Programming Languages Java 
+ 
+ 
+SIGNATURE  
+I certify that the information declared above is true to the best of my knowledge and belief. 
+Hanoi, 2024 
+Signature 
+ 
+Chu Hoàng Linh

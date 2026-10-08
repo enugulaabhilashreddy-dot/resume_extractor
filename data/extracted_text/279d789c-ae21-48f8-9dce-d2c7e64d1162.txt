@@ -1,0 +1,236 @@
+c
+Trần Dưỡng
+
+
+
+
+
+Backend Developer
+Male
+03-03-1996
+Ho Chi Minh City
+Objective:
+    I have graduated from the software engineering major and have over 3 years
+of experience in developing software projects.
+    I am passionate about technology and constantly keep up with the latest 
+trends in the industry to enhance my programming skills. I am proactive, 
+creative, and able to work independently or in a team. 
+    I am currently seeking opportunities to work as a Backend Developer (.net) 
+in a professional, dynamic, and innovative work environment where I can 
+leverage my skills effectively to successfully develop products and services that 
+meet the needs of the company. 
+    My career goal is to become a Solution Architect within 2 years.
+01
+TIME:  
+Major: 
+Degree classification: 
+ - 09-2014 06-2018
+LACHONG UNIVERCITY
+Software Engineering
+Very Good
+University
+EDUCATION
+02
+TIME:  
+Achievements:
+ - 
+TIME:   - 
+TIME:   - 
+11-2016 05-2017
+LACHONG UNIVERCITY
+STUDENT
+- Project Name: "The 2016-2017 Racing Challenge" organized by FPT.
+- Description: FPT provides a model car with all the necessary hardware. 
+Participating teams are required to upload their code and start the car to meet 
+the requirements of the competition.
+Technologies used: Opencv, Python.
+- Team: 8 members.
+-"3rd Prize at the 2016-2017 Racing Challenge" organized in Hanoi.
+06-2017 12-2018
+Freelancer
+BACKEND DEVELOPER
+- Project Name: Website Ecommerce
+- Description: A sales management website for a store.
+- Project Architecture: Monolithic.
+- Technologies used: MVC architecture (.Net framework, Entity Framework, LinQ, 
+SQL server, Jquery, Bootstrap, html, css, Javascript)
+- Responsibilities: Developed assigned small features (product management, 
+statistical reporting, etc.).
+- Team: 5 members.
+01-2018 06-2018
+WORK
+EXPERIENCE
+
+TIME:   - 
+TIME:   - 
+TIME:   - 
+TIME:   - 
+LACHONG UNIVERCITY
+STUDENT
+Project name: Scientific research topic "Recognition of abnormal lung conditions 
+in patients through X-ray images".
+Description: Research and utilization of TensorFlow using datasets of lung 
+images categorized into normal and abnormal groups. The software 
+automatically predicts whether a patient's lung shows any abnormal signs based 
+on a given X-ray image.
+Technologies used: Python, TensorFlow.
+Team: 1 member.
+06-2018 11-2019
+FPT SOFTWARE
+FULLSTACK DEVELOPER
+- Project name: Ecommerce Website (Japanese enterprise)
+- Description: Managing products, orders, reporting and statistics.
+- Project architecture: Monolithic.
+- Technologies used: MVC architecture (.Net framework, Entity Framework, LinQ, 
+SQL server, Jquery, Bootstrap, html, css, Javascript)
+- Responsibilities: Implementing and developing project features, providing input 
+for project development, assisting new team members, etc.
+- Team: 30 members.
+06-2018 11-2019
+FPT SOFTWARE
+FULLSTACK DEVELOPER
+- Project name: QMS (Quality Management System).
+- Description: A project for the company's quality management system, 
+automating processes, document management, and auditing.
+- Project architecture: Monolithic.
+- Technologies used: MVC architecture (.Net framework, DevExpress, Entity 
+Framework, LinQ, SQL server, jQuery, Bootstrap, HTML, CSS, JavaScript).
+- Responsibilities: Developing the project architecture and implementing features 
+for the project, proposing ideas to overcome challenges in the project, and 
+deploying the project to the server.
+- Team: 10 members.
+11-2019 02-2020
+IMI COMPANY
+FULLSTACK DEVELOPER
+- Project name: QMS.
+- Description: A quality management system for the company, automating 
+processes, document management, and auditing.
+- Project architecture: Monolithic.
+- Technologies used: WebApi architecture (.Net Core, , MongoDB,  
+Bootstrap, HTML, CSS, JavaScript).
+- Responsibilities: Deploying project architecture, developing project features, 
+researching new technologies to resolve issues.
+- Team: 10 members.
+11-2019 02-2020
+
+TIME:   - 
+IMI COMPANY
+FULLSTACK DEVELOPER
+- Project name: Ebay Integration.
+- Description: Integrating with Ebay to retrieve the product information from 
+online stores.
+- Project architecture: Monolithic.
+- Technologies used: .Net Framework, Entity Framework, LinQ, SQL Server.
+- Team: 1 member.
+02-2022 04-2023
+VMSTYLE
+FULLSTACK DEVELOPER
+- Project name:
+    + Website Admin (Head Office)
+    + Website Point of Sale (POS) for Retail Stores (currently used by over 40 
+stores).
+- Description:
+    + Orders management (online, offline).
+    + Inventory management.
+    + Product management.
+    + Data analytics and reporting.
+    + Integration with Sapo, Pancake, and Casso.
+- Project architecture: Monolithic (Web MVC, API), Microservices (API).  
+- Technologies used:  
+     + Backend: RabbitMQ, Masstransit, Grpc, Docker, SignalR, .Net 7, Stored 
+procedure, Entity Framework, Linq. 
+     + Frontend: Reactjs, kendo, Bootstrap, html, css, Javascript, Jquery. 
+     + Database: SQL server
+- Responsibilities: 
+    + Directly plan and develop features for managing online order processes, 
+integrating with third-party providers such as Sapo and Pancake. 
+    + Propose a solution to effectively address the issue of inventory 
+discrepancies between the system and reality, which is caused by various 
+reasons, with the main reason being the multi-channel sales and the lack of 
+integration with Sapo and Pancake. Ensure that inventory remains accurate even 
+with the integration of additional channels into the Admin. 
+    + Integration with shipping partners such as Giao Hang Nhanh and SuperShip.
+    + Develop the feature to analyze golden hours (determine when customers to 
+purchase products most often to implement appropriate promotional programs 
+and strategies).
+    + Develop a feature to track the sales of orders based on time frames (week-
+month-quarter-year) to identify customers' peak buying cycles and launch 
+appropriate product offerings tailored to those cycles.
+    + Develop the configuration of promotional programs on the Website Pos for 
+in-store sales, with the most challenging part being implementing Combo, deals 
+sock.  
+    + Join the membership development team (printing membership cards for 
+customers). 
+    + Addressing the inventory discrepancy issue that many sellers may encounter 
+when selling online. Utilizing the inventory from the company's Admin page while 
+integrating with third-party websites to fetch orders from e-commerce platforms.
+    + Setting up the servers to receive webhook requests from third-party 
+providers (such as Sapo, Pancake, Giao Hang Nhanh, SuperShip, and Casso)
+
+TIME:   - 
+TIME:   - 
+    + Split the Database into Microservice architecture. 
+    + Extract Services from the old project and develop new services for 
+Microservice architecture. 
+    + Build the database infrastructure. 
+    + Participate in the product deployment process.
+    + Provide guidance to new team members for quick integration into the 
+project. 
+    + Provide training for users.
+Team: 9 members and teams outsource
+01-2023 03-2023
+FULLSTACK DEVELOPER (FREELANCER)
+- Project name: OMI.
+- Description: A quality management system for the company, automating 
+processes, document management, and auditing.
+- Project architecture: Microservices.
+- Technologies used:
+    + Backend: RabbitMQ, Masstransit, gRPC, Docker, .NET 7, Entity Framework, 
+LINQ.
+    + Frontend: Angular, Ant Design, Bootstrap, TypeScript.
+    + Database: SQL Server.
+- Responsibilities:
+    + Designing the project architecture based on the Microservices pattern.
+    + Building and developing features within the project.
+    + Building the database.
+Team: 3 members.
+04-2023 07-2023
+T&C Logistics
+FULLSTACK DEVELOPER
+- Project name:
+    + Website Partner
+    + Website Local to manage orders, inventory, and suppliers. 
+- Description:
+    + Orders management (online).
+    + Inventory management.
+    + Product management.
+    + Data analytics and reporting.
+    + Integration with Shopee, Lazada, Tiki, Tiktok, Sapo, GHN, NhatTin.
+- Project architecture: Microservices.
+- Technologies used:
+     + Backend: RabbitMQ, Masstransit, .Net 7, Entity Framework.
+     + Frontend: Angular, Bootstrap.
+     + Database: Postgres, MongoDB
+- Responsibilities:
+    + Maintenance and Integrating with third-party providers such as Shopee, 
+Lazada, Tiki, Tiktok, Sapo.
+    +  Develop features.
+Team: 10 members
+03 Main skill:  
+Other skill: 
+Working independently verry good, team work, good discipline.  
+Good time management.
+SKILLS
+
+SOFTWARE
+Words    
+Excel    
+Power Point    
+Outlook    
+ENGLISH SKILLS
+Listening    
+Speaking    
+Reading    
+Writing    
+INTERESTS
+Football, volleyball, running, gym

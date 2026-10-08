@@ -1,0 +1,137 @@
+Ngoc Toan Dao
+Software Engineer
+Aleph Labs
+May 2022 - Nov 2023
+Software Engineer
+- Analyze, design, and develop a processing platform using various
+configuration management technologies. 
+- Improving system quality by identifying issues and common patterns,
+and developing standard operating procedures. 
+- Research and propose new technologies 
+- Design responsive web design and work with RESTful APIs. 
+CARP TECH CORPORATION
+Dec 2020 - May 2022
+Senior Software Engineer
+- Analyze, design, and develop a processing platform using various
+configuration management technologies. 
+- Understand the principles of code making and coding: Clean code,
+SOLID. 
+- Improving system quality by identifying issues and common patterns,
+and developing standard operating procedures. 
+- Work with React/React Native source code and conventions,
+Typescript, React Component, MST, Flexbox, Push Notification, CSS
+Framework (Bootstrap, Zurb, ..), CSS Preprocessor (LESS, SASS,..) 
+HARAVAN
+May 2018 - Dec 2020
+Software Engineer
+- Program UI/UX based on ES6, ReactJS, React Native, and Redux. 
+- Analyze, design, and develop tests and test-automation suites. 
+- Analyze requirements and design systems. 
+- Design and develop a processing platform using various
+configuration management technologies. 
+- Improving system quality by identifying issues and common patterns,
+and developing standard operating procedures. 
+I have more than 5 years of experience working with ReactJS, React Native, NextJS. I built over 30
+websites and 10 mobile apps in mixed languages.
+Genvita (May 2022 - Nov 2023)
+Customer Generali Vietnam Life Insurance
+Description Generali Insurance mobile app for 100k+ users
+Team size 20
+My position Supevisor
+My responsibilities
+- eKYC integration 
+- Work with React/React Native source code and conventions,
+Typescript, React Hooks, and Mobx. 
+- Develop and optimize code- Review code, Bug Fixing- Research and
+propose new technologies 
+Technologies used - React Native, React Navigation  
+- React Hooks, Typescript 
+Golden Gate Restaurants (Jan 2022 - Dec 2022)
+Customer Golden Gate
+May 26, 1996
+Ho Chi Minh City
+//ABOUT ME
+//WORK EXPERIENCE
+//PROJECTS
+
+Description Golden Gate Restaurants
+Team size 10
+My position Senior Software Engineer
+My responsibilities
+- Work with React/React Native source code and conventions,
+Typescript, React Component, MST, Flexbox, Push Notification, CSS
+Framework (Bootstrap, Zurb, ..), CSS Preprocessor (LESS, SASS,..) 
+- Unit testing 
+- Develop and optimize code 
+- Review code, Bug Fixing 
+- Research and propose new technologies 
+Technologies used - NextJS, Tailwind CSS, NodeJS, Typescript 
+Topenland Mobile (Dec 2021 - Dec 2022)
+Customer Hưng Thịnh Land
+Description Real estate digitalization platform
+Team size 30
+My position Senior Software Engineer
+My responsibilities
+- Write unit testing with Jest, Detox. 
+- Optimize source code and performance. 
+- Analyze requirements and design systems 
+- Understand the principles of code making and coding: Clean code,
+SOLID 
+Technologies used
+- React Native 
+- React Hooks, Typescript 
+- Push Notification, Snapshot testing, Unit testing, E2E Testing 
+Topenland Web (Dec 2021 - Dec 2022)
+Customer Hưng Thịnh Land
+Description Real estate digitalization platform
+Team size 30
+My position Senior Software Engineer
+My responsibilities
+- Analysis and design  
+- Development and optimize code 
+- Review code, Bug Fixing 
+Technologies used
+- NextJS 
+- React Hooks, Typescript 
+- Firebase, Snapshot testing, Unit testing, E2E Testing 
+ACB E-Signature (Oct 2020 - Dec 2021)
+Customer ACB - Asia Commercial Bank
+Description Digital Signature Appication
+Team size 5
+My position Software Engineer
+My responsibilities
+- Analyze requirements and design systems 
+- Develop and optimize code 
+- Troubleshoot and debug 
+- Unit testing with Jest 
+Technologies used - ReactJS  
+- React Hooks
+
+Sep 2014 - Sep 2017
+FPT Polytechnic College
+Major: Computer Programming
+ACADEMIC PREPARATORY ENGLISH Level 3
+2018
+- Material-UI 
+- Unit testing 
+Wonder Rates (Dec 2020 - Dec 2021)
+Customer Wonder Rates. Equal Lending Lender
+Description Loan technology platform. 
+Team size 4
+My position Software Engineer
+My responsibilities
+- Program UI/UX based on ES6, ReactJS, Redux. 
+- Design responsive web design and work with RESTful APIs.  
+- Bug Fixing- Unit testing 
+Technologies used - ReactJS, Typescript, React Hooks, Tailwind CSS 
+Haravan, Hararetail (May 2018 - Dec 2020)
+Customer Haravan
+Description Ecommerce solution cloud-based, multichannel commerce platform from
+online to offline. 
+Team size 6
+My position Software Engineer
+My responsibilities - Analysis, Design and Development 
+- Review and Optimize code, Bug Fixing 
+Technologies used - React Native, ReactJS, Mobx State Tree 
+- Redux Saga, Redux Thunk, React Hooks 
+//EDUCATION //CERTIFICATE

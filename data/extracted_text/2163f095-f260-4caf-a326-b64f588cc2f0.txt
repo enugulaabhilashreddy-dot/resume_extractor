@@ -1,0 +1,124 @@
+Tran Ngoc Dan
+Frontend Developer
+ ✉  Tran Nao, Thu Duc, TPHCM
+OBJECTIVE
+I would like to apply for the position of Fontend Developer in a challange and dynamic environment to the long-term attachment, where I 
+can utilize my skills and knowledge to contribute to the growth of the company. With 7 years of experience working as a Software 
+Developer, I am eager to adapt new technologies and techniques, and am committed to continuously improving my skills and knowledge 
+to devote my proficiency for web development industry. 
+EDUCATION
+University of Information Technology Aug 2012 - Jun 2018
+Software Engineering
+GPA: 7.55
+WORK EXPERIENCE
+Dutycast Co. Ltd AUG 2021 - SEP 2023
+Frontend Developer
+Main responsibilities:
+• Worked closely with the development team to implement new features and bug fixes.
+• Implemented an optimized, accessible, and responsive UI. 
+Achievements and skills gained:
+• Improved technologies about Javascript, HTML, CSS, Jquery.
+• Improved teamwork and communication skills.
+• Take responsibility to train new intership in project.
+TradingFoe Basis Trading Co. Ltd DEC 2018 - JUL 2021
+Frontend Developer
+Main responsibilities:   
+• Worked closely with the development team to implement new features and bug fixes.
+• Implemented an optimized, accessible, and responsive UI.
+Achievements and skills gained:
+• Learned new Reactjs, Javascript, HTML, CSS, Jquery technologies and new React Redux library.
+• Improve teamwork and communication skills.
+Freelancer SEP 2020 - MAR 2022
+Frontend Developer
+Main responsibilities: 
+• Development of features from customer requirements.
+• Estimate times based on assigned tasks.
+• Maintenance and upgrades follow customer requirements.
+Achievements and skills gained:
+• Learned new Nextjs technologies and new React Redux Saga library.
+• Improve time management and attitude when working.
+
+Fujinet Systems JSC JUL 2016 - MAY 2018
+Software Developer
+Main responsibilities:    
+•  Analysis, Design, Development and Testing of features from customer requirements.
+•  Maintenance and upgrades system follow customer requirements.
+Achievements and skills gained:
+•  Learned new , Oracle technologies and MVC framework.
+PROJECTS
+Dutycast Website
+( AUG 2021 - SEP 2023 )
+Customer Dutycast Co. Ltd
+Description
+Dutycast is a shopping assistant application that provide order service from 5,4M+ legitimate 
+websites.
+• Link:
+Team size 2
+My position Fontend Developer
+My responsibility 
+• Build and develop website from the scratch follow design.
+• Handle logic and apply REST API with Backend Developer.
+• Apply custom component in project.
+• Implement an responsive UI.
+• Optimize website speed of homepage, checkout page, search page,...
+• Worked with UX designers to implement designs and improve the user experience.
+• Develop email with sendgrid.
+• Upgrade webpack
+• Learn of flutter for mobile app.
+• Learn of web3 ntf marketplace.
+Technologies used JavaScript, Jquery, HTML/CSS, VS Studio, GIT, Agile, Figma
+TradingFoe Website 
+( DEC 2018 - JUL 2021 )
+Customer TradingFoe Basis Trading Co. Ltd 
+Description
+TradingFoe is the first Nordic business-to-business (B2B) e-commerce platform that enables 
+cross-border trading between the Asian and Nordic market.. 
+• Link:
+Team size 3
+My position Fontend Developer
+My responsibility 
+• Build and develop cross-platform e-commerce website from the scratch 
+follow design.
+• Appy React Redux in project.
+• Implement an optimized page speed and responsive UI.
+• Handle logic and apply REST API with Backend Developer.
+• Worked with UX designers to implement designs and improve the user experience.
+Technologies used Reactjs, Nextjs, Visual Studio, GIT, Agile, Figma
+Tax Torch (Freelancer)
+
+( JUL 2022 - SEP 2022 )
+Customer Project8ball 
+Description
+Tax Torch is the only cloud based tax planning app on the market.
+• ETA: 2 months
+• Link:
+Team size 1
+My position Fontend Developer
+My responsibility • Developed UI and some logic of website follow design. 
+• Implemented responsive UI.
+Technologies used Nextjs, VS Studio, GIT, Figma
+Virtual tour (Freelancer)
+( SEP 2020 - MAR 2022 )
+Customer James customer
+Description Virtual tour project builds one frame UI about landing page and register form, and allows 
+customer to manage pages with domain, content, themes, styles and layout custom.
+Team size 1
+My position Fontend Developer
+My responsibility • Develop new features follow UI design.
+• Fix bugs and maintain source code.
+Technologies used Reactjs, Nextjs, VS Studio, GIT, Figma
+Chiyoda Application
+( JUL 2016 - MAY 2018 )
+Customer CHIYODA Corporation
+Description
+CHIYODA project is Windows Form Application, which helps manage orders, planning, 
+arrangement, manufacture, shipping, sales, claim/billing,... of industrial materials, package, 
+decorative and publication printing services utilizing. 
+Team size 4
+My position Software Developer
+My responsibility • Development and testing new features, fix bugs from customer requirements. 
+• Upgrades project from MVC framework to MVVM framework. 
+Technologies used VB .NET, Oracle, PostgreSQL, Visual Studio, GIT
+HONORS & AWARDS
+Certificate of Global Software Talent training (Global Java Developer at FPT) Sep, 2015 
+The best employee of the year (TradingFoe Basis Trading Co. Ltd) 2020 © topcv.vn

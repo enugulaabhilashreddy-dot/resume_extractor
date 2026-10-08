@@ -1,0 +1,247 @@
+9/2011 - 06/2016 Đại học Điện Lực
+Chuyên ngành: Công nghệ thông tin
+Tốt nghiệp loại Khá, điểm trung bình 7.0
+9/2011 - 06/2013 Bách Khoa Aptech
+Chuyên ngành: Công nghệ thông tin
+Tốt nghiệp loại Khá, điểm trung bình 7.0
+12/2020 - Hiện tại Công ty Kim Nam Tech
+Team leader
+* Kĩ năng lập trình 
+- Lập trình trên nền PHP : framework Laravel, Moodle, Magento 2 
+-Vận hành quản lý server học trực truyến e-school và veredu sử dụng Docker và
+ubuntu 
+-Vận hành quản lý hệ thống  tài chính, thương mại điện tử, học trực tuyến bằng
+GIT và Docker, ubuntu 
+- Phát triển các module mới và cập nhật các module cũ trên nền Laravel, Moodle
+và Magento 2 
+* Kĩ năng quản lý  
+- Phân tích thiết kế hệ thống 
+- Nhận nhiệm vụ từ Manager, phân tích công việc giao việc cho đội nhóm quản lý
+công việc theo đúng thời hạn được giao.  
+-Trao đổi với khách hàng nếu Manager bận. 
+-Phân bố công việc và đánh giá hiệu suất làm việc của các thành viên trong
+team. 
+-Đào tạo nhân lực, hướng dẫn thành viên trong nhóm mình cách làm việc để tạo
+được kết quả chung. 
+Đặng Xuân Mỹ
+Ngày sinh  24/12/1992
+Giới tính  Nam
+Điện thoại
+Email
+Địa chỉ  Gia Lương - Việt Hùng - Đông Anh - Hà Nội
+Website
+MỤC TIÊU NGHỀ NGHIỆP
+Tìm được một công việc trong môi trường chuyên nghiệp, tôn trọng lẫn nhau và tận dụng được kinh
+nghiệm lập trình PHP tôi đã tích lũy được trong 7 năm qua. Cơ hội học tập làm việc tiếng Anh. Ưu tiên
+cho những công việc có tính chất quản lý, tuy nhiên vẫn chấp nhận những công việc làm việc độc lập với
+tính chuyên môn kỹ thuật cao.
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+
+-Duy trì ổn định server và cài đặt những module liên quan. 
+- Kiểm soát được công việc và đưa ra những điều chỉnh kịp thời. 
+02/2020 - 11/2020 Công ty cổ phần Tài Chính Việt
+Lập trình viên
+- Phân tích thiết kế hệ thống  
+- Lập trình trên nền PHP : framework Laravel, CI, MongoDB 
+-Thiết kế các báo cáo tài chính trong hệ thống... 
+-Vận hành quản lý hệ thống  fintech tài chính bằng GIT và base. 
+-Quản lý contact, hợp đồng , công thức thanh toán, tất toán trả lãi cho nhà đầu tư
+và khách hàng, kết nối cổng thanh toán và thanh toán tự động cho nhà đầu tư và
+giải ngân cho khách hàng . 
+-Hỗ trợ phòng ban liên quan và liên kết đối tác hợp tác bảo hiểm , cổng thanh
+toán ... 
+* Kĩ năng quản lý 
+ - Phân tích thiết kế hệ thống 
+ - Nhận nhiệm vụ từ Manager, phân tích công việc giao việc cho đội nhóm quản
+lý công việc theo đúng thời hạn được giao. 
+ -Trao đổi với khách hàng nếu Manager bận. 
+ -Đào tạo nhân lực, hướng dẫn thành viên trong nhóm mình cách làm việc để tạo
+được kết quả chung. 
+ -Duy trì ổn định server và cài đặt những module liên quan. 
+12/2018 - 01/2020 Công ty Apaxenglish
+Lập trình viên
+- Phân tích và thiết kế hệ thống 
+ - Lập trình trên PHP: framework Laravel, Vuejs, NodeJs 
+ -Thiết kế báo cáo trên hệ thống CRM... 
+ -Sử dụng Stress Test, cache, index, tối ưu mã lozic cho hệ thống  
+Ổn địnhhoạt động . 
+ -Thiết kế chức năng tuyển sinh, đăng ký lớp.... 
+ -Hỗ trợ khách hàng sử dụng hệ thống 
+06/2016 - 12/2018 Công ty cổ phần UNICA
+Lập trình viên
+- Phân tích thiết kế hệ thống. 
+- Lập trình hệ thống học trực tuyến , bằng ngôn ngữ PHP 
+framework yii2. 
+- Tối ưu hệ thống để chạy với số lượng học viên Online lớn. 
+- Tham gia làm hệ thống thống kê các phần quản lý Backend và công cụ các
+nhân cho user học viên. 
+06/2014 - 04/2016 Trung tâm Viễn thông và Công nghệ thông tin (EVNICT)
+Thực tập viên
+- Viết các tài liệu nghiệp vụ phân tích thiết kế hệ thống Quản lý đề tài khoa học
+công nghệ.
+- Viết tài liệu Prototype cho hệ thống Dịch vụ công trực tuyến.- Nghiên cứu tìm
+hiểu lập giải pháp cho dự án “Xây dựng trung tâm CSDL KHCN của Tập Đoàn
+Điện Lực Việt Nam”. 
+ - Viết tài liệu nghiệp vụ phân tích thiết kế hệ thống, Prototype dự án “Quản lý
+thông tin Đoàn Viên (Sổ đoàn điện tử)”. 
+ - Tham gia lập trình dự án: “Quản lý thông tin Đoàn Viên (Sổ đoàn điện tử)” trên
+nền Sharepoint.
+
+10/2013 - 08/2014 Nhóm sinh viên tình nguyện Đại Học Điện Lực
+Tình nguyện viên
+Tập hợp các món quà và phân phát tới người vô gia cư. 
+- Chia sẻ, động viên họ vượt qua giai đoạn khó khăn, giúp họ có những suy nghĩ
+lạc quan. 
+- Phân luồng giao thông , làm sạch công viên Nghĩa Đô 
+2013 ACCP Bách Khoa APTECH
+2015 Học bổng loại Giỏi Đại Học Điện Lực
+Tin học văn phòng - Sử dụng thành thạo các công cụ Word, Excel, Power Point
+Tiếng Anh - Khả năng đọc hiểu  Tiếng Anh chuyên ngành
+Lập trình - Khả năng lập trình hệ thống và tối ưu hệ thống wesbite PHP với các framework
+Yii2 ,laravel , nodejs, vujs, CI
+Làm việc nhóm - Khả năng làm việc với đối nhóm và làm việc độc lập
+Phân tích thiết kế - Khả năng viết phân tích thiết kế hệ thống
+Làm việc - Khả năng giải quyết nhiều công việc và chịu áp lực cao
+HOẠT ĐỘNG
+CHỨNG CHỈ
+GIẢI THƯỞNG
+CÁC KỸ NĂNG
+SỞ THÍCH
+Đọc sách - Mỗi tháng đọc 1 quyển sách về lập trình. 
+Tập gym - Tham gia hoạt động tập gym hàng ngày. 
+Xem phim  
+Nghe nhạc 
+ 
+ 
+ 
+THÔNG TIN THÊM
+- Tính cách:Vui vẻ hòa đồng, hay giúp đỡ những người khác trong học tập và công việc có ý thức khi ra
+tập thể chung, những nơi học tập và làm việc trước đây được mọi người quý mến giúp đỡ. 
+- Mục tiêu cá nhân :  
++ Mục tiêu 3 năm tới: Phấn đấu trở thành lập trình viên giỏi và trở thành người phân tích thiết kế hệ thống
+giỏi. + Mục tiêu xa hơn: Phấn đấu để trở thành quản lý dự án.
+
+DỰ ÁN
+(2021 - Hiện tại)
+Khách hàng Kim Nam
+Mô tả dự án - Hệ thống website Tài chính
+Số lượng thành viên 4
+Vị trí công việc Lập trình viên - Leader quản lý công việc
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module trên nền website. 
+- Tối ưu code 
+- Sửa lỗi 
+- Phân phối công việc 
+Công nghệ sử dụng - PHP  Laravel 
+ 
+(2021 - hiện tại)
+Khách hàng Kim Nam
+Mô tả dự án - Hệ thống website ví điện tử , cổng thanh toán.
+Số lượng thành viên 4
+Vị trí công việc Lập trình viên - Leader quản lý công việc
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module trên nền website. 
+- Tối ưu code 
+- Sửa lỗi 
+- Phân phối công việc 
+Công nghệ sử dụng - PHP  Moodle và Magento 
+ 
+(2020 - 2021)
+Khách hàng Tien ngay
+Mô tả dự án - Hệ thống website tài chính.
+Số lượng thành viên 10
+Vị trí công việc Lập trình viên - Leader
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module trên nền website. 
+- Tối ưu code 
+- Sửa lỗi 
+- Phân phối công việc 
+Công nghệ sử dụng - PHP  CodeIgniter 
+ 
+(2018 - 2020)
+Khách hàng apaxenglish
+Mô tả dự án - Hệ thống website quản lý học tiếng anh.
+Số lượng thành viên 4
+Vị trí công việc Lập trình viên
+ế ế ố
+
+Vai trò trong dự án - Phân tích và thiết kế hệ thống 
+- Phát triển module trên nền website. 
+- Tối ưu code 
+- Sửa lỗi
+Công nghệ sử dụng - PHP  Laravel 
+ 
+(2018 - 2018)
+Khách hàng AZ88
+Mô tả dự án - Website tin tức giới thiệu công ty.
+Số lượng thành viên 4
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module trên nền website. 
+- Tối ưu code 
+- Sửa lỗi
+Công nghệ sử dụng - PHP  CodeIgniter 
+ 
+(2018 - 2018)
+Khách hàng AZ88
+Mô tả dự án - Cổng thẻ cào cung cấp API cho các website khác có nhu cầu thanh toán về
+thẻ cào trực tuyến.
+Số lượng thành viên 4
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module trên nền website. 
+- Tối ưu code 
+- Sửa lỗi
+Công nghệ sử dụng - PHP  Yii2, CodeIgniter 
+ 
+(2016 - 2018)
+Khách hàng INET
+Mô tả dự án
+- Cổng học trực tuyến cho người đi làm , giáo viên có thể đăng ký bài giảng ,
+học viên có thể đăng ký học trực tuyến quy mô trên cả nước với các diễn giả
+nổi tiếng đăng ký.
+Số lượng thành viên 4
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module thống kê, quản lý backend, quản lý công cụ học viên và
+giảng viên. 
+- Tối ưu code 
+- Sửa lỗi
+Công nghệ sử dụng - PHP Yii2  
+(2017 - 2018)
+Khách hàng DODAIHOC
+Mô tả dự án - Cổng học trực tuyến cho học sinh cấp 3 , học viên có thể đăng ký học trực
+ế ổ ế
+
+tuyến quy mô trên cả nước với các giao viên nổi tiếng Hà Nôi.
+Số lượng thành viên 8
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phát triển module thống kê, quản lý backend, quản lý công cụ học viên và
+giảng viên. 
+- Tối ưu code 
+- Sửa lỗi
+Công nghệ sử dụng - PHP yii2 
+ 
+Hệ thống quản lý các khóa học ngắn hạn tập đoàn Điện Lực
+(2014 - 2015)
+Khách hàng TẬP ĐOÀN ĐIỆN LỰC EVN
+Mô tả dự án - Hệ thống website giúp các lãnh đạo và nhân viên tập đoàn EVN khi học ngắn
+hạn tại Đại học Điện Lực
+Số lượng thành viên 8
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống 
+- Phát triển module 
+- Tối ưu code 
+- Sửa lỗi
+Công nghệ sử dụng - ASP .NET 
+ 
+©

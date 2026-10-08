@@ -1,0 +1,92 @@
+NGUYỄN TRÍ THANH
+AI Engineer & Project Leader
+ ✉  ễn-trí-thanh  Ho Chi Minh City, Vietnam
+OBJECTIVE
+I am driven to amalgamate my expertise in Artificial Intelligence with the fields of Automation and Control, specifically within the domain 
+of Mechatronics, which constitutes my primary area of focus. Through self-directed learning and active participation in AI initiatives at my 
+university's IUD Lab, I have nurtured a profound interest in amalgamating these realms to establish what I term an "Intelligence Control 
+System." I firmly advocate that by harnessing AI within the Automation and Control sectors, industries can unlock unprecedented prospects
+for high-precision and high-speed production. This vision has long been a personal aspiration of mine, and I am wholeheartedly dedicated 
+to exerting my utmost endeavor to manifest it into reality. 
+EDUCATION
+Bachelor_Ho Chi Minh City University of Technology Oct 2020 - Present
+Major: Mechatronics
+GPA: 7.92/10.0 (3.3/4.0)
+WORK EXPERIENCE
+IUD Lab - Ho Chi Minh University of Technology Oct 2022 - Present
+Artificial Intelligence Engineer & Project Leader
+Main responsibilities:
+- Hand-on projects about Machine Learning and Artificial Intelligence for experiences and knowledges for future larger projects.
+- Research about Computer Vision, Machine Learning algorithms and Deep Learning architectures to build and implement network in 
+project modules with real-time requirement.
+- Research on automation systems and robotics to connect software and hardware together for better operations.
+- Leader of automated plastic waste sorting system project for a well-known plastic recycling company in Vietnam (5 team members).
+Recognition and Gains:
+-  Machine Learning, Deep Learning, Computer Vision in real-time application.
+-  Robotics, Automation Control System, Intelligence Control System.
+-  Project Management.
+Beckhoff Automation Vietnam (Germany Automation Equipment Supplier Branch in Vietnam, main 
+global customers: Tesla, Airbus, Intel)
+June 2022 - Aug 2022
+Machine Learning Intern
+Main responsibilities:
+- Support country manager to apply Machine Learning in Automation tasks via Beckhoff TwinCAT 3, Open Neural Network Exchange 
+(ONNX), PLC API and Structure Text for basic demo and further applications in partners' tasks.
+- Help other engineers to meet partner's demand by making documentations for further training and applying in companies.
+Recognition and Gains:
+- My most valued success: Deploying Machine Learning models such as MLP, k-Means, etc into TwinCAT 3 for further application tasks 
+such as: Optimize machine's energy, Classification of damaged or undamaged foods, etc of company and partners.
+- Be able to give instructions for others in the company, give them the ability to apply when company's partners demand.
+
+Nhat Tinh Company Limited Jun 2023 - Aug 2023
+Computer Vision Intern
+Main responsibilities:
+- Hand-on projects on Computer Vision field: Detecting cracks on tires.
+- Research about Computer Vision network for adapting efficiently with projects.
+- Labeling real data for training network with CVAT.
+Recognition and Gains:
+- Deep Learning, Computer Vision, CVAT.
+PROJECTS
+IUD Lab - Ho Chi Minh City University of Technology Jan 2023 - Now
+Plastic Waste Sorting System
+- Apply Deep Learning architecture for plastic bottle trash detection.
+- Design and build the automatic system for this task.
+- Lead and manage team for better performance.
+Coursera July 2022 - Aug 2022
+SpaceX Dataset Analysis
+-Analyze about SpaceX datasets provided by IBM in commercial space age.
+-Build dashboard and visualize charts to get insights.
+-Apply Machine Learning models for regression.
+-GitHub link:
+CERTIFICATIONS
+"Fine-tuning DETR: Toward Holistic Process in Plastic Waste Sorting System" paper in Waste 
+Management journal (DOI: )
+2024
+Deep Learning Specialization from  issued by Coursera 2022
+Python3 Programming Specialization, issued by Coursera 2022
+IBM Data Science Professional Certificate from IBM Skill Network, issued by Coursera 2022
+TensorFlow Developer Professional Certificate, issued by Coursera 2022
+IELTS 6.5 issued by IDP Ho Chi Minh 2020
+HONORS & AWARDS
+Marvell Vietnam Excellence Scholarship 2024 awarded by Marvell Vietnam 2023-2024
+"HBKK" Scholarship awarded by Ho Chi Minh City University of Technology 2022-2023
+BKA Scholarship awarded by BKA and Mechanical Department - Ho Chi Minh City University of 
+Technology
+2022-2023
+SKILLS
+
+Language Vietnamese, English
+Microsoft Office Word, Excel, Powerpoint
+Programming Languages Python, SQL, R, C, Matlab 
+AI Frameworks TensorFlow, PyTorch (with CUDA), Scikit-Learn
+Programming IDE Visual Studio Code, Pycharm, Google Colaboratory
+REFERENCES
+Associate Professors PhD. Luu Thanh Tung, Head of Department of 
+Construction Machinery and Handling Equipment, Faculty of 
+Mechanical Engineering, Ho Chi Minh City University of 
+Technology, Vietnam National University,
+Doan Thi Sen, My Mentor from BK Mentoring,
+INTERESTS
+I like Data, Artificial Intelligence and Automation. I want to combine them together and create totally smart factory for every aspect. My 
+hobbies are soccer, chess and strategic games.
+© topcv.vn

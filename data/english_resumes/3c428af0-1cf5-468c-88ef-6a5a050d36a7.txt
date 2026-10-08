@@ -1,0 +1,160 @@
+1 
+PERSONAL INFORMATION 
+ 
+Full name: Trần Trung Khuyến – Born in 1986 
+Email:  | Mobile phone:  
+Working styles: Professional ethics, industriousness, high sense of 
+responsibility, never giving up. 
+SUMMARY 
+As an IT Technical Delivery Manager at Pharmacity, I manage a team of more than 10 professionals 
+responsible for ensuring that all in- house applications function seamlessly,  and that the existing system is 
+enhanced with microservices and AWS cloud. I have experience working with Cloud technologies such as: 
+RDS, Kubernetes, Kafka, S3, SES; and open- source technologies, including NodeJS, Golang, PHP, React 
+Native, Elasticsearch, and databases like MongoDB, Redis, and MySQL. The Project manager role I work 
+with vendor to implement HR system and E -contract system. Furthermore, I'm proficient in managing API 
+integrations with third-party systems, including AX, BI, Salesforce, and Delivery partners. As part of my role, 
+I effectively manage budgets. Additionally, I work closely with business owners, providing them with 
+solutions and best practices for their requirements. Before joining Pharmacity, I worked as an IT Business 
+Solutions Manager at DKSH Vietnam, where I managed a team of three people and outsourced vendor teams 
+responsible for IT development, delivery, and maintenance for four BUs in Healthcare, FMCG, Technology, 
+and PM. My experience includes managing in-house applications and supporting global applications, such as 
+SAP ERP, DMS, HR, E -contract, E-invoice, and Salesforce CRM. I also managed a team responsible for 
+proposing solutions, designing, developing with .NET technology, and supporting users. Additionally, I 
+managed various projects such as the development of the financial workflow system, and SAP ER P 
+implementation. Overall, I possess strong leadership skills, a proactive attitude, and a proven track record of 
+delivering excellent results on time and within budget. 
+EXPERIENCE 
+PHARMACITY, Ho Chi Minh City: Mar 2022 - Current 
+Role: As the IT Technical Delivery Manager, I report to the CIO and oversee a team of over 10 professionals 
+including Backend, Frontend, Mobile, BA, Designer, and DevOps. My primary responsibility is to ensure the 
+smooth functioning of all internal IT applications. Additionally, I work towards enhancing the current system 
+by implementing microservices and leveraging the AWS cloud. 
+Key responsibilities 
+1. Inhouse applications management: oversee the management of all in -house applications on AWS 
+utilizing open-source technologies such as NodeJS, Golang, PHP, React Native, Mongo, Redis, and 
+MySQL, among others. 
+2. Integrations: successfully managed third -party integrations such as E -Contract and ensured API 
+security using tools like Kraken, Kong, and Digi runner. 
+3. Leadership: developed standard code and workflow, built an engaged team, and positively impacted 
+the team's behavior. Additionally, I have effectively planned and controlled my team. 
+4. Built the technical architect: standard code/ SonarQube; Source control: GitHub; Task control: Jira 
+and azure board; Deployment: Jenkin; API gateway: Kraken; Monitoring: New relic/Grafana.
+
+2 
+5. Work with business owners: Working closely with business owners, I manage project delivery 
+timelines, propose solutions, and best practices, and ensure the timely delivery of results. 
+Projects 
+● HR system, E-contract system, AI chatbot, Salesforce implementation with the vendor. 
+● Manage the videos running at the store. Control the video running at the store on smart Tivi, the staff 
+office can be removed, or upload new videos on the web page. 
+● Stock count at the store. Built the mobile app for pharmacists to count the stock at the store which will 
+be integrated with the ERP system. 
+DKSH VIETNAM, Ho Chi Minh City:  June 2018 – Mar 2022 
+Role: As the IT Business Solutions Manager, my key responsibility is to ensure smooth IT development, 
+delivery, and maintenance for four different Business Units (BUs) - Healthcare, FMCG, Technology, and PM. 
+I manage a team of three people along with outsourced vendor teams, which include Hitachi, VNPT, Planet 
+Press from Thailand, and CRM-Thailand. 
+Key Responsibilities 
+1. Non-SAP Applications Management : Owner of all in -house applications (web, Windows 
+application, and windows services, API, SQL server, C# ) and support the operation for global 
+applications such as DMS, Echo-plus, and Salesforce CRM global.  
+● Support the operation for taking orders with huge transactions and big data by web, PDA, or 
+customer connect, and E-commerce order (Lazada) integration with SAP. 
+● Support business following the government degree and Audit. 
+● Propose the solutions for business and IT Director 
+● Enhancing the systems can scale up the system easily. 
+2. Integrations 
+● Integrated SAP ERP with in -house-developed applications: web -ordering, SAP contract, SAP 
+pricing, … 
+● Integrated with a third-Party company such as B2B and Lazada for order processing. 
+3. Manage a team of 3 people and an outsourced vendors ’ team to propose the solutions, design , 
+develop and support users, my team manages the outsourced vendors and manages the global IT team 
+to support business. 
+Projects 
+● Redesign the web -order  to adapt the business growth by enhancing SQL query and 
+applying LinQ and Ajax  C#, SQL server, SAP)  
+● SFA (salesforce adminis  is a project to manage sales KPI and sales performance, and 
+manage the sales mapping integrated with HEC echo-plus. 
+● Upgrade DMS web and PDA system to enhance performance and apply new technology (MVC, new 
+PDA application) for FMCG. 
+● Develop SAP and Echo-plus for sales HEC to take the order on PDA and integrate with SAP to create 
+the sales order. 
+● Develop Full E -invoice systems with 32 Degrees with about 15.000 to 20.000 bills per day . 
+Implement E-invoice for Agency with VNPT and Soft Dream vendor.
+
+3 
+● Develop a Tender system for full-agency clients and internal user access to control and manage the 
+tender, update status win-fail, and integrate with SAP (ASP, C#, SQL server) 
+● RPA for finance process: automation the workflow and replace human workload. 
+Awards 
+● Committed to the DKSH award 2019. 
+● HEC award in 2020 for a new entity project. 
+MARICO SOUTHEAST ASIA, Ho Chi Minh City:  Sep 2014 – June 2018 
+Role: Senior IT Supervisor, Applications. Manage a team of 2 people. 
+Key Responsibilities 
+1. SAP ERP functional support: SD, PP, MM, HR SuccessFactors and Master data  
+● Discuss with business users to understand the business requirements and then write down the 
+functional specification and get it signed off and then work with the SAP team in configuration 
+or enhancement. 
+● Take part in all related SAP and Master data management portal projects implemented in VN. 
+2. Business analysis and application development 
+● Work with function heads to get the requirements and discuss with the IT Head and the CFO to 
+decide the business process and priorities of each project to do. 
+● Review technical feasibility and work with the team to develop timelines for product 
+development. 
+● Manage projects to upgrade and enhance business system software. Create training and SOP 
+documents and provide training. 
+● Integrate SAP ERP with in-house-developed applications. 
+Projects 
+● Planning and delivering the development of the financial workflow system (ASP, C#, SQL server). 
+● SAP ERP implementation for the Food business go-live smoothly. 
+● Successfully developed the Inhouse application workflow systems such as Expense Claim, Travel 
+request, Contract Management, In-direct procurement, document control (ASP, C#, SQL server) 
+Awards 
+● Group award - Team values award. 
+● Excellent employee award. 
+THÁI TUÂN GROUP/BEAUTY COSMETICS, Ho Chi Minh City: Sep 2008 – Sep 2014 
+Role: Developer and Business Analyst/IT Supervisor, Applications. Manage 1 person. 
+Responsibilities  
+1. Business analysis 
+● Managed all IT systems for the company (budget, help desk team, application team, and IT 
+planning). 
+● Collaborate with cross-functional teams in global locations to build software architectures that 
+resolve complex business problems. 
+● Work with senior management and executive staff to develop cohesive plans for the development 
+of innovative software products.
+
+4 
+2. Application development 
+● Project end to end development process (BA->DB Design  Development -> Implementation). 
+● SQL development for background job and enhancement SQL query performance. 
+3. Operation support 
+● Ensure all systems work correctly and smoothly. 
+● Support end user. 
+Projects 
+● Implement a successful  finance system/Sales system/Inventory system and reduce order processing 
+(ASP, C#, SQL server) 
+● Implement successful documents Management/IT requirement/HR management. (ASP, C#, SQL 
+server) 
+Awards 
+● Award for the most improvement in 2013. 
+EDUCATION 
+IT Engineer, Mekong University, 2008. 
+Database DB2 9.7, IBM information management software. 
+Network admin, University of Science HCM, Vinh Long Province 2006. 
+Time management, University of Economics, Thai Tuan Group 2010. 
+SAP implementation: SAP Implementation for Foods Plant. 
+REFERENCE 
+Name: Mr. Cao Tấn Thiết 
+Position: CIO Pharmacity 
+Email:  
+Phone:  
+ 
+Name: Ms. Hứa Trần Mỹ Phương 
+Position: IT Director DKSH Vietnam 
+Email:  
+Phone:  
+ 
+DigiSigned by
+Date: 11/12/2023
+5:25:50 PM ICT

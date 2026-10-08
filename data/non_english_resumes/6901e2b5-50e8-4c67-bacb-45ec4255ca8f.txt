@@ -1,0 +1,91 @@
+Đỗ Quang Trung
+Ngày sinh:
+Giới tính:
+Điện thoại:
+Email:
+Địa chỉ:
+Java Developer
+15-08-1997
+Nam
+Đình Thôn, Mỹ Đình 2, Nam Từ Liêm, Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+Trở thành một Java Developer chuyên nghiệp trong ngắn hạn. Trong dài hạn định hướng trở thành Project Manager
+KINH NGHIỆM LÀM VIỆC
+ 
+ 
+Mô tả:
+ - 
+ 
+ 
+Mô tả:
+Thành tích đạt được:
+ - 
+ 
+ 
+Mô tả:
+Thành tích đạt được:
+ - 
+06-2019 10-2019 Công Ty Cổ Phần Viễn Thông FPT (FPT Telecom)
+Kỹ thuật viên
+Chịu trách nhiệm bảo trì và khắc phục sự cố hệ thống mạng viễn thông FPT, cấu hình và thiết lập các hệ thống 
+mạng LAN quy mô vừa và nhỏ
+10-2019 04-2022 Tập đoàn Khoa Học Kỹ thuật Hồng Hải (Foxconn)
+Kỹ sư phát triển sản phẩm
+- Nghiên cứu và phát triển các hệ thống nhà xưởng thông minh (Smart Factory).
+- Chịu trách nhiệm bảo trì và nâng cấp các hệ thống sản xuất, hệ thống nhân sự, chấm công, tiền lương và đào 
+tạo cho cán bộ công nhân viên.
+- Giám sát và quản lý các tiêu chuẩn về bảo mật thông tin trong công ty.
+- Đào tạo và hướng dẫn sử dụng, vận hành hệ thống cho cán bộ công nhân viên.
+- Viết tài liệu hướng dẫn sử dụng và tiêu chuẩn bàn giao.
+- Team Leader của team Mobile App, chịu trách nhiệm quản lý và giám sát các thành viên trong nhóm để đạt 
+được kết quả như đã đề ra.
+- Tham gia đào tạo và bồi dưỡng kỹ năng cho các thành viên trong nhóm.
+- Nhân viên xuất sắc trong năm 2021
+04-2022 09-2022 FPT Software
+Senior Java Developer
+- Chịu trách nhiệm nghiên cứu và phát triển các chức năng cho hệ thống của khách hàng Nhật Bản.
+- Chịu trách nhiệm soạn thảo tài liệu BD, FUT cho chức năng vừa phát triển.
+- Phối hợp với các thành viên trong nhóm xử lý và khắc phục các lỗi phát sinh cũng như tìm ra hướng giải quyết 
+tối ưu cho vấn đề.
+Nhập thành tích đạt được
+HỌC VẤN
+ 
+Chuyên ngành:  
+Tên bằng cấp:  
+Loại tốt nghiệp:
+ - 09-2015 05-2019 Đại Học Công Nghiệp Hà Nội
+Công Nghệ Kỹ Thuật Điện Tử, Viễn Thông
+Bằng Kỹ Sư Điện Tử
+Khá
+
+KỸ NĂNG
+Kỹ năng chính:
+Kỹ năng khác:
+- Thành thạo Java Core, C, JavaScrip, Java Android. 
+                             - Có hiểu biết về Flutter. 
+                             - Sử dụng thành thạo Spring Boot Framwork, Strutts Framwork, Hibernate, JPA. 
+                             - Có kinh nghiệm về SQLServer, MySQL, Oracle. 
+                             - Có kinh nghiệm thao tác và sử dụng Server Windows, Linux. 
+                             - Có kinh nghiệm về tối ưu hoá SQL, Performance của hệ thống. 
+- Kỹ năng làm việc nhóm và làm việc độc lập. 
+                           - Tư duy logic tốt, khả năng xử lý vấn đề nhanh. 
+SỞ THÍCH
+- Đam mê công nghệ, đặc biệt là những công nghệ mới liên quan đến IOT.
+NGOẠI NGỮ
+- Nghe: - Nói: - Đọc: - Viết:
+TIẾNG ANH
+Khá Khá Khá Khá
+TIN HỌC
+Tin học văn phòng
+- MS word: - MS Excel: - MS power point: - MS Outlook:
+Phần mềm khác:
+Tốt Tốt Tốt Tốt
+Thành thạo các IDE dùng trong Development (Intellij, Postman, Database tool, ...)
+NGƯỜI LIÊN HỆ
+- Công ty:
+- Họ và tên:
+- Điện thoại:
+- Chức vụ:
+Tập đoàn KHKT Hồng Hải (Foxconn)
+Nguyễn Văn Đào
+Project Manager

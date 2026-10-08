@@ -1,0 +1,144 @@
+1 
+TRƯƠNG ĐÌNH THÁI 
+ 
+     Số 12, đường 67, phường Tân Quy, Quận 7 
+Mobile:  
+                         Email: 
+ 
+ 
+SƠ YẾU LÝ LỊCH 
+ 
+ 
+ Thông tin cá nhân: 
+ 
+ Quốc tịch   Việt nam 
+ Kết hôn   Đã kết hôn 
+ Sinh ngày   22/09/1991 
+ Kinh nghiệm:  Từ 07/2018 – Hiện nay: CÔNG TY CỔ PHẦN SỮA VIỆT NAM - VINAMILK 
+– Số 10, đường Tân Trào, phường Tân Phú, Quận 7 - HCM. 
+Chuyên viên Quản Lý Mạng: Chịu trách nhiệm chính cho các kết nối mạng 
+và an toàn thông tin tại Trụ Sở đến hơn 40 site Chi nhánh, Nhà máy, Trang 
+trại Resort Bò Sữa.  
+ Quản lý các thiết bị Firewall PaloAlto, SRX3400, SRX340 tại Data Center 
+và các site. 
+ Quản lý toàn bộ Router Switch Layer2-3 Cisco,Juniper, Aruba ở 
+DataCenter và chi nhánh (gần 500 thiết bị). 
+ Vận hành đảm bảo kết nối mạng xuyên suốt giữa các Chi nhánh, nhà máy 
+kết nối về Văn Phòng Công Ty thông qua MPLS, VeloCloud SD-WAN và 
+kênh ExpressRoute tới Azure. 
+ Quản lý, phân quyền truy cập của người dùng thông qua Firewall Layer 7 
+PaloAlto. 
+ Quản lý việc kết nối mạng của người dùng thông qua Forescout (NAC). 
+ Vận hành hệ thống trên Microsoft Azure: Nhánh DR Site, Application 
+Firewall (WAF), Azure Firewall và các resource khác. 
+ Vận hành hệ thống Wifi Cisco Meraki và Ruckus Controller, Aruba Wifi. 
+ Cân bằng tải đường truyền thông qua Peplink Balance 710. 
+ Xây dựng hệ thống giám sát (Cacti, PRTG, Opmanager). 
+ Sao lưu, backup cấu hình định kỳ hơn 500 Router Switch. 
+ Triển khai xây dựng hạ tầng mạng cho các chi nhánh, nhà máy, trang trại. 
+ Quản lý, đảm bảo các tiêu chuẩn compliance cho hệ thống Office365, 
+Intune Endpoint, Security Microsoft và các thiết bị BYOD kết nối sử dụng 
+tài nguyên của Vinamilk. 
+ Theo dõi giám sát an toàn thông tin toàn tổ chức về mảng CNTT, tham gia 
+đội SOC Team ứng phó với các rủi ro trong hệ thống: Risk User, Risk 
+Device, Attack Surface thông qua Proxy Firewall: Microsoft Defender for 
+Cloud Apps. 
+ Từ 08/2015 – 07/2018: Tòa nhà FPT Building – Khu Chế Xuất Tân Thuận 
+– phường Tân Thuận Đông – Quận 7 – HCM. 
+Quản trị hệ thống mạng: Chịu trách nhiệm chính cho các kết nối mạng của 
+Trụ Sở đến các công ty thành viên. Quản trị tất cả các tác vụ về Công Nghệ 
+Thông Tin tại văn phòng.
+
+2 
+ Quản lý các thiết bị Router CORE Cisco, switch, wireless lan controller.), 
+Routing and switching traffic, theo dõi lưu lượng. 
+ Quản trị hệ thống email Microsoft Exchange Server 2010 với hơn 40.000+ 
+người dùng. (viết các đoạn code Powershell  được yêu cầu). 
+ Quản trị email của các công ty thành viên FPT (FPT, Vnexpress, Sendo, 
+FPT Edu, FIS, Nhacso, NgoiSao, Gamethu . . .) 
+ Cấu hình policy mail đến/đi của hệ thống. 
+ Quản trị hệ thống ảo hóa ESXi 6.5 và Windows 2012 Server. 
+ Quản trị tường lửa Kerio + ASA. 
+ Quản trị hệ thống thoại Cisco (CCNA+). 
+ Quản trị mạng xã hội Facebook at Work cho công ty. 
+ Xây dựng hệ thống giám sát (Cacti, PRTG, ManageEngine ADManager, 
+SolarWind...) 
+ Từ 08/2014 – 07/2015: Công ty hệ thống thông tin FPT Information 
+System – Phan Xích Long, Phú Nhuận, HCM. 
+ 
+Kĩ sư mạng: Làm việc với nhóm thiết kế và khắc phục sự cố mạng cho 
+khách hàng khi có yêu cầu.  
+ Bảo trì phần cứng của khách hàng, sao lưu backup. 
+ Liên hệ Cisco RMA (Return Material Authorization) cho các thiết bị sản phẩm 
+lỗi để bảo hành (Cisco, HP, Juniper. . .) 
+ Lập lịch bảo trì hàng tháng cho các khách hàng (Ngân Hàng Nhà Nước Việt 
+Nam, Cocacola, Bảo hiểm Generali, Bảo hiểm Great Eastern Life, Ngân hàng 
+HDBank, Omya, Ngân hàng SCBANK, Top Sovent, Ngân hàng VIETCOMBANK, 
+Dầu khí BP Castrol, ACE Life. 
+ Có kiến thức về BoM giá Cisco. 
+ Có kiến thức cấu hình và tự học các thiết bị: Cisco, Fortinet, HP, Juniper…), 
+Firewall (ASA, Kerio), CCNP R/S, CCNA+ Voice, Load Balacing (F5, Peplink…), 
+BlueCoat, Reverbed. 
+ 06/2014 – 08/2014: International Distribution Corporation – IDB. 
+ 
+Nhân viên IT: Hỗ trợ người dùng công ty IDB và các khách hàng. 
+      Hỗ trợ về các vấn đề như phần mềm, phần cứng. 
+ Cấu hình và quản trị tường lửa Pfsense. 
+ Quản trị và cấu hình hệ thống thoại PBX + hệ thống thoại VoiceIP 3CX). 
+ Quản lí thiết bị đầu cuối Voice Patton sử dụng SIP/Trunk của nhà mạng 
+FPT. 
+ Có tìm hiểu về SBC in Voice (Session Border Controller). 
+ Có tìm hiểu về  hệ thống cảnh báo Data Center Alert Avtech. 
+ 
+Quá trình học tập: 
+ 
+ 
+ 
+ 
+ 
+2010 – 2014: Đại học Công Nghệ TPHCM  
+ Chuyên ngành: Mạng Máy Tính 
+ Bằng: Giỏi 
+2013 – 2014 :  
+ CCNA Routing & Switching + Voice + Service Provider 
+ Khóa học CCNP Routing & Switching (Trung tâm VnPro) 
+2014 - 2015            
+ English B level  
+ Ảo hóa VMware vSphere 5.0
+
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Network CORE CCIE course 
+ F5 – Big IP 
+ MS Exchange server 
+ Powershell course 
+2016 - 2017 
+ Office 365 
+ Computer Forensics 
+2018 - 2019 
+ Fortinet - NSE4 
+ Voice - Asterisk 
+ Juniper (JNCIA, JNCIA-Sec, JNCIS-Security) Certificate quốc tế 
+ Microsoft Azure (AZ-103) Certificate quốc tế 
+ ITIL, ITSM 
+ Forescout (Network Access Control) 
+2020 - 2022 
+ Azure Solutions Architect Expert (AZ-303 + 304) Certificate quốc tế 
+ Project Management (PMP) – Trung tâm Robusta 
+ SC200 - Security Operations Analyst 
+ 
+Ngôn ngữ:  Việt Nam – Ngôn ngữ chính 
+ English – Trung bình 
+ 
+Sở thích:  Học hỏi các công nghệ mới. 
+ Hoạt động ngoại khóa. 
+ Bóng đá, xem phim.

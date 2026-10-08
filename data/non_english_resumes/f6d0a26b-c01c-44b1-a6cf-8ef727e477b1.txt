@@ -1,0 +1,104 @@
+NGUYỄN MINH KHÔI  
+Giới tính: Nam  
+Năm sinh: 1988  
+Điện thoại:   
+Email:   
+Địa chỉ : Bình Tân, Hồ Chí Minh.   
+KHẢ NĂNG:   
+- Lập trình và phân tích các phần mềm thuộc lĩnh vực: Kế toán, Kho vận, Bán hàng, Chuyển phát 
+nhanh, Fulfillment, ERP.  
+- Triển khai trên các ngôn ngữ và nền tảng: C#, .NET (Winform, WCF, ASP, .NET Core, Nopcom- 
+merce); Python ( ErpNext …); Java (Android); Web (PHP, Wordpress, JS, Angular JS); Flutter 
+(Mobile cross-platform) 
+- Tiếng Anh cơ bản. 
+ KINH NGHIỆM LÀM VIỆC:  
+- Từ 04/2023  đến 11/2023 
+o Công ty N and H Logistics  
+o Chuyên viên phát triển phần mềm. 
+o Update bổ sung các tính năng theo yêu cầu người dùng cho phần mềm inhouse để chạy 
+đúng ổn định hơn. 
+o Update, chỉnh sửa lại app pick/sort.  
+o Làm tool tính giá xuất kho, nhận hàng return. 
+o Tìm hiểu và triển khai hệ thống phần mềm mới của Công ty, hỗ trợ người dùng, xử lý các 
+sự cố phát sinh.  
+o Nền tảng sử dụng .Net, .Net core.  
+- Từ 04/2021 đến 04/2023 :  
+o Công ty Fintech Draco  
+o Trưởng bộ phận CNTT.  
+o Phân tích nghiệp vụ, Fix GAP cho dự án ERP theo hệ thống kế toán VN (Thông tư 200 và 
+IFRS) . Hệ thống cho thuê tài chính. Camera nhận diện khuôn mặt . Kết nối sàn TMĐT 
+Tiki, Lazada, TickTok.  
+o Tìm hiểu công nghệ, chọn nền tảng để công ty sử dụng.  
+o Nền tảng sử dụng: Ubuntu, Python, Flutter, ERPNext, ECOM, CRM, MySQL, Redis…  
+- Từ 1/2017 đến 10/2020  :  
+o Trung Tâm Khai Thác Bưu Chính Quốc Tế Miền Nam - Cô ng Ty Vận Chuyển Và 
+Kho Vận Bưu Điện (thuộc VnPost)  
+o Chuyên viên CNTT. 
+o Viết dịch vụ hỗ trợ thông quan, quản lý kho nguyên vật liệu, tìm hiểu nghiệp vụ lấy dữ 
+liệu từ các phần mềm có sẵn tạo các báo cáo theo yêu cầu.  
+o Công ty Rồng Thiên Express , Công Ty TNHH Speedex  (Đối tác vận chuyển hàng 
+của Sendo, Lazada ...)  
+o Nhân viên lập trình bán thời gian.  
+o Dự án hệ thống quản lý vận chuyển, API vận chuyển với sàn thương mại điện tử Sendo. 
+o Nền tảng sử dụng: Winform, WCF, Android, Devexpress 
+- Từ 11/2016  đến 12/2017 : 
+o Công ty CPN Bưu Kiện Khẩn, Công ty CPN Phát Việt. 
+o Nhân viên lập trình:  
+o Dự án Quản lý chuyển phát nhanh, tuyến giá cho chuyển phát nhanh, quản lý shipper. 
+Viết các dịch vụ API để khách để có thể tương tác, kết nối phần mềm. Kết nối đối tác 
+vận chuyển Viettel Post, Ninjavan, Tín Tốc, Ahamove, Viettelpost, GHN, GHTK.  
+o Nền tảng sử dụng: Winform, WCF, Android, Wordpress, Devexpress  
+- Từ 1/2014 đến 11/2016:
+
+o Công ty TNHH Dược Phẩm Nghiêm Gia. 
+o Nhân viên IT 
+o Xây dựng phần mềm bán hàng theo tuyến trên thiết bị di động sử dụng: Android, C#, 
+PHP, SQL, MySQL xây dựng thành công đã triển khai cho nhân viên đi bán hàng. 
+o Viết phần mềm quản lý công việc của công ty trên nền web sử dụng Jqery, CSS, AJAX, 
+PHP, MySQL… 
+o Sử dụng  Angularjs, Bootstrap… 
+o Quản lý trang web, viết một số plugin trên Wordpress, Setup web Opencart, google seo, 
+google ads … 
+o Hỗ trợ làm các sự kiện khuyến mãi tại công ty. 
+- Từ 2/2013 đến 12/2023:   
+o Công ty CP Phần Mềm Liên Kết Sáng Tạo  
+o Nhân viên tư vấn hỗ trợ khách hàng, triển khai phần mềm kế toán. 
+o Triển khai phần mềm kế toán. 
+o Viết các báo cáo khách hàng yêu cầu. 
+o Hướng dẫn sử dụng phần mềm kế toán. 
+- Từ 2010  đến 2013:  Học đại học CNTT trường Đại học Khoa Học Tư Nhiên và làm một số việc 
+bán thời gian.  
+- Từ 2007 đến 2010: Học cao  đẳng CNTT trường Đại học  Công Nghiệp Thực Phẩm. 
+ĐỊNH HƯỚNG:  
+- Giải pháp để thực hiện công việc. 
+- Đóng góp cho sự thành công của công ty.  
+- Trở thành một nhân viên mẫu mực.  
+- Tìm hiểu và nắm bắt công việc từ bạn bè, đồng nghiệp. Phát triển các kỹ năng của bản thân. 
+ BẰNG CẤP:   
+- Đại học CNTT trường ĐH Khoa Học Tự Nhiên. 
+Tp. Hồ Chí Minh,  ngày 10  tháng 11 năm 2023  
+Ký tên   
+NGUYỄN MINH KHÔI
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập – Tự do – Hạnh phúc 
+-----o0o----- 
+ĐƠN XIN VIỆC 
+ Kính gửi: Quý Công ty  
+Tôi tên Nguyễn Minh Khôi  (28/12/1988)  
+Hiện ở tại: Bình Tân, Hồ Chí Minh.  
+Tôi được biết công ty đang có nhu cầu tuyển dụng nhân viên ở vị trí: Chuyên viên CNTT. Vậy tôi 
+viết đơn này kính trình lên công ty để xin được tuyển dụng.  
+Sau quá trình học trong ngành công nghệ thông tin. Kinh nghiệm thiết kế và làm một số dự án kế 
+toán, vận chuyển, kho vận, ERP, Fulfillment . Tôi tin rằng mình có thể đáp ứng được các yêu cầu của quý 
+công ty.  
+Ngoài các kiến thức chuyên môn, tôi còn là người có tinh thần đoàn kết, hòa đồng với tập thể, có 
+khả năng làm việc độc lập cũng như theo nhóm trong môi trường có áp lực cao. Vì những kĩ năng, kinh 
+nghiệm nêu trên, tôi tin rằng mình có thể đáp ứng được yêu cầu của quý công ty.  
+Tôi cũng xin cam đoan chấp hành nghiêm chỉnh mọi qui định của công ty và hoàn thành tốt công 
+việc được phân công.  
+Mọi liên hệ về lịch phỏng vấn hay thông tin về hồ sơ, xin vui lòng liên lạc:  ( i).  
+Tôi xin chân thành cám ơn và trân trọng kính chào!  
+Tp. Hồ Chí Minh,  ngày 10 tháng 11 năm 2022  
+Ký tên  
+NGUYỄN MINH KHÔI

@@ -1,0 +1,45 @@
+TRẦN QUANG THIÊN
+DEVELOPER
+
+
+
+
+
+Male
+17-12-1996 Ho Chi Minh City, Viet Nam
+SKILLS
+Advanced level
+ - C#, SQL, .Net, Angular
+Intermediate level
+- Azure DevOps, Sharepoint
+ 
+LANGUAGES
+English (good at 
+reading, listening and 
+writing)
+SOFTWARE
+SQL Server 
+Management Studio 
+(SSMS)
+Visual studio
+Visual code
+Postman
+INTERESTS
+Play game (TFT, LoL,..)
+Walking around the park
+OBJECTIVE
+"
+" Having 3.5 year of  experience developing web application in C#, .Net 
+and Angular
+WORK EXPERIENCE
+ - 08-2018 03-2023 DEVELOPER
+PERCIOFISHBONE VN
+Currently, I'm working on the NGO team. We build the NGO Online system 
+base on .Net, Angular and Sharepoint. NGO Online is a program, project and 
+grant management system specifically designed for NGOs. It run on the 
+Office 365 platform, with the power of the cloud allowing users to access up-
+to-date information and documents from anywhere in the world
+EDUCATION
+ - 08-2014 05-2019 UNIVERSITY OF INFORMATION 
+TECHNOLOGY
+SOFTWARE ENGINEERING

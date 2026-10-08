@@ -1,0 +1,119 @@
+HUỲNH MINH KIỆT
+Lê Quang Định, Phường 1, Gò Vấp, HCM
+    skype :
+❖ Capital Aid for Employment of the Poor Microﬁnance Institution (CEP) March 2021 - Currently
+❖ Amaris VietNam Company FEB 2020 - MAR 2021
+SUMMARIZE
+Senior full-stack developer with over 7 years of experience building and maintaining web, mobile, and desktop
+applications. Proﬁcient in .NET Core, C# on the back-end, and Flutter,Angular, WinForms, and WPF on the front-end.
+Skilled in creating intuitive and user-friendly interfaces, with a strong focus on performance and security. Experience in
+both solo and team English, have experience working with foreigners. 
+ 
+Technical Skill:  
++ Programming Languages: C#,  Dart , Javascript, TypeScript, Express(NodeJs) 
++ Back-end: Net Core 5 6 ,.Net MVC,   ASP Webform, ASP Classic, WCF, SOAP, RESTFUL API, Entity
+Framework, Nancy, Crystal Report, Devexpress XAF 
++ Web font-end: Bootstrap, HTML5, CSS3, Jquery,Devextreme .AngularJS,Angular 4 & 8, ,Kendo UI, Javascript.,
+SignalR. 
++ App desktop: Winform, WPF. 
++ Mobile Technologies: Flutter 
++ Database: SQL Server, Oracle, SQLite 
++ Other skills: Git, Agile development methodologies, REST API design, Azure cloud platform, Figma 
++ Tool: Visual Studio Code, Visual Studio 2017, Visual Studio 2019, Visual Studio 2022,GIT Hub,SVN,TFS... 
+WORK EXPERIENCE
+Senior Fullstack Developer
+1/CEP-CBNV Project: 
+    Develop features for credit department and staﬀ such as customer survey, customer debt collection, community
+development, employee information, update new citizen identity by QR code...
+    Submit the app to apple store and google play. 
+   - Skills used: Flutter , Dart, RESTAPI .NET CORE.
+   - Team size: 1
+2/CEP Project:
+ This is an application for customers, they use the app to know loan information, loan history, monthly payment date,
+interest rate information, apply for a new loan...
+   - Skills used: React Native, RESTAPI .NET CORE.
+   - Team size: 2
+3/CoreBanking Project
+This is a project for the banking system, they are used for loan application management, credit collection
+management, savings deposit management, and many functions for internal employees.... 
+- Skills used: .Net Core 6, Devextreme, DevExpress,AdminLTE,BootStrap.C#... 
+- Team size: 4 
+ 
+*Onsite in Standard Charter Bank
+1/LITS(Lending Information Tracking System) Project: 
+    Develop modules about mortgage loan, personal loans,car loans... 
+    - Front-end: HTML,CSS,Bootstrap,Javascript,Jquery, Devexpress Control. 
+    - Back-end: C#,.Net,Entity Framework,LINQ,Crystal Report... 
+    - Database: SQL Server
+    - Team size: 2 
+*Onsite in Global CyberSoft
+1/POS-PN Project:
+ Develop a sales software application for Phuong Nam bookstore. It includes the following features: cashier, import
+and export goods, warehouse management, billing export...
+   - App Technologies: WPF and RestFul API(Java).
+
+❖ Minh Phương Logistics April 2018 - FEBRUARY 2020
+❖ FPT Telecom August 2016 - April 2018
+❖ Tuấn Minh Group
+   - Team size: 6
+ 
+SOFTWARE DEVELOPER
+1/Intranet Website: 
+    Staﬀ management,assets management, book meeting rooms, take leave ... 
+    - Front-end: HTML,CSS,Bootstrap,Javascript,Typescript,Jquery, Angular 4,Devexpress. 
+    - Back-end: C#,.Net,Microservices,RESTFUL API,Entity Framework,SSO,OWIN
+    - Database: SQL Server 
+2/Enterprise Website: 
+    E-commerce website 
+    - Front-end: HTML,CSS,Bootstrap,Javascript,Typescript,Jquery, Angular 7,Devexpress. 
+    - Back-end: C#,.Net,Microservices,RESTFUL API,Entity Framework,SSO,OWIN,Nancy. 
+3/FMBP mobile app: 
+    Driver management, vehicle management,trip management... 
+    - Front-end: Flutter , Dart lang.
+    - Back-end: C#,.Net,Microservices,RESTFUL API,Entity Framework,SSO,OWIN,Nancy. 
+4/MPI mobile app: 
+    Staﬀ management,assets management, book meeting rooms, take leave ... 
+    - Front-end: Flutter , Dart lang.
+    - Back-end: C#,.Net,Microservices,RESTFUL API,Entity Framework,SSO,OWIN,Nancy. 
+5/IGLS Winform Application: 
+    Application for management tractors, containers, and warehousing... 
+    - C#,.Net + Devexpress. 
+    - Back-end: WCF,APIs,.Net 
+    - Database: SQL Server 
+6/IGLS Website for third party . 
+     Convert ASP Webform  to Angular 4. 
+     Display order information, orders status at inbound and outbound, vehicle tracking. 
+     - Front-end: HTML,CSS,Bootstrap,Javascript,Typescript,Jquery, Angular 4,Devexpress. 
+     - Back-end: C#,.Net,Microservices,RESTFUL API,Entity Framework,SSO,OWIN
+     - Database: SQL Server 
+7/Other: 
+    Install Open Source Nextcloud to Intranet Website to management image, document... 
+   
+Technical:  C#,.NET Webform, WCF, Entity Framework, Javascript,Typescript,Jquery,Ajax,Angular 2+,
+Flutter,Dart, SQL,SSO,Nancy Framework,Devexpress,Devextreme 
+.NET Developer
+1/Member FPT 
+    TV package management system, customers information management ... 
+     - ASP Classic,HTML,CSS,Bootstrap,Kendo UI,Javascript,Jquery,Ajax.
+     - Database: SQLServer , Oracle. 
+2/ERP System 
+   Convert SQL Database to Oracle. 
+   Convert Asp Classic to MVC5. 
+   Front-end: ASP Classic, ASP MVC5, HTML, CSS, Bootstrap, KendoUI, Javascript, Jquery , Ajax. 
+   Back-end: REST API, ASP MVC, Entity Framework,
+   Database: SQL Server, Oracle 
+    
+ 
+Fullstack Developer(Freelancer)
+1/ S-Invest App mobile (available on both android and ios) 
+This is a project related to ﬁnancial services, customers can freely choose investment packages such as bond
+investment, real estate investment, nursing home investment... 
+- Skills used: Flutter , Dart, RESTAPI .NET CORE. 
+2/Web for admin 
+This web is used to provide some functions for some departments such as accounting customer service IT They
+
+❖ HCM City University of Food Industry August 2013 - May 2016
+- Skills used: Angular 8, RESTAPI .NET CORE. 
+EDUCATION
+Major: Information Technology
+Graduated : Good

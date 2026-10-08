@@ -1,0 +1,113 @@
+/
+NGUYỄN MẠNH CƯỜNG
+THÔNG TIN CÁ NHÂN
+
+
+
+
+
+Nam
+Phụng Thượng - Phúc Thọ - 
+Hà Nội
+TIN HỌC
+Word
+Excel
+PowerPoint
+Outlook
+TIẾNG ANH
+Nghe
+Nói
+Đọc
+Viết
+THÔNG TIN NGHỀ NGHIỆP
+KINH NGHIỆM LÀM VIỆC
+Mô tả công việc:
+Mô tả công việc:
+LẬP TRÌNH VIÊN
+CÔNG TY CÔNG NGHỆ THÔNG TIN VNPT
+Lập trình viên ứng dụng mobile nền tảng iOS
+Dự án tham gia
+-  VinaphonePlus: 
++ Lĩnh vực: Kinh doanh
++ Khách hàng: Tập đoàn bưu chính viễn thông VNPT
++ Giải pháp: VinaPhone Plus là ứng dụng của Chương trình VinaPhone Plus nhằm 
+chăm sóc khách hàng của VinaPhone. Chương trình sẽ cung cấp cho khách hàng của 
+Vinaphone những giá trị gia tăng một cách thiết thực, thường xuyên, phổ biến và tiện 
+dụng nhất. Tất cả mọi nhu cầu hàng ngày của khách hàng đều được ưu đãi: Cafe, ăn 
+uống, mua sắm, chăm sóc sức khỏe, học tập, vui chơi giải trí…
++ Team size: 10 người
++ Vai trò: Develop mobile
++ Ngôn ngữ sử dụng: Objective-C
+LẬP TRÌNH VIÊN
+CÔNG TY TNHH CÔNG NGHỆ NGÀY THỨ SÁU
+Lập trình viên ứng dụng mobile nền tảng iOS
+Dự án tham gia 
+- ViettelPay: 
++ Lĩnh vực: Tài chính
++ Khách hàng: Viettel Digital Services - VDS
++ Giải pháp:  Ứng dụng cho phép thực hiện nhu cầu liên quan đến thanh toán trong 
+cuộc sống hàng ngày như: chuyển tiền, thanh toán hoá đơn điện, nước, truyền hình, 
+internet, viễn thông,...
++ Team size: 10 người
++ Vai trò: Develop mobile
++ Ngôn ngữ sử dụng: Swift
+- ViettelPayPro: 
++ Lĩnh vực: Tài chính
+HỌC VẤN
+Chuyên ngành:
+Chuyên ngành:
+Bằng cấp:
+Loại Tốt Nghiệp:
+HỌC VIỆN CNTT TECHMASTER
+Lập trình viên ứng dụng di động nền tảng iOS (Ngôn ngữ Objective-C)
+ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Kỹ sư công nghệ vật liệu
+Chính quy
+Khá
+
+/
+Mô tả công việc:
+Mô tả công việc:
++ Khách hàng: Viettel Digital Services - VDS
++ Giải pháp: ViettelPay Pro giúp các Đại lý, điểm bán của Viettel được thực hiện các 
+giao dịch cho Khách hàng qua ứng dụng một cách nhanh chóng, an toàn, đơn giản, 
+mọi lúc mọi nơi.
++ Team size: 10 người
++ Vai trò: Develop mobile
++ Ngôn ngữ sử dụng: Swift
+- ViettelPay SDK: 
++ Lĩnh vực: Tài chính
++ Khách hàng: Viettel Digital Services - VDS
++ Giải pháp: Cung cấp cổng thanh toán cho các ứng dụng thương mại điện tử.
++ Team size: 4 người
++ Vai trò: Develop mobile
++ Ngôn ngữ sử dụng: Swift
+LẬP TRÌNH VIÊN
+CÔNG TY TNHH MORE COMMUNICATION LAB
+Lập trình viên ứng dụng mobile nền tảng iOS
+Dự án tham gia: 
+- Baby Repo: 
++ Lĩnh vực: Y tế
++ Khách hàng: Permission Inc.
++ Giải pháp: Một ứng dụng sổ tay dành cho bà bầu cho phép bạn giữ hồ sơ chăm sóc 
+trẻ bằng một tay, chẳng hạn như cho con bú (sữa), thay tã và thời gian ngủ.
++ Team size: 4 người
++ Vai trò: Develop mobile
++ Ngôn ngữ sử dụng: Swift
+LẬP TRÌNH VIÊN
+CÔNG TY TNHH PHẦN MỀM FPT
+Lập trình viên ứng dụng mobile nền tảng iOS.
+Dự án tham gia: 
+- IoT Gateway: 
++ Lĩnh vực: IoT
++ Khách hàng: Fujitsu Nhật Bản
++ Giải pháp: Ứng dụng cho phép nhận và gửi thông tin từ các thiết bị cảm biến thông 
+qua bluetooth, giúp phát hiện tình trạng công nhân làm việc ở những nơi không có 
+sóng điện thoại (Hầm mỏ,...)
++ Team size: 40 người
++ Vai trò: Develop mobile
++ Ngôn ngữ sử dụng: Objective-C
+KỸ NĂNG
+Kỹ năng chính: Lập trình viên ứng dụng mobile
+
+/

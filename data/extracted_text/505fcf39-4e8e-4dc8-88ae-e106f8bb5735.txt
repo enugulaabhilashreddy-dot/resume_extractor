@@ -1,0 +1,244 @@
+LE HUNG 
+Address: Number 211, Lo Duc Street, Hai Ba Trung District, Hanoi 
+E-mail:   
+ 
+ 
+Mobile Phone #1: 
+Mobile Phone #2: 
+Date of Birth: December 18 th , 1991. 
+ 
+Skills & Abilities 
+  
+• Good knowledge in Front End, include: HTML + CSS + 
+Javascript . 
+• Good interpersonal/communication 
+• Attention to detail, hardworking   
+• Able to work under pressure  in a team or individually. 
+• Focus on Javascript 
+ 
+ 
+Front End: 
+• Javascript, HTML5, CSS, JSON.  
+• Framework: ReactJS(JS Library), Angular 8, VueJS(More preferrable)  
+• CSS framework:  Bootstrap 4, Tailwin CSS  
+ 
+Databases: 
+• MongoDB
+
+DevOps: 
+• Github, Gitlab. 
+  
+ 
+EXPERIENCE 
+ 
+ 
+ 
+ 
+1 - Topica Native  
+(6/2014 -> 9/2016) 
+ 
+ 
+Project  English learning app  
+Description  - Create an app for English learners. The app is on Google 
+Playstore: 
+ 
+- Website of the company: 
+Team size  10  
+Position  Front -End Developer  
+Responsibil 
+ities  
+Developed the Topica Native app for English learners, included: 
+- Build some CRUD modules. 
+- Shopping cart feature 
+- Create the UI and UX of the website, utilized ReactJS for desktop 
+and mobile website 
+- Utilize React Native to develop the Topica Native mobile app.   
+- Get user's information. Updated new courses. 
+- Developed Responsive Design, utilizing Bootstrap 
+- Fix errors, debug. 
+Technologi 
+es  
+Front-End: 
+- ReactJS 
+- Javascript 
+Back-End: 
+- NodeJS
+
+- MySQL  
+ 
+ 
+ 
+2 - Accident happened, 1.5 years in the hospital 
+ 
+3 - CT-IN 
+ 
+(5/2018 -> 12/2019) 
+Project  Telecommunication site for VNPT  
+Description  - Create the website for VNPT(CT-IN’s partner) at that 
+time. Here are their websites: 
+ 
+ 
+ 
+Team size  12  
+Position  Front -End Developer  
+Responsibilities  Developed the websites for the company, included the 
+following features: 
+- Utilized Angular to create the main website 
+- Search Filter 
+- Get the datas about the information of the products 
+- Update datas about the news, users 
+- Worked with CMS  
+- Utilized bootstrap for Responsive Design 
+- Optimized code and performance, by utilizing the 
+following features: Code Splitting, Lazy Load, Pure 
+Pipes, Async Pipes 
+- Write Unit Test by utilizing Jasmine 
+-  Analyze requirement. 
+-  Support team’s member if needed 
+-  Working with members in team to select the best solution 
+-  Report team lead about the project  
+Technologies  Front-End: 
+- Angular 7, to create and maintain the website  
+- Typescript 
+Back -End:
+
+- MySQL, to manage datas in the Database 
+- NodeJS 
+ 
+ 
+ 
+4 - FDS 
+(1/2020 -> 9/2021) 
+ 
+ 
+Project  Information Gateway  
+Description  Open source : 
+ 
+Team size  10  
+Position  Front -End Developer, also Team Leader  
+Responsibilities  Developed the following features: 
+- Unit Test, by utilizing Jasmine 
+- Search Filter 
+- Export database into Excel, CSV, PDF file 
+- Import excel file into web app 
+- Utilized  to show the chart on the web 
+- Created E-form by utilizing bootstrap 
+- Worked with CMS 
+- Created Report Management System 
+- Created Database, by utilizing MongoDB, follow 
+schema design 
+- Utilized Tailwind CSS for Responsive Design 
+- Integrated User's datas  
+- Optimized Web's performance  
+Technologies  Front-End: 
+- VueJS, for the UX and the Logic part. 
+- Tailwind CSS, for the UI part. 
+Back-End: 
+- MongoDB, to manage datas in the Database 
+- NodeJS 
+ 
+ 
+Project Images:
+
+5 - Urbox(Pronounced as “Your-Box”) 
+(March 2022 ->  August 2023) 
+ 
+Project  E-gifts, a.k.a E -Vouchers  
+Description  - Website about E-gifts. This is their main site: 
+ 
+- New technology was learned during this time  
+Team size  10  
+Position  Front -End Developer  
+Responsibilities  Developed E -vouchers websites, for big banks like
+
+Techcombank, VPBank, Vietcombank, with the 
+following features: 
+- Utilized NextJS to develop the flow of the 
+website(UX) part. 
+- Utilized Material UI and Chakra UI for the UI part. 
+- Developed Search Filter 
+- Update User's points for their vouchers. 
+- Utilized  to show charts 
+- Worked with back-end team(They utilized Golang) to 
+connect with the servers, to get the datas for the 
+vouchers 
+- Create a two steps verification screen. The first step 
+was through email, the second step was through code 
+verification 
+- Utilized SSR technique in NextJS for SEO 
+- Developed the personal map utilizing NextJS, Google 
+Maps API, enabled users to manage their personalized 
+location information  
+Technologies  Front-End: 
+- NextJS. 
+- Material UI + Chakra UI, for the UI part. 
+Back-End: 
+- MySQL, to manage datas in the Database 
+- NodeJS 
+- Golang, to create API 
+- Docker for CI/CD centric  
+ 
+Project Images:
+
+6 - Project for K hospital 
+(From August 8th to current time) 
+ 
+Project  Medical Website  
+Description  - This is a medical website. This is their main site: 
+ 
+- New technology was learned during this time  
+Team size  10  
+Position  Front -End Developer  
+Responsibilities  Developed website for K hospital, with the following 
+features: 
+- E-form. 
+- Search Filter 
+- Update Patient's information. 
+- Worked with back-end team(They utilized Golang) to 
+connect with the servers, to get the datas for the
+
+medical pills, patients' information 
+- Convert data tables into xls files 
+- Create meeting rooms for doctors and patients  
+Technologies  Front-End: 
+- VueJS. 
+- Material UI + Tailwind CSS, for the UI part. 
+Back-End: 
+- MySQL, to manage datas in the Database 
+- NodeJS 
+- Golang, to create API 
+-
+
+PERSONAL PROJECTS 
+ 
+ 
+1 - My Tetris game(Using Python) : 
+ 
+ 
+My music player(Using React Native): 
+ 
+ 
+2 - ReactJS Note App(or you can call it as Todo List): 
+ 
+3 - Personal Blog 
+I built two versions. The first version, I just built with useReducer hook, 
+since it was a small blog. 
+The second version, I use Redux to build it 
+React Blog Version 1(Without Redux): 
+ 
+ 
+React Blog Version 2(Built with Redux): 
+ 
+ 
+4 - Budget(Expense) Tracker 
+ 
+ 
+EDUCATION 
+From June 2009 to June 2011:   
+ Phan Chu Trinh ETEC Economy and technology engineering 
+ 
+From 2011 to 2014: 
+Hanoi University of Business and Technology
+
+Overall grade : Merit  
+Degree: Good

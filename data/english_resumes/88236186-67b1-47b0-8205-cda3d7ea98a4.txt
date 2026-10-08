@@ -1,0 +1,225 @@
+MAI ĐỨC CÔNG
+IT Supervisor
+ 
+ 15C, Block Binh Hoa, Hoa An Ward, Bien Hoa Cit y, Dong Nai Province, Bien Hoa Cit y, Dong Nai, Viet nam
+Gender : Male
+Birthday : 27/03/1988
+Marital status : Married
+Nationality : Vietnamese
+Country : Vietnam
+Address : 15C, Block Binh Hoa, Hoa An Ward, Bien Hoa City, Dong Nai Province, Bien Hoa City,
+Dong Nai, Vietnam
+Level : Manager
+Salary : 1.500 - 2.000 USD
+Job type : Full time
+Industry : IT - Software, IT - Hardware / Network
+Location : Ho Chi Minh - Binh Thanh District/Go Vap District/Thu Duc District, Binh Duong - Thu
+Dau Mot/Di An/Thuan An, Dong Nai - Bien Hoa City
+Effective and professional IT system management, research and deployment of new information technology systems
+to help business apply IT to the process of business management and production
+3/2020 - Now : Supervisor - VINAM OIL TOOLS JSC - Full time
+UPS APC system management 
+- Monitor signal on screen and check daily for abnormal signs. 
+- Check full load periodically every 3 months. Recommend upgrades and replacements when needed. 
+Manage LAN, WAN systems through Router, Switch Draytek. 
+- Configure VLAN, NAT, VPN. 
+- Check and monitor network traffic daily to detect abnormalities, fix immediately when problems occur. 
+Manage Dell Server system through iDrac7 
+- Configure RAID 5, RAID 10 . 
+- Daily monitoring checks to assess risks. Quickly detect abnormal problems through indicator lights or sounds from
+the server, fix it quickly when something goes wrong. 
+- Update patches regularly for Windows Server. 
+Manage the NethServer 7 soft firewall system. 
+- Configure Port forwarding, VPN, Web Filter. 
+PERSONAL PROFILE
+CAREER INFORMATION
+OBJECTIVES
+EXPERIENCE
+Year(s) of Experience: 11
+Current Level: Team Leader / Supervisor
+
+- Fix related issues. 
+Manage virtualization systems Vmware Esxi. 
+- Check and monitor performance, detect and assess risks such as Hard Disk, memory, Network. 
+- Investigate and fix the problem in the fastest time. 
+- Regularly back up the virtual server to restore immediately when there is a server down problem. 
+Manage ERP system Epicor. 
+- Add, delete, edit User. Assign access permissions as required. 
+- Create BAQ, Dashboard, Report and customize some other functions as required. 
+- Backup and restore database from LIVE environment to other environments. 
+- Collaborate with Bartender to create barcode and QR code printing forms for the warehouse department 
+- Open training courses on BAQ for employees. 
+Office 365 system management. 
+- Add, delete, edit User. Assign data access rights on Sharepoint and Teams to Users. 
+- Build applications on Microsoft Power platform for automatic approval. 
+- Investigate and monitor the sharing and downloading of User data on Sharepoint and OneDrive through the Audit log
+feature in Compliance. 
+- Prevent Phishing emails. Fix related problems 
+- Open training classes on IT Security Awareness, Outlook, Sharepoint, OneDrive. 
+Website system management 
+- Build apache webserver in WampServer environment. 
+- Manage website, post content as requested by BOD. 
+- Backup database daily. 
+- Build a tool to push time attendance data to Sharepoint automatically using PHP 
+- Collaborate with R&D Team to build automation applications using PHP to push error signals to Microsoft Teams. 
+- Manage Domain, hosting, and SSL systems from other providers. Make configuration settings as needed. 
+Manage backup and data recovery through Veaam Backup. 
+- Daily monitoring of full, incremental backups and restore when needed 
+Manage wifi system through Unifi Controller. 
+- Install and configure new devices. Allocate SSID for each AP device. Upgrade the wireless controller and AP
+firmware as needed. 
+- Monitor access devices and block unauthorized access devices. Check and monitor the performance of each AP
+device. 
+- Upgrading WIFI 6 system with UniFi U6 LR running AX standard 
+CCTV system management through HKVision 
+- Install and configure adding cameras to the recorder. 
+- Monitor the data storage to ensure that the data is recorded for the required duration of the company. 
+- Upgrade the system from analog to digital camera. 
+Manage PABX system through Panasonic 
+- Allocate phone number for User. Configuration as required from the HR department 
+Sound system management through TOA amp and software. 
+- Install and configure the time and sound to be played on the software at the request of the HR department. 
+- Configure the time to automatically run batch files for the IoT system. 
+Manage Zkteco fingerprint time attendance system. 
+- Implement the installation and configuration of automatic timekeeping data from the fingerprint machine to HR's
+SQL server 
+- Push attendance data from SQL server to Sharepoint so employees can view attendance data daily using
+PowerApps 
+- Build timekeeping application using PHP and SQL server to create detailed timesheets for HR department. 
+Fixed Asset system management through Snipe-IT software 
+- Update all devices allocated to employees to the software 
+- Print the QRcode st
+6/2018 - 
+3/2020 
+: 
+Supervisor - Bowker Garment Viet Nam 
+- Full time
+UPS Proton System Management 
+- Monitor signal on screen and check daily for abnormal signs. 
+- Check the full load periodically every 3 months. Recommend upgrading and replacing when needed. 
+Manage LAN and WAN systems through Cisco Routers and Switches 
+- Monitor signal lights on Cisco Routers and notify IT Group immediately when there is problem.
+
+- Configure Port access, trunk on cisco switch for switch, wifi or computer devices. Monitor the light signal on the
+switch and fix it when something goes wrong. 
+- Monitor the light signal of the converter, check and fix it immediately when there is a problem. 
+IBM Server System Monitoring 
+- Monitor the light and sound signals emitted from the server and notify IT Group to request immediate repair when
+there is a problem. 
+Monitor firewall systems CheckPoint, WatchGuard. 
+- Monitor internet traffic. 
+System Management Vmware Esxi 
+- Check and monitor performance, 
+detect and assess risks of Hard Disk, memory, Network. 
+- Investigate and fix the problem in the fastest time. 
+ShopFloor ERP system support 
+- Support to setup Qrcode system for Warehouse. 
+Office 365 system management. 
+- Add, delete, edit User. 
+- Prevent Phishing emails. Fix related problems 
+- Open training courses on IT Security Awareness. 
+Manage backup and data recovery through Symantec backup. 
+- Daily monitoring of full, incremental backups and restore when needed 
+- Replace tape backup every day. 
+Monitor wifi system through Aruba controller 
+- Support IT Group to setup AP for the factory when needed. 
+- Monitor the signal of APs and immediately notify IT Group to fix when there is a problem. 
+Manage PABX system through Panasonic 
+- Allocate phone number for User. 
+- Configuration as required from the HR department 
+Sound system management through TOA amp and software. 
+- Install and configure the time and sound to be played on the software at the request of the HR department. 
+Support fingerprint time attendance system, magnetic card, face 
+- Support the setup and get time attendance data from fingerprint, tablet, facial to SQL server of HR 
+Fixed Asset system management through ShopFloor ERP software 
+- Update all devices allocated to employees to the software 
+- Print the QRcode stick on the device. 
+Manage monitoring system through Zabbix software 
+- Update all server room equipment and some external fixed devices to the software. 
+- Configure email alerts when signal loss.
+3/2017 - 
+6/2018 
+: 
+Senior Supervisor - Esquel Asia Garment Viet Nam 
+- Full time
+UPS APC system management 
+- Monitor signal on screen and check daily for abnormal signs. 
+- Check full load periodically every 6 months. Recommend upgrading and replacing when needed. 
+IBM Server System Management 
+- Monitor light and sound signals emitted from the server and fix it immediately when there is a problem. 
+Manage the Fortinet firewall system. 
+- Monitor internet traffic. 
+- Web filtering, Port forwarding. 
+System Management Vmware Esxi 
+- Check and monitor performance, 
+detect and assess risks of Hard Disk, memory, Network. 
+- Investigate and fix the problem in the fastest time. 
+Manage backup and data recovery through Symantec backup. 
+- Daily monitoring of full, incremental backups and restore when needed 
+- Replace tape backup every day. 
+Manage PABX system through Nec 
+- Allocate number phone for User. 
+- Configuration as required from the HR department 
+Sound system management through TOA amp and software. 
+- Install and configure the time and sound to be played on the software at the request of the HR department. 
+Support magnetic card attendance system
+
+- Support to set up and get time attendance data from timekeeper to SQL server of HR 
+Manage monitoring system through PRTG software 
+- Update all server room equipment and some external fixed devices to the software. 
+- Configure email alerts when signal loss.
+12/2015 - 
+2/2017 
+: 
+Supervisor - Esquel Garment Vietnam 
+- Full time
+System Management Vmware Esxi 
+- Check and monitor performance, 
+detect and assess risks such as Hard Disk, memory, Network. 
+- Investigate and fix the problem in the fastest time. 
+Manage backup and data recovery through Symantec backup. 
+- Daily monitoring of full, incremental backups and restore when needed 
+- Replace tape backup every day. 
+Manage PABX system through Nec 
+- Allocate phone number for User. 
+- Configuration as required by the HR department 
+Sound system management through TOA amp and software. 
+- Install and configure the time and sound to be played on the software at the request of the HR department.
+5/2011 - 
+12/2015 
+: 
+IT Staff - Uni-President Vietnam 
+- Full time
+- Upload product content to the website at BOD's request 
+- Design banners, microsites for short-term projects. 
+- Support end users to troubleshoot office problems.
+Completion date 9-2012
+Bachelor - Lac Hong University
+Information Technology Engineer
+Web Designer 
+Hoang Nguyen Company
+22/04/2014 - Unlimited
+Management Network Advance
+Ispace Center
+22/09/2009 - Unlimited
+MCSA 2012
+Nhat Nghe Education Center
+22/05/2018 - Unlimited
+Office application level B
+FLAI Technology Center
+22/10/2005 - Unlimited
+English level B
+Lac Hong University
+22/06/2011 - Unlimited
+EDUCATION
+Highest Degree Level: Bachelor
+OTHER CERTIFICATES
+SKILLS
+LANGUAGES
+
+Server
+Developer
+Cloud
+Network system
+English - Intermediate - Level B
+©  Care e rBuild e

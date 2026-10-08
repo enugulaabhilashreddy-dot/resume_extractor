@@ -1,0 +1,65 @@
+Oct 2012 - May 2018 FPT University
+Software Engineer
+GPA: 6.94/10
+Sep 2019 - Present Pasona Tech VN
+Test Team Lead
+Main responsibilities:
+ - Key member.
+ - Write documentation and train new members.
+ - Build environment using Jenkin in Tomcat Linux, Tomcat Window,
+WebOXT.
+ - Build environment with SQL, Oracle, Postgres DB.
+ - Review testcase and review test.
+May 2019 - Sep 2019 Pasona Tech VN
+QC Engineer
+Main responsibilities: 
+ - Key member.
+ - Analyzing requirements.
+ - Write documentation- Implementation, Testing, and Quality control.
+Dec 2018 - Apr 2019 FPT Software
+QC Engineer
+Main responsibilities: 
+ - Analyzing requirements.
+ - Write documentation
+ - Implementation, Testing, and Quality control (Manual Testing)
+Dec 2016 - May 2017 FPT University
+QC Engineer
+Main responsibilities: 
+ - Capstone Project 
+ - Analyzing requirements.
+ - Analyze and design system function.
+ - Design database for the system.
+ - Write documentation
+ - Implementation, Testing, and Quality control (Manual Testing).
+Le Anh Tuan
+QC Engineer
+Date of birth:
+Gender:  Male
+Phone:
+Email:  
+Address:  Ho Chi Minh, Vietnam
+EDUCATION
+WORK EXPERIENCE
+
+May 2015 - Aug 2015 FPT Software
+QC Engineer
+Main responsibilities:  
+ - On Job Training
+ - Using Selenium IDE
+2016 JLPT N3
+Language  - English ( Reading and Writing)
+ - Japanese (Reading and Writing)
+QC  - Have experienced in manual testing web application and mobile.
+ - Have knowledge in automation testing in Web Application.
+ - Have experienced and knowledge in build Automation Testing
+Framework both in Java.
+ - Have experienced in different types of testing such as black box
+testing, white box testing, functional, GUI testing, regression,
+integration.
+ - Have pet projects with build automation framework on Java
+CERTIFICATIONS
+SKILLS
+INTERESTS
+- Game
+- Book
+©

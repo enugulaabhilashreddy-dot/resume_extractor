@@ -1,0 +1,73 @@
+1 
+ 
+ 
+ 
+Họ và tên: PHẠM TRỌNG CHIẾN  
+Giới tính: Nam  
+Ngày sinh: 31/08/1991  
+Quốc tịch: Việt Nam  
+Nơi sinh: Châu Phong – Quế Võ – Bắc Ninh  
+Tình trạng hôn nhân: Độc Thân  
+Email:  
+Skype:  
+Điện thoại:  
+Địa chỉ:  SA3-The Sakura Vinhome Smart City Tây Mỗ, Nam Từ Liêm, Hà 
+Nội  
+ 
+HỌC VẤN________________________________________________________________  
+Tổ chức cấp bằng Chuyên ngành Thời gian 
+học 
+Trình độ học vấn 
+Đại Học Công Nghiệp Hà 
+Nội 
+Công nghệ thông 
+tin 
+2010-2014 Kỹ sư công nghệ thông tin 
+Ha Noi Aptech Công nghệ thông 
+tin 
+2012-2015 HDSE (Higher Diploma in 
+Software Engineering) 
+ 
+KỸ NĂNG_______________________________________________________________  
+● - Kinh nghiệm trên 8 năm lập trình .net, java core, spring boot, hibernate , javascript, angular, 
+react.  
+● - Thành thạo Oracle database, Mongodb, Elasticsearc h, Redis. Đã từng làm việc với csdl  
+SqlServer, MySql, Minio…  
+● - Nắm rõ OOP, Entity Framework, Docker, api gateway , kiến trúc microsevice…, Message 
+queues, RabbitMQ, Kafka…  
+● - Kinh nghiệm triển khai các hệ thống phân tán trên môi trường linux  
+● - Thành thạo với môi trường Linux  
+● - Kinh nghiệm triển khai CI/CD, K8S  
+● - Hiểu rõ quy trình phát triển phần mềm Agile / Scrum  
+● - Kỹ năng giao tiếp, tư vấn, đào tạo  
+● - Tư duy logic tốt, đọc hiểu tài liệu tiếng anh chuyên ngành tốt, xử lý tốt các lỗi phát sinh. Khả 
+năng giao tiếp tốt với mọi người, thích nghi nhanh với hoàn cảnh và công nghệ mới. Nhiệt tình, 
+có trách nhiệm với công việc được giao và có khả năng làm việc dưới áp lực và cường độ cao.  
+● - Kỹ năng lập kế hoạch, lắng nghe, đàm phán, thuyết phục  
+ 
+ 
+KINH NGHIỆM CÔNG TÁC______________________________________________  
+● Đơn vị:  Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY)  
+- Thời gian:  08/2022 - 03/2023  
+- Vị trí: IT Manager 
+ 
+● Đơn vị:  Công Ty CP Giải Pháp Hóa Đơn Điện Tử Việt Nam
+
+2 
+ 
+- Thời gian:  01/2021 - 08/2022 
+- Vị trí: IT Manager 
+ 
+● Đơn vị:  Công Ty CP MASLOW Việt Nam  
+- Thời gian:  06/2018 - 01/2021 
+- Vị trí:  Team Leader 
+ 
+● Đơn vị:  Công Ty CP VCCorp  
+- Thời gian:  05/2017 - 06/2018 
+- Vị trí: Lập trình viên phần mềm 
+● Đơn vị:  Công Ty CP Giải Pháp Hóa Đơn Điện Tử Việt Nam  
+- Thời gian:  01/2015 - 05/2017 
+- Vị trí: Lập trình viên phần mềm 
+ 
+HOẠT ĐỘNG________________________________________________________________  
+● Bóng đá, cầu lông, game, xem phim, nghe nhạc, bơi lội và đi du lịch

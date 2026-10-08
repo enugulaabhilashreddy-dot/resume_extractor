@@ -1,0 +1,208 @@
+CURRICULUM VITAE 
+ 
+ 
+ 
+ 
+      A  PERSONAL IMFORMATION 
+ 
+ 
+ Full Name:  NGUYEN VAN TUAN 
+ Date of Birth:  May 10, 1986 
+ Marital Status:  Married 
+ Gender: Male 
+ Address: Hope Garden, 102 Phan Huy Ich St., Ward 15, Tan Binh District, 
+Ho Chi Minh City. 
+ Phone Number:  
+ Email Address: 
+ Expected Salary: Negotiation 
+ 
+Career Objective: To become the strong IT Leader for the organization who has ability of 
+delivering increasing value to organization’s business. 
+ 
+ 
+      B    EDUCATION & QUALIFICATION 
+ 
+ 
+ Bachelor of Mathematics & Informatics of HCMC University of Science  (2010) 
+ MSCA (2009) 
+ MCSE (2009) 
+ CCNA (2010) 
+  SEO (2013) 
+ Web Development with PHP & MySQL (2015) 
+ VMware vSphere VCP 550 (2015) 
+ ITIL Foundation v3 (2016) 
+ CEHv9 (2017) 
+ Knowledge about IT Performance-based Management 
+ Knowledge about IT Architecture & Infrastructure 
+ Knowledge about Process Development and Improvement 
+ Knowledge about IT Project Management 
+ Knowledge about IT Trend Assessment & Acquisition 
+ Knowledge about Information Security Trend and Architecture
+
+ Knowledge about IT Strategic Planning 
+ Knowledge about IT Budgeting and Spending Planning 
+ Soft Skills: Report, Work Management & Organization, Management skills, Leadership 
+ 
+     C                                 WORKING EXPRIENCES 
+ 
+ 
+Apr, 2017 – Present: 
+Multinational company: CFLD INTERNATIONAL 
+Role: Country IT Manager 
+Mission: I’m responsible for managing all of IT functions in Vietnam local country that ensuring to 
+deliver strong local IT infrastructure, services, apps and oversea corporate IT services, apps, and 
+policies such as OA application, laptop reimbursement policy, etc… to  employees they need to work for 
+full productivity while ensuring cost optimization and reducing business risk at acceptable level  
+Main duties: 
+ Playing role as Head of IT, taking the main responsibility for managing the IT Function  
+for Vietnam Region Business Unit, directly report to Country HR Director, and corporate 
+report to International Head of IT, CEO 
+ IT Management Function: 
+ Establishing and aligning business about the annual IT targets, plan, projects, action plans. 
+Allocating resources of human and cost that ensure for completing the plans, project, and 
+reaching targets.  
+ Key contact point to all local relative departments, oversea business units, and 
+headquarter for delivering IT services/apps to end-users. Analyzing, consulting, 
+establishing standards, evaluating design and monitoring implementation of IT systems, 
+services, apps, projects. 
+ Key contact point to all external partners such as Constructors, IT vendors, IT suppliers 
+for requesting standards, negotiating, evaluating of design, monitoring of implementation, 
+managing operation and continual improvement of IT systems, services, apps.  
+ Training, coaching, and monitoring the IT outsourcing human resource for delivering 
+Helpdesk services and technical management in line with requirements and commitments  
+ IT Infrastructure Management Function: 
+ Planning, propose to purchase hardware and software to build up the IT system and  
+services, renting IT outsourcing services that ensure to IT infrastructure is strongly to 
+meet business needs. 
+ Frequently analyzing and getting business demands for proposing to improve, and 
+upgrade the IT infrastructure. 
+ Allocating the annual resources of human and cost for renting IT maintenance outsourcing 
+services to execute technical management for building up, upgrading, maintaining, 
+operating, and improving the IT infrastructure. 
+ Working with Design management and Project management department to make sure 
+Server Room’s capacity is delivered to meet standards and IT needs.  
+ IT Operation & Helpdesk Services Function:
+
+ Monitoring the IT system, network, and servers.  
+ Establishing, implementing, and improving the processes (SOP) for IT Operation and 
+Helpdesk 
+ Working with IT outsourcing vendor to resolve issue, problem as well as improve IT 
+system, services even before working hour started. 
+ Training, releasing instruction to end-users in order to they use IT services, apps properly 
+both newcomers and employment staffs.  
+ Ensure for disconnecting access rights to IT resources from left employees since after 
+their working day. 
+ Delivering IT services/ apps, and IT-Helpdesk services to end-users. 
+ Monitoring, updating information of IT assets include Hardware and  Software. 
+ IT Project Management Function: 
+ Analyzing, getting the business requirements, and specifying technology requirements 
+and SOW (Scope of Works) of project for Constructors, IT vendors, IT suppliers.  
+ Defining the Role of Responsibility of IT team and Constructors, IT vendors, IT suppliers 
+on each project. 
+ Evaluating and approving the Design and BOQ of project  
+ Monitoring implementation of project by Constructors, IT vendors, IT suppliers.  
+ Approving the Hand-over & Acceptance of project. 
+ IT Vendor & Contracts Management Function: 
+ Seeking the potential IT vendors, suppliers have capability in accordance with the needs 
+of business and IT.  
+ Negotiating vendors, suppliers to be provided fulfillment of SOW, SLA that IT needs with 
+optimized cost in line with budget approved, and complying with company regulation.  
+ Tendering, signing of IT services contracts comply with company the company policies.  
+ Taking in charge monthly, quarterly, annual contracts payments.  
+ Monitoring contracts terms, and signing the contract amendments to extend contract if it’s 
+expiration upcoming. 
+ Annual review the contracts to ensure for it will meet business needs and IT 
+requirements. 
+ IT Budgeting and Spending Management Function: 
+ Building up the annual budgeting and spending pPlan. 
+ Allocating the budgeting and spending plan quarterly.  
+ Adjusting the budgeting and spending plan quarterly (if need).  
+ Monitoring and recording the actual historical spending.  
+ Making the report of budgeting & spending Plan and actual spending 
+Main achievements: 
+ Success to concurrently set-up the IT system for 5 business offices, operating 03 temporary 
+business offices within 7 months, creating 500 IT accounts with 500 employees HR profiles 
+for that is preparation of business operation and activities .
+
+ Success to deliver and propose to improve corporate oversea OA business management 
+application (ERP) and oversea IT services for business at start-up and operation. 
+ Success to reached annual targets of IT Team as well as accomplished implementation of 
+annual programs, plans of IT Team that is managed by only myself.  
+ 
+Apr, 2013 – Apr, 2017: 
+Multinational company: POSCO E&C VIETNAM CONSTRUCTION & ENGINEER COMPANY 
+Role: IT Team Lead 
+Main duties: 
+ Playing role as IT Team Lead, taking the main responsibility for developing and 
+improving the IT system and services for company in Vietnam, report to Head of HR. 
+ Managing and operating IT for whole Vietnam country : 
+ Offices: 02 
+ Factory: 01 
+ Sites: 05 – 10 (Locations: HCMC, Hanoi, Danang) 
+ End-users: 500 – 700  
+ Local Country IT Services: 20 
+ International IT Services: 05 
+ Internal IT Processes:  Request Management Process , Incident Management Process, Change 
+Management Process, … 
+ IT Functions management 
+ IT Technical management 
+ IT Operation management 
+ IT Helpdesk management 
+ IT Application management 
+ Designing, developing, managing, and operating the IT infrastructure for whole Vietnam 
+country  
+ Setting up the annual working plan for IT Team 
+ Projects management: 
+ Setting up Leased-line network connections system 
+ Design and implement the Enterprise Asset Management System  
+ Implementing the EP-Lite portal and email system 
+ Implementing the DRM security solution system  
+ Setting up the Cisco ASA, Cisco Switch Layer 3 (s), Cisco Routers, etc…  
+ Setting up IT services on the Linux Ubuntu, Windows server, Dell Servers, HP Servers, etc… 
+ Setting up the Company Data Storage and Sharing system for more than 500 users 
+ Setting up the Data Backup System 
+ ERP Management by playing role as ERP Coordinator for whole modules 
+ Designing, managing, and operating the ERP’s Administration Module. 
+ Setting up, and managing the annual IT budgeting and spending 
+ Recruiting IT members
+
+ IT member assignment & management  
+Main achievements: 
+ Success to develop the network infrastructure and IT services for whole Vietnam country. 
+ Success to develop the Leased-line network system for whole Vietnam country and linked to 
+Korea HQ. 
+ Success to implement EP-Lite portal and enterprise email service. 
+ Success to implement DRM information security system  solution. 
+ Success to design, build-up, and implement the Enterprise Asset Management System. 
+ Success to design, manage, and operate the ERPR’s Administration Module . 
+ Success to play role as Coordinator for all of ERP Modules. 
+ Success to design, manage, and operate IT support processes, IT operation processes. 
+ 
+Aug, 2010 – Apr, 2013: 
+Company: VIETNAM AUSTRALIA INTERNATIONAL SCHOOL 
+Role: Senior IT Executive 
+Main duties: 
+ Playing roles as Senior IT Executive, taking the main responsibility for implementing and 
+operating IT system and services to biggest and key Campus, directly report to School 
+manager and IT manager. 
+ Managing and operating IT for a biggest & key Campus: 
+ Offices: 03 
+ End-users: 800 – 900 
+ IT services: ~ 12 
+ IT Functions management 
+ IT Technical management 
+ IT Operation management 
+ IT Helpdesk management 
+ Setting up the network infrastructure at the biggest campus of company 
+ Support end-users 
+ 
+ 
+     D       PERSONAL CHARACTERSTICS 
+ 
+ 
+ Truthful, honest, enthusiastic, hard-working 
+ High responsibility for the assigned tasks/jobs 
+ Good problem solving skill with solutions 
+ Cooperation and effective work relationships with co-workers; shares information 
+ Effectively communicate with others 
+ Good working attitude, Responsible, Passion in work. Eager to learn and develop

@@ -1,0 +1,391 @@
+1 
+  LÝ LỊCH ỨNG VIÊN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THÔNG TIN CÁ NHÂN 
+Họ và tên:  Ngô Tuấn Cường 
+ 
+Email: 
+ 
+ĐT di động 
+ĐT nhà: 
+Giới tính:  ⌧  Nam       Nữ 
+Chiều cao:          
+Cân nặng: 
+Ngày sinh: 
+Nơi sinh:  Viên An - Ứng 
+Hòa – Hà Nội 
+CMND: 
+Ngày cấp: 16/11/2017 
+Nơi cấp:   Tổng Cục 
+Cảnh Sát 
+Tình trạng hôn nhân: Đã có gia 
+đình 
+Mã số thuế: 
+Ngày cấp:                
+Nơi cấp:    
+Hộ khẩu: Viên An- Ứng Hòa - Hà Nội 
+Chỗ ở hiện tại: 125 Đại Linh, Trung Văn, Nam Từ Liêm, Hà Nội 
+ 
+ĐÀO TẠO 
+1. Chuyên  môn 
+Năm 
+bắt 
+đầu 
+Năm  
+kết 
+thú 
+Chuyên 
+ngành 
+Trường Bằng cấp đạt được  
+(VD: đại học/cao 
+đẳng/trung cấp…)  
+Xếp 
+loại 
+Lập trình 
+viên  
+ĐH Công Nghiệp Hà 
+Nội 
+HDSE Khá 
+Công 
+nghệ 
+thông tin 
+ 
+ĐH Công Nghệ Đông 
+Á 
+ 
+Đại Học 
+ 
+    Khá 
+      
+2.  Các khóa đào tạo khác (Kể cả ngoại ngữ và vi tính)  
+Năm hoàn 
+thành đào 
+tạo 
+Tên trường/Trung tâm/ 
+Hãng đào tạo 
+Lĩnh vực/Môn học Bằng cấp/chứng 
+chỉ đạt được  
+(Xin ghi rõ điểm thi 
+nếu có) 
+    
+    
+KỸ NĂNG 
+1. Ngôn ngữ ( liệt kê tất cả các ngôn ngữ có khả năng) 
+Ngôn ngữ Thông thạo Tốt Khá Trung bình 
+Tiếng Anh   ⌧  
+     
+2. Sử dụng tin học văn phòng 
+ Thông thạo Tốt Khá Trung bình
+
+2 
+Word ,Excel, Powerpoint  ⌧   
+Photoshop  ⌧   
+3.  Kỹ năng khác ( ví dụ: Kỹ năng lập kế hoạch, kỹ năng giao tiếp, kỹ năng làm việc 
+nhóm…) 
+Kỹ năng Thông thạo Tốt Khá Trung bình 
+Kỹ năng lập kế hoạch   ⌧   
+Kỹ năng giao tiếp    ⌧  
+Kỹ năng làm việc nhóm   ⌧   
+ 
+NĂNG LỰC CHUYÊN MÔN  
+Trình bày rõ các kiến thức, kỹ năng, năng lực và sở trường chuyên môn liên quan đến vị trí 
+đăng ký tuyển dụng. 
+ 
+1.  Sử dung tốt các ngôn ngữ: Java, .net, php, html, js 
+PHP JAVA .NET 
+Php thuần Jsp Servlet Mvc 3 
+Laravel Struts 2 Mvc 4 
+Moodle Swing Mvc 5 
+Php codeigniter  winform 
+Phalcon  webform 
+ 
+2.  Sử dụng tốt hệ quản trị dữ liệu: Oracle, SQL Server, MySQL 
+3.  Quản trị server: windows server, ubuntu, centos 
+4.  Setup môi trường và quản trị server: php, apache, mysql, firewall, directadmin, 
+supervisor, pm2, Git client, Git server 
+5.  Sử dụng tốt các phần mềm quản lý công việc: redmine, trello. project plan 
+ 
+ 
+ 
+ 
+ 
+1 Công Nghệ Thông Tin Đông Nam Á Seatech Vị trí:  Lập 
+trình viên 
+java  
+09/2012 - 
+04/2013  
+ Mô tả công việc: 
+- Lập trình web  
+- Lập trình module 
+- Phân tích và thiết kết CSDL Oracle 
+- Applet XML Signature 
+- XML DOM 
+- XML SAX Paser 
+- XSLT transformer XML
+
+3 
+- Các công cụ lâp trình 
++ Oracle  Jdeveloper 
++ Oracle SQL 
+- Framework 
++ Struts 
+ 
+Trang web đã đưa vào triển khai. 
+ 
+ 
+- Trang web này được phát triển thêm phần Ứng dụng NTDT(Nộp thuế điện 
+tử ), trang web này được tôi và nhóm NTDT cùng phát triển, nhằm mục 
+đich phục vụ khách hàng có thể nộp thuế trực tuyến thông qua cổng thông 
+tin của TCT(Tổng cục thuế). 
+ 
+2 CÔNG TY CỔ PHẦN THANH TOÁN ĐIỆN TỬ 
+VNPTEPAY  
+Vị trí: Nhân 
+viên IT 
+ 
+04/2013 – 
+06/2015  
+ Mô tả công việc: 
+1.  CRM 
+Sử dụng PHP (framework codeigniter) Phát triển hệ thống CRM (Customer 
+Relationship Management) để xây dựng hệ thống quản trị (phân quyền người dùng, 
+báo cáo doanh thu, báo cáo sản lượng…). Sử dụng công nghệ php framework(code 
+codeigniter) 
+ 
+2.  CARE 365 
+Phát triển hệ thống Care 365 Chăm sóc toàn bộ khách hàng sử dụng các dịch vụ  
+của VNPT Hà Nội   
+Back end:  
+Phát triển hệ thống core java thực hiện đồng bộ dữ liệu khách hàng từ DB chung và 
+xử lý cộng trừ điểm theo cước khách hàng, biến động và nhân dịp các đợt khuyến 
+mại đặc biệt.  
+Xậy dựng các Webservice để porttal hà nội kết nối vào nhằm mục đích cho khách 
+hàng có thể xem báo cáo, biến động điểm (công, trừ) của khách hàng.  
+ 
+Front - End:  
+Xây dựng hệ thống Web dành riêng cho giao dịch viên nhằm mục đích: khai báo, 
+tra cứu, báo cáo, chạy các chương trình điểm thưởng, trả điểm bằng ngôn ngữ .Net 
+ 
+3.  POS-SERVER 
+Tham gia phát triển ứng dụng trên hệ thống thanh toán POS-Server.  
+Back - end: lập trình bằng java (xử lý các giao dịch thanh toán phía server) Các 
+công nghệ sử dụng là (TCP-Socket, Thread, iso message 8583).   
+Xây dựng core đồng bộ giao dịch phục vụ việc tra cứu đối soát và báo cáo 
+Front - End: xây dựng web quản trị,khai báo, và báo cáo cho hệ thống thanh toán 
+bằng .net   
+ 
+NGÔN NGỮ SỬ DỤNG
+
+4 
+PHP, JAVA, .NET, ORACLE, 
+3 CÔNG TY CỔ PHẦN CÔNG NGHÊ OTP FLC  Vị trí: Lập 
+trình viên 
+ 
+06/2015 – 
+10/2015  
+ Mô tả công việc: 
+1.   Phát triển dịch vụ đầu số 7x47 
+- để phát triển hệ thống core nhận tin nhắn, đăng ký và trả tin kết quả sổ số cho 
+khách hàng theo vùng miền thành phố.  
+- Xây dựng hệ thống CMS quản trị: báo cáo,khai báo, tra cứu… cho quản trị 
+viên.(sử dụng MVC4)  
+Ngôn ngữ 
+.NET, SQL SERVER  
+ 
+4 CÔNG TY CỔ PHẦN ABC-GROUP  Vị trí: Lập 
+trình viên 
+ 
+10/2015 – 
+8/2016  
+ Mô tả công việc: 
+1.  Xây dựng hệ thống ERP System  
+Xây dựng hệ thống quản lý nội bộ theo yêu cầu bao gồm quản lý(nhân viên, 
+lương, công việc, báo cáo, dự án, hợp đồng, tài sản…)  
+2.  Xây dựng trang Game 
+Xây dựng website chơi game online trực tiếp trên website và tải game về máy 
+điện thoại để chơi. Phát triển hệ thống dựa trên nền tảng công nghệ laravel 4.2 là 
+bản mới nhất tại thời điểm đó 
+ 
+3.  Xây dựng ứng dụng Chợ Online  
+Lập trình App Android chợ gồm các tính năng: 
+Đăng ký, đăng nhập, xem sản phẩm, upload sản phẩm, chat, nhắn tin sms, gọi 
+điện thoại, tra cứu sản phẩm… các chức năng giống app chợ tốt 
+ 
+4.  Dựng Webservice xử lý đầu số 8x33  
+Xây dựng hệ thông Webservice MO MT để tiếp nhận và xử lý các yêu cầu từ 
+phia partner gọi lên. Sau đó trả về tin nhắn cho khách hàng theo yêu cầu của 
+partner. 
+5.  Xây dựng trang web tin tức cho công ty  
+ 
+ 
+Ngôn ngữ công nghệ: PHP Laravel, Java, oracle, mysql, centos 
+5 CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ DỊCH VỤ GIÁO 
+DỤC HỌC MÃI  
+Vị trí: 
+Trưởng 
+Nhóm Lập 
+trình viên  
+ 
+8/2016 – 
+2/2018 
+ 
+ 
+1.  Phát triển hệ thống diễn đàn học mãi 
+- Chuyển đổi diễn  đàn từ vbulletin sang xenforo  
+- Phát triển các add ons: cộng trừ điểm, quản lý tặng quà, quay số trúng thưởng 
+countdown member, oauth2 login …
+
+5 
+2.  Tham gia xây dựng hệ thống CRM cho các khối Tiểu Học, THCS, THPT 
+Tham gia xây dự hệ quản trị chăm sóc khách hàng, lịch sử mua khóa học, lịch sử chăm 
+sóc khách hàng, phân chia contact cho sale … 
+3.  Phát triển module trong hệ thống học mãi 
+- Phòng thi: quản lý phòng luyện thi 
+- Các báo cáo thống kê 
+- Xây dựng trang tài liệu 
+- Quản lý học bạ 
+- Xây dựng các tool marketing sms, email  
+- … 
+ 
+ Ngôn ngữ/framework: php moodle, xenforo, Phalcon  
+6 CÔNG TY CỔ PHẦN HẢI PHÁT TECH 
+Vị trí: Phó 
+phòng phát 
+triển phần 
+mềm 
+3/2018 – hiện 
+tại  
+ 
+- Chịu trách nhiệm phát triển các dự án của công ty.  
+- Tổ chức hoạt động lên kế hoạch cho mọi người.  
+- Chủ động tiếp nhận và khai thác yêu cầu với các bên kinh doanh. 
+- Nghiên cứu đề xuất áp dụng công nghệ mới vào hệ thống 
+- Đào tạo hướng dẫn sử dụng cho các phòng ban  
+Dự 
+án 1 
+ 
+Quản lý học viên tại học viện Hải Phát (Quản lý học viên trước trong và sau khi 
+vào học, Quản lý khóa học, Quản lý ngân hàng câu hỏi, Quản lý kỳ thi, Quản lý 
+môn, chuyên đề ….) 
++ Ngôn ngữ phát triển Msql, Laravel, Php….. 
+ 
+  
+Dự 
+án 2 
+- Hệ thống CRM: phát triển và triển khai hệ thống quản lý nhân viên, lên kế 
+hoặc KPI cho nhân viên sale, tạo chiến dịch chia data khách hàng cho nhân viên, 
+quản lý giao dịch của nhân viên 
+-Nền tảng phát triển: Laravel, php, mysql , FCM API , Facebook api, Amazon 
+aws 
+ 
+Dự 
+án 3 
+- Hệ thống quản lý tài sản công ty: phục vụ cho việc quản lý tài sản tại Tập 
+Đoàn Hải Phát. …(Thống kê ts, bàn giao tài sản, quản lý tài sản theo cơ cấu của 
+cty …) 
+- Laravel, php, mysql 
+ 
+Dự 
+án 4 
+Phát triển sàn giao dịch bất động sản bao gồm các tính năng như: cấu hình bảng 
+hàng, đặt căn, lock căn, mua bán, báo cáo, quản lý khách hàng … 
+Dự 
+án 5 
+Chịu trách nhiệm xây dựng hệ thống email marketing. Phát triển các tính năng 
+như: quản lý khách hàng, quản lý danh sách contact của khách hàng, 
+Quản lý chiến dịch email(chiến dịch, tự động), cấu hình máy chủ (amazon, 
+sendgrid, mailgun, Elastic, SparkPost, SMTP), báo cáo…
+
+6 
+vai trò: Full stack 
+ 
+Trang test:  
+Dự 
+án 6 
+Phát triển hệ thống CRM khách hàng lẻ bao gồm các tính năng: 
+- Quản lý khách hàng 
+- Lịch sử chăm sóc khác hàng 
+- Tạo website, ladingpage tự đông(sử dụng api directadmin) 
+- Quản lý contact form 
+- Chiến dịch marketing( sms, email) 
+- Quản lý kịch bản chăm sóc tự động 
+- Quản lý máy chủ, api gửi email(ses aws, sendgrid, mailgun, Elastic, 
+SparkPost, SMTP 
+… 
+  
+vai trò: Team leader 
+ 
+ Ngôn ngữ và công nghê: 
+Php laravel, mysql, centos, java  
+Dự 
+án 7 
+Phát triển hệ thống livestream  
+- Quản lý khách hàng 
+- Quản lý gói sử dụng 
+- Quản lý tài khoản facebook khách hàng 
+- Phát livestream trên nhóm, page 
+… 
+ 
+vai trò: full stack 
+Ngôn ngữ và công nghê: 
+Php laravel, mysql, centos  
+  
+ 
+ 
+ 
+ 
+THÔNG TIN BỔ SUNG 
+Năng khiếu: 
+Hay hát 
+Sở thích: Âm nhạc 
+Tính cách: Hiền 
+Thành tích, giải thưởng: ( tất cả các lĩnh vực mà anh/chị đạt được) 
+ 
+Tại sao bạn muốn làm việc tại công ty? 
+Phát triển bản thân 
+Bạn mong muốn một công việc như thế nào? 
+Mình mong muốn có một công việc phù hợp để phát huy tốt khả năng của bản thân 
+Mục ti êu cá nhân c ủa bạn trong thời gian tới l à gì?
+
+7 
+1. Mục tiêu ngăn hạn: Làm quen với môi trường hiểu rõ về các sản phẩm, mô hình phát triển. 
+2. Mục tiêu xa hơn : Trở thành môt Leader giỏi của công ty 
+Bạn đồng ý đi công tác: ⌧ Trong tỉnh thành      Ngoài tỉnh thành     Không đồng ý   
+Lý do không đ ồng ý:  
+ 
+Bạn biết đến đợt tuyển dụng của công ty qua :  
+⌧ Các trang web tuyển dụng  
+⌧ Bạn b è    Báo chí         Ngư ời thân    Khác (Xin ghi rõ):  
+ 
+THÔNG TIN GIA ĐÌNH 
+Quan hệ Họ tên Ngày/Tháng/Năm sinh Chức vụ và nơi công tác 
+Bố Ngô Văn Thăng 1966 Nghề Nông, Phù Yên, 
+Viên An, Ứng Hòa, Hà 
+Nội 
+Mẹ Nguyễn Thị Lý 1969 Nghề Nông, Phù Yên, 
+Viên An, Ứng Hòa, Hà 
+Nội 
+ 
+ 
+ 
+THÔNG TIN NGƯỜI THAM KHẢO 
+Vui lòng cho biềt một vài người tham khảo (không phải là người thân) biết rõ về quá trình 
+làm vi ệc của bạn m à chúng tôi có th ể li ên h ệ.  
+STT Họ tên Vị trí và nơi công tác Số ĐT liên lạc/email 
+1    
+2    
+Tôi cam đoan những thông tin tôi khai báo ở trên là đúng sự thật và hoàn toàn c hịu 
+trách nhiệm về việc cung cấp những thông tin trên. 
+     …Hà Nội…Ngày  Tháng   Năm 2020 
+                                                                                               Người khai thông tin 
+ 
+ 
+ 
+                                                                        Cường 
+                                                                Ngô Tuấn Cường

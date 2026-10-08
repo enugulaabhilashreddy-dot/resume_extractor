@@ -1,0 +1,58 @@
+LÝ LỊCH CÁ NHÂN. 
+THÔNG TIN CÁ NHÂN 
+Họ tên: Lê Văn Mẫn 
+Ngày sinh: 21-08-1987 
+Nguyên quán: Xã Đại Điền, huyện Thạnh Phú, tỉnh Bến Tre 
+Chỗ ở hiện nay: Ấp Tân Phú 1, xã Tân Lý Đông, Châu Thành, Tiền Giang 
+Điện thoại: 
+Email: 
+Skype: 
+MỤC TIÊU 
+Phát triển kỹ năng nghề nghiệp trong lĩnh vực IT. 
+TRÌNH ĐỘ HỌC VẤN 
+• Năm 2008, tốt nghiệp chương trình lập trình viên quốc tế tại trung tâm tin học đại học Khoa 
+Học Tự Nhiên (khóa học trong 2 năm) 
+• Đã học hết năm 3 đại học Khoa Học Tự Nhiên ngành công nghệ phần mềm – hệ đào tọa từ 
+xa qua mạng. 
+• Tháng 01/2022 hoàn thành khóa học linux LPI tại trung tâm IPMAC (học online từ 10/2021- 
+01/2022). 
+• Tháng 05/2022 hoàn thành khóa học CCNA tại trung tâm đào tạo quản trị và an ninh mạng 
+Athena (học online từ 02/2022-05/2022) 
+• Tháng 09/2022 hoàn thành khóa tập huấn “Nhận thức ISO 9001:2015 và phương pháp 
+đánh giá nội bộ theo ISO 190011:2018” do Viện Tiêu Chuẩn Anh – BSI Việt Nam đào tạo và 
+cấp chứng nhận. 
+KINH NGHIỆM LÀM VIỆC 
+• Lập trình và triển khai, hỗ trợ người dùng hệ thống quản lý khách sạn resort, lập trình các 
+ứng dụng quản lý tại công ty TNHH Giải Pháp Phần Mềm Việt Á từ tháng 7 năm 2010 đến 
+3/2014. Các phần mềm đã thực hiện: Quản lý phân phối dược phẩm (GDP – Công ty dược 
+Khánh Hội), quản lý hợp đồng cho thuê mặt bằng mark), qu ản lý hợp đồng xử lý rác 
+thải (công ty Môi Trường Đô Thị TP HCM), tham gia chỉnh sửa và triển khai phần mềm quản 
+lý khách sạn GiHoTech cho hơn 30 khách sạn từ 3 đến 5 sao như (resort Tiến Đạt- Mũi Né, 
+resort Thế Kỷ - Mũi Né, khách sạn Park Diamond – Phan Thiết, resort Eden – Phú Quốc, 
+resort Phú Vân – Phú Quốc, khách sạn dầu khí Đà Nẵng, khách sạn Michelina - Nha Trang, 
+khách sạn VDB – Nha Trang, khách sạn Best Western Đà Lạt Plaza, khách sạn Aquari – 
+Thi Sách, Q1, Tp. Hcm, …).
+
+• Lập trình và triển khai các phần mềm về quản lý hành chính nhà nước (triển khai phần mềm 
+một cửa điện tử cho thị xã Hồng Ngự - tỉnh Đồng Tháp, các sở Ngoại Vụ, Y Tế, Xây Dựng, 
+Văn Hóa – Thể Thao Và Du Lịch tỉnh Đồng Tháp), tham gia phát triển phần mềm quản lý 
+khách sạn cho tổng công ty Sài Gòn Tourist  tại Công Ty TNHH Hệ Thống Thông Tin FPT 
+(ứng dụng cho khách sạn Đồng Khởi, Đệ Nhất, Majestic,… Các khách sạn trực thuộc tổng 
+công ty du lịch Sài Gòn) từ tháng 04/2014 đến 03/2018 với vị trí cán bộ phân tích nghiệp vụ, 
+trưởng nhóm lập trình và triển khai.  
+• Lập trình, triển khai các phần mềm quản lý sản xuất (WIP, MES) (từ kho nguyên phụ liệu – 
+cắt – may – đóng gói – nhập, xuất kho thành phẩm), quản lý tài sản, bảo trì thiết bị 
+(windows form, web form).  Hỗ trợ sửa chữa máy tính, laptop, thi công, bảo trì hệ thống 
+mạng tại công ty TNHH Quảng Việt Tiền Giang từ 06/2018 đến nay. 
+• Tham gia đánh giá nội bộ về quản lý chất lượng theo tiêu chuẩn ISO 9001:2015 
+KỸ NĂNG 
+• Lập trình ứng dụng quản lý: , C#, DevExpress, Net Advantage, Crystal report, 
+Flexcel grid 
+• Lập trình Web :  Webform 
+• Cơ sở dữ liệu: Lập trình và quản trị MSSQL Server 
+• Quản lý mã nguồn: SVN 
+• Phân tích thiết kế hệ thống từ thông tin, yêu cầu của khách hàng, các bộ phận nghiệp vụ. 
+• Quản lý, khắc phục các sự cố mạng, máy tính, kết nối thiết bị ngoại vi. 
+• Sử dụng hệ điều hành linux (Ubuntu). 
+• Cấu hình, quản trị hệ thống mạng (máy chủ, các thiết bị mạng) 
+• Đánh giá nội bộ quản lý chất lượng theo tiêu chuẩn ISO 9001:2015

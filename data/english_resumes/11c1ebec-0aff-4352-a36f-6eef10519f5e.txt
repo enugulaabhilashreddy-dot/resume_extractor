@@ -1,0 +1,119 @@
+LÊ VƯƠNG GIA HUÂN 
+ Tân Phú, H ồ Chí Minh city  GMT+7  
+ 
+− Unreal developer with more than 2 years of experience. 
+− 100% job success score on Upwork with all 5-star feedback. 
+− Programming languages: C++ and Blueprint. 
+− Version control tools: GitHub, Perforce, BitBucket and Plastic SCM. 
+− 3D software: Blender, Daz Studio, and NVIDIA Omniverse. 
+Below are the details of my experiences. 
+1. Upwork freelance:...................................................................................................................................................... 1 
+1.1. Maruti Suzuki pixel streaming: .............................................................................................................................. 1 
+1.2. Shib the Metaverse‘ chat system: ......................................................................................................................... 2 
+1.3. Film production tools: ............................................................................................................................................ 2 
+2. At DITUS: .................................................................................................................................................................... 2 
+2.1. LG at CES 2023: ...................................................................................................................................................... 2 
+2.2. Other: ..................................................................................................................................................................... 2 
+3. Freelance: ................................................................................................................................................................... 3 
+3.1. imersU Row: ........................................................................................................................................................... 3 
+3.2. For Shenzhen Schmidt Technology: ....................................................................................................................... 3 
+3.3. Blink Studios:.......................................................................................................................................................... 3 
+4. Other: ......................................................................................................................................................................... 3 
+4.1. Open-source contributions: ................................................................................................................................... 3 
+4.2. Plugins, tools and samples: .................................................................................................................................... 3 
+4.3. 3D and compositing experiences: .......................................................................................................................... 3 
+ 
+1. Upwork freelance: 
+(4-10/2023). 
+Please log in to Upwork to see my work history and client feedback on the platform. 
+1.1. Maruti Suzuki pixel streaming: 
+(9-10/2023). 
+Description: Unreal pixel streaming project to showcase vehicle products and allow user interactions on website. The 
+job is called “Unreal Engine - C++ Programmer with Mid-High Experience” on my profile. 
+Responsibilities: 
+− Integrated and replicated Ready Player Me avatar system for multiplayer. 
+− Developed multiplayer locomotion, emote system and dedicated server matchmaking. 
+− Processed custom inputs received from frontend website in Unreal. 
+− Integrated Avatar SDK MetaPerson 2 and developed a pose selection system for a photo mode. 
+− Developed virtual showroom environments. 
+Technologies: Unreal Engine, Ready Player Me, Avatar SDK and Pixel Streaming.
+
+Client is Artificial Reality. 
+1.2. Shib the Metaverse‘ chat system: 
+(8-9/2023). 
+Description: communication with server for a chat system. The job is called “Unreal Plugin Developer” on my profile. 
+Responsibilities: 
+− Designed and developed a plugin to integrate WebSocket communication for chat strings. 
+− Documented instructions for integrating this plugin and the necessary changes to be made. 
+− Long term support for the development of this plugin. 
+Technologies: Unreal Engine and WebSocket secure. 
+Client is Dogra Technologies. 
+Client feedback: “Huân is my go-to dev, business analyst, and everything that is related to UE development. He is well 
+versed in technology and understands the abstract requirements as well.” 
+1.3. Film production tools: 
+(4-6/2023). 
+Description: Unreal plugins for a film studio. The jobs are called “Unreal light sampler with TCP networking” and 
+“Unreal pipeline render controller” on my profile. 
+Responsibilities: 
+− Designed and developed a real-time solution for capturing lighting color values on specified surfaces in Unreal 
+scenes, exporting the results over the network, receiving and executing control commands from the network. 
+− Designed and developed a plugin to import camera data and 3D objects generated from external software into 
+Unreal Engine then organize them in the correct sequence by timecode and render into image sequence. 
+− Developed a plugin to import and manage stop-motion animations from external 3D object files. 
+Technologies: Unreal Engine and TCP/UDP. 
+Client feedback: 
+“If you need deep complicated Unreal work done in C++ this is your guy. He is a rock star.” 
+“Very good work product, good communication and fast results.” 
+2. At DITUS: 
+(7-12/2022). 
+2.1. LG at CES 2023: 
+(11-12/2022). 
+Description: in-camera VFX technical visualizations. 
+Responsibilities: developed technical visualizations and provided consultation to Dexter Studios for their in -camera 
+VFX production. 
+Technologies: Unreal Engine and in-camera VFX. 
+2.2. Other: 
+− Developed a digital twin for PC (Windows) and VR (Oculus) platform. 
+− Basic pixel streaming deployment on AWS. 
+− Developed digital humans and their control systems. 
+− Operated motion capture technology and virtual camera. 
+− Developed specialized tools for the asset preparation process. 
+− Animated cinematic previsualization scenes.
+
+Technologies: Unreal Engine, AWS, Oculus, Perception Neuron, ARKit and MetaHuman. 
+Reference: Sean Kwon, creative director, 
+3. Freelance: 
+(9/2021 - 6/2022). 
+3.1. imersU Row: 
+(11/2021 - 2/2022). 
+Description: 3D rowing simulation using physical rowing machine. 
+Responsibilities: 
+− Developed specialized tools for the asset preparation process.  
+− Improved the performance of the game. 
+− Led a team of artists in creating a new level for the game. 
+Technologies: Unreal Engine and Blender. 
+Reference: Edward Bennett, main contractor, 
+3.2. For Shenzhen Schmidt Technology: 
+(10/2021). 
+Description: physical winch technical visualization. 
+Responsibilities: developed a real -time technical visualization for a physical winch product in Unreal Engine. The 
+visualization program receives controls from a DMX512 network. 
+Technologies: Unreal Engine and DMX512. 
+Client is Henry Schmidt. 
+3.3. Blink Studios: 
+(9/2021 - 5/2022). 
+Description: Unreal marketplace products ). 
+Responsibilities: 
+− Developed specialized tools for the asset preparation process. 
+− Improved and prepared products for release on the Unreal marketplace. 
+Technologies: Unreal Engine and Blender. 
+Reference: Thomas Vuilliomenet, founder & CEO, 
+4. Other: 
+(12/2020 - present). 
+4.1. Open-source contributions: 
+− ObjectDeliverer: Deprecated, monolithic header and logging by lehuan5062 · Pull Request #56. 
+−  Client : Fix compile error by lehuan5062 · Pull Request #387. 
+4.2. Plugins, tools and samples: 
+My Unreal plugins, tools and samples can be found on my YouTube, Itch and GitHub. 
+4.3. 3D and compositing experiences: 
+My 3D and compositing experiences can be found on my ArtStation.

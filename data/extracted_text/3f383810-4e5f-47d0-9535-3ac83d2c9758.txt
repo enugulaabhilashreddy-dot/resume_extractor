@@ -1,0 +1,186 @@
+CURRICULUM VITE  
+CONTACT INFORMATION  
+Full Name  Dang Dang Khoa  Skype  dangkhoa_tg  
+Address  170/7 Ham Tu, 1  
+Ward, Dist. 5  
+Mobile phon 
+City  Ho Chi Minh, Viet  
+Nam  
+Email    
+PROFILE  
+OBJECTIVE  -IT Manager/ Head of IT/ Head of Business Solutions/ Project Manager  
+WORKING 
+EXPERIENCE  
+7/2022- Present  
+Saigon Tourist Export – Vinahub join stock company  
+Position: Head of IT. Team size: 4  
+-Responsible for IT strategies and deliver all IT services in the company  
+• Work with HoF to develop the operating and investment budgets, 
+define technology solutions to support business strategies  
+• Monitor and track CAPEX/OPEX every rolling forecast cycle in 
+collaboration with local finance   
+• Maintain strong relationship with IT team to business stakeholders 
+  
+ Define and drive the digital transformation objectives and 
+strategies. Introduce and build a digital mindset within all 
+stakeholders in line with the digital transformation of the company 
+(e.g. Microsoft Dynamics NAV & LS Retail, SQL Server Reporting 
+Services, Manage Engine Service Desk …)  
+• Promote innovation culture by encouraging employees contribute 
+ideas for improvement in any angles of business leveraging various 
+platforms (e.g.  Idea submission, Voting, Pitching Day and Reward)  
+• Deliver an efficient end user support and help desk service to 
+business super market in line with ITIL  
+• In conjunction with Information Protection Governance to provide an 
+efficient IS Security, and achieve a high level of security compliance 
+across IS domains and security awareness across organizations  
+• In conjunction with Global Technology Services to deliver an efficient 
+and reliable base technology services to support the expanding 
+needs of company (e.g. network infrastructure standardization, 
+Office 365 …)  
+• Develop the IS organization, identify and develop 100% succession 
+potential to all key roles.  
+  
+8/2021-6/2022  
+Loc Troi Group – Thuc Vat An Giang Security Company Limited  
+Position: IT Function System. Team size: 6  
+-Responsible for management and execution and ensuring IT readiness to 
+serve business needs.
+
+-Partner with senior leadership across the organization to resolve business 
+problems through needs analyses, designing enterprise solutions, develop 
+strategic plans. Facilitate investment justification and prioritization process. -
+Ensure the high quality of IT services and best performance of system 
+operation.  
+  
+Project delivered:  
+#  Distribution Management System – DMS IPI Project for B2B (Role: Deliver  
+& management, No. of users: 200, Project cost: USD ~500K, Team size: 10, 
+Vendor: Citek & IPI &TMS)  
+• Enhance efficiency & productivity of filed sales force management & 
+process (more than 300  salesrep, 50 sub-distributors across 
+nationwide, 5 distributors) with route plan management, territory 
+management, trade program & compliance management, sales 
+order management.  
+• Develop business case, work with different stakeholders to do 
+project plan, to define project scope, estimate budget, timing, 
+resources… from high level plan to lowest level by breaking down 
+tasks assigned to team members.  
+• Carry out the requirements clarification and verification with 
+business to ensure that requirement documents are consistent and 
+complete, concise and comprehensible, technically feasible and that 
+they must conform to the highest standard.  
+• Persuade and negotiate with regional, vendor and relevant 
+stakeholders for change requests, new features and enhancements. 
+# Farmer Management App– Grow with Farmers App (Role: Deliver 
+& management, No. of users: 1000, Project cost: USD ~300K, Team 
+size:7,  
+Vendor: Internal team & partner)  
+• Provide benefit to farmers: promotion, manage: drone, rice scale, 
+boat transport running on mobile phone.  
+  
+10/2020 - 07/2021 – Routine Company Limited  
+Position: ERP Leader – Team size: 6  
+Overall responsible for business information & solutions.  
+- Lead the local IS support team, develop functional spec and mange 
+system deployment.  
+- Work as IT business partners with Sales, Marketing and Operations 
+Team support business grow in short and long run.  
+  
+Project delivered:  
+#Microsoft Dynamic Navision 2018 & LS Retail (Role: Delivery & Manage,  
+No. of users: 100, No. of Stores: 25, Project cost: USD ~300K, Team site: 6, 
+Vendor: Naviworld)  
+#Integration E-invoice (Role: Project manager, No. of users: 100, No. of 
+Stores: 25, Project cost: USD ~100K, Team site: 6, Vendor: Naviworld & 
+Viettel
+
+08/2019 - 09/2020 – Maison Retail Management International  
+Position: Application Manager – Team size: 12  
+- Act as business relation manager to transform and deliver IT business 
+solutions across business units to improve processes, enhance 
+efficiency and operational excellence.  
+- Develop business cases, provide estimation for new technology 
+implementations.  
+- Provide business insight information to support management for 
+decision making via reporting systems; offer value added services to 
+clients contributing in business development; P&L management.  
+- Manage multiple concurrent projects with regional IT, oversee and 
+manage the design, development and implementation of short and 
+long term solutions Project delivered:  
+#Ecommerce Haravan integrate with SAP HANA and POS ETP (Role: Project 
+manager, No. of users: 200, No. of Stores: 95, Project cost: USD ~800K, Team 
+site: 12, Vendor: Haravan & Citek & ETP)  
+#Upgrade ETP (POS system) integrate SAP HANA(Role: Project manager, No.  
+of users: 200, No. of Stores: 95, Project cost: USD ~500K, Team site: 12, 
+Vendor: Citek & ETP)  
+  
+01/2015 - 07/2019 – Maison Joint Stock Company  
+Position: IT Leader – Team size: 6  
+- Carry out requirement collection, clarification & verification with 
+business users and deliver IT solutions to meet business expectation.  
+- Lead support team, develop functional spec and manage POS system 
+integrate with SAP  
+  
+Project delivered:  
+# POS ETP and ERP SAP HANA (Role: Deliver & deployment, No. of users:  
+100, No. of Stores: 45, Project cost: USD ~1M, Team site: 6, Vendor: ETP & 
+Abeo Vietnam)  
+  
+11/2011-12/2014 – Maison Company Limited  
+Position: Database Administrator– Team size: 4  
+Contribute in growing of information systems of Maison  
+- Admin DB SQL Server: create store procedure, trigger, planning 
+backup and recovery  
+- Develop intranet web and in-house applications for various purposes.  
+- Provide maintenance & support of IOM POS System.
+
+EDUCATION AND  
+CERTIFICATES  
+IIBA – Ho Chi Minh, Viet Nam  
+BA Certificate – 10/2020. IIBA Central  
+Ho Chi Minh University of Foreign Languages– Ho Chi Minh, Viet Nam  
+Bachelor -11/2010. Certificate: Bachelor of Information Technology 
+TRAINING COURSES:  
+ -  SCRUM/GILE Training  
+ 
+- Advanced Business Presentation Skill  
+- Leadership Development Skill  
+- Project management  
+- Business Presentation Training  
+- Customer Service Training  
+  
+SPECIFICATION  Manager – 12 years’ experience in IT overall management  
+- Strong experience in project management and business solutions. 
+Strong working knowledge of project management principles, 
+processes and tools.  
+- Very good communication, able to work with customers to define 
+scope, estimate costs, manage risk, define resource requirements, 
+plan, schedule and report status.  
+- Experience in working with ERP (SAP Hana, Microsoft Dynamic 
+Navision), POS System: LS Retail, IOM, ETP, DMS: IPI  
+- Strong knowledge of database management SQL Server, Service 
+management system, Planning System  
+REFERENCES  Full Name  Nguyen Minh 
+Thanh  
+Position  IT Director  
+Company  Maison RMI  Email   
+Mobil  Relation  Director Boss  
+References of current company shall be available upon request  
+ADDITION  
+INFORMATION  
+- Customer oriented, result oriented, responsive and tactful.  
+- Working under high pressure and active environments.  
+- Establishes direction, encourages innovation and builds productive 
+work relationships.  
+- Good communications and listening skills, motivates, coaches and 
+develop people, ability to build and maintain collaborative working 
+environment.  
+- Willing to work extra hours to achieve objectives.  
+  
+PERSONAL  
+Birth Date  20/07/1987  Certificate  Bachelor of  
+Information  
+Technology  
+Gender  Male  Experience  12 years  
+Marital Status  Married  Level  Manager/ HoF

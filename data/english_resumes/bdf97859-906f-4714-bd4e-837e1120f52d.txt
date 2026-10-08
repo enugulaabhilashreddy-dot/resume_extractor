@@ -1,0 +1,138 @@
+PROFILE 
+ 
+I'm designer and developer 
+software. 
+ 
+My style is nice in design and 
+simple in programing. 
+ 
+Enjoy learning and experiencing 
+new things. 
+Personality: Honest, simplicity, 
+responsibility, hard work. 
+CONTACT 
+ADDRESS: 
+ 321/29b Ton Dan, Ward 
+15, District 4 , HCM city 
+PHONE: 
+ 
+ 
+EMAIL: 
+  
+HOBBIES 
+ Basketball 
+ Football 
+ Swimming 
+SKILLS 
+ Creativity 
+ Problem Solving 
+ Teamwork 
+Name : TRẦN VŨ KHOA 
+ 
+Birthday: 18/12/1987 
+ 
+Jobs: DESIGNER and PROGRAMMER 
+EDUCATION 
+International Hong Bang University 
+2009 - 2013 
+Information Technology Engineer Degree 
+ 
+Nhat Nghe Academy 
+2013 - 2014 
+Certificate Digital Marketing SEO 
+Certificate Backend PHP & MySQL 
+ 
+WORK EXPERIENCE 
+ 
+Company: XUAN TRANG    (Viet Nam Company) 
+Position: Web Teamleader     2005 – 2006 
+ 
+Project: Dentistry Ecommerce 
+ 
+Task: 
+o Cut PSD convert HTML /Css/ Jquery/Javascript 
+o Design layout website 
+o Flash amination 
+o Frontend HTML CSS JS 
+o Backend PHP, WORDPRESS 
+ 
+Company: COSATECH     (USA Company) 
+Position: IT manager    2013 – 2014 
+ 
+Project: Web Blog and Security 
+ 
+Task: 
+o Support Backend PHP , MYSQL 
+o Support Network Security 
+o Support Design UI Website
+
+Company: ANPHABE     (Viet Nam Company) 
+Position: FullStack Developer 2014 – 2015 
+ 
+Project: Recruiment Website 
+ 
+Task: 
+o Frontend: HTML , CSS2 , JQUERY 
+o Support Backend: PHP , MYSQL 
+o Support: SEO technical 
+ 
+Company: JNU    (Korea Company)  
+Position: Sofware Manager   9/2015 – 3/2016 
+ 
+Project: Coffee Shop Website , Ginseng Ecommerce 
+Website 
+ 
+Task: 
+o Design UI/UX web/app 
+o Frontend: HTML5 , CSS3 , JQUERY , BOOTSTRAP3 
+o Backend: PHP , MYSQL 
+ 
+ 
+Company: SAIGONBPO  (Viet Nam Company) 
+Position: Fullstack Developer    2017 – 16/10/2020 
+ 
+Project: News website , Finance webapp, Operator 
+System Management , Human resource system 
+ 
+Task: 
+o Frontend: BOOTSTRAP 4, CSS3, SCSS, JQUERY, 
+REACT, NEXTJS, TYPESCRIPT 
+ 
+o Backend: PHP, NODEJS , MYSQL, 
+WORDPRESS, LARAVEL, POSTGRESQL 
+ 
+ 
+ 
+Company: SKYGROUP (Korea Company) 
+Position: Fullstack Developer 3/2021- 9/2021 
+ 
+Project: Ecommerce Emart Mall 
+ 
+Task: 
+o Frontend: BOOTSTRAP 5, CSS3, SCSS, JQUERY 
+o Backend: PHP, MYSQL
+
+Company: Freelancer              
+Position: Blockchain Developer              3/2022 - 9/2022 
+ 
+Project: NFT marketplace 
+ 
+Task: 
+o Frontend: TAILWINDCSS,  TYPESCRIPT, NEXTJS, 
+ANT DESIGN 4, REDUX TOOLKIT 
+ 
+                                                                   
+ 
+Company: BrainGroup               (Viet Nam Company) 
+Position: Web Manager                          10/2022 - 1/12/2023 
+ 
+Project: Company website , Ecommerce website , AOP 
+webApp 
+ 
+Task: 
+o Frontend: BOOTSTRAP 5, CSS3, SCSS, JQUERY,   
+TYPESCRIPT , NEXTJS , REACT, ANT DESIGN 5, 
+TAILWINDCSS 3 , REDUX TOOLKIT 
+ 
+o Backend: WORDPRESS, MYSQL, NODEJ, 
+NESTJS, MONGODB,  LARAVEL

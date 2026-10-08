@@ -1,0 +1,187 @@
+CURRICULUM VITAE
+I. PERSONAL DATA
+Name : Lê Tấn Nghĩa
+Date of birth : 23 – 08 - 1981
+Place of birth : Lam Dong
+Gender : Male
+Residence: Don Duong – Lam Dong
+Contact address : 78/2 Cay Keo, Quarter 1, Tam Phu
+Precinct, Thu Duc District, Ho Chi Minh , Viet Nam
+Email :
+Skype : tannghia
+Handphone :
+Nationality : Viet Nam
+Religion : No
+Marital status : Married
+Experience : 20 years
+II. EDUACATIONAL BACKGROUND
+o 2001 – 2003 : Studied at Secondary Computer & Telecommunication –
+Degree of College.
+o 2005 : Studied at Talent Foreign Language and Information
+technology School LT APTECH
+o 2008 : Studied at Network Training Center - Certification
+PHP&MySQL
+Major Professional Training Courses:
+language : Level B.
+usage with MS Office, Internet…
+III. Profile and Objective
+My objective is to work for a dynamic company to build upon my current skills and
+gain new ones. I have 20 years relevant experience as a web developer for a web
+agency based in some companies and have also worked privately as a freelance
+web designer.
+I have managed many different projects and in each of them I have used and
+developed several skills in different areas including web design and development,
+web usability, accessibility, web marketing, graphic design, programming,
+management and testing.
+As my passion is visual design and communication I follow key trends on web
+design and graphic design.
+
+IV. WORK EXPERIENCE
+Career Overview:
+A Front end/Web Designer with over 20 years’ interactive experience. Core
+capabilities include: standard-based Web programming in HTML/XHTML, CSS,
+SASS, JavaScript, Angular and ReactJS.
+Technical Skills:
+Operating Systems:
+Windows 98/2000/XP/Vista and Windows 7/10, MacOS, Fedora/Ubuntu
+Languages and Frameworks:
+HTML/HTML5, CSS2/CSS3, W3C Validated, JavaScript, Angular, ReactJS, Gulp,
+SASS, Responsive design, Bootstrap framework, Foundation framework, Wordpress
+framework, Laravel framework.
+Software Programs:
+Adobe Dreamweaver, Photoshop, Illustrator, NetBeans, Notepad++, GIT
+(Bitbucket, Github …), Subversion(svn).
+Interactive Experience:
+June, 2020 – Present: Project Manager - J-line Corporation, 15/27 Nguyen
+Thi Minh Khai, District 1
+Responsibilities:
+o Manage Teams
+o Manage Timeline
+o Confirm Requirement and analyses for a team member
+o Assign issue and cross-check for member
+o Assures quality by developing and completing test plans, maintaining
+project and technical documentation
+o Participates in all phases of projects including development, design,
+testing and production release
+o Manage and balance internal and external resources to meet project
+timelines
+o Optimize multiple branded websites that showcase products, services,
+technical information from a marketing perspective
+o Work closely with the Web Development team to ensure development
+resources are optimally utilized
+o Lead, manage and motivate a small team of Back End Web Developers
+and Front End Developers/designers
+Responsibilities:
+
+User: test
+Password: test321
+
+March, 2018 – June, 2020: Lead Front End - Prime Labo 3th Floor, 63
+Phạm Ngọc Thạch Street, District 3, HCMC
+Responsibilities:
+o HTML, CSS, SASS, Gulp, React, Javascript
+o Twitter bootstrap, Wordpress framework, Laravel Framework
+o Solid knowledge and understanding of HTML, CSS, Java and JavaScript
+o Good knowledge of contemporary information systems industry trends,
+products, techniques, technologies, and processes
+o Strong leadership skills with the ability to establish and track goals
+o Detailed and thorough in work habits with multi-tasking ability
+o Detail oriented and a self-starter
+o Demonstrated ability to work in teams with a collaborative
+interpersonal style
+Airbridal corp
+Members: 3 persons
+Role: TeamLead (Frontend)
+
+Frontend: Javascript, HTML, CSS
+Completing Tasks: 4 months
+TSUKAMOTO ICHIDA CO.,td
+Members: 3 persons
+Role: TeamLead (Frontend)
+Frontend: Javascript, HTML, CSS
+Completing Tasks: 3 weeks
+Proas application
+Members: 3 persons
+Role: TeamLead (Frontend)
+Frontend: HTML, css, Javascript
+Completing Tasks: 8 months
+MediSystem application
+Members: 2 persons
+Role: TeamLead (Frontend)
+Frontend: HTML, css, Javascript, Jquery
+Completing Tasks: 9 months
+Wowway – Enecolor
+Members: 5 persons
+Role: TeamLead (Frontend)
+Frontend Javascript , HTML, CSS
+Completing Tasks: 4 months
+Dec, 2016 – March, 2018: Front End - District 7, HCMC
+Responsibilities:
+o HTML/HTML5, CSS2/CSS3, SASS, Gulp, Angular 1
+o Twitter bootstrap, Wordpress framework, Laravel Framework
+o Research Wordpress plugin, Lavarel for front end.
+Members: 4 persons
+Role: TeamLead (Frontend)
+Frontend: Angular, Javascript , HTML, CSS
+Completing Tasks: 2 years
+
+Sep, 2015 – Dec, 2016: Senior Developer - EVOLABLE ASIA 5th Floor,9
+Dinh Tien Hoang Street, District 1, HCMC
+Responsibilities:
+o HTML/HTML5, CSS2/CSS3, SASS, Gulp
+o Twitter bootstrap, Wordpress framework, LaravelFramework
+o Research Wordpress plugin, Lavarel for front end.
+Implemented Bootstrap 3 and modular HTML/CSS workflows on a new
+responsive website for 
+Members: 5 persons
+Role: TeamLead (Frontend)
+Frontend: HTML, CSS, Javascript
+Total completing Tasks: 9 months
+(Completing Tasks 2 months)
+(Completing Tasks 2 months)
+(Completing Tasks 2 months)
+(Completing Tasks 2 months)
+(Completing Tasks 2 months)
+May, 2012 – Sep, 2015 : HTML Coding - 3forcom Co., Ltd.- 6th Floor,
+399B Truong Chinh Street, Ward 14, Tan Binh District, Ho Chi Minh City.
+Responsibilities:
+o HTML & CSS Coding, HTML5 & CSS3
+o Bootstrap, Foundation
+o Responsive Web Design
+o Web standard compliant.
+o Renders well in IE 7+, Firefox 1.5+, Safari, Chrome
+Project implemented
+Members: 5 persons
+Role: TeamLead (Frontend)
+Frontend: HTML, CSS, Javascript
+Total completing Tasks: 10 months
+
+(Completing Tasks 2 months)
+(Completing Tasks 5 days)
+(Completing Tasks 2 months)
+(Completing Tasks 1 months)
+December, 2008 – May, 2012 : Web Design - Yakobonde Co., Ltd.- 4th
+Floor, Le Tri Building - 164B Phan Văn Trị Street - Ward 12, Bình Thạnh
+District, Ho Chi Minh City.
+Responsibilities:
+o HTML & CSS Coding, Design Layout
+o Codeigniter Framework
+o Web standard compliant.
+o Renders well in IE 7+, Firefox1.5+
+Project implemented
+Members: 2 persons
+Role: TeamLead (Frontend)
+Frontend: HTML, CSS, Javascript
+Project: Web portal and CRM
+Technology: Design layout, HTML, CSS
+May 2002 – December 2008 : Web Design - Grafight Viet Nam
+Corporation – E27 billet 304-307, D1 Street, Ward 25, District Binh
+Thanh, HCMC
+Responsibilities:
+o Design Layout
+o HTML & CSS Coding
+o Smarty frameworks.
+Project implemented
+Members: 5 persons
+Role: Frontend
+Frontend: HTML, CSS, Javascript

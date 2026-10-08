@@ -1,0 +1,96 @@
+Phone: 
+Email: 
+LinkedIn: /in/vương-trần-5aba59258 
+T R Ầ N
+Q U Ố C  V Ư Ơ N G
+PROFILE
+I’ve taken 3 years of experience in mobile application development. Including 1 year working as a
+FullStack Developer. I have a strong passion for creating mobile applications. Currently, I am also a
+TeamLeader for the company whose job is to orient team development, build resources, optimize code
+and manage people.
+M o b i l e  D e v e l o p e r
+SKILLS
+PROGAMMING LANGUAGES
+JavaScript, TypeScript,
+Java, Kotlin, Swift 
+FRAMEWORK
+React Native
+LIBRARIES
+Redux, Redux Toolkit
+Redux Saga
+React Native Element
+Firebase
+IDE & TOOLS
+Visual Studio Code
+Postman, Swagger, SourceTree,…
+Android Studio, Xcode
+FOREIGNS LANGUAGES
+English: Standard communications
+KNOWLEDGES
+Google Develop (Map, Firebase, Mlkit,...)
+Git (merge, rebase, cherry-pick,...)
+Payment Service (Zalo Pay, ShopeePay,...)
+POS (VNPay, VCB, Payoo,...)
+WORKING EXPERIENCES
+Techologies:  React-native, Restful API, Redux, Hooks, Payment Service, POS Payment.
+Responsibility: 
+Implement new feature for app.
+Build and optimize base source.
+Integrate payment methods for orders: Zalo pay, Shopee pay, Payoo, Onepay, VNPay, VCB,
+VTB,....
+Hesman (7 members)
+Description: Hesman's internal use application. Saving and optimizing features help
+employees save time on work
+
+Techologies:  React-native, Restful API, Redux, Hooks, Animations, I18n
+Responsibility: 
+Implement UI/UX for designer by giving solutions.
+Implement features ( Calendar, Dashboard, etc ... )
+Integrate and improve the efficiency of APIs
+Build Testflight and demo application for clients
+Prostylee (4 members)
+Description:  This application is an e-commerce platform for the sale of clothes.
+Techologies:  React-native, Restful API, Redux, Hooks, Animations, I18n
+Responsibility: 
+Implement UI/UX for designer by giving solutions.
+Implement features ( Calendar, Dashboard, etc ... )
+Integrate and improve the efficiency of APIs
+Build Testflight and demo application for clients
+ (4 members)
+Description: This application is an e-commerce platform for the sale of clothes like prostylee
+Techologies:  React-native, Restful API, Redux, Hooks, POS payment
+Responsibility: 
+Implement new feature for app.
+Build and connect between the app and payment devices (POS): PAX, Clover.
+Use websocket to communicate between system and app.
+Mango Pay (7 members)
+Description: Order making application for beauty stores.
+Techologies:  React-native, Restful API, Redux, Hooks, 
+Responsibility: 
+Implement new feature for app.
+Develop calendar book screen and accompanying features.
+Work with react-native-webview to interact deeply with the system's website.
+Use websocket to communicate between system and app.
+Mango POS (7 members)
+Description: Appointment booking application for beauty stores.
+Techologies:  React-native, Restful API, Redux, Hooks, ConnectyCube
+Responsibility: 
+Implement new feature for app.
+Optimize and maintain existing features
+Develop calling and texting features with connectycube
+FFL (7 members)
+Description: Application to make friends, call and text like a social network.
+
+Techologies:  React-native, Restful API, Redux, Hooks
+Responsibility: 
+Implement new feature for app.
+Optimize and maintain existing features
+HoangHaMobile (7 members)
+Description: Timekeeping and internal management application, order creation and
+management for Hoang Ha Mobile
+EDUCATIONCOMPANIES
+Mobile Developer
+SunShine Software 1/2021
+Enrich&Co 8/2021
+Blackwind Software Current
+Open University 2017-2021

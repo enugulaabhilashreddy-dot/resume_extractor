@@ -1,0 +1,164 @@
+NGUYỄN 
+TRUNG HIẾU 
+Fullstack Developer
+
+HỒ SƠ 
+Tôi là một lập trình viên đầy nhiệt huyết, 
+với mục tiêu ngắn hạn là không ngừng 
+nâng cao kỹ năng và hoàn thành xuất sắc 
+nhiệm vụ được giao. Với tinh thần trách 
+nhiệm cao, tôi mong muốn trở thành nhà 
+phát triển năng động, có khả năng sáng 
+tạo và giải quyết vấn đề hiệu quả. 
+ 
+Dài hạn, tôi hướng đến việc trở thành 
+chuyên gia trong ngành, tham gia vào các 
+dự án công nghệ quy mô lớn và đóng góp 
+vào sự tiến bộ của công nghệ Việt Nam. 
+Mong muốn được làm việc trong một môi 
+trường năng động và sáng tạo, nơi có thể 
+học hỏi từ những người đi trước và đào 
+tạo chuyên sâu theo định hướng chuyên 
+môn. 
+ 
+LIÊN HỆ 
+ĐIỆN THOẠI: 
+ 
+ 
+ZALO:  
+( Trung Hiếu) 
+ 
+TELEGRAM: 
+( Nguyễn Trung Hiếu) 
+ 
+LINKEDIN: 
+b6600b181 
+ 
+WEBSITE: 
+ 
+ 
+EMAIL: 
+ 
+ 
+VỊ TRÍ :  
+Hồ Chí Minh 
+SỞ THÍCH 
+Công Nghệ 
+Cầu Lông 
+Bida 
+Sách Truyện 
+Âm nhạc 
+Du lịch 
+Khám phá 
+ 
+NGÔN NGỮ 
+Tiếng Việt 
+Tiếng Anh ( basic ) 
+ 
+ 
+ 
+HỌC VẤN 
+Viện đại học mở Hà Nội 
+2014 – 2017 
+- Tiểu Đội Trưởng khóa học quân sự 2015 
+- Chưa tốt nghiệp  
+KINH NGHIỆM CÔNG VIỆC 
+Công Ty Cheapgo : Internship 
+01/2017–04/2017 
+- Lập trình website công ty theo template thiết kế trên nền tảng 
+wordpress 
+- Tham gia hội ý , đề xuất phát triển các tính năng mới cho sản 
+phẩm app của công ty 
+ 
+Công Ty Ngọc Dung Beauty Center :  Developer 
+04/2017–04/2020 
+- Lập trình website thương hiệu theo yêu cầu 
+- Lập trình các tool nội bộ phục vụ công việc cho phòng ban ( Sale 
+& Marketing ) 
+- Lập trình plugin và theme wordpress 
+- Lập trình website chuẩn SEO phục vụ cho việc marketing online
+- Quản lí hệ thống site vệ tinh của phòng ban ( ~ 100 website ) 
+- Quản lí & backup các dịch vụ domain & server của phòng ban , 
+khắc phục lỗi khi xảy ra sự cố
+- Đề xuất các ý tưởng cải tiến phục vụ cho công việc của phòng 
+ban
+ 
+Công ty Dr-Bnb : Developer - Designer 
+04/2020–06/2020 
+- Thiết kế & lập trình web & app của công ty theo yêu cầu từ giám 
+đốc 
+- Thiết kế landingpage quảng cáo cho các nhãn hàng đối tác trên 
+web 
+- Thiết kế banner , hình ảnh quảng cáo cho sản phẩm của công ty 
+- Hỗ trợ xây dựng các kênh bán hàng trên sàn thương mại điện tử : 
+shoppee,Lazada ….. 
+ 
+Công ty Hoàng Quân Hàng Nội Địa Nhật :  Developer 
+08/2020–09/2021 
+- Thiết kế & lập trình website thương hiệu cho công ty 
+- Kết nối dữ liệu từ phần mềm cửa hàng offline với website đảm 
+bảo số lượng sản phẩm luôn đồng bộ 
+- Đề xuất các ý tưởng , lên kế hoạch thực hiện các chiến dịch 
+marketing online và offline 
+- Tracking theo dõi hiệu quả hoạt động của các chiến dịch 
+marketing  
+- Hỗ trợ kĩ thuật cho các phòng ban khác 
+ 
+Công ty Drink Ocany :  Developer 
+01/2022–04/2023 
+- Chịu trách nhiệm xây dựng website thương hiệu theo thiết kế 
+- Tham gia tư vấn các giải pháp công nghệ cho các phòng ban 
+khác hoạt động hiệu quả 
+- Hướng dẫn các phòng ban các giải pháp công nghệ tối ưu cho 
+công việc  
+ 
+Công ty MT Tech Solution : Developer - Technical Lead 
+04/2023–10/2023 
+- Chịu trách nhiệm phát triển các sản phẩm website của khách 
+hàng theo tiến độ đề ra
+
+- Tham gia họp và trao đổi thông tin với khách hàng 
+- Hỗ trợ khach hàng khi có yêu cầu 
+- Hướng dẫn kĩ thuật , hỗ trợ giải pháp cho các bạn fresher  
+- Giám sát và đảm bảo tiến độ theo mục tiêu đề ra 
+ 
+KỸ NĂNG LẬP TRÌNH 
+- Lập trình giao diện, plugin Wordpress, Landingpage theo yêu cầu, 
+chuẩn Responsive, tối ưu code cho SEO, PageSpeed Insight 
+- Lập trình các ứng dụng web quản lí khách hàng, quản lí dữ liệu, 
+sản phẩm 
+- Làm việc tốt với triển khai hệ thống trên Linux ( Ubuntu … ) 
+- Có kinh nghiệm với các hệ thống payment ( paypal , venmo , 
+email , sms marketing , Oauth login 
+- Tích hợp api các dịch vụ khác vào sản phẩm 
+- Làm việc tốt với thư viện npm, git (pull,add,commit,push ...) 
+- Nghiên cứu và áp dụng các công nghệ mới để tối ưu hóa hiệu 
+quả phát triển sản phẩm 
+ 
+KỸ NĂNG KHÁC 
+- Kĩ năng giao tiếp 
+- Kĩ năng làm việc nhóm & độc lập 
+- Kĩ năng quản lí công việc 
+- Kĩ năng quản lí thời gian 
+- Kĩ năng research 
+- Kĩ năng giải quyết vấn đề 
+ 
+TECHSTACK 
+1. Frontend : HTML5 , CSS3, SCSS, Javascript , Jquery, ReactJS, 
+Bootstrap, Material UI, Animations , Lotties , Wordpress , 
+Elementor ,…  
+2. Backend : PHP , Laravel , Nodejs , Nextjs , Expressjs 
+3. Database : Mysql , Mariadb , Mongodb . 
+4. Server : Ubuntu , Linux , Google Cloud  
+5. Source Management : Git 
+6. AI TOOLS : Google Genimi , GPT4 , … 
+7. Design : Figma , Photoshop , Illustrator , Canva …. 
+ 
+ 
+PROJECTS 
+- 
+-  
+-  
+-  
+-  
+-

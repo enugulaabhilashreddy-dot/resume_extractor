@@ -1,0 +1,111 @@
+NGÔ MINH
+TÂN
+LẬP TRÌNH VIÊN IT
+Mục tiêu nghề nghiệp
+Mong muốn trở thành một CTO và có đội ngũ team IT giỏi để
+nâng cấp các sản phẩm chạy nhanh và ổn định cho công ty.
+Ngoài ra tôi còn mong muốn được làm trong một môi trường
+chuyên nghiệp, đồng nghiệp hòa đồng, phúc lợi tốt
+Kinh nghiệm làm việc
+CÔNG TY TNHH SGC MEDIA 06/2011 - 06/2011
+Fresher Developer
+1. Xây dựng hệ thống website .NET để game thủ đăng ký,
+đăng nhập,nạp thẻ và các chức năng tương tác với game. (
+Bao gồm: Frontend và Backend )
+2. Lập trình Java,Socket cho game khu vườn trên mây, Game
+bài, Nông trại vui vẻ
+- Ngôn ngữ sử dụng: .NET, Java,  Bootstrap,jQuery
+- Hệ thống Devops: Window Server 2008 R2
+- Cở sở dữ liệu: Mysql
+- Quản lý source code: Github
+Công TY TNHH PHÚC THÀNH 06/2011 - 08/2014
+Junior Developer
+1. Xây dựng hệ thông gạch thẻ, mua thẻ
++ Ngôn ngữ sử dụng: PHP 7.4, Laravel 4 framework,
+Bootstrap,jQuery,CSS,HTML
++ Hệ thống Devops: Window Server 2012 R2
++ Cở sở dữ liệu: Mysql
++ Quản lý source code: Github
+Liên hệ
+Điện thoại
+Email
+Ngày sinh
+26/11/1991
+Địa chỉ
+Mạo Khê - Đông Triều - Quảng Ninh
+Tin học
+Phần mềm 4
+Ngoại ngữ
+Tiếng Anh 4
+Sở thích
+Thích tham gia các hoạt động của
+công ty
+Thích đá bóng, bơi lội, du lịch...
+
+2. Thiết kế hệ thống website dể game thủ đăng ký, đăng
+nhập,nạp thẻ và các chức năng tương tác với game. ( Bao
+gồm: Frontend và Backend )
+2.1 Xử lý dữ liệu và quản lý data trên MongoDB
++ Ngôn ngữ sử dụng: PHP 5.6, Laravel 4,
+Bootstrap,jQuery,CSS,HTML
++ Hệ thống Devops: Linux CentOS 6
++ Cở sở dữ liệu: Mysql,Mongo DB
++ Quản lý source code: Github
+CÔNG TY CỔ PHẦN ỨNG DỤNG
+KHOA HỌC VÀ CÔNG NGHỆ -
+MITEC
+08/2014 - 05/2018
+Senior Developer
+1. Xây dựng website hệ thống trích xuất và tạo báo cáo ngân
+hàng cho các Hội sở và các phòng ban
++ Ngôn ngữ sử dụng: Java, Bootstrap,CSS,jQuery,HTML
++ Hệ thống Devops: Window Server 2012 R2, Weblogic
+Webserver
++ Cở sở dữ liệu: Oracle
++ Quản lý source code: Github
+2. Xây dựng website hệ thông tra cứu, đăng ký nhãn hiệu,bản
+quyền thương hiệu bởi Viện Sở Hữu Trí Tuệ
++ Ngôn ngữ sử dụng: PHP 5.6, Laravel 4,
+Bootstrap,jQuery,CSS,HTML
++ Hệ thống Devops: Linux CentOS 6
++ Cở sở dữ liệu: Mysql
++ Quản lý source code: Github
+3. Tham gia maintain website dự án Thu thập dữ liệu dân số
++ Ngôn ngữ sử dụng: .NET 4.5, CSS,jQuery,HTML
++ Hệ thống Devops: Window Server 2012 R2
++ Cở sở dữ liệu: SQL Server
+Công ty Cổ phần Tập đoàn HQ 05/2018 - 04/2024
+Giám đốc công nghệ CTO
+1. Xây dựng website hệ thống gạch thẻ, mua thẻ với giao dich
+lớn
++ Ngôn ngữ sử dụng: Laravel 8, Bootstrap,CSS,jQuery,HTML
++ Hệ thống Devops: Linux Ubuntu 18.04 ,
++ Cở sở dữ liệu: Mysql
++ Quản lý source code: Github
+2. Xây dựng hệ thống gạch thẻ với cước myviettel
+
+2009 - 2011
+Công nghệ thông tin
+Trường Cao Đẳng Công Nghệ
+Hà Nội
+Loại tốt nghiệp: Khá
++ Ngôn ngữ sử dụng: Laravel 8, Bootstrap,CSS,jQuery,HTML
++ Hệ thống Devops: Linux Ubuntu 18.04 ,
++ Cở sở dữ liệu: Mysql
++ Quản lý source code: Github
+3. Xây dựng hệ thống website bán tài khoản, dịch vụ về
+game,Tài khoản bản quyền, Window, Tool bản quyền
++ Ngôn ngữ sử dụng: Laravel 8, Bootstrap,CSS,jQuery,HTML
++ Hệ thống Devops: Linux Ubuntu 18.04 ,
++ Cở sở dữ liệu: Mysql
++ Quản lý source code: Github
+4. Xây dựng các tool automation để xử lý đơn hàng dịch vụ
++ Ngôn ngữ sử dụng: C# (.NET)
++ Hệ thống Devops: Window Server 2016 R2
++ Quản lý source code: Github
+5. Xây dựng hệ thống thuê người chơi Passionzone -
++ Ngôn ngữ sử dụng: Laravel 8, Bootstrap, CSS, jQuery,
+HTML , Websocket
++ Hệ thống Devops: Linux Ubuntu 20.04
++ Cở sở dữ liệu: Mysql
+Học vấn

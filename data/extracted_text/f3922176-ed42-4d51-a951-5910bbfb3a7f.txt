@@ -1,0 +1,163 @@
+LÊ VĂN YÊN
+THÔNG TIN CÁ NHÂN
+
+
+
+
+
+17-01-1993
+Nam
+Cổ Nhuế, Bắc Từ Liêm, Hà Nội
+TIN HỌC
+Word
+Excel
+PowerPoint
+Outlook
+Phần mềm khác:
+Đồ họa 
+Photoshop  
+proshow producer 
+Aegisub 
+TIẾNG ANH
+Nghe
+Nói
+Đọc
+Viết
+SỞ THÍCH
+Thị trường tài chính.
+Đọc sách.
+Du lịch. 
+Đồ họa, Chinh sửa sub video, music. 
+Game: AOE, LOL, CS, POKER.
+Thể Thao: Cầu Lông, Bóng truyền, 
+Bóng Đá.
+Tính cách: Nhanh nhẹn, tư duy tốt, 
+phân tích vấn đề tốt, nắm bắt vấn đề 
+nhanh, cẩn thận, có trách nhiệm trong 
+công việc.
+NGƯỜI LIÊN HỆ
+- Tên người liên hệ: Nguyễn Thị Thảo
+KỸ SƯ CÔNG NGHỆ THÔNG TIN
+MỤC TIÊU NGHỀ NGHIỆP
+Mục tiêu: trở thành trưởng phòng/ phó phòng /quản lý dự án CNTT.
+Quan điểm:
++ Luôn luôn chủ động trong công việc.
++ Học hỏi & làm việc một cách thông minh/hiệu quả thì đãi ngộ sẽ luôn ưu tiên bạn.
++ Trong công việc luôn đặt lợi ích của tập thể & công ty lên hàng đầu.
++ Bản thân luôn luôn không ngừng nâng cấp/phát triển.
+HỌC VẤN
+Chuyên ngành học:
+Loại tốt nghiệp:
+ - 01-2012 01-2016
+ĐH SƯ PHẠM KỸ THUẬT HƯNG YÊN
+CNTT
+Khá
+Kỹ Sư
+KINH NGHIỆM LÀM VIỆC
+Thành tích đạt được:
+ - 
+Thành tích đạt được:
+ - 
+Thành tích đạt được:
+ - 
+ - 
+09-2014 07-2015
+THỰC TẬP
+CÔNG TY ĐIỆN TOÁN VÀ TRUYỀN SỐ LIỆU (VDC)
+Hỗ trợ xử lý nghiệp vụ báo cáo.
+- Code chức năng báo cáo cho dự án ( Report shrap shooter)
+=> Hoàn thành 100%.
+11-2015 05-2016
+THỰC TẬP
+FPT SOFTWARE – FSU1
+Code chức năng module dự án.
+=> Hoàn thành 100%.
+07-2016 08-2016
+THỬ VIỆC 1 THÁNG
+TTVAS - CMC TELECOM
+Phát triển/xử lý báo cáo nội bộ.
+Vận hành hệ thống website tin nhắn. 
+- Code chức năng nghiệp vụ cho hệ thống viễn thông
+=> Hoàn thành 120%.
+Được lãnh đạo đánh giá cao & điều chỉnh lên nhân viên chính thức.
+08-2016 01-2021
+CHUYÊN VIÊN LẬP TRÌNH
+KHỐI ĐIỆN TOÁN ĐÁM MÂY - CMC TELECOM
+
+- Công ty:
+- Chức vụ người liên hệ:
+- Số điện thoại:
+Nội thất Govi
+Nhân Viên 
+- Quan hệ: Vợ 
+Thành tích đạt được:
+Thành tích đạt được:
+ - 
+Thành tích đạt được:
+ - 
+ - 
+Chịu trách nhiệm hệ thống báo cáo, tính cước dịch vụ SMS với  khách hàng & KTNB
+Vận hành và quản trị hệ thống.
+- Website tin nhắn , SMPP ấn độ, 6x88, 8x88  , CRM khách hàng .
+- Xử lý lệnh tự động gửi sms hỗ trợ KH.
+- Xây dựng hệ thống cảnh báo lỗi  prtg, hệ thống monitor tự động ngoại lệ.
+- Quản lý hệ thống tin nhắn quảng cáo.
+Công nghệ:
+- C#, SQL server, mysql
+- Job sql  (Link-server) , Trigger, Stored Procedures,  , console, soap - restfull 
+-  AWS.
+Xây dựng hệ thống mới:
+- Phân tích/phát triển xử lý hệ thống MNP của cục viễn thông.
+- Phân tích/phát triển xử lý hệ thống chặn quảng cáo.
+- Phân tích/phát triển hệ thống cảnh báo dịch vụ, cảnh báo đơn hàng.
+- Phân tích/phát triển hệ thống Report SMS.
+Kinh nghiệm làm việc với các đối tác lớn :
+- Ngân hàng: TCB, NamAbank, HLBVN, CIMBBANK, VIETBANK, BAOVIET, SCB,..
+- Viễn thông: VNPT, VIETTEL, MFS, MBG, PAPACAN ...
+Tham gia & có kinh nghiệm cho các dự án thầu:
++ VNPT, Bluesea, BAOVIET,...
+=> Hệ thống hoạt động tốt, giúp kinh doanh đạt doanh thu cao từ 6tỷ 2016 ==> 20 tỷ 
+2019.
+Tech Lead: chịu trách nhiệm kỹ thuật, quan hệ khách hàng đối tác và nội bộ.
+01-2018 11-2020
+LẬP TRÌNH VIÊN
+CÔNG TY CỔ PHẦN CUNG CẤP DỊCH VỤ SỐ MỘT - PROVIONE
+Chịu trách nhiệm kỹ thuật công ty.
+Phát triển xây dựng hệ thống cung cấp dịch vụ viễn thông.
+=> Hoàn thành 100% mục tiêu dự án và đưa vào hoạt động
+02-2021 09-2021
+CHUYÊN VIÊN PHÁT TRIỂN ỨNG DỤNG
+ CÔNG TY TÀI CHÍNH TNHH MB SHINSEI
+1. Phát triển website MC
+- Kiểm tra và khắc phục lỗi dự án.
+- Hỗ trợ xử lý nghiệp vụ vận hành website.
+- Phát triển tool đồng bộ dữ liệu và tự động kiểm tra lỗi json dữ liệu trong database.
+2. Xây dựng & phát triển dự án mới kết nối đối tác MWG
+- Công nghệ : Netcore , Microservice, postgresql /sql server
+- Phân tích & xây dựng kiến trúc hệ thống, DB.
+- Đồng bộ cập nhật và mapping dữ liệu.
+- Xây dựng bộ kết nối với core Bank.
+=> Hoàn thành 100%, kết nối thành công với đối tác ,triển khai dự án toàn quốc. 
+Giúp kinh doanh thêm kênh bán hàng đạt doanh thu lợi nhuận cao.
+09-2021 07-2023
+CHUYÊN VIÊN CAO CẤP PHÁT TRIỂN ỨNG DỤNG
+ CÔNG TY TÀI CHÍNH TNHH MB SHINSEI
+Quản lý dự án (PM/Srum master).
+Phát triển hệ thống tối ưu quy trình khối vận hành
+
+Thành tích đạt được:
+- Lên kế hoạch dự án & xử lý tờ trình , thủ tục liên quan tới thành lập dự án.
+- Thiết kế & vẽ kiến trúc hệ thống ( ).
+- Công nghệ .Netcore (Net6), pgadmin, micro service, 1 số dịch vụ AWS: S3, SQS, 
+DMS, Kafka, ...
+- Hỗ trợ team triển khai dự án theo Agile - Scrum
+=> Hoàn thành 120%.
+Tự động/ số hóa quy trình được đưa vào hoạt động được ban lãnh đạo đánh giá cao.
+T1/2023 Đạt danh hiệu cá nhân, quản lý xuất sắc 2022.
+Có được tín nhiệm cao từ lãnh đạo & nhóm quản lý.
+KỸ NĂNG
+Kỹ năng chính:
+Kỹ năng khác:
+Quản lý/Lập trình phần mềm 
+Quản lý, quản trị hệ thống, phân tích triển khai dự án, giao tiếp tốt, giải 
+quyết vấn đề logic, quan hệ đội nhóm tốt,...

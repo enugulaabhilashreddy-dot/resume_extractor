@@ -1,0 +1,134 @@
+Trần Trung
+AN TOÀN THÔNG TIN
+
+
+
+
+
+Nam
+22-11-1989 Hà Nội
+KỸ NĂNG
+> Hiểu biết sâu rộng lĩnh vực an toàn 
+thông tin
+> Quản lý nhóm
+> Làm việc nhóm
+> Chịu áp lực tốt
+NGOẠI NGỮ
+Tiếng Anh
+TIN HỌC
+Phần mềm
+SỞ THÍCH
+> Nghiên cứu công nghệ
+> Du lịch
+MỤC TIÊU NGHỀ NGHIỆP
+"
+" Áp dụng kinh nghiệm xây dựng hệ thống an toàn thông tin và kỹ năng 
+quản lý nhóm hướng tới mục tiêu đảm bảo an toàn thông tin cho tổ 
+chức.
+KINH NGHIỆM LÀM VIỆC
+ - 
+ - 
+10-2020 06-2023 CHUYÊN GIA AN TOÀN THÔNG TIN
+CÔNG TY TÀI CHÍNH TNHH MB SHINSEI (MCREDIT)
+Xây dựng kiến trúc và chiến lược An toàn thông tin.
+Xây dựng chỉ số rủi ro CNTT.
+Quản lý nhóm kiểm thử An toàn thông tin
+     > Xây dựng kế hoạch kiểm thử bảo mật hệ thống.
+     > Tham gia kiểm thử bảo mật hệ thống, ứng dụng. 
+     > Quản lý và điều phối nguồn lực nhân sự trong nhóm.
+     > Hỗ trợ và đào tạo nghiệp vụ các thành viên trong nhóm.
+     > Xây dựng KPI cho thành viên trong nhóm.
+Quản lý nhóm Giám sát An toàn thông tin
+     > Xây dựng chương trình giám sát bảo mật và cảnh báo.
+     > Xây dựng kịch bản ứng phó sự cố An toàn thông tin.
+     > Tham gia điều tra, điều phối xử lý sự cố An toàn thông tin.
+     > Hỗ trợ và đào tạo nghiệp vụ các thành viên trong nhóm. 
+Quản trị dự án: SIEM, Phòng chống thất thoát dữ liệu, Endpoint Security, 
+chương trình Bug Bounty, Chữ ký số, Quản lý tài khoản đặc quyền, Xác thực đa 
+nhân tố, Dò quét điểm yếu, PCI DSS... 
+Triển khai, quản trị hệ thống An toàn thông tin: Siem Splunk, Endpoint 
+Symantec, TrendMicro, McAfee/Trellix, CyberArk, Cisco Duo, AWS WAF, AWS 
+Shield...
+Điều tra gian lận trong tổ chức. 
+Xây dựng bộ usecase giám sát và cảnh báo An toàn thông tin.
+Xây dựng chính sách, quy định, quy trình An toàn thông tin, tiêu chuẩn cấu 
+hình hệ thống, ứng dụng. 
+Xây dựng lộ trình phát triển năng lực cho nhân sự trong nhóm.
+12-2019 09-2020 AUDIT AND SECURITY EXECUTIVE
+CÔNG TY CP CHUỖI THỰC PHẨM TH (THFC)
+Xây dựng kiến trúc An toàn thông tin
+Kiểm thử bảo mật hệ thống, ứng dụng.
+Dò quét điểm yếu hệ thống và quản lý chương trình xử lý điểm yếu bảo mật 
+hệ thống.
+
+- 
+ - 
+ - 
+ - 
+Triển khai, quản trị hệ thống: Endpoint Security Trend Micro, NGFW FortiGate, 
+Email Gateway FortiMail, WAF FortiWeb, IPS Cisco, Cloud Azure... 
+Triển khai cập nhật bản vá, audit Firewall policy
+Xây dựng tiêu chuẩn cấu hình máy chủ, máy trạm, cơ sở dữ liệu, thiết bị 
+mạng và ứng dụng.
+Điều tra sự cố An toàn thông tin (Malware, DDos)
+Triển khai kiểm toán nội bộ.
+Thành viên dự án: Xây dựng website mới, Warehouse Manage Service, 
+Sharing Bandwidth DC-DR, Migrate Firewall...
+08-2017 11-2019 CHUYÊN VIÊN CAO CẤP AN NINH 
+BẢO MẬT
+NGÂN HÀNG TMCP VIỆT NAM THỊNH VƯỢNG (VPBANK)
+Triển khai, quản trị hệ thống: Log tập trung Splunk, File Integrity Monitoring 
+Ossec, IPS/IDS McAfee, Quản lý tài khoản đặc quyền CyberArk, Jump servers, 
+Multiple Authentication System Digipass, System Center Configuration 
+Manager, Anti-Virus Symantec, Network Access Control ISE... 
+Triển khai cập nhật bản vá, quản lý internet tập trung, review Firewall policy, 
+review tiêu chuẩn cấu hình các hệ thống.
+Thực hiện dò quét điểm yếu và quản lý chương trình xử lý điểm yếu bảo mật 
+hệ thống.
+Xây dựng chính sách, quy định, quy trình An toàn thông tin, tiêu chuẩn cấu 
+hình hệ thống, ứng dụng.
+Điều tra sự cố An toàn thông tin (Hacking, Malware, DDos,...)
+Thành viên dự án: PCI DSS, POS System, VPN system, Samsung Pay, DLP, 
+EDR, Network Access Control (NAC), Firewall analysis, Patch management,...
+07-2015 07-2017 QUẢN TRỊ AN TOÀN THÔNG TIN
+NGÂN HÀNG TMCP ĐÔNG NAM Á (SEABANK)
+Triển khai, quản trị hệ thống: Log tập trung IBM Qradar, hệ thống dò quét 
+điểm yếu Nexpose, hệ thống quản lý rủi ro, hệ thống chữ ký số... 
+Thực hiện dò quét điểm yếu và quản lý chương trình xử lý điểm yếu bảo mật 
+hệ thống.
+Triển khai giám sát và cảnh báo sự kiện An toàn thông tin.
+Xây dựng kế hoạch ứng phó sự cố An toàn thông tin.
+Điều tra sự cố An toàn thông tin (Hacking, Malware, DDos,...) 
+Triển khai kiểm toán nội bộ.
+Thành viên dự án: PCI DSS, ISO 27001, SIEM, Dò quét điểm yếu, chữ ký số,...
+11-2014 06-2015 QUẢN TRỊ MẠNG
+NGÂN HÀNG TMCP ĐÔNG NAM Á (SEABANK)
+Triển khai, quản trị hệ thống mạng Core, mạng Wan/Lan, ATM ngân hàng. 
+Quản trị thiết bị mạng/bảo mật: Firewall Cisco/Juniper, Router/Switch Cisco, 
+Load Balance Cisco ACE, F5).
+Quản trị hệ thống xác thực tập trung Cisco ISE, quản lý cấu hình, hệ thống 
+VoIP Cisco CUCM.
+04-2012 10-2014 KỸ SƯ MẠNG CORE
+CÔNG TY CỔ PHẦN HẠ TẦNG VIỄN THÔNG CMC
+Triển khai, quản trị hệ thống mạng Core, Distribute, Access của ISP bao gồm 
+Firewall (Cisco/Juniper), Router/Switch (Cisco/Juniper/Huawei,/Alcatel). 
+Triển khai, quản trị hệ thống mạng Data Center.
+Quản lý hệ thống giám sát PRTG, Cacti, hệ thống giám sát data center, hệ 
+thống tổng đài...
+
+Triển khai dịch vụ cho khách hàng: Lease Line, VPN (L2/L3), BGP, Manage 
+Service.
+Presale dự án
+HỌC VẤN
+Loại tốt nghiệp:
+ - 08-2007 12-2011 ĐẠI HỌC CÔNG NGHỆ - ĐẠI HỌC 
+QUỐC GIA HÀ NỘI
+KHOA CÔNG NGHỆ ĐIỆN TỬ VIỄN THÔNG
+Trung bình khá
+NGƯỜI LIÊN HỆ
+Công ty tài chính TNHH MB Shinsei
+Nguyễn Thanh Minh
+Giám đốc Công nghệ An ninh
+Ngân hàng TMCP Việt Nam Thịnh Vượng
+Nguyễn Hồng Nam
+Trưởng phòng An ninh bảo mật

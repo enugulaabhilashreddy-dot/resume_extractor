@@ -1,0 +1,116 @@
+BUI DUC VU
+S Y S T E M
+A D M I N I S T R A T O R
+Contact
+Phone
+Email
+Address
+83, No.339 Street, Thu
+Duc City, Ho Chi Minh
+City, Vietnam
+Career Goals
+Education
+Desire to work in a professional environment to
+challenge and develop myself, and contribute to the
+growth and development of the company.
+Qualification development and desire to achieve higher
+positions
+(University) 2011-2015: THE DEGREE OF ENGINEER
+Information Technology (Major: Networking), Ho Chi
+Minh City University of Technology (HUTECH)
+CCNA (2015): NewStar Training Center
+MCSA (2015): Nhat Nghe Education JSC
+VMWare vSphere ICM (2020): Robusta Technology
+and Training
+Basic Java Developer (2022): Informatics Center -
+University of Science
+Backend Java Web (2023): Cybersoft Academy
+Strength
+Strong abilities of tracking, done, feedback.
+Strong abilities of communicating, teamwork.
+Can endure high work pressure.
+Responsibility, honesty.
+Smart learning how to work, fun, carefully whatever at
+work.
+Personal Information
+Date of birth: 07 October, 1992
+Sex: Male
+Hobbies: Sport, Traveling, Music
+
+Experience
+November 2022 – July 2023: IT Specialist, ERAS GROUP
+Management and operation of systems: Storage system, Servers (Physical & Virtualization): Dell server,
+VMware vSphere, Backup.
+Management and operation of the IP phone system, camera, network (WAN, LAN, Wireless, Switch, Router,
+Firewall).
+Manage and renew IT services such as domain, SSL certificates, Internet,...
+Troubleshooting about server, storage, network, IP phone, CCTV, PC, laptop, printer, scanner.
+Create, change, update & grant permission to accessing the systems (Active Directory, Email, NAS
+Synology,…)
+Technical support when the company has new employees, moves departments, quit job.
+Installation of Wifi, Server, PC, laptop, printer, scanner, phone, software, OS, conference device, other
+technical issues. Total number is 90 users.
+Replace, upgrade IT equipment according to work requirements.
+Proficient in end-user support skills, problem solving.
+Proficient in using OS: Windows, Window Server, have knowledge and good understanding of MacOS,
+Linux.
+Java & Technologies: Java core, Java OOP, MySQL, Servlet, JSP, JSTL, JDBC, Session, Cookie, Filter, Design
+Pattern, Maven, Spring Boot, Spring Security, JWT, Spring JPA, JSON, Spring Logger, Validation Spring Boot,
+Microservices, Hibernate, RestfulAPI, Upload File, Redis Cache, Ajax, RabbitMQ, JUnit
+HTML/CSS
+Tool: Eclipse, IntelliJ, Github, DBeaver, Docker, Postman
+Basic communication.
+Good reading technical documents, composing emails.
+PROGRAMING LANGUAGE: 
+FOREIGN LANGUAGE: English 
+OTHER SKILL: Good Microsoft Office (Word, Excel, PowerPoint, …), Self-study ability, Internet skill.
+Skills
+
+Management and operation of systems: Storage system, Servers (Physical & Virtualization): HP server,
+VMware vSphere, vCenter, Backup, WSUS, Antivirus, FTP, DNS, DHCP, Website,...
+Create, change, update & grant permission to accessing the systems (Active Directory, Email, File server,
+NAS Synology,…)
+Manage and renew IT services, software such as domain, SSL certificates, Antivirus,...
+Technical support when the company has new employees, moves departments, quit job.
+Installation of Server, PC, laptop, printer, scanner, phone, software, OS, conference device, other technical
+issues. Total number is 250 users.
+Replace, upgrade IT equipment according to work requirements.
+Proficient in end-user support skills, problem solving.
+Proficient in using OS: Windows, Window Server, have knowledge and good understanding of MacOS,
+Linux.
+Troubleshooting about server, storage, PC, laptop, printer, scanner.
+Have knowledge and understanding of the phone system, camera, network system (WAN, LAN, Wireless).
+Ticket Handling to related to the IT system.
+Participate in some projects: support, implementation, operation.
+Get Certificate: VMWare vSphere ICM.
+Excellent employee of the IT department in 2019.
+Participate in company activities: Singing, Team building activity, blood donation.
+Achievements:
+August 2017 – May 2022: System Administrator, HO CHI MINH STOCK EXCHANGE
+May 2016 – May 2017:  Technical support staff, FPT TELECOM COMPANY
+Ticket handling, technical support for FPT TV.
+Technical support for other departments.
+Participate in test case construction when update new firmware.
+Business trip, support the implementation of events related to FPT TV at Provinces and Ho Chi
+Minh City.
+Participate in company activities: Singing, Team building activity, blood donation.
+Achievements:
+January 2016 - March 2016: Technical support & take care of customers, THAISON TECHNOLOGY
+DEVELOPMENT COMPANY LIMITED
+Support & take care of customers over the phone or face-to-face.
+Support to install insurance software and digital signature via teamviewer.
+
+References
+1. ERAS GROUP, 
+116A Nguyen Dinh Chieu Street, Đa Kao Ward, District 1, Ho Chi Minh City. 
+Phone:
+2. HO CHI MINH STOCK EXCHANGE, 
+16 Vo Van Kiet Street, Nguyen Thai Binh Ward, District 1, Ho Chi Minh City. 
+Phone: +84 28 38 217 713, Fax: +84 28 38 217 452.
+3. FPT TELECOM COMPANY, 
+FPT Tan Thuan Building, Lot L29B-31B-33B, Street 8, Tan Thuan Export
+Processing Zone, Tan Thuan Dong Ward, District 7, Ho Chi Minh City.
+Phone: +84 28 7300 2222, Fax: +84 28 7300 2233.
+4. THAISON TECHNOLOGY DEVELOPMENT COMPANY LIMITED, 
+33A Cuu Long Street, Ward 2, Tan Binh District, Ho Chi Minh City.
+Phone: +84 2835470355.

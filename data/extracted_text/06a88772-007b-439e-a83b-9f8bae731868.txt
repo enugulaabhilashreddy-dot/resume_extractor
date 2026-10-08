@@ -1,0 +1,332 @@
+Thông tin ứng tuyển Lê Thanh Sơn 
+ 
+1. Thông tin cá nhân 
+ 
+- Họ tên: Lê Thanh Sơn 
+ 
+- Ngày sinh: 20/10/1985 
+ 
+- CMND: 273183700 
+ 
+- Địa chỉ hiện nay: Số 221 đường Trần Quang Khải, quận 01, thành phố Hồ Chí Minh 
+ 
+- Email:  
+ 
+- Điện thoại:  
+ 
+2. Thông tin kỹ năng, nghiệp vụ 
+ 
+- Trình độ: Tốt nghiệp đại học năm 2009 ngành Công nghệ thông tin, Đai học Bà Rịa – Vũng  Tàu 
+ 
+- Kỹ năng 
+ 
++ Lập trình: Tốt. 
+ 
++ SEO: Tốt. 
+ 
++ PhotoShop: Trung bình. 
+ 
++ Máy tính và mạng máy tính: Trung bình 
+ 
++ Làm việc độc lập, làm việc nhóm, chịu áp lực công việc: Tốt 
+ 
++ Làm việc qua email, Internet, Phone: Tốt 
+ 
++ Khả năng phân tích: Tốt 
+ 
++ Anh văn : Đọc, hiểu. 
+ 
+3. Thông số kỹ thuật 
+ 
+- Nền tảng: .Net Framework, ,  NET CORE, NET, API JSON, Angular,
+ 
+- Ngôn ngữ lập trình : C#, Typescript, lập trình hướng đối tượng (OOP) 
+ 
+- Cấu trúc chương  trình : Mô hình 3 tầng, MVC, MVVM, Repository, DDD, CQRS 
+ 
+- Ngôn ngữ thiết kế giao diện : HTML, CSS, javascript 
+ 
+- Hệ quản trị cơ sở dữ liệu : Microsoft SQL Server, Firebase, No SQL 
+ 
+- Môi trường xây dựng : Microsoft Visual Studio, Microsoft Visual Code 
+ 
+- Môi trường thực nghiệm và chạy thực tế : FireFox, Google Chrome…
+
+4. Kinh nghiệm làm việc 
+ 
+- Từ khi tốt nghiệp năm 2009, Lê Thanh Sơn nhận các dự án về thực hiện theo yêu cầu của khách 
+hàng và làm việc tại các công ty như sau 
+ 
+STT Công ty Vị trí Bắt đầu Kết thúc 
+01 Trường THCS Trần Phú – Vũng Tàu IT 2007 2008 
+02 Chứng khoán Phương Nam – chi nhánh Vũng Tàu IT 2008 2013 
+03 Dược An Long Sơn – Hồ Chí Minh city Leader 2013 2018 
+04 Dệt nhuộm Polytex Việt Nam – Bình Dương Leader 03-2018 06-2019 
+05 Tập đoàn thủy sản Việt Úc– Hồ Chí Minh Manager 06-2019 03-2021 
+06 Nội thất Theodore Alexander – Hồ Chí Minh Manager 06-2021 05-2023
+
+Website 
+ 
+1.  
+ 
+Thông số kỹ thuật: , C#, MS SQL  
+ 
+Hệ sinh thái google: SEO, Google Analytics, Google Search Console tools (Web master tools), Google 
+Map, Google tag manager, Google Pages Peed
+
+2.   
+ 
+Thông số kỹ thuật: NET Core 30, C#, MS SQL 
+ 
+Hệ sinh thái google: SEO, Google Analytics, Google Search Console tools (Web master tools), Google 
+Map, Google tag manager, Google Pages Peed
+
+3.  
+ 
+Thông số kỹ thuật: NET Core 30, C#, MS SQL 
+ 
+Hệ sinh thái google: SEO, Google Analytics, Google Search Console tools (Web master tools), Google 
+Map, Google tag manager, Google Pages Peed
+
+4.  
+ 
+Thông số kỹ thuật: NET Core 30, C#, MS SQL 
+ 
+Hệ sinh thái google: SEO, Google Analytics, Google Search Console tools (Web master tools), Google 
+Map, Google tag manager, Google Pages Peed
+
+5.  
+ 
+Thông số kỹ thuật: NET Core 30, C#, MS SQL 
+ 
+Hệ sinh thái google: SEO, Google Analytics, Google Search Console tools (Web master tools), Google 
+Map, Google tag manager, Google Pages Peed
+
+6.  
+ 
+Thông số kỹ thuật: Angular, NET Core 30, C#, MS SQL 
+ 
+Hệ sinh thái google: SEO, Google Analytics, Google Search Console tools (Web master tools), Google 
+Map, Google tag manager, Google Pages Peed
+
+Ứng dụng quản lý chạy trên nền .NET + Angular 
+Chương trình quản lý cửa hàng điện thoại Nghĩa Hà 
+- Đường dẫn:  
+ 
+- Chức năng : 
+ 
++ Quản lý Hóa đơn nhập, xuất, chuyển kho linh kiện điện thoại 
+ 
++ Quản lý Phiếu sửa chữa điện thoại 
+ 
++ Quản lý nhân viên 
+ 
++ Quản lý Lương 
+ 
+- Thời gian bắt đầu chạy thực tế : 2010 
+ 
+- Thông số kỹ thuật :  3.5, MS SQL Server 2008, C# 
+ 
+Chương trình quản lý xe bồn LPG – Công ty chế biến khí Vũng Tàu 
+ 
+- Đường dẫn:
+ 
+- Chức năng : 
+ 
++ Quản lý hồ sơ xe bồn LPG 
+ 
++ Quản lý hồ sơ lái xe 
+ 
++ Quản lý thời gian, khối lượng khí LPG nhập xuất tại kho cảng 
+ 
+- Thời gian bắt đầu chạy thực tế : 2017 
+ 
+- Thông số kỹ thuật :  4.0, MS SQL Server 2014, C# 
+ 
+Chương trình Cấp thẻ đi bờ thuyền viên và kiểm tra EVISA – Biên phòng cửa khẩu Vũng Tàu 
+ 
+- Đường dẫn : 
+ 
+- Chức năng : 
+ 
++ Quản lý Cấp thẻ đi bờ thuyền viên 
+ 
++ Quản lý kiểm tra EVISA 
+ 
+- Thời gian bắt đầu chạy thực tế : 2015 
+ 
+- Thông số kỹ thuật :  .5, MS SQL Server 2012, C#
+
+Chương trình Quản lý Giấy tiếp nhận hồ sơ Hải quan – Chi cục Hải quan Phú Mỹ 
+ 
+- Đường dẫn : 
+ 
+- Chức năng : 
+ 
++ Quản lý Giấy tiếp nhận hồ sơ Hải quan 
+ 
+- Thời gian bắt đầu chạy thực tế : 2014 
+ 
+- Thông số kỹ thuật :  3.5, MS SQL Server 2012, C# 
+ 
+Chương trình Quản lý Kho Ngoại Quan – Chi cục Hải quan Phú Mỹ 
+ 
+- Đường dẫn : 
+ 
+- Chức năng : 
+ 
++ Quản lý Kho Ngoại Quan 
+ 
+- Thời gian bắt đầu chạy thực tế : 2017 
+ 
+- Thông số kỹ thuật :  4.0, MS SQL Server 2014, C# 
+ 
+Chương trình Quản lý Phòng Doanh nghiệp + Website – VNPT Bà Rịa - Vũng Tàu 
+ 
+- Đường dẫn:  
+ 
+- Chức năng : 
+ 
++ Quản lý Khách hàng 
+ 
++ Quản lý Doanh thu 
+ 
++ Quản lý Bài viết Dịch vụ, khuyến mãi, hướng dẫn sử dụng, hỗ trợ kỹ thuật… 
+ 
+- Thời gian bắt đầu chạy thực tế : 2018 
+ 
+- Thông số kỹ thuật : NET 5, MS SQL Server 2019, C#, Angular 11, Repository pattern 
+ 
+Chương trình quản lý kinh doanh tôm giống Việt Úc 
+ 
+- Đường dẫn:  
+ 
+- Chức năng : 
+ 
++ Quản lý Khách hàng 
+ 
++ Quản lý Doanh thu 
+ 
++ Quản lý 
+ 
+- Thời gian bắt đầu chạy thực tế : 2018 
+ 
+- Thông số kỹ thuật : NET CORE, MS SQL Server 2019, C#
+
+Chương trình quản lý dữ liệu tôm thương phẩm Việt Úc 
+ 
+- Đường dẫn :  
+ 
+- Chức năng : 
+ 
++ Quản lý vụ nuôi 
+ 
++ Quản lý Doanh thu 
+ 
++ Quản lý Chi phí 
+ 
++ Quản lý kho 
+ 
++ Tích hợp hóa đơn điện tử Viettel 
+ 
++ Tích hợp dữ liệu SAP 
+ 
+- Thời gian bắt đầu chạy thực tế : 2019 
+ 
+- Thông số kỹ thuật : NET CORE, MS SQL Server 2019, C# 
+ 
+Chương trình quản lý phiếu yêu cầu cung ứng Việt Úc 
+ 
+- Đường dẫn :  
+ 
+- Chức năng : 
+ 
++ Quản lý phiếu yêu cầu 
+ 
++ Quản lý KPI 
+ 
++ Quản lý OKIs 
+ 
+- Thời gian bắt đầu chạy thực tế : 2020 
+ 
+- Thông số kỹ thuật : NET CORE, MS SQL Server 2019, C#, Angular  
+ 
+Website tuyển dụng Việt Úc 
+ 
+- Đường dẫn :  
+ 
+- Chức năng : 
+ 
++ Quản lý Tuyển dụng 
+ 
++ Quản lý thông tin ứng viên 
+ 
+- Thời gian bắt đầu chạy thực tế : 2019 
+ 
+- Thông số kỹ thuật : NET CORE, MS SQL Server 2019, C#
+
+Chương trình phân tích truyền thông CommSights Việt Nam 
+- Đường dẫn:  
+- Chức năng 
++ Quản lý thành viên 
++ Quét , upload dữ liệu từ các phương tiện truyền thông như báo điện tử, báo giấy, truyền hình, 
+facebook 
++ Xử lý dữ liệu theo danh mục ngành nghề, công ty, thương hiệu, sản phẩm… 
++ Xuất báo cáo PDF, Excel, in ấn 
+- Thời gian bắt đầu chạy thực tế : 2019 
+ 
+- Thông số kỹ thuật : NET CORE, MS SQL Server 2019, C# 
+ 
+Website Theodore Alexander 
+ 
+- Đường dẫn :  
+ 
+- Chức năng : 
+ 
++ Trình diễn sản phẩm 
+ 
++ Đơn hàng trực tuyến 
+ 
++ SEO google bên Mỹ 
+ 
+- Thời gian bắt đầu chạy thực tế : 2021 
+ 
+- Thông số kỹ thuật : Angular, Typescript 
+ 
+Website tuyển dụng Theodore Alexander 
+ 
+- Đường dẫn :  
+ 
+- Chức năng : 
+ 
++ Bài viết tuyển dụng 
+ 
+- Thời gian bắt đầu chạy thực tế : 2021 
+ 
+- Thông số kỹ thuật : Angular, Typescript
+
+Chương trình Quản lý nội dung của Theodore Alexander 
+- Đường dẫn:  
+- Chức năng 
++ Quản lý thành viên 
++ Quản lý khách hàng 
++ Quản lý danh mục 
++ Quản lý sản phẩm 
++ Quản lý đơn hàng 
++ Quản lý lịch sử truy cập 
++ Xuất báo cáo PDF, Excel, in ấn 
+- Thời gian bắt đầu chạy thực tế : 2021 
+ 
+- Thông số kỹ thuật : Angular, Typescript 
+ 
+Chương trình Quản lý nhân sự của Theodore Alexander 
+- Đường dẫn:  
+- Chức năng 
++ Quản lý nhân viên 
++ Quản lý ngày công 
++ Quản lý tiền lương 
++ Quản lý lịch sử truy cập 
++ Xuất báo cáo PDF, Excel, in ấn 
+- Thời gian bắt đầu chạy thực tế : 2021 
+ 
+- Thông số kỹ thuật : Angular, Typescript

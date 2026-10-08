@@ -1,0 +1,88 @@
+Nguyễn Văn Hạnh  
+2/7 ngõ 160 đường Lương Thế Vinh, Thanh Xuân Hà Nội 
+Điện thoại: , Email:  
+ 
+ 
+HỌC VẤN 
+Đại học Khoa học Tự nhiên – ĐHQG Hà nội 
+Chuyên ngành: Công nghệ thông tin 
+ 
+KINH NGHIỆM LÀM VIỆC 
+ 
+- Kinh nghiệm phát triển phần mềm: 20 năm phát triển các phần mềm ứng dụng cho các đơn vị, chủ 
+trì và tham gia triển khai dự án các dự án lớn trong công ty. 
+- Kinh nghiệm quản lý dự án : Đã từng tham gia quản lý dự án về chứng khoán và trái phiếu trong 5 
+năm trở lại đây. 
+- Kinh nghiệm về áp dụng phương pháp Agile . 3 năm kinh nghiệm triển khai phát triển phần mềm 
+áp dụng Agile tại VPS. 
+- Kinh nghiệm quản lý hạ tầng công nghệ thông tin : 15 năm phụ trách quản trị hệ thống tại đơn vị 
+kỹ thuật máy bay ngành hàng không, với yêu cầu hoạt động cao 24/7 trong tất cả các ngày. 
+- Kinh nghiệm phân tích xu hướng công nghệ, nắm bắt thị trường: Am hiểu về kỹ thuật công nghệ, 
+đánh giá được xu hướng và chi phí áp dụng công nghệ trong các đơn vị 
+- Kinh nghiệm phân tích khách hàng , đề xuất các giải pháp nâng cấp sản phẩm: Đã có thời gian làm 
+trưởng bộ phận BA nên rất am hiểu về nhu cầu khách hàng đối với sản phẩm ứng dụng phần mềm. 
+ 
+ 
+QUÁ TRÌNH CÔNG TÁC 
+ 
+Công ty CP Chứng khán Sen Vàng – thuộc Tập đoàn Tân Hoàng Minh      10/2021 – nay 
+Công việc: Trưởng phòng phát triển ứng dụng 
+- Quản lý dự án triển khai dự án core chứng khoán 
+- Phát triển các ứng dụng dùng trong đơn vị 
+ 
+Công ty TNHH Hệ thống thông tin tài chính IFIS    2/2021 – 10/2021 
+Công việc: Quản lý dự án triển khai core trái phiếu 
+- Triển khai dự án hệ thống trái phiếu cho công ty chứng khoán KSS, BMS, Tân Hoàng Minh. 
+Công ty TNHH Sản xuất phền mềm Hoàng Anh Việt    5/2016 – 2/2021 
+(Công ty con của công ty Chứng khoán VPS) 
+Công việc Quản lý dự án 
+- Triển khai các dự án core chứng khoán, core trái phiếu cho Công ty chứng khoán VPS 
+- Phát triển các ứng dụng Front cho nhà đầu tư chứng khoán tại VPS. 
+- Triển khai dự án Bank Gateway kết nối core chứng khoán VPS với các ngân hàng VPB, BIDV, 
+TCB 
+- Xây dựng mô hình kiến trúc hệ thống core chứng khoán VPS 
+Công ty TNHH kỹ thuật máy bay VAECO     1/1998 – 6/2015 
+Công việc Phụ trách Công nghệ thông tin
+
+- Quản trị hệ thống công nghệ thông tin của công ty, đảm bảo hệ thống hoạt động hiệu quả 
+- Xây dựng kế hoạch và triển khai kế hoạch CNTT hàng năm 
+- Phối hợp với đối tác phát triển các dự án phần mềm cho đơn vị 
+- Xây dựng một số phần mềm cho công ty như quản lý thông tin kỹ thuật máy bay, thông tin  phụ 
+tùng vật tư, thư viện kỹ thuật, thông tin lương … 
+ 
+CHỨNG CHỈ 
+- IT project + 
+- Oracle 10G 
+- Design for Cisco Internetwork Solution 
+- E- Commerce  
+ 
+KỸ NĂNG 
+- Có tư duy hệ thống tốt, hiểu biết sâu về hệ thống CNTT, có khả năng bao quát  công việc, phối 
+hợp làm việc nhóm tốt. 
+- Đã từng tham quản lý thực hiện các dự án như hệ thống tài chính chứng khoá n, yêu cầu rất cao 
+về việc xử lý các nghiệp vụ realtime, khả năng đáp ứng số lượng giao dịch tại mỗi thời điểm lớn, 
+nghiệp vụ khá phức tạp. 
+- Sử dụng tốt các công cụ quản lý jira/confluence, triển khai dự án theo mô hình a gile, quy trình 
+scrum, quản lý đồng thời nhiều dự án. 
+- Khả năng tổng hợp nắm bắt thông tin rất nhanh về kỹ thuật và nghiệp vụ để đề ra cách giải quyết 
+các vấn đề mới. 
+- Có khả năng dẫn dắt đội ngũ thực hiện công việc, có khả năng tổ chức công việc, tổ chức họp dự 
+án thường xuyên, đề ra các giải pháp xử lý vấn đề một cách logic. 
+- Am hiểu các công nghệ mới, kiến trúc hệ thống micro service cho các ứng dụng web, mobile. 
+ 
+ĐIỂM MẠNH:   
+- Khả năng tổ chức công việc, làm việc phối hợp và độc lập tốt. 
+- Có khả năng bao quát, đánh giá, lường trước được những rủi ro có thể xảy ra trong quá trình thực 
+hiện dự án về con người, thời gian, kỹ thuật, công nghệ. 
+- Khả năng giao tiếp tốt, có ý thức trách  nhiệm cao, không ngại những thử thách mới 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MONG MUỐN: 
+- Môi trường làm việc tốt, công bằng, đánh giá đúng năng lực 
+- Thu nhập phù hợp, việc làm tốt để toàn tâm toàn ý với công việc và gắn bó lâu dài.

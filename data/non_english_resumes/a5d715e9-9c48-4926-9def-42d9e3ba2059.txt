@@ -1,0 +1,102 @@
+NGUYỄN ĐÌNH SINH 
+Lập trình viên 
+ 
+ 
+THÔNG TIN 
+ 
+Nam      
+        10/06/1995 
+ 
+160/2C Lã Xuân Oai, ủ 
+Đức,   
+ 
+ 
+KỸ NĂNG 
+- C# : 
+  +    5.0, .Net 6.0, 
+.Net Core 3.1,.NET Framework, 
++ API RESTfull, Micorservices... 
+- Html, Css, JavaScript 
+ + Bootstrap, Ajax, Jquery… 
+ + Telerik Kendo  
+- SQL Server 
++ Phân tích, thiết kế 
++ Store Proceduce 
++ Function 
++ Trigger 
++ Agent 
++ Backup 
++ Report 
+ 
+ 
+KỸ NĂNG KHÁC  
+- Kỹ năng làm việc nhóm 
+- Kỹ năng thuyết trình 
+- Tư duy logic tốt, nhạy bén, sáng tạo 
+- Khả năng học hỏi nhanh, tiếp thu 
+tốt. 
+ 
+ 
+ 
+ 
+SỞ THÍCH 
+HỌC VẤN 
+Kỹ sư công nghệ thông tin 
+Trường: Học Viện Công Nghệ Bưu Chính Viễn Thông Cơ Sở Hồ Chí Minh 
+Chuyên n ành: Mạng máy tính và truyền thông 
+Loại: Kh
+ 
+KINH NGHIỆM LÀM VIỆC 
+Công ty TNHH Amaris Việt Nam (05/2022 – 02/2023) 
+ Chuyên viên lập trình 
+- Làm cho các dự án của khách hàng  
+- Phân tích luồng, nghiệp vụ 
+- Viết các chức năng theo yêu cầu.  
+- Nghiên cứu các công nghệ, tính năng để tích hợp vào hệ thống.  
+ 
+Tập đoàn Việt - Úc (08/2019 - 04/2022)  
+ Trưởng nhóm (Phó phòng)  
+- Hệ thống quản lý sản xuất SFS:  
++ Phân tích, thiết kế database  
++ Xây dựng WebApp SFS trên nền tảng .Net Core  
++ Thu thập nghiệp vụ, lấy ý kiến người dùng.  
++ Triển khai hệ thống cho người dùng.  
++ Hỗ trợ người dùng, giám sát số liệu.  
++ Lấy báo cáo, vẽ biểu đồ.  
++ Viết Trigger, Functions, Stored Procedure, Agent, Backup hệ thống. 
+ 
+- Xây dựng API tích hợp với SAP :  
++ Phân tích, Thiết kế database để tích hợp dữ liệu 
++ Xây dựng API trên nền tảng .Net Core 3.1  
++ Họp bàn nghiệp vụ, giải pháp tích hợp  
++ Thực hiện tích hợp các phân hệ : MM, PP, HCM...  
++ Hướng dẫn người dùng, kiểm tra dữ liệu 
+ 
+- Hệ thống CRM : Quản lý kinh doanh.  
++ Xây dựng chức năng quản lý nhân sự, lịch họp.  
++ Xây dựng chức năng Quản lý dự án, lịch làm việc.
+
+- Đọc sách.  
+- Tìm hiểu công nghệ. 
+- Nghe nhạc. 
+- Coffee cuối tuần.  
++ Tối ứu hóa câu lệnh, dữ liệu trong database. 
++ Kiểm tra dữ liệu. 
+ 
+- Hệ thống tuyển dụng   
++ Phân tích, thiết kế database  
++ Xây dựng WebApp SFS trên nền tảng .Net Core  
++ Xây dựng chức năng ứng tuyển cho ứng viên 
+ 
+KINH NGHIỆM LÀM VIỆC 
+ + Xây dựng chứ năng tạo tin tuyển dụng 
++ Quản lý thông tin ứng viên, giấy tờ liên quan. 
+- API cho hệ thống SFS : Viết API cho App mobile   
++  Xây dựng cấu trúc API trên nền tảng .Net Core 3.1 
++ Viết RESTfull API 
+ 
+Công ty TNHH Truyền hình cáp Saigontourist (05/2018 -
+07/2019)  
+ Lập Trình Viên  
+- Xây dựng thêm chức năng, chỉnh sửa lỗi cho phần mềm SCTV Soft :  
+- Xây dựng chức năng, chỉnh sửa lỗi cho Web Apps CSKH :

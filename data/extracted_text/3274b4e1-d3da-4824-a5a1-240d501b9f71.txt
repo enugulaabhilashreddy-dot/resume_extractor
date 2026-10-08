@@ -1,0 +1,152 @@
+MAI HUU NAM 
+ SOFTWARE ENGINEERING 
+ 
+              Name : 
+                  Mai Huu Nam 
+                       
+                  Date of Birth : 
+                    09/09/1995 
+ 
+       
+                             Address : 
+  29 Do Xuan Hop Street,  
+ Phuoc Long B Ward, District 9, 
+ Ho Chi Minh City 
+ 
+                 
+ 
+                      
+                                             
+          
+        
+                             
+                          Facebook : 
+        
+                 
+         Skills 
+        Language: 
+Java, C#, Typescript      
+              
+Framework: Spring, 
+Angular, .Net 
+framework, 
+Winform, VBA, 
+MVC        
+                         OS: 
+Windows, Linux. 
+Database: MS SQL, 
+MySQL Program. 
+             
+Development IDEs : 
+Eclipse, Visual 
+Studio, Visual 
+Studio Code, Cyber 
+SIM, IDEA  
+SCM: Git, SVN 
+ 
+ 
+                 
+                                                                     
+Database: MS SQL, 
+MySQL Program.  
+              
+                                                         
+Photoshop 
+                
+                                                                    
+illustrator 
+          
+Personal Skills 
+                   Creative 
+ 
+                                                                                                                               Teamwork 
+ 
+                                                                                                                                      Innovative 
+ 
+            Organization 
+ 
+     Communication 
+Experience Summary 
+Looking forward to working in a professional, friendly environment, being attached to the 
+company for a long time.  
+A software engineer with 4 year experience in software development in .NET, Java, JavaScript, 
+HTML, CSS and database on multiple platforms including web-based, desktop, web services. 
+Education 
+2018 | HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY AND 
+EDUCATIO 
+Major: Information Technology 
+GPA: 7/10 
+Experience 
+Dec 2022 - Now | TRI VIET STEEL  
+Project Manager and Developer 
+ Project Building a system 
+Duration Dec 2022 - Now 
+Size 3 
+Position Project Manager and Developer 
+Description - Design interface and database. 
+- Handling business requirements and functions.  
+- Fix bug and officially complete the entire process of a 
+software 
+My responsibility Building a system for the technical department of a department 
+of the company. 
+Technology Winform, Devexpress, C#, My SQL 
+ 
+Dec 2019 – Jun 2022 | HITACHI VANTARA VIETNAM 
+Developer 
+ Project Software engineer in read and analyze the chips project 
+Duration Dec 2021 – Jun 2022 
+Size 10 
+Position Developer 
+Description - Analyzing requirement and develop new feature . 
+- Bug fixing and support for teammate in resolving technical 
+issues. 
+My responsibility Coding. 
+Technology Java, Spring, My SQL
+
+Hobbies : 
+                  Listening to music 
+Playing soccer 
+Participating in social activities 
+                      
+                 
+ 
+Mar 2018 – Oct 2019 | SOFTWARE COMPANY XEP       
+Developer 
+ 
+Mar 2017 – 2018 | LACVIET COMPUTING CORPORATION 
+Part-time developer 
+ Project  
+Duration 2017 - 2018 
+Size 1 
+Position Developer 
+Description - Trainee in Equipment Integration Training.  
+- Software engineer in medical project: Giving technical support 
+for develop system skeleton. 
+My responsibility Coding 
+Technology C#, My SQL 
+ 
+Project Outsourcing project 
+Duration Apr 2019 – Oct 2019 
+Size 3 
+Position Developer 
+Description - Experimented with multiple iterations during design 
+implementation. 
+- Wrote extensible and maintainable code as part of a team . 
+- Excelled in rapidly prototyping new capabilities to confirm 
+project feasibility. 
+- Designed web applications and maintained content for 
+multiple .NET-based systems. 
+My responsibility Coding. 
+Technology C#, .Net, My SQL,Webform 
+  
+ 
+Project Equipment Integration project 
+Duration Sep 2020 – Jun 2021 
+Size 15 
+Position Developer 
+Description - Analyzing requirement from equipment vendor . 
+- Develop equipment simulator. 
+- Develop equipment control software. 
+- Executing office test for Equipment Integration  
+My responsibility Coding. 
+Technology C#, .Net, My SQL

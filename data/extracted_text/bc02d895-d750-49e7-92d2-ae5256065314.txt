@@ -1,0 +1,95 @@
+NGUYỄN THIÊN VƯƠNG
+FLUTTER DEVELOPER
+LIÊN HỆ
+
+
+thienvuon gmail.c
+om
+ 19/03/1998
+ Hai Bà Trưng, Hà Nội
+HỌC VẤN
+2016 - 2022
+ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Sư phạm kỹ thuật - Công nghệ
+thông tin
+Loại tốt nghiệp: Khá
+NGOẠI NGỮ
+B2 VSTEP (~650 TOEIC) 3
+MỤC TIÊU NGHỀ NGHIỆP
+Học hỏi và phát triển các kỹ năng công nghệ.
+Làm ra sản phẩm hữu ích cho công ty, làm hài lòng khách
+hàng (nếu có).
+Tạo ra ảnh hưởng tích cực với công ty.
+KINH NGHIỆM LÀM VIỆC
+Mirabo JSC 02/2023 - 02/2024
+Flutter Developer
+- Dự án mạng video cho nhà đài ở Nhật Bản.
+- Techstack: Flutter, Firebase, custom video_player
+package, beacon_sdk (đặc thù).
+- Sản phẩm đã lên CHPlay, AppStore.
+Mirabo JSC 07/2022 - 02/2023
+Flutter Developer
+- Phát triển dự án quản lý lịch.
+- Techstack: Flutter, Jira, CalendarAPI, Flutter Animation,
+Riverpod.
+SEA - Solutions Software
+Company
+08/2021 - 06/2022
+Flutter Developer
+- Phát triển dự án quản lý bảo hiểm cho nhân viên.
+- Flutter, Zendesk SDK, MVC, SQL Server,
+HTML/CSS/JS.
+- Kinh nghiệm migrate Native App -> Flutter App.
+- Có thêm kinh nghiệm nghiệp vụ bảo hiểm, khách hàng
+Canada
+- Sản phẩm đã lên CHPlay, có 10000+ lượt tải.
+
+KỸ NĂNG
+- Mobile Developer: Flutter, Firebase, AppStore, PlayStore
+- Full Stack Developer: Angular, HTML/CSS/JS,
+MVC 4
+SỞ THÍCH
+Tìm hiểu và học hỏi công nghệ mới. Bóng đá, bóng bàn, đọc
+truyện.
+SEA - Solutions Software
+Company
+03/2021 - 07/2021
+Angular Developer
+- Phát triển dự án tìm kiếm việc làm
+- Angular 11, PostgreSQL, Odata, Resful API
+- Phát triển Kanban, Calendar, Mail, Report UI
+- Chrome Extension
+SEA - Solutions Software Company12/2020 - 03/2021
+Fullstack Developer
+- Phát triển, bảo trì dự án nghiệp vụ kế toán.
+- ASP .NET MVC 4, AngularJs
+SEA - Solutions Software
+Company
+05/2020 - 11/2020
+Flutter Developer
+- Phát triển, bảo trì dự án bán bất động sản.
+- Flutter, PostgreSQL, Odata, Restful API, Android
+Studio, Postman.
+SEA - Solutions Software
+Company
+01/2020 - 04/2020
+Flutter Developer
+- Phát triển, bảo trì dự án bán sách
+- Flutter, Odata, Restful API, Android Studio, Postman,
+Design Pattern
+VMO Global 03/2024 - 05/2024
+Flutter Developer
+- Dự án kết nối KOL và Agency, Advertiser để dễ dàng
+tạo campain, book KOL, thanh toán
+- Flutter, tích hợpk TiktokSDK, Clean Architecture, Gitlab
+Pipelines
+
+CHỨNG CHỈ
+- Google Play Store listing certificate - bởi Google Play
+Academy
+- Software Processes and Agile Practices - University of
+Alberta - Coursera
+- Foundations of Project Management - Google Project
+Manager - Coursera
+- Project Initiation: Starting a Successful Project
+- Project Planning: Putting It All Together

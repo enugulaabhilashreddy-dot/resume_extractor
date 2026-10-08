@@ -1,0 +1,63 @@
+NGUYỄN 
+TRUNG HẬU 
+TESTER 
+ 
+11/08/1995 
+CAREER GOALS 
+Looking forward to improving 
+knowledge and becoming an 
+expert in the field of technology in 
+general and software testing in 
+particular to build and develop the 
+company. 
+ 
+ 
+SKILLS 
+ 
+• Python, C++ programming 
+languages. 
+• Test case design and 
+automation on Linux and 
+Windows. 
+• Debugging and review test 
+case. 
+• Experienced in using JIRA and 
+Confluence.  
+• Problem-solving. 
+• Teamwork. 
+• Communication. 
+• Time management. 
+ 
+HOBBIES 
+Listening to music 
+Reading 
+Traveling 
+  
+ Male 
+ 
+ 
+ 
+ 
+ 
+EDUCATION 
+University of Science 
+2013 - 2017 
+Bachelor of Science in Electronics & Telecommunications 
+WORK EXPERIENCE 
+TMA Solutions [Senior Engineer] 
+Nov 2017 – Jan 2024 
+ 
+Description: Perform testing on IoT module: LTE/5G 
+technology, Protocol, GNSS, Voice call, SMS, FOTA… 
+ 
+Main responsibilities: 
+• Investigate new Feature/Requirement and define the test 
+scenarios. 
+• Design and review new test cases 
+• Execute test cases, report test result.  
+• Test cases automation. 
+• Submit and verify bug tickets. 
+• Write references. 
+• Technical training and mentoring. 
+ 
+•

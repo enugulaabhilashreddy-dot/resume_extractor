@@ -1,0 +1,89 @@
+TRAN THE SINH 
+CONTACT 
+Mobil
+Email 
+EDUCATION 
+ 09/1999 - 5/2003
+Bachelor of Science
+Viet Nam National University
+Ho Chi Minh City - University
+of Science
+Information Technology
+ 9/ 2000-5/2005
+Bachelor of Science
+Ho Chi Minh City
+University of Technology
+Industrial and System
+Engineering
+SKILLS 
+ IT Management, MIS
+ Project Management
+Professional-PMBOK
+ IT Operations
+ IT Service Management
+ IT Infrastructures and
+System Administration
+ ERP SAP B1, PMS Opera,
+Core Securities system,
+Python, SQL Server.
+CERTIFICATES 
+ Digital Transformation
+ CCNP- Cisco Certified
+Network Professional
+Enterprise
+ ISO/IEC 27001 Foundation
+ Scrum Foundation
+ PMP-Project Management
+Professional
+ Financial Analysis
+LANGUAGES
+English           fluent  
+Vietnamese    mother tongue 
+WORK EXPERIENCE 
+present 
+ches Haus Ho Chi Minh Stadt – Head of IT Department 
+Key member of project development team since construction period since 2014 to 
+operation period since 2017 for LEED Platinum Smart Office Building- Deutsches 
+Haus Ho Chi Minh City 33 Le Duan, District 1 (DHHCM), applying state-of-the-art 
+sustainable energy-efficient building solutions and technologies “Made in Germany”.  
+ C onstruction period – i mplementing and integrating
+- IT backbone; CCTV System; Car Parking System, Digital AV system.
+- IT system for Building Management System (BMS)
+- Project document control system; SAP B1 system
+ O peration period
+- Oversee IT Operations of DHHCM;
+- All of IT infrastructure system related to smart building such as BMS , CTCV,
+Blind Louver, AV, and Digital signage and Content management.
+- Building IT Policies and Procedures
+d CAPEX)
+04/ 
+Vi  JSC – Head of IT Department 
+Implementing core Trading System: Deploying InvestExp, a trading solution from TTL 
+(Hong Kong),  Processes oversee : business analysis, user requirements, specs 
+documentation, system development, testing, UAT and training. System integration: 
+Integrating trading system to both Vietnamese Stock Exchanges (HOSE, HNX) and 
+integrating with Bloomberg Order Routing Network to enable DMA access for 
+institutional clients. Online retail trading services: rolling out a number of online services 
+for VinaSecurities retail client including Internet Trading, online fund transfer & cash 
+advance. Bank integration: Integrating VinaSecurites trading system with the company 
+accounting software and a number of Vietnamese banks i.e. BIDV, Dong A and ACB 
+to enable automatic trading settlement. IT operations: backup, availability, redundant, 
+ay, end of day, monitoring.  
+12/ 2008  
+D l – Support consultant  
+A member of technical team to support team resolved these issues from client in after-
+sales stage. The main products that DST system provided in Viet Nam market during 
+that time are Core Securities System, Funds Management System (Hi -Port and Hi -
+bank Securities (SBS) , and VinaCapital. 
+ 
+09 2007  
+Ne echnology JSC – Project coordinator 
+A member of project team to develop the ERP system for SMB. W orking with other 
+stakeholders to create the criteria of products and priority of features. Implementing the 
+project plan, execute, monitor & control, and complete the project.  
+  
+1/2005-9/2005 
+ASIA FAN JSC - Assistant manager  
+A member of Production Management. Key responsibilities and achievements are 
+ensure deliver products to client right time as planning. Optimizes and improves the 
+nce of resources and facilities.

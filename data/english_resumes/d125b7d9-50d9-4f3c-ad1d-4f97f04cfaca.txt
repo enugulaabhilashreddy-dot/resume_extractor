@@ -1,0 +1,97 @@
+Reading book,  Gym, 
+Travel,
+ Motorbike, Music,Piano
+Nguyen Hoang Nam
+Developer
+I have had more than 6 years of experience in deploying
+projects on IBM, Oracle for bank,enterprise... I hope with
+my experience to help the company develop further. 
+ 
+Familiar: Javascrip, .Net, java,Html, Css, Sql, linux... 
+Frameworks: IBM BPM, ODM,  ECM, React, Angular,
+ 
+Database: Oracle, SQL Sever, Postgre... 
+Languages: Basic Reading and listening English,
+basic listening Japan 
+09/2013 - 06/2018
+University of Information Technology
+Major: Network and Communication
+08/ 2021 - Now
+OCB
+Full stack developer .
+*Project  
+- Process foreign currency trading 
+- Process Money transfer for corporate customers 
+- Process Transfer asset records to the treasury 
+- Process Backup key management 
+- Process International payments 
+-  Process Customer Code Transfer 
+-  Process Handing over the management of the treasury 
+-  Process TOPUP 
+- Process Manage inventory equipment 
+- Process International payments 
+- Process loan disbursement 
+- Process Valuation of collateral 
+- Process Card Delivery V2 
+*Modul 
+-Credit ratings 
+-CIC, BlackList,Host to Host 
+    +Update toolkits and templates for project 
+    +Building toolkits and templates for project - designing
+database, user interface and creating detail document, 
+    +Interaction with other systems of bank  
+    +Database design 
+    +Developing and support  fuctions : Process , Search,
+Reassign, Report, ECM, rule ODM 
+    +Traning and supporting endusers during the go-live
+phase 
+*Support level 2 all process and modul 
+*Training new member 
+*Support old member 
+*Monitor System 
+c01/ 2020 - 08/2021
+HPT
+Full stack developer .
+*Project CVM(TechcomBank) 
+    - Building toolkits and templates for project 
+    - Designing database, user interface and creating detail
+documents 
+    - Interaction with other systems of bank , 
+    - Developing fuctions : Process , Search, Reassign,
+GenDoc, ECM, rule ODM 
+    - Traning and supporting endusers during the go-live
+phase 
+*Project  VAS (VAS) 
+Sept 06, 1995
+Male
+
+
+Ho Chi Minh, Viet Nam
+
+CONTACT INFORMATION
+SUMMARY
+INTERESTS
+SKILL
+EDUCATION
+WORK EXPERIENCE
+
+- Building toolkits and templates for project - designing
+database, user interface and creating detail document, 
+06/2018 - 01/2020
+FPT SOFT
+Fresher, Developer.
+*  Participating and studying at Fresher Academy 
+*  Project HMS (Honda SAP):  
+     -  Participating in project implementation as an
+operational engineer during the go-live phase 
+     -  Training and supporting endusers at 800 Head
+Honda during the go-live phase 
+* Project M5(Masan): 
+     - Participating in project implementation as an
+operational engineer. 
+     - Traning and supporting endusers during the go-live
+phase 
+Fresher Academy GOT TALENT 
+VnExpress Marathon 2017 ,2019 
+© 
+ACTIVITIES

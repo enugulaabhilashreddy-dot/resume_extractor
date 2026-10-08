@@ -1,0 +1,75 @@
+HUỲNH QUANG TRUNG
+Nhân viên lập trình web hay ứng dụng dùng  mvc,  core, react, c#
+  quangt
+ 10/29 K.5 P.T hống Nhất  Biên Hòa, T hành phố Biên Hòa, Đồng Nai, Việt  Nam
+Giới tính : Nam
+Ngày sinh : 24/07/1982
+Tình trạng hôn nhân : Đã kết hôn
+Quốc tịch : Người Việt Nam
+Quốc gia : Việt Nam
+Địa chỉ : 10/29 K.5 ống Nhất Biên Hòa, Thành phố Biên Hòa, Đồng Nai, Việt Nam
+Cấp bậc : Nhân viên
+Mức lương : 25,000,000 - 30,000,000 VND
+Hình thức công việc : Nhân viên chính thức
+Ngành nghề : CNTT - Phần mềm, Ngân hàng
+Nơi làm việc : Hồ Chí Minh, Bình Dương, Đồng Nai
+Phấn đấu thành lập trình viên thành thạo các công nghệ web ( , mvc, .net core, jquery...)
+Tìm hiểu các công nghệ web mới
+do đó mong muốn của mình là tìm được công ty liên quan tới các kỹ thuật trên.
+11/2021 - 12/2022 : Nhân viên - Stepmedia - Nhân viên chính thức
+Sử dụng nền tảng Microsoft .NET Framework, ,  Core, C#, React, hệ quản trị cơ sở dữ liệu SQL Server
+để phát triển ứng dụng web. 
+Công việc chính là fix bug và lập trình một số chức năng mới cho hệ thống của công ty.
+3/2018 - 9/2020 : Nhân viên - Saigon Tourist - Nhân viên chính thức
+Sử dụng nền tảng Microsoft .NET Framework, ,  MVC,  Core, C#, hệ quản trị cơ sở dữ liệu SQL
+Server để phát triển ứng dụng web. 
+Tiếp nhận và xử lý yêu cầu của người dùng trong công ty. 
+Phân tích và viết hệ thống mới thay cho hệ thống viết bằng Foxpro hiện tại 
+Các hệ thống tiêu biểu: 
++Quản lý kho (quản lý quà tặng cho khách đoàn) : 
+- Báo cáo chi phí điện, nước, điện thoại của từng chi nhánh. 
+- Quản lý quà tặng (balo, túi xách, nước uống) cho từng nhóm khách. Quản lý nhập xuất tồn quà tặng. 
+THÔNG TIN CÁ NHÂN
+THÔNG TIN NGHỀ NGHIỆP
+MỤC TIÊU NGHỀ NGHIỆP
+KINH NGHIỆM LÀM VIỆC
+Số năm kinh nghiệm: 12
+Cấp bậc hiện tại: Nhân viên
+
++Quản lý khách đoàn: điều phối các hoạt động của tour du lịch (đón khách ở đâu, bằng phương tiện gì, lúc mấy giờ,
+những điểm tham quan nào để đi, chi phí bao nhiêu …)
+6/2007 - 7/2017 : Tổ trưởng - Pouyuen VietNam
+Quản lý website chính trong mạng nội bộ của công ty, chương trình chấm công cho nhân viên (ứng dụng web). 
+Tổ trưởng nhóm lập trình web. 
+Thành viên của nhóm web 
+Sử dụng nền tảng Microsoft .NET Framework, , , C#, các hệ quản trị cơ sở dữ liệu SQL Server, Oracle
+để phát triển ứng dụng web. 
+Tiếp nhận và xử lý yêu cầu của người dùng trong công ty. 
+Viết chương trình chuyển dữ liệu giữa các ứng dụng. 
+Triển khai sử dụng phần mềm quản lý source code như Visual Source Safe, Team Foundation Server , TortoiseSVN 
+Viết ứng dụng windows form 
+Các hệ thống tiêu biểu: 
++ReportPortal (tổng hợp toàn bộ các báo biểu sản xuất trong công ty). 
++Webmain ( trang web chính của công ty). 
++ B2B: cầu nối giữa nhà cung ứng vật liệu và xưởng sản xuất giày.
+Tốt nghiệp 07-2007
+Đ ại học - Đ ại Học Khoa Học Tự Nhiên
+Có kinh nghiệm lập trình với các hệ quản trị CSDL Mircrosoft SQL Server, Oracle. Cấu hình server... 
+Tham gia vào nhóm phát triển ứng dụng mới cho công ty dùng Python.
+Tham gia vào nhóm tìm hiểu công nghệ mới (MES, Python, Linux...)
+Tự viết hoàn chỉnh hệ thống quản lý khách đoàn cho công ty để thay thế hệ thống cũ viết bằng Foxpro
+HỌC VẤN
+Bằng cấp cao nhất: Đại học
+THÀNH TÍCH NỔI BẬT
+Giao tiếp
+Verbal communication
+Lập trình web asp net
+MS SQL Server
+oracle
+Python
+C Sharp
+ Core C#
+KỸ NĂNG
+Tiếng Anh - Cao cấp
+NGÔN NGỮ
+©  Care e rBuild e

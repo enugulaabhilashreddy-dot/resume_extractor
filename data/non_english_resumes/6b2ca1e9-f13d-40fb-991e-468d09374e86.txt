@@ -1,0 +1,962 @@
+NGUYỄN THANH ĐỨC
+53A1 Quán Tre, Trung Mỹ Tây
+Quận 12, TP Hồ Chí Minh
+Điện thoại:
+Hồ Chí Minh, ngày 20 tháng 07 năm 2023
+Kính gửi Ban Tổng Giám Đốc - Công ty TNHH May túi xách Thái Dương
+Anh / Chị - Phòng Nhân sự - Tuyển dụng.
+Qua thông tin tuyển dụng của quý công ty t i biết quý công ty đang có nhu
+cầu tuyển dụng nhân sự ở vị trí: IT Manager Tôi rất quan tâm đến vị trí tuyển dụng, đồng thời tìm
+hiểu về các yêu cầu của vị trí. Tôi tin với kinh nghiệm làm việc và khả năng của mình tôi có thể đáp
+ứng tiêu chí tuyển dụng của Quí Công ty
+Tôi tên Nguyễn Thanh Đức, đã tốt nghiệp Đại học ở trường Đại học Khoa Học tự nhiên Hồ Chí Minh
+khóa 1996 - 2000
+Gần đây tôi làm việc tại Công ty QSR Việt Nam- Với việc vận hàng hạ tầng Công nghệ thông tin 130
+Nhà hàng trên toàn quốc. Tham gia và quản lý dự án triển khai tại hệ thống POS(RK7), CRM … Đảm
+bảo việc đồng bộ dữ liệu bán hàng về hệ thống ERP SAP S4 Hana.
+Ngoài hệ thống vân hành hiện tại. Hệ thống website E-Commerce của nhãn hàng Pizza cũng thực hiện
+số đơn hàng online lớn và được thiết kế đẩy đơn hàng về hệ thống POS thuộc nhà hàng cũng được
+tôi và nhóm IT thiết kế vận hành thông qua hệ thống Middleware.
+Bên cạnh đó tôi đảm nhận việc phát triển ứng dụng Core API để phát triển các ứng d n
+đa nền tảng và các ứng dụng mini App trên hệ thống Momo, Tiki, hoặc Zalo OA.
+Với quá trình làm việc về hệ thống quản trị doanh nghiệp ERP như SAP S4 Hana, MS Dynamics Ax /
+NAV … Đã cho tôi kinh nghiệm quản lý và vân hành trong các ngành bán lẻ, dịch vụ… Đồng thời với
+kiến thức cơ bản của kế toán, giúp tôi nhiều trong quá trình tính vốn hàng hoá. Với kinh nghiệm làm
+việc tôi tin mình có những giải pháp hoặc phát triển ứng dụng vào hệ thống hạ tầng CNTT của Quý
+công ty hiện nay, cũng như việc kiểm soát nguồn ngân sách, chi phí hoạt động hiệu quả ở phòng ban
+CNTT.
+Ngoài những kinh nghiệm công việc đã thực hiện. Tôi còn tham gia trực tiếp những dự án phát triển
+về hệ thống ứng dụng quản lý như: Web Application, ứng dụng di động, hoặc phát triển hệ thống
+Core API. Bên cạnh đó tôi còn thực hiện triển khai các giải pháp cho hạ tầng IT về máy chủ và dịch vụ
+email đáp ứng hệ thống ứng dụng quản trị hoặc hệ thống ERP / CRM vân hành.
+Rất mong một buổi trao đổi với Anh (Chị) về công việc để hiểu rõ về yêu cầu và cơ hội trình bày về
+kinh nghiệm làm việc của cá nhân.
+Anh / Chị có thể liên hệ với tôi qua số điện thoại: Thanh Đức –
+Cảm ơn Anh (Chị) đã quan tâm dành thời gian đọc thư ứng tuyển của tôi
+Chân thành cảm ơn
+NGUYỄN THANH ĐỨC
+
+LÝ LỊCH TRÍCH NGANG
+THÔNG TIN CÁ NHÂN
+Họ và tên: NGUYỄN THANH ĐỨC
+Địa chỉ 53A1 đường Quán Tre, KP5, Phường Trung Mỹ Tây,
+Quận 12, thành phố Hồ Chí Minh
+Sinh ngày 20 tháng 04 năm 1975
+Nơi sinh Trà My, Quảng Nam
+Email liên lạc
+ĐIện thoại
+Tình trạng hôn nhân Độc thân (Ly Hôn)
+Sức khỏe Tốt
+Mục tiêu nghề nghiệp Mong muốn được làm việc và phát triển nghề nghiệp bền
+vững, phát triển và triển khai những giải pháp hiệu quả, tiết
+giảm chi phí hoạt động, triển khai hệ thống quản trị thông minh
+và hiệu quả
+Khả năng Làm việc nhóm, quản lý nhóm, chịu áp lực cao trong công việc.
+Phát triển các giải pháp tích hợp hỗ trợ kinh doanh, Kiểm soát
+chi phí vân hành thuộc CNTT
+KINH NGHIỆM VÀ THÀNH TÍCH
++ Kinh nghiệm quản lý - Hơn 15 năm vị trí Trưởng phòng Công nghệ thông tin
+- 1,5 năm vị trí Giám Đốc Công nghệ thông tin
++ Kinh nghiệm quản lý hệ thống chuỗi nhà hàng QSR Việt Nam ngành F&B với hệ thống
+120 Nhà hàng với các thương hiệu khác nhau.
++ Kinh nghiệm triển khai hạ tầng và giải pháp quản lý cho hệ thống chuỗi kinh doanh mỹ
+phẩm, Spa, chuỗi trung tâm Anh ngữ (đào tạo)
++ Kinh nghiệm triển khai và phát triển giải pháp hệ thống tổng đài Voip cho sàn telesale, Call
+Center, Contact Center và tích hợp với các giải pháp CRM, di động
++ Triển khai hệ thống ERP tích hợp CRM, F&B, SPA, Golf Booking, POS: Sân Golf Long Biên,
+Sân Golf Tân Sơn Nhất – Công ty Cổng phần Long Biên – Đơn vị thành
+viên Him Lam Group
++ Triển khai ERP hệ thống SAP All One: Pin Miền Nam, Sợi Thế Kỷ
++ Triển khai hệ thống ERP Oracle: Công ty Cổ phần Giấy Sài Gòn
++ Phát triển hệ thống DMS, CRM: Hệ thống Hyundai Ngọc An - Thành Công
++ Tái cấu trúc quy trình cho ERP: Công ty CP Dược Phẩm Savi, Công ty thực phẩm VIFON
++ Kinh nghiệm triển khai hệ thống ảo hóa: VMware ESXi, VCenter Server (Công ty cổ phần
+Dược Savi, Công ty Long Biên - hệ thống quản lý sân golf, nhà hàng,
+dịch vụ …)
++ Kinh nghiệm triển khai hệ thống Micro services: Docker, Docker Swarm, K8s
++ Kinh nghiệm triển khai quản lý, kiểm soát chi phí, tồn kho cho hệ thống ERP.
++ Kinh nghiệm thành thành thạo ngôn ngữ lập trình: ASP MVC, .Net 40, Net core
++ Kinh nghiệm lập trình di động Đa nền tảng: Xamarin, Flutter
++ Kinh nghiệm phát triển hệ thống API, Results API, Graph API
++ Kinh nghiệm phát triển triển khai ứng dụng ngành hàng tiêu dùng, bán sỉ – lẻ (ngành Mỹ
+phẩm, Spa, kỹ thuật số, ngành điện máy …)
++ Kinh nghiệm đào tạo nhân sự thuộc phòng ban, công ty, tái cấu trúc nhân sự phòng CNTT.
++ Kinh nghiệm phát triển, triển khai hệ thống CRM, Chăm sóc khách hàng, bán lẻ
++ Kinh nghiệm triển khai, phát triển hệ thống SCADA, LIMS, QC … thuộc ngành dược
+
+QUÁ TRÌNH CÔNG TÁC
+Công ty: Công ty Cổ phần Thương Mại QSR Việt Nam
+Thời gian: 03/2022 đến 05/2023
+Chức danh Trưởng phòng Công nghệ thông tin - Ứng dụng và giải pháp
+Mô tả công việc - Quản trị hệ thống ứng dụng, hạ tầng CNTT của 150 Nhà hàng
+- Quản trị và vận hàng hệ thống ERP SAP S4 Hana cho hệ thống nhà
+hàng, văn phòng…
+- Quản trị và vận hành hệ thống website TMĐT của Công ty với số đơn
+hàng hơn 30,000 đơn / tháng kênh online
+- Phát triển hệ thống CRM quản lý tích hợp tổng đài Voip. Đồng thời
+phát triển các công cụ Auto Marketing với hệ thống SMS Brand Name,
+ZNS, ZCC (Giải pháp Zalo Business) trong quá trình vận hành kinh doanh
+và Chăm sóc khách hàng. Hỗ trợ Marketing Online, Chăm sóc khách
+hàng tự động.
+- Quản trị và vận hàng hệ th ủa các nhà hàng về hệ thống
+quản lý t õi về hệ thống đồng bộ dữ liệu Sync sale hàng
+ngày.
+- Phát triển hệ thống CoreAPI mới cho nền tảng hệ thống bán hàng
+Online / Offline cùng với các ứng dụng website TMĐT, sàn TMĐT, các
+ứng dụng mini app … Đồng thời tích hợp với các ví thanh toán, các
+kênh thanh toán điện tự.
+- Kiểm soát và audit dữ liệu tích hợp đồng bộ hệ thống Kinh doanh, kế
+toán
+Thanh tích - Triển khai hệ thống tổng đài tích hợp ZCC, ZNS trong CSKH tự động.
+Tích hợp các hệ thống bán hàng với hệ thống POS RK7, hệ thống SAP
+t triển CoreAPI cho lớp ứng dụng kinh doanh Online,
+Chăm sóc khách hàng, hệ thống thanh toán và trung tâm nhắn tin
+Công ty: Tập đoàn Egroup – Công ty Cổ phần Anh Ngữ Apax Leader
+Thời gian: 03/05/2017 đến nay 31/12/2021
+Chức danh Trưởng phòng Công nghệ thông tin - Ứng dụng và giải pháp
+Mô tả công việc - Quản trị hạ tầng CNTT hội sở và 50 trung tâm thuộc khu vực Miền
+Nam
+- Quản trị hệ thống tổng đài Voip cho tập đoàn: 16 đơn vị thành viên
+(3000 số Ext)
+- Triển khai và quản trị vận hành hệ thống máy chủ ảo hóa, docker
+cho các hệ thống quản lý: Telesale, CRM, ERP, HR, và thu ngân các
+trung tâm chuỗi tiếng Anh
+- Xây dựng giải pháp phần mềm Telesale Marketing, Contact Center,
+Quản trị vận hành hệ thống cho sàn Telesale và Trung tâm – 250
+Nhân viên Telesale
+- Phát triển hệ thống web application test online đánh giá trình độ
+học sinh đầu vào tích hợp hệ thống vân hành LMS, CRM, ERP …
+- Triển khai hệ thống K8s, Docker Swarm micro services cho hệ thống
+ứng dụng quản lý về CRM, LSM, Sales KIT, phát triển tích hợp hệ
+thống Zalo OA, ZNS trong Chăm sóc khách hàng
+Quản trị hệ thống server ảo hóa đáp ứng mô hình quản lý của công
+ty, thực hiện chính sách bảo mật, sao lưu dữ liệu bằng công cụ tự
+phát triển
+- Triển khai hạ tầng, đào tạo nhân sự các TT về nền tảng ứng dụng
+CNTT hệ thống quản lý, Kiểm soát ngân sách, chi phí hoạt động
+CNTT.
+
+-
+Th
+ự
+c
+hi
+ệ
+n
+tri
+ể
+n khai các
+gi
+ả
+i pháp
+h
+ệ
+th
+ố
+ng
+qu
+ả
+n lý cho các
+đơ
+n
+v
+ị
+thu
+ộ
+c
+t
+ậ
+p
+đ
+oàn
+thu
+ộ
+c
+m
+ả
+ng giáo
+d
+ụ
+c
+m
+ầ
+m non,
+tuy
+ể
+n sinh du
+h
+ọ
+c.Thanh tích -
+Tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng CRM tích
+h
+ợ
+p LMS, Effect –
+k
+ế toán, ERP, phát
+tri
+ể
+n
+h
+ệ
+th
+ố
+ng
+qu
+ả
+n lý công
+vi
+ệ
+c,
+m
+ụ
+c tiêu KPI – OKR, HR
+…
+Công ty: Công ty CPTM
+D
+ị
+ch
+v
+ụ
+Ng
+ọ
+c An
+Th
+ờ
+i gian: 07/05/2015
+đế
+n 04/2017
+Ch
+ứ
+c danh
+Tr
+ưở
+ng phòng Công
+ngh
+ệ thông tin
+Mô
+t
+ả công
+vi
+ệ
+c -
+Tri
+ể
+n khai
+h
+ạ
+t
+ầ
+ng công
+ngh
+ệ thông tin cho
+v
+ă
+n phòng và chi nhánh-
+Tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng Video mô
+ph
+ỏ
+ng Showroom Digital Xe
+c
+ủ
+a côngty-
+Qu
+ả
+n
+tr
+ị
+h
+ệ
+th
+ố
+ng server
+ả
+o hóa
+đ
+áp
+ứ
+ng mô hình
+qu
+ả
+n lý
+c
+ủ
+a côngty,
+th
+ự
+c
+hi
+ệ
+n chính sách
+b
+ả
+o
+m
+ậ
+t- Phát
+tri
+ể
+n
+h
+ệ
+th
+ố
+ng
+gi
+ả
+i pháp
+qu
+ả
+n lý kinh doanh, CRM, Nhân
+s
+ự
+,
+H
+ệ
+th
+ố
+ng CSKH- Phát
+tri
+ể
+n
+h
+ệ
+th
+ố
+ng DMS,
+CRM
+… tích
+h
+ợ
+p
+h
+ệ
+th
+ố
+ng
+k
+ế toán,
+ki
+ế
+m
+ch
+ứ
+ng bán
+l
+ẻ
+, phân
+ph
+ố
+i
+ph
+ụ
+ki
+ệ
+n và
+ph
+ụ tùng trong
+h
+ệ
+th
+ố
+ngHyundai
+Ng
+ọ
+c An, Thành Công Group.Thanh tích -
+Tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng
+qu
+ả
+n lý kinh doanh,
+th
+ẻ khách hàng thành viên,
+h
+ệ
+th
+ố
+ng showroom Digital Marketing
+Công ty: CN Công ty
+C
+ổ
+ph
+ầ
+n
+Đầ
+u
+T
+ư Long Biên – Sân golf Tân
+S
+ơ
+n
+Nh
+ấ
+t
+Th
+ờ
+i gian: 07/04/2013
+đế
+n 01/10/2014
+Ch
+ứ
+c danh
+Tr
+ưở
+ng phòng Công
+ngh
+ệ thông tin
+(ph
+ụ trách 02 sân golf)
+Mô
+t
+ả công
+vi
+ệ
+c -
+Tri
+ể
+n khai
+h
+ạ
+t
+ầ
+ng Công
+ngh
+ệ thông tin sân golf Long Biên, sân golf Tân
+S
+ơ
+n
+Nh
+ấ
+t- Phân tích quy trình kinh doanh,
+ki
+ể
+m soát
+r
+ủ
+i ro
+tri
+ể
+n khai
+h
+ệ
+th
+ố
+ngERP – MS Dynamics NAV cho sân golf-
+Qu
+ả
+n lý
+h
+ệ
+th
+ố
+ng server, Cable
+m
+ạ
+ng,
+đ
+i
+ệ
+n
+tho
+ạ
+i,
+m
+ạ
+ng WAN (MSExchange 2012, AD 2012, DNS, Domain
+Controller
+…
+)-
+Tri
+ể
+n khai,
+qu
+ả
+n lý
+h
+ệ
+th
+ố
+ng
+ả
+o hóa server, Desktop: VMware ESXi,VCenter Server-
+Tri
+ể
+n khai,
+qu
+ả
+n lý
+h
+ệ
+th
+ố
+ng Database Server: Microsoft SQL Server-
+Tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng POS: Golf Booking, F&B (Nhà hàng),
+D
+ị
+ch
+v
+ụ- Tham gia
+tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng thanh toán
+th
+ẻ
+: Công ty Him Lam –Vietopia-
+Qu
+ả
+n lý,
+tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng
+t
+ổ
+ng
+đ
+ài VoIP: Siemen Hipath 3800-
+Qu
+ả
+n lý,
+tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng Camera IP: Axis, Panasonic-
+L
+ậ
+p ngân sách phòng Công
+ngh
+ệ thông tin,
+l
+ậ
+p
+k
+ế
+ho
+ạ
+ch công
+vi
+ệ
+c
+t
+ừ
+ng
+th
+ờ
+i
+đ
+i
+ể
+m,
+th
+ờ
+i
+k
+ỳ
+, theo quý, theo
+n
+ă
+m-
+Th
+ự
+c
+hi
+ệ
+n
+vi
+ệ
+c
+qu
+ả
+n lý,
+đị
+nh biên nhân
+s
+ự
+thu
+ộ
+c
+b
+ộ
+ph
+ậ
+n
+Thành tích
+Tri
+ể
+n khai
+h
+ệ
+th
+ố
+ng
+t
+ổ
+ng
+đ
+ài 02 sân golf (Long Biên, Tân
+S
+ơ
+n
+Nh
+ấ
+t),Hoàn
+ch
+ỉ
+nh
+h
+ạ
+t
+ầ
+ng CNTT,
+h
+ệ
+th
+ố
+ng Camera, AD,
+…Hoàn
+t
+ấ
+t
+h
+ệ
+th
+ố
+ng ERP
+qu
+ả
+n lý sân golf Long Biên
+
+Công ty:CN Công ty CPTM Nguyễn Kim – Đà Nẵng (NguyenKim Shopping)
+Thời gian: 27/06/2011 đến 25/03/2013
+Chức danh Trưởng phòng Công nghệ thông tin
+Mô tả công việc - Quản trị, kiểm soát toàn bộ hệ thống dữ liệu ERP
+- Phân tích dữ liệu kinh doanh, triển khai quy trình mới ERP
+- Quản lý hệ thống server, Cable mạng, điện thoại, mạng WAN, Video
+Conference
+- Quản trị và phát triển hệ thống tổng đài VoIP PBX kết hợp hệ thống
+SIP
+- Lập ngân sách phòng Công nghệ thông tin, lập kế hoạch công việc
+từng thời điểm, thời kỳ, theo quý, theo năm
+- Theo dõi, báo cáo việc thực hiện chính sách bảo mật thông tin
+- Theo dõi, kiểm soát việc thực hiện chính sách sao lưu dữ liệu của hệ
+thống
+- Thực hiện việc quản lý, định biên nhân sự thuộc bộ phận
+- ĐIều chỉnh, phát triển hệ thống điều hành trực tuyến, xét duyệt trực
+tuyến chứng từ đề nghị
+- Hỗ trợ các phòng ban kinh doanh, bảo hành, kho hàng, kế toán …
+việc kiểm soát chứng từ, hàng hóa, rủi ro.
+Công ty: Công ty cổ phần Dược phẩm Savi – SAVIPHARM
+Thời gian: 04/04/2010 đến 31/05/2011
+Chức danh Giám Đốc công nghệ thông tin
+Mô tả công việc - Quản trị, triển khai hệ thống quản trị người dùng
+- Quản lý hệ thống Database Server
+- Phân tích, tái cấu trúc quy trình thực hiện theo mô hình kiểm soát
+của hệ thống ERP
+- Thực hiện triển khai hệ thống Email Server MS Exchange 2010
+- Phát triển, triển khai hệ thống giám sát sản xuất thuốc: SCADA
+- Phát triển tích hợp hệ thống mã nguồn mở kiểm nghiệm: LIMS,
+QC…
+- Phát triển hệ thống quản lý hồ sơ sản xuất thuốc theo mô hình số
+hóa lưu trữ tài liệu
+- Triển khai hệ thống CRM, hệ thống PBX VoIP Asterisk
+- Triển khai và áp dụng hệ thống ảo hóa đáp ứng mô hình mở rộng, tiết
+giảm chi phí đầu tư, tăng hiệu quả hoạt động
+Thành tích - Triển khai thành công hệ thống giám sát sản xuất SCADA, LIMS, tham
+gia thực hiện kiểm tra cấp phép GMP Japan (Công ty dược tại Việt Nam
+đầu tiên đạt giấy chứng nhận GMP của Nhật Bản)
+KỸ NĂNG
+Kinh nghiệm
+ERP – Microsoft Dynamics NAV 2013 / AX 2009, Oracle EBS
+Oracle Database 11g, SAP-all-one, Microsoft SQL Server 2005/ 2008, MS
+Access200, MySQL, PostgreSQL…
+Symantec Backup Exec 2010
+Net core 7.0
+Flutter (Kinh nghiệm 6 tháng) / Xamarin From (01 năm) – Phát triển
+ứng dụng di động
+
+H
+ệ
+th
+ố
+ng khác
+MS Windows Server 2019 / MS Exchange 2010/2012,Ubuntu,Web server (IIS/Apache), NetCore, LinuxSecurity for LAN, Website, Web applicationMail Server, Website,
+PhotoShop
+…Voip System: Asteriks, FreeSwitch, FreePBX
+…Docker, Docker Swarm, Kubernetes (K8s)
+…FireWall Sophos
+CH
+Ứ
+NG
+CH
+Ỉ - KHÓA
+H
+Ọ
+C
+N
+ơ
+i
+h
+ọ
+c QSC –
+Qu
+ả
+n lý và
+b
+ồ
+i
+d
+ưỡ
+ng cán
+b
+ộ
+N
+ă
+m: 2001Khóa
+h
+ọ
+c
+Qu
+ả
+n lý
+ch
+ấ
+t
+l
+ượ
+ng ISO
+N
+ơ
+i
+h
+ọ
+c
+Tr
+ườ
+ng Aptech - FPT
+N
+ă
+m: 2001Khóa
+h
+ọ
+c
+L
+ậ
+p trình viên
+qu
+ố
+c
+t
+ế
+Tr
+ườ
+ng:
+Đạ
+i
+h
+ọ
+c
+t
+ự nhiên thành
+ph
+ố
+H
+ồ Chí Minh
+N
+ă
+m 2000
+B
+ằ
+ng
+t
+ố
+t
+nghi
+ệ
+p
+C
+ử nhân Công
+ngh
+ệ thông tin
+Tr
+ườ
+ng Informatics VietNam thành
+ph
+ố
+H
+ồ Chí Minh
+N
+ă
+m 2003
+Ch
+ứ
+ng
+ch
+ỉ
+Qu
+ả
+n
+tr
+ị
+h
+ệ
+th
+ố
+ng
+m
+ạ
+ng
+Ch
+ứ
+ng
+ch
+ỉ MCSA, MCSE 2008 – Microsoft
+N
+ă
+m 2010
+Ch
+ứ
+ng
+ch
+ỉ Microsoft MPC – Phát
+tri
+ể
+n
+ứ
+ng
+d
+ụ
+ng
+N
+ă
+m 2016
+Ch
+ứ
+ng
+ch
+ỉ Xamarin Mobile Developer
+N
+ă
+m 2019
+Ch
+ứ
+ng
+ch
+ỉ
+Qu
+ả
+n lý
+d
+ự án - Professional Scrum Master 1, 2
+N
+ă
+m 2021
+Khóa
+đ
+ào
+t
+ạ
+o
+n
+ă
+ng
+h
+ạ
+n khác:
+Qu
+ả
+n
+tr
+ị
+r
+ủ
+i ro,
+Qu
+ả
+n
+tr
+ị thay
+đổ
+i
+(T
+ậ
+p
+đ
+oàn
+d
+ượ
+c GSK)
+S
+Ở THÍCH-
+Đọ
+c sách, tài
+li
+ệ
+u chuyên ngành,
+đ
+i
+ệ
+n
+ả
+nh, Mô hình
+đ
+i
+ề
+u
+khi
+ể
+n
+H
+ồ Chí Minh, ngày 20 tháng 07
+n
+ă
+m 2023
+Ng
+ườ
+i
+vi
+ế
+t
+NGUY
+Ễ
+N THANH
+ĐỨ
+C

@@ -1,0 +1,55 @@
+/
+HUỲNH NGỌC SÁNG
+  
+
+LẬP TRÌNH VIÊN FULL STACK
+Nam
+/66 Cách Mạng Tháng 8, phường 13, quận 10
+MỤC TIÊU NGHỀ NGHIỆP
+Có một công việc ổn định, rèn luyện kỹ năng, xử lý công việc hiệu quả, chính xác, nhanh chóng.
+TIẾNG ANH
+NGHE     NÓI    
+ĐỌC     VIẾT    
+HỌC VẤN
+Trình độ:
+Loại tốt nghiệp:
+- ĐẠI HỌC NHA TRANG CÔNG NGHỆ THÔNG TIN
+Cử Nhân
+Giỏi
+KỸ NĂNG
+HTML, CSS, Javascript, ReactJS, GraphQL, NestJS, Python, GitHub, GitLab.
+KINH NGHIỆM
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+Thành tích đạt được
+-
+Mô tả
+-
+ S2CORP NHÂN VIÊN
+- Tham gia phát triển Web App ERP Song Tấn. 
+- Tham gia phát triển Web App Smart pharmacy 
+- Sử dụng thành thạo react, graphql, mongod 
+ INNOS NHÂN VIÊN
+- Tham gia phát triển Web App Quản lý dịch thuật. 
+- Thành thạo các kĩ năng về lập trình frontend và backend, học thêm về nextJS 
+ ACEXIS NHÂN VIÊN
+- Tham gia vào dự án MD Conference - App phòng họp trực tuyến trên 3 nền tảng: 
+Web, Mobile, Desktop. 
+- Tham gia phát triển app tim thai. 
+ổ
+
+Thành tích đạt được
+Mô tả
+Thành tích đạt được
+-
+- Tham gia cuộc thi RLCOMP 2020 do FPT tổ chức. 
+- Thành thạo về React Native và phát triển app di động. 
+- Nghiên cứu về trí tuệ nhân tạo và reinforcement learning. Lọt vào top 8 đội mạnh 
+nhất 
+ SUNNY NHÂN VIÊN
+- Tham gia phát triển các dự án về phòng khám và bệnh viện. 
+- Tham gia dự án trang gây quỹ cộng đồng SBS. 
+- Trau dồi các kĩ năng full stack. 
+- Học thêm về server side rendering.

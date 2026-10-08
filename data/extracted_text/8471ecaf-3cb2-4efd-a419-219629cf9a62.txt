@@ -1,0 +1,55 @@
+Aug 2014 - Dec 2019 Hanoi University of Science and Technology
+Electronics and Telecommunication
+Aug 2020 - Mar 2024 FPT Software
+Tester
+- Work on automotive embedded project
+- Test the application developed by the customer 
+ 
+Achievements and skills gained:  
+- Work with Austria clients 
+- Learn testing experience. 
+- Improve English Communication Skill.
+Programming Language C/C++, C#, Python, Batch script
+Testing Skill Unit test, System test
+Software Frameworks GoogleTest, .NET 6, .NET Core & .NET Framework
+Other OOP
+SPI, Uart protocol...
+2019 TOEIC Certiﬁcate with score 600
+Nguyen Van Duc Anh
+Date of birth  September 17, 1996
+Gender  Male
+Phone
+Email
+Address  Hanoi, Vietnam
+OBJECTIVE
+have a background in embedded system, want to gain more experience as an embedded developer, as well as
+contribute to the company.
+EDUCATION
+WORK EXPERIENCE
+SKILLS
+CERTIFICATIONS
+PROJECTS
+
+Rainway Group
+(2014 - 2015)
+Customer NXP Semiconductors
+Description
+Secure car access:  
+- The passive keyless entry system recognizes the driver and opens the vehicle when
+they approach. 
+- Automotive NFC products have helped reduce car theft by more than 90% 
+But i work on smaller team. 
+Team size 4
+My position Tester
+My responsibilities
+- Test new feature 
+- Report Bug 
+- Update script for test options 
+- Review code 
+Technologies used
+- Unit test: Google test 
+- System test: .NET 6, .NET Core & .NET Framework 
+- Python, batch script 
+ADDITIONAL INFORMATION
+I have been doing testing for more than three years. And now I want to experience work as a developer.
+©

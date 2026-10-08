@@ -1,0 +1,133 @@
+S K I L L S
+I N T E R E S T
+SOFTWARE ENGINEER
+AI ENGINEER
+Phạm Văn Quyết
+Cầu Giấy - Hà Nội
+Male
+EDUCATION
+EXPERIENCE
+CAREER GOALS
+Backend developer
+Python core
+Majors: Information Technology
+Main code: Attendance: Face Recognition (FD/FR),
+Object detection, Automatic number-plate
+recognition (ANPR), Chatbot.
+1. Research Machine Learning & Deep Learning about
+problem Computer Vision, Image processing, exploit the
+whitepaper to find solutions to the issues raised.
+ an approach, Build project pipeline.
+ data for the problem: Experienced in
+programming data generation tools: tool automatic
+labeling, tool create image. From there, create a
+dataset, enrich the dataset with algorithms: blur/sharp,
+rotate, skew, add noise, ...
+ model, fine-tune, evaluate accuracy, improve
+model.
+ models to project responsive other formats:
+ONNX, Pytorch, TFLite, AIC100, Yolo ...
+ inference, main processor core
+programming.
+ service to implement Computer Vision problems.
+ deployment projects on Docker.
+Completed projects: Face recognize, ANPR, Face-Anti
+Spoofing, Intrusion, forest fire detection, chatbot, .....
+- Graduated in Computer Science, gain industry knowledge.
+Looking for a professional and dynamic personal
+development environment.
+- Maximize your capacity in developing quality products. 
+- Desired jobs: Ai engineer, Computer Vison, Natural
+Language Processing, C++ Developer, Python Developer, ...
+BKAV Corp |
+BKAV Corp |
+University of Transport and Comunications
+10/2019-04/2020
+09/2016 - 06/2020
+05/2020 - 05/2023
+Read Book
+Traveling
+Cycling
+Computer Vison, NLP
+Working group
+Pytorch, TF, Paddle,
+Onnx, Yolo 
+English
+Intern
+Technology Company Bkav AI
+Work on projects:
+
+Experience accumulated during work:
+Python (Main code language) - 3 years' experience 
+C/C++ (Main code language) - 2 years' experience
+Linux (ubuntu os system): > 3 years.
+Bash Shell / Script ( ): Terminal, CMD.
+Database: MySQL, SQL Server.
+Others: HTML, CSS, Javascript, C#, Java, bash shell.
+Experience in implementing Computer Vision
+projects (Face, object detection, object tracking,
+license plate recognition, chatbot, ...).
+Using processing libraries: OpenCV, Pillow, Numpy,
+Matplotlib, Pandas, ... in image processing, data
+preprocessing, data argument,... .
+Experience working with frameworks: Tensorflow,
+Keras, Pytorch, ... in model building, training and
+product programming.
+Experience with RESTful API programming using
+frameworks: Flask, FastAPI (python), libevent (C++).
+1. Proficient in python and C++ programming languages.
+2. Proficient in Linux environment
+3. Proficient in docker usage.
+4. Proficient in using GitHub and GitLab.
+5. Standard install only the necessary environments
+when working on both python and C++: Cuda, Cudnn,
+OpenCV, Tensorrt.
+6. Experience working on Nvidia devices, encode and
+decode video on NVIDIA. Knowledge of Cuda
+programming.
+7. Understanding of object-oriented programming, multi-
+threaded programming on python and C++.
+8. Improve communication and presentation skills.
+9. Good understanding of restfull API and
+communication between backend and frontend.
+10. Understand networking and computer hardware.
+SKILLS
+Key skills and experience:
+Language and programming environment:
+
+Soft skills 
+Technology used
+Extensive work skills 
+Projects worked on Machine Learning,
+Deep Learning
+ Attendance project by face recognition (Company
+project)
+Smart Traffic Project (Company Project).
+Forest Fire Detection Project (Company Project).
+Border gate management project (Company project).
+Hospital bed management project (Company project).
+Research and build Multi Object Tracking algorithm.
+Research and convert models from Pytorch, Paddle
+platforms to Tensorrt platform to increase running
+speed.
+Chatbot (Company project)
+Use project deployment tools: Docker & Harbor.
+Commit project code: GitHub, Gitlab.
+Technologies that support dev, deployment:
+OpenVPN, POSTMAN, Filezilla, Xmind.
+Deploy API server service with Nginx.
+"Clean code" & write standard Python, C++ code
+according to the convention.
+Skilled in communication, teamwork, high concentration
+in work.
+As a perfectionist, the product should aim high in the
+project.
+Have the ability to read and understand the whitepaper
+and speak basic English.
+Computer hardware skills, installation of operating
+systems for project deployment, network
+configuration, deployment,...
+Knowledge of DepOps, writing service for Ubuntu
+Server operating system.
+Works well with Terminal, CMD, PowerShell.
+Knowledge of design patterns in building systems.

@@ -1,0 +1,173 @@
+CURRICULUM VITAE 
+Position:  
+ 
+Personal 
+information  
+Name: Nguyen Tuan Anh Date of birth: Nov 02, 1981 
+ Professional qualifications:  
+•  Phd Communications and Information technology  
+•  Master Computer Science 
+Current job  Employer:  
+Company: FUYU PRECISION COMPONENT CO., LTD. 
+Address: Lot M1 and Lot F, Quang Chau Industrial Park, Van Trung Commune, Viet Yen 
+District, Bac Giang Province, Vietnam  
+ Position:  AI Leader / Manager Years with present Employer: 3  
+ 
+Here are some key highlights: 
+Academic Foundation and Teaching Experience  
+•  Ph.D. in Communications and Information Technology 
+•  Master’s degree in computer science 
+•  Lecturer at Thai Nguyen University of Technology 
+•  Published 11 research papers in Speech Recognition and Deep Learning 
+AI and Computer Vision Project Implementation  
+•  Over 3 years as AI Leader, leading AI projects for a global smart factory.  
+•  Lots of experience in applying AI in identifying product appearance errors. 
+•  Directly code most work-related projects to ensure program stability, accuracy and streamlining. 
+•  R&D experience in fingerprint recognition, object detection, face, and voice recognition. 
+•  Implemented AI system for candidate-job matching on a professional recruitment platform. 
+•  Developed multilingual video dubbing application using STT and TTS technologies. 
+Programming Skills and Project Management  
+•  Proficient in Python, C++, Flask, and various software development tools 
+•  Experience with Git, Docker, and modern software development practices. 
+•  Led teams, assigned tasks, integrated AI projects. 
+•  System design, main coding responsibilities, project documentation 
+AI Applications for Data Analysis and Decision Support  
+•  Deployed Lean Learning Machine (LLM) system for factory log data analysis. 
+•  Created querying and recommendation systems to extract production and personnel insights. 
+•  Implemented real-time monitoring and decision support features to enhance operational 
+efficiency.
+
+PROFESSIONAL EXPERIENCE STATEMENT 
+From To Company/Project/Position/Relevant professional and management experience 
+2/2022  Date 
+Company: FUYU PRECISION COMPONENT CO., LTD. 
+- Position:  AI LEADER, Chief Technical  
+- Projects Build a global WEF smart factory 1: 
+•  Led & code AI projects for a global WEF smart factory, focusing on: 
+•  AI-enabled order forecasting and supply chain planning 
+•  Real-time shop floor compliance management with panoramic AI vision 
+•  Research and development of AI-PINN technology for enhanced quality 
+and efficiency. 
+•  LLM-enabled failure log analysis and anomaly handling 
+•  Developed AI programs integrated with factory data and automated 
+machinery, leveraging: 
+•  Data integration from factory systems 
+•  Automation machinery interfaces 
+•  Web development for comprehensive report visualization 
+- Project: AI CVs-JDs Matching System Development   
+•  Developed AI algorithms to facilitate candidate and recruiter matching within a 
+professional web recruitment platform. 
+•  Implemented advanced search and matching functionalities to optimize 
+candidate-job fit. 
+•  Enhanced system efficiency by integrating machine learning techniques for 
+improved candidate recommendations. 
+- Project: Multilingual Video Dubbing Application Development   
+•  Engineered language conversion functionalities for transforming instructional 
+videos into multilingual content. 
+•  Designed and implemented Text-to-Speech (TTS) and Speech-to-Text (STT) 
+algorithms to facilitate seamless dubbing across languages. 
+•  Ensured high-quality output through rigorous testing and optimization of 
+dubbing processes. 
+- Project: LLM Integration for Factory Data Analysis   
+•  Developed and deployed a Lean Learning Machine (LLM) application for factory 
+operations. 
+•  Created querying and recommendation systems to analyze factory log data and 
+extract insights related to production, personnel, and other relevant factors. 
+•  Implemented features for real-time monitoring and decision support, enhancing 
+overall operational efficiency and productivity. 
+- Projects : Product appearance inspection, a list of hundreds of projects 
+embedded in a software called IVIS (Intelligent Visual Inspection System), has 
+integrated inspection of up to 50 different types of products in one software. 
+Some examples about: 
+ IVIS for Visual Inspection: 
+•  Check the appearance of the final product (Check if each type of product, the 
+packaging is correct, the labeling is not deviated, there are enough labels, ...) 
+•  Check the packaging process (Check if the worker's operation is correct or not, 
+put enough components and accessories, ...) 
+ 
+1 Build a global WEF smart factory  report :
+
+From To Company/Project/Position/Relevant professional and management experience 
+•  Check bonded with the volume (Check if the weight of each product matches the 
+requirements, the weight of which MAC code, attached to which product, ...) 
+•  Check the appearance for accuracy (Check whether the product is affixed with 
+the correct type of label, components and accessories placed in the box are 
+correct for that product, ...) 
+•  Check the product function appearance (Check whether the light is working or 
+not, the indicator light is correct with the function test scenario, the indicator 
+light can be controlled, ...) 
+•  Monitor and evaluate worker capacity (Supervise working workers, assess the 
+speed of product completion, assess worker qualifications, assess the accuracy of 
+worker manipulations compared to SOP, ...) 
+•  Security monitoring of prohibited areas (Monitoring prohibited areas by camera 
+and alerting to enforcement devices) 
+•  Product quality inspection (Checking for defects in appearance and counting the 
+number of products and components while running on the line) … 
+Some KYC related projects: 
+- Fingerprint recognition via Camera (Image processing and multiple fingerprint 
+recognition through phone camera images) 
+- Voice recognition (speech classification, distinguishing between different 
+people through voice) 
+- Face recognition (regular face or wearing mask, eyeglasses) 
+Tools and managements:  
+- Material management system (material information management, material 
+ordering management, material supply) 
+- Support systems to optimize PM's data forecasting process 
+- Management systems and analysis of product log systems and product errors 
+- Lean management project to manage production origins 
+- Responsibility:   
+•  Lead team, 
+•  System design,  
+•  Project documentation,  
+•  Task assignment of members,  
+•  Main coding person,  
+•  Integration of members' small projects to form an AI bonded inspection 
+system. 
+- Techstack:  Using Python, Tkinter, Yolo to create bond recogniti on software, in 
+addition, full-stack code using Flask, … 
+9/2016  12/2019  
+Company: GRG Banking Equipment Co., Ltd. Guangzhou, China 
+- Position:  AI R&D 
+- Project:   
+•  R&D on fingerprint recognition for time attendance system  
+•  R&D on Object Detection for ATM anomaly recognition system  
+•  R&D on Object Checking for subway automatic entrance and exit tracking 
+system.
+
+From To Company/Project/Position/Relevant professional and management experience 
+- Responsibility:    
+•  Programming and data processing skills. 
+•  Research and technical problem-solving skills. 
+•  Knowledge of Computer Vision and Machine Learning. 
+•  Experience in developing object recognition and tracking systems. 
+•  Use popular libraries and frameworks like OpenCV, TensorFlow, PyTorch, 
+and Keras. 
+•  Ability to work independently and in a team, communication, and 
+presentation skills, … 
+- Techstack:    
+1.  Programming Languages : Python, C++ 
+2.  Libraries and Frameworks : OpenCV, TensorFlow, PyTorch, Keras 
+3.  Machine Learning and Computer Vision Algorithms : CNNs, RNNs, Transfer 
+Learning, Feature Extraction Techniques 
+4.  Development Tools : Jupyter Notebooks, Git, Docker 
+5.  Other Tools and Technologies : IDEs (PyCharm, VSCode, JupyterLab), Data 
+Processing Libraries (NumPy, pandas, scikit-learn), Image Annotation Tools 
+(LabelImg, VGG Image Annotator, COCO Annotator) 
+9/2016  12/2019  
+Company:  South China University of Technology, Guangzhou, China 
+- Position:  PhD. RESEARCHER     
+- Project:   
+•  PhD student in the field of Speech Recognition 
+•  Research other areas: related to Speech, Image, and Deep Learning. 
+•  Publish 11 scientific research articles 
+) 
+- Responsibility:  
+    + Research new tectnology 
+7/2005  12/2022  
+Company:  Thai Nguyen University of Technology, Vietnam  
+- Position:  University Lecturer     
+- Project:   Teaching about Computer Engineering (C/C++, C#, Python, Micro 
+controller – Micro processor, Embedded system, Machine learning – 
+Deeplearning, AI application…)  
+- Responsibility:  Teaching subjects related to hardware, software, embedded 
+software, and AI.

@@ -1,0 +1,160 @@
+DUY THỦY NGUYỄN
+IT NETWORK - SYSTEM ADMIN - SECURITY  - 14 Years of Experience
+CAREER OBJECTIVE
+- Experienced in managing and 
+building network infrastructure in 
+the retail industry. Continue to 
+accumulate more experience and 
+practice skills in the ﬁeld of system 
+admin (linux, vmware, cloud).
+- Working in a stable environment, 
+long-term attachment, personal 
+development.
+BASIC INFORMATION
+Birthday 01/11/1988
+Nationality Vietnamese
+Marital Status Single
+Gender Male
+LANGUAGES
+English Intermediate
+SKILLS
+IT Helpdesk Site Review
+WLAN VMware
+IT Administration
+Server Management
+Security Operations
+Bảo Trì Hệ Thống
+Công Nghệ Thông Tin
+Windows System Administration
+Wireless Network
+Security Information
+Information Technology
+Maintenance Window Server
+Network Administration
+Technical Support IT Security
+Information Security
+Network Protocols Security
+WORK HISTORY
+IT Supervisor
+Emart Việt Nam - THISO Retail
+10/2016 - Current (7 years 8 months)
+Network & Infrastructure:
+- Deploying & monitoring, building network system for HO/store. 
+Resolve network system issues when they occur.
+- Setup monitoring system infratrusture use tool Zabbix, 
+Prometheus, Grafana. Setup monitoring with SIEM system.
+- Performing network maintenance, security conﬁguration.  Backup 
+& setup conﬁg network device (Cisco, Fortinet , Uniﬁ, Mikrotik). Setup 
+& backup the data on the SAN storage, NAS sysnology.
+- Install & setup server windows, CenOS, Active Directory, DNS, 
+virtual machines (VMware, Hyper-V)
+- Check hardware server device and setup VoIP System.
+Security:
+- Using endpoint security (Sysmantec system), create policy on the 
+Firewall.
+Application:
+- Understand the process and use of SAP All in one system and POS 
+System.
+- Operate, troubleshoot SAP software systems and for users.
+- Operate, setup software, POS hardware & handle sales errors in 
+store.
+- Management Mail system
+Project:
+- Setup new network & infrastructure for store: Emart Sala, Emart 
+Phan Huy Ich.
+Support:
+- Decentralize data, email to users, departments. Support users with 
+other issues: setup PC/laptop, setup mail, install softwares, SAP 
+system, POS system.
+- Periodically check and maintain computer equipment, printers 
+and other equipment; proposing to buy new, upgrade computer 
+equipment for working in departments.
+- Receive and process cases for users via service desk ticket system, 
+email, zalo, skype.
+Another:
+- Report to the head of the department on the status of the system 
+in the company.
+- Management and training new IT staﬀ at the store.
+- Provide solutions to make the Company's activities more eﬃcient, 
+accurate and secure.
+- Knowledgeable in LPI1, CCNA, CEH, CCNP.
+
+Network Protocols Security
+IT System Administration
+IT Operations IT Service
+IT Infrastructure Management
+Server System Management
+Hardware Windows Server
+Infrastructure Network
+English Helpdesk
+DNS Server DHCP
+Network Infrastructure
+Network Conﬁguration Bảo Trì
+Customer Support
+Dịch Vụ Mạng
+Cyber Security Analysis
+IT Analysis Security Analysis
+Conﬁgure Server
+Xây Dựng Cấu Hình
+Báo Cáo Đánh Giá
+Lắp Ráp Phần Cứng Máy Tính
+Microsoft Windows Server 2012
+Microsoft Windows LPI Level 1
+CCNA MCSA
+CONTACT ME
++ 
+102/51 Lê Văn Thọ, Go Vap, Ho Chi 
+Minh, Vietnam
+IT Support/Helpdesk
+Thương Mại Sài Gòn - TNHH MTV - Trung Tâm Phân Phối SaTra
+07/2013 - 10/2016 (3 years 3 months)
+- Check network transmission, switchboard, LAN, VPN, deploy 
+ﬁngerprint time attendance software at the company and 
+warehouse.
+- Knowledge of Dynamic AX Microsoft software.
+- User support and authorization.
+- Data security, data backup.
+- Install device DrayTek,Fortinet.
+- Experience in installing, setting up and administering mail servers 
+(Mdaemon, Exchange, google mail).
+- Periodically maintain and check IT equipment.
+IT Staﬀ (Helpdesk)
+Việt Nhật
+04/2010 - 07/2013 (3 years 3 months)
+- Server system administration 2008 - 2012: DC server, ISA server, 
+mail server.
+- Conﬁgure Draytek devices, telephone exchange, set up the 
+network.
+- Manage oﬃce computer systems.
+- Troubleshoot hardware, software, computer networks, cameras, 
+access control, security control.
+- Knowledge of some business management software.
+- Managing the use of IT-related oﬃce equipment.
+- Organize the authorization of access to use, backup, ensure the 
+safety and security of data and data on the system.
+- Support users with problems on LAN, Internet, software, printers, 
+install software according to user requirements and other problems 
+that may occur when using computers.
+- Periodically check and maintain computer equipment, printers 
+and other equipment; Proposing to buy new, upgrade computer 
+equipment for working in departments.
+- Provide solutions to make the Company's activities more eﬃcient, 
+accurate and secure.
+- Perform other tasks assigned by the Board of Directors.
+EDUCATION
+Information Technology
+College - Đại Học Công Nghiệp TPHCM
+09/2006 - 08/2009 (2 years 11 months)
+Information Technology
+Bachelors - Đại Học Công Nghiệp TPHCM
+09/2011 - 05/2013 (1 year 8 months)
+CERTIFICATIONS
+LPI-1
+Tel4VN - 2023
+CCNA
+Athena - 2022
+
+REFERENCES
+Phạm Văn Lộc
+IT Supervisor - Thiso Retail
+ - +

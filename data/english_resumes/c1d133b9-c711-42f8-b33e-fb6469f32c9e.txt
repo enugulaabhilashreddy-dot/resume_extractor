@@ -1,0 +1,111 @@
+/
+NGUYỄN THỊ THANH THÚY
+Senior QC Engineer
+MỤC TIÊU NGHỀ NGHIỆP
+Become a professional tester
+KINH NGHIỆM LÀM VIỆC
+ - 
+Mô tả
+Thành tích đạt được
+ - 
+Mô tả
+Thành tích đạt được
+DICENTRAL COMPAN
+QC TEAM LEADER
+•    Read requirement document
+•    Write test case/check list 
+•    Testing Web, Service, API, EDI, Performance, 
+Automation test(Basic)
+•    Deploy build for testing use DevOps(Basic) 
+•    Manage to builds 
+•    Assign tasks and control tasks of members
+•    Estimation plans to test, review testcase/checklist
+•    Test Flow upload/download with protocols through 
+Core: FTP, FTPs, SFTP, AS2, cXML… 
+•    Test web site: DiConnect with addins/routing: 
+EDItoANY, ANYtoEDI… 
+•    Test from EDI and XMLto FlatFile file
+•    Setup and configure routing, flows for protocols 
+•    Run automation test and Performance test for 
+project 
+Project has been involved most recently: DiConnect, 
+Deployment, DiCatalog, DiCentral Insight
+Complete the mission be given
+VIETTEL COMPANY
+QC ENGINEER 
+•    Read requirement document
+•    Write test case/check list 
+•    Testing Web, Mobile, Service, API, Crawler News, 
+Performance, Automation test(Basic)
+•    Add new / update / delete / approve / reject news in 
+Backend display the information to the frontend
+•    Reports the number of articles, statistics royalties 
+•    On the web: Test comment, like news, pages game 
+list, Add new survey questions .
+•    Test processes royalties on Statistical Database 
+Complete the mission be given
+THÔNG TIN CÁ NHÂN
+Họ và tên:
+Giới tính: 
+Ngày sinh:
+Điện thoại:
+Địa chỉ: 
+Nguyễn Thị Thanh Thúy
+Nữ
+428/23/11 Nguyễn Bình, Ấp 1, Phú Xuân, Nhà 
+Bè, Tp. HCM
+SỞ THÍCH
+Movies, music, travel
+KỸ NĂNG
+Kỹ năng chính:
+Kỹ năng khác:
+ 
+•    Read requirement document 
+•    Write test case/check list
+•    Testing Web, App, Mobile, Service 
+•    Performance test  
+•    Good testing Website, protocols and Mobile, Service
+•    Automation test(Basic)
+•    Deploy build for testing use DevOps(Basic)
+•    Manage to builds
+•    Assign tasks and control tasks of members 
+•    Knowledge EDI and FlatFile file 
+•    Knowledge Protocols: FTP,  AS2,  SFTP,  FTPs, Core… 
+Setup and configure routing, flows for protocols 
+•   Teams work 
+HỌC VẤN
+
+ ENGLISH
+Nghe
+Nói
+Đọc
+Viết
+TIN HỌC
+Word
+Excel
+PowerPoint
+Outlook
+Phần mềm khác:  
+Database Application Development 
+•    LINQPad 
+•    SQL Server
+•    MongoDB 
+Development tool and technologies
+•  FTP Client
+•    Jmeter
+•    Postman.
+•    Azue DevOps 
+•    Soap UI 
+•    Mantis
+•    Eclipse 
+•    Visual Studio 
+ 
+ 
+ - 
+Chuyên ngành:  
+Bằng cấp:  
+Loại tốt nghiệp:  
+UNIVERSITY OF NATURAL SCIENCES
+Information Technology
+College degree
+Khá

@@ -1,0 +1,136 @@
+SƠ YẾU LÝ LỊCH 
+ 
+Thông tin cá nhân 
+Họ và tên:  Nguyễn Thị Thu Hà 
+Giới tính:  Nữ 
+Ngày sinh:  02/02/1990  
+Tình trạng hôn nhân:  Đã kết hôn 
+Quốc tịch:  Ngư ời Việt Nam  
+ 
+Thông tin liên hệ 
+Điện thoại: 
+Email: 
+Địa chỉ:  
+ 
+19/1 Tân Thới Nhất 17, P.Tân Thới Nhất, Quận 12, 
+Học vấn/Ngoại ngữ 
+ 2008 -2012 ĐH Sư phạm Kỹ thuật TP. HCM  
+Chuyên ngành Kế toán tài chính 
+Ngoại ngữ: 
+Tin học: 
+Chứng chỉ khác: 
+Kinh năng khác: 
+Chứng chỉ B Tiếng Anh 
+Chứng chỉ B 
+Chứng chỉ hoàn thành khóa học “ Software Testing Professionals” 
+Kinh nghiệm tư vấn, triển khai và hư ớng dẫn sử dụng các phần mềm 
+ERP, phần mềm kế toán, phần mềm bán hàng, Kiều hối…với  nhiều 
+khách hàng là Công ty trong nước. 
+  
+Kinh nghiệm làm việc 
+Tổng số năm kinh 
+nghiệm:  12 năm 
+2013 - Nay Công ty cổ phần tin học Lạc Việt 
+23 Nguyễn Thị Huỳnh, Phường 8, Quận Phú Nhuận, 
+ 
+Chức danh: Nhân viên tư vấn triển khai dự án phần mềm 
+SureERP. Phụ trách QA/QC . 
+ 
+* Tìm hiểu và Phân tích nghiệp vụ và viết tài liệu mô tả yêu cầu của 
+khách hàng SRS, tư vấn triển khai, hướng dẫn sử dụng các phần 
+mềm ERP, Kiều hối, phần mềm kế toán quản lý TSCĐ, phần mềm 
+quản lý bán lẻ, phần mềm quản lý kho, vật liệu và định giá sản 
+phẩm,…
+
+* Phụ trách công tác bảo trì các sản phẩm phần mềm của Lạc Việt 
+đã triển khai cho đối tác/khách hàng. 
+ 
+Tóm tắc kinh nghiệm/công việc: 
+ Tiếp nhận yêu cầu từ khách hàng , phân tích và mapp ing v ới 
+hệ thống phần mềm ERP 
+ Tư vấn giải pháp tối ưu nhất cho các vấn đề của khá ch hàn g 
+trong việc sử dụng phần mềm và quản lý doanh nghiệp 
+ Cấu hình, cài đặt, nhập dữ liệu ban đầu vào hệ thống 
+ Viết tài liệu hướng dẫn sử dụng 
+ Hướng dẫn, đào tạo người dùng cu ối sử dụng phần mềm 
+SureERP 
+ Tiếp nhận lỗi, yêu cầu của người dùng trong quá trình sử dụng 
+phần mềm để phân loại và giải quyết thích hợp 
+ Thiết kế và mô t ả các báo cáo mở rộng theo nhu cầu của 
+khách hàng 
+ Lập kế hoạch test và th ực hiện test các kịch bản sử dụng phần 
+mềm của người dùng trước khi chuyển giao cho khách hàng 
+ Làm việc với bộ phận phát triển và QC để sửa lỗi 
+ Chiếc xuất dữ liệu và làm báo cáo. 
+ Đầu mối làm việc với cá đơn vị nghiệp vụ của khách hàng. 
+ Đầu mối thảo luận nhu cầu phát triền phần mềm, mô tả nghiệp 
+vụ và thỏa thuận thời gian thực hiện với các đối tác. 
+ 
+201 2 – 201 3 Công ty THNN dịch vụ ERP FPT   
+106 Nguyễn Văn Trỗi, Phường 8, Quận Phú Nhuận, 
+ 
+Chức danh: Tư vấn triển khai phần mềm SAP ERP  
+ Xây dựng test case cho các kịch bản sử dụng của khá ch h àng các 
+phân hệ MM, AA phần mềm SAP ERP 
+ Test các báo cáo đầu ra 
+ Tiếp nhận yêu cầu của khách hàng trước và trong quá t rình s ử 
+dụng phần mềm SAP 
+ Hướng dẫn, đào tạo người dùng cuối, chuẩn bị tài li ệu hướng dẫn 
+và hỗ trợ người dùng trong quá trình sử dụng phần mềm 
+ Làm việc với Phát triển để sửa lỗi 
+ Hỗ trợ người dùng trong quá trình Golive 
+* Lý do chuyển việc:  mong muốn tìm môi trường làm việc chuyên
+
+về lĩnh vực phần mềm để có cơ hội phát triển bản thân. 
+  
+Các dự án tham gia 
+DỰ ÁN VAI TRÒ 
+Công ty TNHH MTV Kiều hối ngân hàng Sài Gòn 
+Thương Tín (Sacombank-SBR) 
+Phân tích nghiệp vụ, tư vấn triển khai phần 
+mềm quản lý kiều hối và ERP 
+Hướng dẫn sử dụng 
+Phụ trách hỗ trợ, bảo trì 
+Công ty TNHH Kiều hối ngân hàng Bắc Á  Phân tích ng hiệp vụ, tư vấn triển khai phần 
+mềm quản lý kiều hối và ERP. 
+Hướng dẫn sử dụng 
+Phụ trách hỗ trợ, bảo trì 
+Công ty cổ phần sách và dịch vụ văn hóa Long 
+An 
+Tester, hỗ trợ nghiệp vụ sau golive 
+Hướng dẫn sử dụng 
+Phụ trách hỗ trợ, bảo trì 
+Công ty cổ phần Ngo Han Tester, hỗ trợ nghiệp vụ sau golive 
+Hướng dẫn sử dụng 
+Phụ trách hỗ trợ, bảo trì 
+Công ty cổ phần tập đoàn Gia Định Tester, hỗ trợ nghi ệp vụ sau golive 
+Hướng dẫn sử dụng 
+Phụ trách hỗ trợ, bảo trì 
+Công ty cổ phần tin học Lạc Việt Tư vấn triển khai &  quản trị hệ thống ERP   
+Công ty cổ phần KCN Hiệp Phước Tester, hỗ trợ nghiệp vụ sau golive 
+Công ty ô tô Đô Thành Phân tích nghiệp vụ, tư vấn t riển khai ERP  
+Công ty TNHH bao bì United Viết Testcase.  
+Tester và làm báo cáo kết quả test 
+Tập đoàn Hoa Sen Viết Testcase.  
+Tester và làm báo cáo kết quả test 
+Công ty Đầu tư và phát triển Thiên Nam Viết Testcase.   
+Tester và làm báo cáo kết quả test
+
+Kỹ năng 
+ 
+•  Kinh nghiệm quản trị database (SQL Server, PostgreSQL, O racle), xuất dữ liệu theo yêu cầu.  
+Có kiến thức về Database, Server, Client. 
+•  Có khả năng viết câu lệnh SQL, viết thủ tục trong SQL. 
+•  Kinh nghiệm testing và quá trình phát triển phần mềm 
+•  Kinh nghiệm trong việc triển khai phần mềm và quản lý bug 
+•  Có kinh nghiệm xử lý dữ liệu bằng Excel, SQL Server, PostgreSQL 
+•  Kinh nghiệm về kế toán tài chính, ERP, quản lý Kiều hối, quản lý TSCĐ 
+•  Kỹ năng phân tích nghiệp vụ tốt. 
+•  Kinh nghiệm phân tích tài liệu đặc tả yêu cầu, hướng  dẫn sử dụng, xây dựng và viết test 
+case, báo cáo testing cho các phần mềm của Công ty đã triển khac cho khách hảng. 
+ 
+ 
+Mục Tiêu Nghề Nghiệp 
+Mức lương mong muốn:  Thương lượng 
+Loại công việc:  Toàn thời gian cố định 
+Nơi làm việc mong muốn: TP. Hồ Chí Minh

@@ -1,0 +1,119 @@
+An Tran
+I T  S O F T WA R E  E N G I N E E R
+Proﬁle
+Experienced Web Developer adept in all stages of advanced web development. 
+Knowledgeable in user interface, testing, and debugging processes. Bringing forth 
+expertise in design, installation, testing and maintenance of web systems. Equipped 
+with a diverse and promising skill-set. Proficient in an assortment of technologies, 
+including Angular 2+, (.NET Core), C#, Golang, EF, IIS, Docker, basic CI/CD 
+(jenkins, github, dockerhub), FireBase, mongoDB and Microsoft SQL Server. Able 
+to effectively self-manage during independent projects, as well as collaborate in a 
+team setting.
+Employment History
+Associate Software Engineer, A Start Up from Singapore, Ho Chi Minh City
+2 0 1 5  —  2 0 1 6
+- The main point of this project want to have an application like CRM and using it 
+via web.
+- This is first start up I have joined but it's failed. However It help me have a lot of 
+basic knowledge about the web technologies and MVC structure.
+Associate Software Engineer, CSC T echnology Viet Nam, Ho Chi Minh City
+F E B R U A R Y  2 0 1 6  —  J U N E  2 0 1 7
+- At this time, I join to Fresher program of CSC Technology Viet Nam, and after I pass 
+it I have the opportunity to take part in one of the oldest team at this company (GLS 
+Team).
+- The app is called eCTDXPress, DXC’s electronic common technical document 
+(eCTD) publishing the solution for the life sciences industry based on ICH and 
+regional agency requirements.
+- This app is using winform and I only resolve some small bug from this large project.
+Software Engineer, DXC T echnology Viet Nam, Ho Chi Minh City
+J U N E  2 0 1 7  —  M A R C H  2 0 1 8
+- After I gained for myself a lot of experience from eCTDXPress project. At this time, 
+I have a chance to learn and work with some Seniors developer in my team on many 
+tasks that require a lot of knowledge about the business code and technical code.
+- Some of them as :
+   + Read functionality requirement, user manual, technical design of the product.
+   + Implement and Decouple Clone function for eCTDXPress.
+   + Support implement validation functions working with VLM (an add-on support 
+edit/create/delete... pdf files).
+   + Fix bugs.
+Software Engineer, DXC T echnology Viet Nam, Ho Chi Minh City
+M A R C H  2 0 1 8  —  A P R I L  2 0 1 9
+- Base on requirement that modern the app eCTDEXPress. My team move all thing 
+from the winform app to web app.
+Details
+04  Trinh Dinh Thao, Hoa Thanh 
+ward, Tan Phu district
+Ho Chi Minh City, 
+Viet Nam
+N AT I O N A L I T Y
+Vietnamese
+D AT E  /  P L A C E  O F  B I R T H
+03/05/1991
+SaDec, Dong Thap
+Skills
+C# .NET
+.NET Core
+Angular 2+
+HTML/Scss
+SQL Server
+HangFire
+Nativescript
+Elasticsearch
+Kibana
+Logtash
+Docker
+Golang
+MongoDB
+Jenkins
+GitHub
+Hobbies
+Football, volleyball, badminton, 
+...
+
+- At this time, I continue gain more experience about develop the web app. I 
+learned the Angular, the Material, the .Net Core, Git, HTML, SCSS... and my main 
+responsibility is implement the new Clone for eCTDEXPress and a part of VLM on 
+web using pdftron.
+No Title, at home, Ho Chi Minh City
+M AY  2 0 1 9  —  J U LY  2 0 1 9
+- After three years working for DXC and have the carefully thinking, I decided to 
+leave DXC and find the new opportunity.
+- Two months at home, beside the rest, I help my friends do some small winform 
+app and web to keep update my knowledge.
+- Some of them as :
+   + An web : 
+   + An Winform application to manage people information.
+Mid-Senior Developer, REFASO, Ho Chi Minh City
+J U LY  2 0 1 9  —  J U LY  2 0 2 0
+- At a new company. I join to the FARETA team that developing the web app base 
+on a part of ERP ( RETAIL/POS ).
+- It is using microservices architecture, angular , .Net core, SQL Server that help me 
+continue gain more experience.
+- Beside that, I also learn new technologies for myself such as: 
+   + ELK basic.
+   + 
+   + Jira: write a script to build and deploy to iis.
+   + NativeScript ( ) use for mobile developer.
+Mid-Senior Developer, Refaso, Ho Chi Minh City
+A U G U S T  2 0 2 0  —  P R E S E N T
+- At this time, I do another project that called "Sale Man" and many projects related. 
+The project aim to make our staff can make the order by their phone. Login with 
+username/pass or phone/otp, choose customer, choose the product they want, 
+make the draft bill and send back to main office.
+- Technical Using :  Angular 10, Golang, MongoDB, SQL Server, Docker, CI/CD with 
+GitHub, docker-hub and Jenkins.
+- Projects related this Project:
+  + One project using Golang to integrate with Firebase SDK to manage user ( 
+create/edit/delete/disable ), generate custom Token, revoke Token...
+  + Some Projects using Golang as API, security with Bearer Token.
+  + UI Project using Angular 10, Material.
+Education
+Bachelors IT, University of Science, Ho Chi Minh City
+S E P T E M B E R  2 0 1 4  —  A P R I L  2 0 1 9
+TOEIC Certificate with score 685 issued by IIG VietNam
+2 0 1 8
+Languages
+English
+
+Courses
+S E P T E M B E R  2 0 2 0  —  S E P T E M B E R  2 0 2 0

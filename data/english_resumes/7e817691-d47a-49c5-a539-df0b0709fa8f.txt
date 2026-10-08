@@ -1,0 +1,130 @@
+Nguyen Minh Duc
+ Full Stack Developer  
+Dich Vong Hau, Cau Giay, Ha Noi 
+ 
+ 
+ 
+                      
+SUMMARY 
+I'm Nguyen Minh Duc, a full-stack developer with 2 years of experience in mobile 
+application technologies and 6 months of experience in building web applications, with good 
+knowledge of GetX, Plugin, camera detection, Database Design, and Design. 
+Learning new languages and technologies is what I am passionate about. Besides, I tend 
+to work well within groups because I like to help others. 
+TECHNICAL SKILLS 
+Programming Languages Dart, Java, Kotlin, JavaScript, HTML, CSS, C++, Swift  
+Frameworks/ Platforms Flutter, Android, React, Angular, Spring Boot, JSON, 
+IOS  
+Database Management Systems SQLite, Firebase, MySQL, MariaDB 
+Tool Android Studio, IntelliJ, Visual Studio, XCode, Postman, 
+VMW 
+Version Control GitHub, Gitlab, Trello, You Track 
+Foreign Languages TOEIC: 480/990 
+Soft Skills: Time management, Teamwork 
+ 
+ PROFESSIONAL EXPERIENCE  
+CMC-CIST  
+1. Read NFC on mobile devices, Flutter Developer Project 
+  Project Description: Build SDK, and NFC reader plugin to integrate into customer 
+applications. 
+  Team Size: 3  
+  Responsibilities: Build NFC plugin: reads MRZ and QR codes with the camera and reads 
+NFC of chip ID card.  
+  Accomplishments: Using CameraX, write a document describing how to use the plugin, and 
+read NFC on a chip ID card.
+
+Technologies: Java, Dart, Kotlin, CameraX, ML Kit Google 
+ 
+2. eKYC application, Flutter Developer Project 
+  Project Description: Building eKYC application including face recognition, taking ID card 
+photos, NFC reading 
+  Team Size: 4 
+  Responsibilities: Build eKYC application, build functions face recognition, face angle, taking 
+ID card photo by frame in a camera plugin. 
+  Accomplishments: Face recognition by ML kit Google, data transmission via API, eKYC, 
+GetX. 
+  Technologies: Kotlin, Dart, CameraX, ML Kit Google, Postman, GetX. 
+ 
+3. Remote Signing, Full stack Developer Project, 7/2021 – 9/2021 
+  Project Description: Build a remote digital signing system, users can use mobile application 
+or web application to digitally sign. 
+  Team Size: 5 
+  Responsibilities: Build module RA (manage users and certificates) and module CA (create 
+certificates) using EJBCA. 
+  Accomplishments: Distribute certificate by  EJBCA on CentOS 8, build server using Spring 
+boot, build client using Vuexy-7.1.2 (Angular), read the information in the certificate (front-
+end). 
+  Technologies: Spring boot, Angular, MariaDB, VMW, EJBCA 
+ 
+4. Timekeeping system for Vinmec, Full stack 
+Developer Project, 12/2021 – 6/2022 
+  Project Description: Building a timekeeping system for employees and patients of Vinmec 
+hospital. Use facial recognition for timekeeping and management systems on web applications 
+and mobile applications. 
+  Team Size: 5 
+  Responsibilities:   
+- CIVAMS Face Employee application: Display the timekeeping schedule, edit user 
+information, take 6 images of the user's face, and create timekeeping notifications using 
+Firebase. 
+- CIVAMS Face Admin application: Displays management information of all users, taking 6 
+face images. 
+- Data transfer between mobile device and timekeeping device: Build data transfer application 
+between Android with iOS and Android with Android using Bluetooth Class, LE, Dual. 
+- Web application to manage timekeeping devices and users: Display information and control 
+timekeeping devices in real-time, manage user information and take 6 photos of 6 face corners 
+using Media Pipe Face Mesh . 
+  Accomplishments: Create notifications using Firebase, distribute applications on Play Store, 
+Bluetooth technology, and facial recognition on web application and mobile application. 
+  Technologies: Kotlin, Swift, Dart, Angular, WebSocket, Bluetooth, ML kit, Media Pipe Face 
+Mesh, GetX, Firebase. 
+ 
+5. Base Project, Flutter Developer Project, 7/2022 – 8/2022
+
+Project Description: Build an application with UI/UX with basic functions for the next 
+projects. 
+  Team Size: 1 
+  Responsibilities: Application design: Welcome, Login, Register, Edit, Search, Profile, 
+Setting. And create base project by Mason. 
+Accomplishments: Using Mason, designing UI/UX and creating virtual server from MocKoon.  
+  Technologies: Mason, GetWidget, GetX, Firebase. 
+ 
+6. OCR system, ReactJS Developer Project, 8/2022 – 11/2022 
+  Project Description: Building a system to retrieve information from documents such as ID 
+cards, invoices, driver's licenses, etc. on mobile applications and web applications. 
+  Team Size: 5 
+  Responsibilities: Building a web application (front-end) that displays and allow editing 
+information about documents including ID card, vat, and tables with OCR. 
+  Accomplishments: Render OCR on images, build excel table based on BaseTable v1.13.0 on 
+the web application. 
+  Technologies: ReactJS, BaseTable v1.13.0, Syncfusion. 
+ 
+PET PROJECTS 
+In my free time, I work on some pet projects:  
+ Amitabha Buddha (v1.0.0): An application that supports Buddhists to recite Buddha's 
+name. It is available on Play store (Flutter).  
+ I learn about financial markets and related technologies like blockchain 
+EDUCATION 
+Posts and Telecommunications Institute of Technology 
+Information Technology -  Security 
+Degree grade: Credit– GPA 2.93/4 
+From 09/2016 to 03/2021 
+ 
+WORK PROGRESS  
+1. Fresher Academy, FPT Software 
+1.5-month Android Fresher Programing.   
+From 08/2020 to 09/2020  
+Linux Kernel, Libraries, Android Runtime, Application 
+Framework, Applications 
+ 
+ 
+2. Interns, Mitas Viet Nam Technologies JSC 
+3-month Information Security Interns 
+From 10/2020 to 01/2021  
+Research about Spirent Software, contractor for the military.  
+ 
+ 
+3. Full Stack Developer, CMC Technology Institute 
+(CMC-CIST) 
+From 03/2021 to 11/2022  
+Research and build mobile applications, web applications, 
+and servers for the projects.

@@ -1,0 +1,81 @@
+Phan Tú
+Frontend Developer
+30/04/1995
+205 Lê Văn Sỹ, P13, Q. Phú Nhuận
+HỌC VẤN
+09/2014 - 03/2017
+Đại học Tài chính Marketing - Hệ CĐ 
+Chuyên ngành: Hệ thống thông tin 
+quản lý
+MỤC TIÊU NGHỀ NGHIỆP
+- Tuổi trẻ là không ngừng phấn đấu, 
+học hỏi và phát triển bản thân. Với 
+mong muốn đem những tri thức, 
+kinh nghiệm của bản thân phục vụ
+cho lợi ích của các tổ chức, doanh 
+nghiệp. Trở thành một nhân viên lập 
+trình website không chỉ vững về kiến 
+thức mà mạnh cả về kỹ năng.
+- Xây dựng được những website chất 
+lượng, đảm bảo được các mục tiêu 
+mà doanh nghiệp, tổ chức đề ra.
+- Hướng đến vị trí Full Stack 
+Developer and Project Manager.
+KINH NGHIỆM LÀM VIỆC
+CÔNG TY TNHH PHÁT TRIỂN ỨNG DỤNG CNTT VIỆT
+Trưởng nh ó m thực tập Marketing - S EO | 02/2017 - 03/2017
+- Đ ảm nhận S EO  từ kh ó a ph ầ n mềm quản lý nhân sự online 
+cho website của công ty.
+- H ỗ  trợ một số nội dung cho website công ty trước khi cập 
+nhật lên hệ thốn g
+- Link tham khảo 
+CÔNG TY TNHH A RC A  VIỆT N A M
+Frontend Developer | 04/2017 - 09/2020
+- Xây dựng và bảo trì W ebsite cho khách hàng Nhật B ản.
+- Tham gia Test W eb trên đa trình duyệt, đa màn hình.   
+- Test A dmin B ackend .
+
+- Các dự án đ ã  thực hiện 
+CÔNG TY TNHH  MTV C A ILY 
+Frontend Developer | 09/2020 - Hiện tại
+- Lập trình viên Frontend 
+
++  Dựa trên f ile design ( Photoshop, XD, Figma ) , tài liệu đ ặ c tả 
+để x ây dựng web cho khách hàng Nhật B ản. 
+
++  Tạo website HTML/CSS với độ chính x ác tuyệt đối ( a pi x el-
+per f ect ) . Đ ảm bảo website responsive và đúng chu ẩ n S EO . 
+
+
+- Quản lý dự án: 
+
++  Phân chia công việc và phối hợp với các thành viên trong 
+nh ó m để đảm bảo r ằ ng dự án được thực hiện theo đúng các 
+yêu c ầ u, th ờ i hạn và lịch trình đề ra. 
+
++  Xác định và giải quyết các vấn đề phát sinh. 
+
++  Test site tuân thủ theo Checksheet quy định của công ty. 
+
++  Quản lý Source G it và Host Server. 
+
++  Lập báo cáo tiến độ dự án theo từng ngày. 
+
++  X ử  lý kịp th ờ i các thay đổi về kỹ thuật, th ờ i gian hoàn thành. 
+
++  Xây dựng quy trình hướng d ẫ n, các tài liệu c ầ n thiết cho dự 
+án. 
+
++  Đ àm phán với quản lý những giai đoạn, các mốc th ờ i gian 
+ho ặ c chủ động đề x uất khoản th ờ i gian để hoàn thành các 
+task công việc. 
+
++  Đ ánh giá dự án và x ác định điểm mạnh, điểm yếu của các 
+thành viên sau m ỗ i dự án hoàn thành. 
+
+
+- Phát triển ứng dụng trên nền tảng PHP, Laravel, W ordpress. 
+
+
+
+- Các dự án đ ã  thực hiện:

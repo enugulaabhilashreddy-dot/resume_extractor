@@ -1,0 +1,39 @@
+QUANG HUY CHU
+(+81)7043849325
+TECHNICAL EXPERIENCE
+Data Engineer 4/2021 - Present
+FPT Japan Software Osaka, Japan
+ Working in a on-site team directly with B2B customer to build, deploy and maintain data pipelines of an
+Analysis/ Reporting dashboard service for multiple businesses such as Railway, Building, Hotel, and
+Convenience store,...
+ Mainly working with Python 3, PrestoSQL, combine with other platforms:
+ Amazon Web Services (AWS): Lambda, ECS, S3, RDS, Glue, Athena,..
+ Tableau for data visualization, reporting.
+EDUCATION
+Master of Engineering in Electrical, Electronics and Communications 04/2019 - 03/2021
+Nagaoka University of Technology Niigata, Japan
+Bachelor of Engineering in Electrical, Electronics and Communications 09/2014 - 03/2019
+Nagaoka University of Technology (04/2017 - 03/2019) Niigata, Japan
+Ho Chi Minh University of Technology (09/2014 - 03/2017) Ho Chi Minh City, Vietnam
+SKILLS AND LANGUAGES
+Programming Languages Python (4 years), SQL (2 years), R, HTML/CSS
+Technologies: AWS, Spark, Airflow, BI Tools (Tableau, Power BI), Python Web
+framework (Django, Flask), Database (PostgresSQL, MySQL, Cassandra,
+MongoDB)
+Languages: English, Japanese, Vietnamese
+CERTIFICATIONS
+Udacity Nanodegree Program Data Engineering 04/2022 - Present
+Issued by Udacity
+IBM Data Science Professional Certificate 01/2022 - Present
+Issued by Coursera
+Google Data Analytics Specialization 12/2021 - Present
+Issued by Coursera
+ACTIVITIES
+Member of BETOAJI (ベト味) 2017-2019
+BETOAJI a ritten as
+Hương Vị Việ people,
+and country t r social
+activities for economically disadvantaged children in Vietnam.
+Member of VYSA (Vietnamese Youth and Student Association in Japan) 2017-2019
+VYSA is a non-profit social organization, the only organization representing Vietnamese youth and
+students in Japan recognized by the Vietnamese Embassy in Japan.

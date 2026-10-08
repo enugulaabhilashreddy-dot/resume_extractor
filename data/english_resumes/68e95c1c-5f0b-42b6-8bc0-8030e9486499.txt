@@ -1,0 +1,89 @@
+BÀN HỮU QUỲNH  
+Senior Developer
+ Feb 03, 1997
+ Male
+
+
+ Thuan Giao , Thuan An , Binh
+Duong, Vietnam
+ Zalo: 
+INTERESTS
+Soccer Music Camping
+OBJECTIVE
+- Work in a professional environment and have the opportunity to advance in your careerEnjoy
+beneﬁts according to labor lawAccumulate more work experience effectively and quickly. 
+- Apply the experience of programming skills and understanding to become a professional
+programmer,bring more value to customers. Thereby helping the Company increase the number
+of customers and expand the customer base. 
+- Looking forward to becoming a Leader in the next 2 years
+SEP 2015 - OCT 2019
+EDUCATION
+BINH DUONG ECONOMIC & TECHNOLOGY UNIVERSITY  |  Major: Information Technology
+GPA: 3.12/4
+NOV 2019 - PRESENT
+JUN 2019 - AUG 2019
+WORK EXPERIENCE
+COMPANY TNHH SHYANG HUNG CHENG  |  Software engineer
+Project: 
++ DMR: Digital Mixing Room System (team work) 
++ LabTeam(Landing Page) 
++ Sussgestion Box System 
++ KPI System 
++ Ink Room System 
++ Ly-Booking 
++ RPM IOT Of Mixing Room System 
++ SHC Super Market System 
++ Yeelong Rubber System 
++ Chiyu System 
++ Computer Vision : Count Box System 
+ 
+Techonogy: 
++ Database (SQL Server) 
++ Front end : Angular 11 , Syncfusion(library angular), Chart js, ... 
++ Back end: Net core API 3+, MVC, python(basic) 
+ 
+COMPANY THAKI  |  Fresher PHP
+Project: 
++ Shop Bakery (Laravel) 
++ News (PHP) 
+ 
+Techonogy: My SQL , Laravel , PHP , 
+ 
+SKILLS
+
+1. Web Designer  
+ - HTML + HTML5 
+ - Bootstrap Framework 3.0, 4.0 
+ - Jquery 
+ 
+ 2. Database 
+ - Microsoft SQL Server: Design database, store procedure... 
+ - SQL Lite basic 
+ - Mongodb basic 
+ - Oracle basic 
+ 
+ 3. Front End 
+ - Angular 9+: module, routing, component, service, guard, directive, custom pipe , multi
+language , dynamically menu sidebar ... 
+ - Basic Vuejs version 2 
+ - Library : Syncfusion , DevExtreme 
+ 
+ 4. Back End 
+ - .Net core API 3+ 
+- NET MVC 
+- Python(basic) 
+ - MQTT 
+ - Node js basic 
+ - Scaling machine service 
+ - Auto Mapper, Dependency Injection, LinQ, real time , export - import Excel,.... 
+ - Auto send mail 
+ - Dapper basic 
+ - Design Pattern 
+ - Quartz schedule 
+ - Entity framework, entity framework core
+Tran Phuong Thanh 
+Leader 
+ 
+Mobile:  
+REFERENCES
+©

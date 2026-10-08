@@ -1,0 +1,431 @@
+1 | Page  
+  
+CURRICULUM VITAE 
+Nguyen Ngoc Dang 
+   
+ 
+ 
+ 
+PERSONAL DETAILS 
+Name    Nguyen Ngoc Dang  Address      
+Date of birth    17/02/1983  Telephone  
+Gender    Male  Email      
+Nationality  Vietnam Time working in IT  17 years  
+Marital status  Marriage  Current Position  PHP Developer  
+  
+EDUCATION 
+Period  Institution, specialization  Specialty  Degree  
+2011-2013  Hanoi University of Science and Technology  Master  Good  
+2002-2007   Hanoi Water Resource University  Information Technology   Good   
+1998-2001   Van Lam High School, Hung Yen  Math  Good   
+   
+PRACTICAL EXPERIENCE 
+Computer Skills   
+Technical skills  Years of experiences  Last used  
+Operating Systems  
+Windows  
+Centos Linux 
+  
+17 years  
+11 years  
+  
+Now  
+Now  
+Programming Languages   
+PHP (osCommerce, Joomla, Symfony,  
+PEAR, Phalcon, Slim, Laravel…)   
+JavaScript (jQuery, Prototype, NodeJs, Ext)   
+HTML/DHTML/CSS  
+C#, ,   
+Linux Bash Shell  
+  
+17 years  
+  
+17 years  
+17 years  
+3 years  
+10 years 
+  
+Now  
+  
+Now  
+Now  
+2008  
+Now
+
+2 | Page  
+  
+IDE/API/Programming tools  
+Editplus 3  
+PhpStorm  
+Zend Studio  
+Eclipse PDT  
+Visual Studio .Net 2003  
+Visual Studio .Net 2005  
+Visual Basic 6.0  
+Visual C++ 6.0  
+Dreamweaver 8   
+  
+17 years  
+14 years  
+years  
+years  
+3 years  
+2 years  
+1 year  
+1 year  
+1 year  
+  
+Now  
+Now  
+2009  
+2009  
+2010  
+2007  
+2007  
+2007  
+2007  
+Analysis & Design tools  
+Microsoft Visio  
+  
+9 years  
+  
+Now  
+Database   
+My SQL  
+Microsoft SQL Server 2005  
+MongoDB  
+Mariadb 
+  
+17 years  
+9 years  
+8 years 
+5 years  
+  
+Now  
+2015 
+Now  
+Now 
+Application Server  
+Apache 2  
+Nginx  
+MS IIS   
+ActiveMQ 5.0  
+  
+17 years  
+5 year  
+4 years  
+1 year  
+  
+Now  
+Now  
+2009  
+2009  
+CM tools  
+Git  
+SubVersion 
+  
+10 year  
+6 years  
+  
+Now  
+Now
+
+3 | Page  
+  
+EMPLOYMENT HISTORY 
+30/11/2006 - 20/04/2007  BigWall  
+ Hanoi, Vietnam  
+25/4/2007- 30/02/2011  SIC Joint Stock Company   
+PHP Developer  Hanoi, Vietnam  
+01/03/2011- 30/12/2015  Minh Châu Corp  
+Technical Manager  Hanoi, Vietnam  
+01/12/2015 – 1/5/2017  
+SUN VN MEDIA TRADING AND  
+SERVICE JOINT STOCK COMPANY  
+Technical Manager  
+Hanoi, Vietnam  
+06/06/2017-12/01/2020 
+VNS Joint Stock Company 
+Technical Manager Hanoi, Vietnam 
+01/02/2020 - nay MOBI-GAME TECHNOLOGY JOINT STOCK COMPANY  
+Technical Manager Hanoi, Vietnam 
+ 
+POJECT DETAILS 
+APG SHOP Centralized sales management 04/2023 – Now 
+Company  MOBI-GAME TECHNOLOGY JOINT STOCK COMPANY 
+Project  
+Description  
+Sales management and business administration system 
+Sales manager retrieves data from Amazon, Sales website from the system  
+Revenue management 
+Customer management 
+Loyalty  
+Business KPIs 
+Take time off, come in late and leave early 
+Tasks and Assign work 
+…..  
+Role  Leader, PHP Developer, Setup Server 
+Team  2 Server Developers and 1 client developer 
+Environment  Linux, Apache 2 
+  
+Technology  
+Mysql 
+Mariadb 
+Redis  
+Laravel  
+IDE: EditPlus, PhpStorm, Bitvise SSH 
+Customer  My company  
+ 
+Credit Data Of Viettel 02/2022 – 06/2023 
+Company  MOBI-GAME TECHNOLOGY JOINT STOCK COMPANY
+
+4 | Page  
+  
+Project  
+Description  
+Setup Server 
+Get subscription information from CDR file 
+Please apply when you receive the CDR out of data 
+Applicable to subscribers if the subscriber is eligible 
+Refund to subscribers 
+…..  
+Role  PHP Developer, Setup Server 
+Team  1 Developer 
+Environment  Linux, Apache 2 
+  
+Technology  
+MongoDB  
+Mariadb  
+Redis  
+Laravel  
+IDE: EditPlus, PhpStorm, Bitvise SSH 
+Customer  My company  
+ 
+Game Release Online 02/2020 – 06/2023 
+Company  MOBI-GAME TECHNOLOGY JOINT STOCK COMPANY 
+Project  
+Description  
+Setup game server  
+Payment 
+Connect SDK (register, login, payment) 
+Upload the game to the store (Google Play, App Store) 
+…..  
+Role  Leader, PHP Developer 
+Team  3 Developers and 1 template design 
+Environment  Linux, Apache 2, nginx  
+  
+Technology  
+MongoDB  
+Mysql  
+Redis  
+Laravel  
+jQuery  
+IDE: Zend Studio, EditPlus, PhpStorm, Bitvise SSH 
+Customer  My company
+
+5 | Page  
+  
+Game portal, Game news, Read stories 02/2020 – 06/2021 
+Company  MOBI-GAME TECHNOLOGY JOINT STOCK COMPANY 
+Project  
+Description  
+Platform: Web 
+Stories (Compiled from other sources and posted yourself) 
+Game News 
+Mini Game 
+Send notification 
+Wall (User posted) 
+Mission 
+Payment 
+Events, exchange points 
+…..  
+Role  
+Leader,  
+Design analysis system,  
+PHP Developer,  
+Database design, Coding API (PHP restful)  
+Team  2 developers, 1 template design, 2 content  
+Environment  Linux, Apache 2, nginx  
+  
+Technology  
+MongoDB  
+Mysql  
+Redis  
+Laravel  
+jQuery  
+PWA (PROGRESSIVE WEB APPS) 
+Firebase Messaging 
+IDE: Zend Studio, EditPlus, PhpStorm  
+Customer  My company  
+ 
+Sổ liên lạc điện tử  06/2017 – 01/2020 
+Company  VNS JOINT STOCK COMPANY 
+Project  
+Description  
+Platform: Web, App mobile (Android & IOS) 
+Student management 
+Teacher management
+
+6 | Page  
+  
+Point management 
+Lesson management 
+Automatic attendance (Camera AI)  
+Send notification 
+Chat private, group 
+Upload the app to the store  
+…..  
+Role  
+Leader,  
+Design analysis system,  
+PHP Developer,  
+Database design, Coding API (PHP restful)  
+Team  4 developers, 1 template design, 1 content  
+Environment  Linux, Apache 2, nginx  
+  
+Technology  
+MongoDB  
+Mysql  
+Redis  
+Laravel  
+jQuery  
+IDE: Zend Studio, EditPlus, PhpStorm  
+Customer  My company  
+ 
+App Mobile MeBe  12/2015 – 05/2017 
+Company  SUN VN MEDIA TRADING AND SERVICE JOINT STOCK COMPANY  
+Project  
+Description  
+This is a app for mobile (Android & IOS)  
+Prompt vaccination schedule  
+Online counseling  
+Managing Users  
+Auto send Mail, SMS and Notification to Users  
+Managing content  
+…..  
+Role  
+Leader,  
+Design analysis system,  
+PHP Developer,
+
+7 | Page  
+  
+Database design, Coding API (PHP restful)  
+Team  4 developers, 1 template design, 2 content  
+Environment  Linux, Apache 2, nginx  
+  
+Technology  
+MongoDB  
+Mysql  
+Redis  
+Phalcon  
+Laravel  
+jQuery  
+IDE: Zend Studio, EditPlus, PhpStorm  
+Customer  My company  
+  
+Payment for Games   11/2012 – 12/2015  
+Company  Minh Chau Corp  
+Project  
+Description  
+ This is a system payment  
+Scratch Cards (Game card and Telco Card)  
+Managing Card  
+SMS  
+Recharge API   
+In-App Purchases for IOS and Android  
+…..  
+ 
+Role  
+Leader,  
+PHP Developer  
+Database design, Coding (PHP and HTML, CSS)  
+ 
+Team  3 developers and 1 template design    
+Environment  Linux, Apache 2   
+  
+Technology  
+Web Service  
+MongoDB  
+Restful  
+jQuery  
+IDE: Zend Studio, EditPlus, PhpStorm  
+ 
+Customer  My Company
+
+8 | Page  
+  
+Release Game Mobile Online  11/2011 – 12/2015 
+Company  Minh Chau Corp  
+Games  
+Minh Chau Tam Quoc  
+Minh Chu Vo Lam  
+Tru Than  
+Van Kiem  
+Vo Lam 3  
+Ve Than  
+Tien Hiep  
+12Guns  
+Tao Thao Truyen  
+Lien Minh Huyen Bi  
+Bat Bai  
+Than Ma  
+Ba Tam Quoc  
+Project  
+Description  
+This is tech for games  
+Security system for gamer  
+API for games  
+Statistic for partner  
+Statistic for GM  
+Setup games server  
+Channeling  
+SDK  
+ID login  
+Payment for games  
+Upload games to Google Play and Apple Store  
+Role  
+Leader,  
+PHP Developer,  
+Database design,   
+Coding (PHP and HTML, CSS)  
+Team  3 developers and 1 template design   
+Environment  Linux, Mysql, Apache 2
+
+9 | Page  
+  
+  
+Technology  
+Slim Framework   
+Redis  
+Phalcon  
+jQuery  
+Restful  
+IDE: Zend Studio, EditPlus  
+Customer  My Company  
+   
+  04/2007- 05/2008 
+Company  SIC Joint Stock Company   
+Project  
+Description  
+This is a web application with PHP and Mysql  
+Prompt vaccination schedule  
+Online counseling  
+Managing users  
+Auto send mail to User  
+Gallery  
+Online Storytelling 
+ 
+Role  Developer (Database design, Coding)   
+Team  4 developers, 1 tester, 2 content   
+Environment  Ubuntu, Apache   
+  
+Technology  
+Joomla CMS version 1.5  
+Mysql  
+PHP  
+Ajax, Mootools, JSON  
+IDE: Zend Studio, EditPlus  
+ 
+Customer  My Conpany

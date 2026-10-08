@@ -1,0 +1,75 @@
+PHẠM XÔ LA
+IT Developer
+ 
+ Chung cư CT L, đ ường F, P. T ân T hới Nhất , Quận 12, Hồ Chí Minh, Việt  Nam
+Giới tính : Nam
+Ngày sinh : 25/02/1985
+Tình trạng hôn nhân : Đã kết hôn
+Quốc tịch : Người Việt Nam
+Quốc gia : Việt Nam
+Địa chỉ : Chung cư CTL, đường F, P. Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam
+Cấp bậc : Nhân viên
+Mức lương : Thỏa thuận
+Hình thức công việc : Nhân viên chính thức, Bán thời gian, Thời vụ - Nghề tự do
+Ngành nghề : CNTT - Phần mềm
+Nơi làm việc : Hồ Chí Minh
+Phát triển nghề nghiệp bản thân và ổn định cuộc sống
+Luôn cố gắng hoàn thành tốt công việc được giao với kết quả tốt nhất.
+Luôn cố gắng vượt qua mọi khó khăn, áp lực để thích ứng nhanh với công việc và môi trường làm việc.
+4/2018 - 09/2023 : Chuyên viên cao cấp phát triển ứng dụng - Công Ty Cổ Phần Xây Dựng Số 1 - Cofico - Nhân viên chính
+thức
++Quản lý database SQL Server 
++Phát triển ứng dụng, báo cáo trên nền tảng MVC,  web bao gồm các ứng dụng sau: Báo cáo Eoffice, quản lý
+bản quyền của các ứng dụng, báo cáo Elogistic, quản lý đơn đặt hàng vật tư xây dựng, quản lý thông tin hợp đồng, quản
+lý hồ sơ bảo lãnh, gửi mail nhắc nhở những hồ sơ sắp hết hạn, chấm công online, chấm công tính lương, quản lý ngân
+sách dự án, đề nghị thanh toán, đàm phán tập thể, quản lý tài liệu, quản lý phòng họp ... 
++ Quản lý hệ thống Eoffice, Esafety, Msafety, Elogistic 
++ Project manager cho các ứng dụng outsource. 
++ Phát triển ứng dụng đồng bộ dữ liệu từ sharepoint list sang database SQL server.
+1/2017 - 4/2018 : Chuyên viên phát triển phần mềm - Công ty cổ phần thực phẩm Á Châu - Nhân viên chính thức
+- Lập trình hỗ trợ theo kế hoạch của Trưởng nhóm Điều hành phần mềm và điều hành phần mềm về WEB,  C#,
+, Lotus Notes scripts, SQL, Oracle … 
+- Hỗ trợ và triển khai những chương trình nội bộ do IT làm ra phục vụ cho quản lý và user. 
+- Viết chương trình Quản Lý Trạm Cân (Cân xe điện tử), tool định vị NPP, định vị điểm bán ...
+THÔNG TIN CÁ NHÂN
+THÔNG TIN NGHỀ NGHIỆP
+MỤC TIÊU NGHỀ NGHIỆP
+KINH NGHIỆM LÀM VIỆC
+Số năm kinh nghiệm: 13
+Cấp bậc hiện tại: Nhân viên
+
+11/2016 - 1/2017 : Lập trình viên (Support ) - Công ty Hệ thống thông tin FPT (FPT Information System –
+FPT IS)
+- Hỗ trợ khách hàng sử dụng, sửa lỗi chương trình và các báo cáo của phần mềm eHospital (C#, SQL)
+7/2013 - 11/2016 : IT software - TNHH Dược Phẩm AAA - Nhân viên chính thức
+-Quản lý database ERP trên oracle và SQL server, viết các chương trình hổ trợ cho quản lý và user sử dụng bằng WEB,
+ C#, , tạo các report mới theo yêu cầu bằng IBM Cognos transformer, Pentaho Reporting và fix lỗi cho
+những phần mềm chuyên dụng, viết chương trình Quản Lý Nhân Sự cho công ty.
+10/2009 - 7/2013 : Nhân viên - TNHH Giải Pháp Việt (VSOL)
+Lập trình ứng dụng ERP, HRM trên nền tảng VB với cơ sở dữ liệu SQL. Cài đặt phần mềm, sửa chữa lỗi. Kiểm tra chương
+trình đang hoạt động
+Tốt nghiệp 9-2013
+Đ ại học - Đ ại Học Công Nghệ
+Học liên thông ĐH CNTT của trường Hutech năm 2010.
+Tốt nghiệp 6-2006
+Trung cấp - Trường Cao Đ ẳng Kỹ Thuật Cao Thắng
+Viết web app chấm công online: sử dụng bản đồ định toạ độ và chụp hình để chấm công. Ứng dụng web app quản lý tài
+liệu theo phiên bản và xem tài liệu online trên trình duyệt.
+Cong cụ hỗ trợ xuất báo cáo excel theo các mẫu template được định dạng trên web app để việc lập các báo cáo được
+nhanh chống.
+ /
+TP Phát Triển Ứng Dụng
+Công Ty Cổ Phần Xây Dựng Số 1 - Cofico
+HỌC VẤN
+Bằng cấp cao nhất : Đại học
+THÀNH TÍCH NỔI BẬT
+THÔNG TIN THAM KHẢO
+Nguyễ n Mạ nh T uâ n
+Có khả năng làm việc độc lập và theo nhóm.
+Có khả năng giải quyết vấn đề.
+Có kinh nghiệm làm việc với các cơ sở dữ liệu SQL...
+, C#, Java Script, HTML, CSS
+Có khả năng học hỏi và thích nghi nhanh.
+KỸ NĂNG
+
+©  Care e rBuild e

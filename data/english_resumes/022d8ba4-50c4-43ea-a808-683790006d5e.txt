@@ -1,0 +1,142 @@
+EDUCATION
+Zhejiang University of Technology | Zhejiang, China
+Bachelor of Psychology with Behavioral Science
+2017 - 2019
+The University of Science | Ho Chi Minh City
+Bachelor of Information Technology
+2009 - 2013
+University Of Economics | Ho Chi Minh City
+Bachelor of Business Administration
+2010 - 2013
+The University of Science | Ho Chi Minh City
+Master of Data Science
+2014 - 2015
+Research & Analytical
+Creativity
+Planning & Time management
+Programming
+Project & Resource Management
+Risk, Change & Quality Management
+Leadership, Communication & Teamwork
+Reporting and Evaluation
+SKILLS
+JOB & EXPERIENCE
+Team Leader
+RiverCrane Vietnam | Ho Chi Minh, Vietnam
+At RiverCrane Vietnam, I was involved in and managed software projects for our value Customer 
+in Japan, where I was responsible for planning, development, and quality control of the projects. 
+I also oversaw the operation and coordination of the development team, controlled project 
+risks, and implemented infrastructure construction and deployment requirements. Additionally, 
+leveraging my experience, I implemented techniques to mitigate risks and optimize databases.
+Analyzing requirements, planning, and identifying project resources.
+Designing development documents and user guide documents.
+Developing features and ensuring product quality with Laravel Framework.
+Operating the team and managing risks.
+2022 - 2024
+Head of IT Department
+Department of Information and Communications Technology | Gia Lai, Vietnam
+I have been involved in the process of building and developing Information Technology applica-
+tions as per the requirements of the People's Committee of Gia Lai Province. Organizing, 
+researching, and implementing plans, strategies for human resource training, developing 
+technology applications in administrative management, and being responsible for information 
+security in Gia Lai province.
+2020 - 2022
+Project Manager - Deputy R&D Director 
+Pinduoduo Inc. - Pinduoduo Cloud | Shanghai, China
+At Pinduoduo, I was involved in shaping and developing the initial stages of China's leading 
+shopping platform - Pinduoduo. During that time, I was responsible for building system 
+architecture models and logical relationships between entities within the system. 
+In the next phase, in a project management role, I led the design and development of the core 
+platform for Pinduoduo. During this phase, I also participated in R&D projects to develop 
+products. Additionally, with the advancement of AI, I was tasked with building and developing 
+Machine Learning and Deep Learning techniques to integrate and support the e-commerce 
+platform with predictive user behavior analysis.
+Towards the end of my tenure at Pinduoduo, I was involved in product strategy research and 
+development. Alongside senior leadership, we formulated short and long-term plans for the 
+product, establishing large databases responsible for market research and analysis.
+2016 - 2020
+PROJECT MANAGER - R&D SCIENTIST
+C904, 41Bis Apartment, 115 Tan Cang, Binh Thanh district, Ho Chi Minh city
+With over 10 years of experience in software engineering, project management, and R&D, I am seeking opportunities for suitable positions to further 
+develop myself and contribute to the growth of businesses based on my past expertise and experiences. As a proactive, responsible, and disciplined 
+individual, I am always ready to take on challenges and strive to deliver the highest value to customers and businesses.
+SANG, THAI DINH
+
+REFERENCES
+In addition to my technical skills and experience, I possess business management 
+knowledge and operational experience, enabling me to participate in and contribute to 
+business planning and development activities. I hold a Chief Accountant certificate and 
+have experience in handling most administrative procedures regarding state obligations 
+for businesses. Furthermore, I can support risk management, process building and 
+operation (with ISO implementation experience), marketing automation, and internal 
+product development strategies.
+JOB & EXPERIENCE
+Research and Development Specialist
+Vietnam Institute of Information and Communication Strategy - VIICOS
+I am involved in researching and developing theories, professional standards, and 
+techniques in the field of Information and Communication. I participate in research, 
+surveys, information collection, and statistical data processing regarding market changes, 
+technology, and the scope of influence in Vietnam. I am also responsible for developing 
+data processing systems and digital transformation applications for relevant agencies.
+Conduct research and implement scientific projects on technology and 
+advanced technology in the field of Information and Communication.
+Organize and carry out investigation tasks, statistical data processing regarding 
+the impacts of the Information Technology market in Vietnam.
+Design and develop related applications using .NET.
+2014 - 2016
+Software Engineer
+VTM Vietnam | Ho Chi Minh, Vietnam
+I was involved in projects to develop ERP applications for businesses in Japan, where we 
+used Symfony and the latest core technologies available at that time to build the applica-
+tions. I also participated in on-site projects for NEC Vietnam during my tenure here, 
+working on data processing techniques using C++ and Python.
+Analyzing requirements from Japanese clients and designing BRD documents.
+Designing and building Database schema for required features.
+Designing and developing features using PHP with the Symfony framework.
+Conducting acceptance testing with developed features.
+2012 - 2013
+Software Engineer
+Nucleus Software Exports Ltd. | Uttar Pradesh, India
+I participated in the development of Fintech projects and the foundational infrastructure 
+for financial services. For these projects, I was responsible for developing components 
+related to data processing modules and developing API endpoints. Including:
+Developing core processing for data synchronization infrastructure between 
+Fintech systems.
+Multithreaded testing of data services.
+Developing initial data processing for API endpoints.
+2010 - 2014
+CERTIFICATES
+Certified Information Systems Security Professional (CISSP)
+Project Management Professional (PMP)
+Project Management Institute Risk Management 
+Professional (PMI-RMP)
+Agile Certified Practitioner (PMI-ACP)
+CompTIA Network+, CompTIA Security+
+Certified Cloud Security Professional (CCSP)
+Cisco Certified Network Professional (CCNA)
+Windows Server Administrator Associate (MD-101)
+ITIL Foundation
+ISTQB Certified Tester
+Certified Usability Testing Professional (CUTP)
+Deep Learning Specialization (Coursera)
+TensorFlow Developer Certificate
+Certified in Risk and Information Systems Control (CRISC)
+LANGUAGES
+100%
+Vietnamese
+Natural
+70%
+English
+Intermediate
+50%
+French
+Elementary
+Software Development
+Project Manager & Agile Manager
+R&D
+Networking, Security & Cloud
+Risk Monitoring and Control
+EXPERTISE
+HOBBIES
+Music Reading Game
+Coffee Travel Piano

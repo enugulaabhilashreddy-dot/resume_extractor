@@ -1,0 +1,109 @@
+Họ và tên: Nguyễn Bá Thành 
+Ngày tháng năm sinh: 20/05/1981 
+Địa chỉ: 2736/2A Vườn Lài; Phường An Phú Đông, 
+Quận 12, TP. Hồ Chí Minh 
+Điện thoại: . 
+ 
+1.  Kinh nghiệm và các kỹ năng: 
+Lập trình 
+web 
+Có kinh nghiệm lập trình web: sử dụng các ngôn ngữ lập 
+trình HTML, CSS, Bootstrap,  C# ; Hiểu về m ô 
+hình lập trình web MVC; Cơ sở dữ liệu Microsoft SQL . 
+Phân tích 
+thiết kế hệ 
+thống. 
+Có kỹ năng phân tích thiết kế hệ thống, Mô hình hóa các 
+đối tượng, các xử lý từ hệ thống tác nghiệp sang hệ thống 
+CNTT; phân tích thiết kế dữ liệu theo mô mình ERD; 
+UML . 
+Hệ thống 
+mạng máy 
+tính 
+Hiểu biết về nguyên tắc hệ thống mạng LAN, WAN, 
+Internet; 
+Làm việc với hệ thống tường lửa PFsense; juniper 
+Phân tích, phân chia vlan cho hệ thống mạng Lan. 
+Cài đặt hệ thống mạng Lan theo mô hình Domain; cấp 
+user, phân quy ền và chia sẽ tài nguyên ngư ời dùng. 
+Quản trị 
+CSDL 
+ORACLE 
+Cài đặt Hệ quản trị csdl Oracle 19c; 
+Các kỹ năng cơ bản: Tạo lập database; Di trú database; 
+backup và restore và các chính sách an toàn dữ liệu; tối ưu 
+hóa hệ thống để phù hợp với từng điều kiện sử dụng của 
+từng hệ thống; turning SQL để tối ưu hệ thống;  
+Hiểu và viết các câu truy vấn cơ sở dữ liệu. 
+Các công c ụ cơ b ản: sqlplus; sqldeveloper; sqlNavigator. 
+Hệ quản trị 
+CSDL MS 
+SQL 
+Cài đặt hệ quản trị csdl MS SQL; 
+Tạo dựng database; 
+Backup và restore database; 
+Lập lịch backup định kỳ… 
+Hiểu và viết các truy v ấn sql dữ liệu.
+
+Script tự 
+động hóa 
+trên môi 
+trường 
+windown, 
+Linux  
+Viết các script thực hiện các tác vụ tự động trên hệ điều 
+hành Linux; Windown như: khởi động chương trình, 
+restart các dịch vụ, xóa logfile, coppy đồng bộ dữ liệu. 
+Hệ điều 
+hành 
+Hiểu kiến trúc hệ thống windown, linux về hệ thống file, 
+dịch vụ được triển khai trên hệ thống. 
+Cài đ ặt gói d ịch v ụ lên h ệ th ống. 
+Các kỹ năng 
+lắp ráp phần 
+cứng máy 
+tính  
+Hiểu về nguyên tắc xây dựng cấu hình máy tính cá nhân 
+đề phù hợp với nhu cầu người dùng, phù hợp với chi phí. 
+Tin học văn 
+phòng 
+Soạn thảo và định dạng văn bản; 
+Lập báo cáo cơ b ản. 
+Lập trình 
+RPA  
+Lập trình tự động hóa 
+ 
+2.  Quá trình đào tạo: 
+2008 
+Cử nhân Cao đẳng CNTT – Trường Đại học Công nghệ Đồng Nai 
+Các kỹ năng cơ bản: Lập trình web HTML, CSS,  APS,  Hệ quản trị 
+CSDL SQL; Phân tích thiết kế hệ thống. 
+ 
+2014
+
+Tốt nghiệp Học viện Công nghệ Bưu chính Viễn thông năm 2014 
+Với các kỹ năng: Lập trình Thương mại điện tử;  
+Quản lý mạng máy tính; 
+Phân tích thiết kế hệ thống; quản lý dự án công nghệ thông tin. 
+ 
+Các kỹ năng bổ sung gần đây: 
+Kiến thức về hệ thống mạng (MCSA) 
+Kiến thức về hệ thống LINUX 
+Kiến thức về DEVOP 
+Kiến thức về Hệ quản trị CSDL ORAL 
+Kiến thức về AGILE 
+ 
+3.  Các đơn vị đã làm việc:  
+Liên đoàn bản đồ Địa chất miền Nam: 
+Xây dựng, quản trị trang thông tin điện tử; Quản trị hệ thống mạng nội bộ; Hỗ 
+trợ sử dụng hệ thống quản lý văn bản Bộ tài nguyên và Môi trường; Kế hoạch 
+mua sắm thiết bị công nghệ. 
+Công ty Cổ phần Chứng khoán BIDV: 
+Vị trí làm việc - Vận hành ứng dụng. 
+ 
+4.  Nhận thức về nghề ngiệp: 
+- Trung thực thẳng thắn trong công việc; phục tùng cấp trên, phụng sự vì lợi 
+ích chung của doanh nghiệp, hài hòa lợi ích tập thể và cá nhân. 
+- Tinh thần trách nhiệm với công việc để đạt được kết quả tốt;  
+- Tự tìm tòi nghiên cứu tiếp thu công nghệ mới nhằm nắm bắt với xu thế 
+công nghệ thời đại.

@@ -1,0 +1,123 @@
+c
+Trần Bá Tấn
+
+
+
+
+
+Chuyên Viên Quản Trị Mạng
+Nam
+11-01-1992
+Căn Hộ 2012, CT2, BTL Thủ Đô, 
+Yên Nghĩa, Hà Đông, Hà Nội
+Mục tiêu nghề nghiệp:
+Mong muốn được tạo nhiều cơ hội để phát triển bản thân và thăng tiến.
+Mong muốn được làm trong môi trường hoà đồng. 
+Mong muốn công việc có mức thu nhập ổn định. 
+01
+THỜI GIAN:  
+Tên bằng cấp: 
+Chuyên ngành: 
+Loại tốt nghiệp: 
+ - 09-2011 07-2015
+ĐẠI HỌC CÔNG NGHỆ-ĐHQGHN
+Đại Học
+Điện Tử Viễn Thông
+Khá
+HỌC VẤN
+02
+THỜI GIAN:  
+Mô tả công việc:
+Thành tích đạt được:
+ - 
+THỜI GIAN:  
+Mô tả công việc:
+Thành tích đạt được:
+ - 
+THỜI GIAN:  
+Mô tả công việc:
+ - 
+09-2015 07-2017
+CÔNG TY TNHH HẠ TẦNG VIỄN THÔNG HÀ NỘI
+KỸ THUẬT VIÊN
+Hỗ trợ xử lý các vấn đề liên quan đến dịch vụ mà FPT Telecom cung cấp: FTTH, IP 
+TV. 
+Hoàn thành tốt các công việc được giao, luôn đảm bảo KPI cho đơn vị.
+07-2017 03-2020
+CÔNG TY TNHH HỆ THỐNG THÔNG TIN FPT
+NETWORK ADMIN
+Onsite vận hành hệ thống đường truyền mạng của ngân hàng Techcombank:
+- Giám sát và xử lý các sự cố liên quan đường truyền kết nối các điểm giao dịch, các 
+kênh corewan, partner...
+- Cấu hình thay thế, lắp đặt router, switch tại chi nhánh/PGD Techcombank.
+- Tiếp nhận và xử lý yêu cầu từ user, mở port firewall.
+- Thực hiện kiểm tra hệ thống định kỳ, lập báo cáo theo yêu cầu.
+Phản ứng nhanh trong công việc, luôn đảm bảo SLA với các yêu cầu và xử lý sự cố 
+liên quan
+03-2020 08-2021
+NGÂN HÀNG TMCP ĐÔNG NAM Á SEABANK
+NETWORK ADMIN
+- Vận hành kênh truyền và thiết bị tại DC SeABank.
+- Vận hành kênh truyền kết nối các điểm giao dịch của SeABank.
+- Lập tờ trình, công văn và phối hợp với các đơn vị liên quan  để triển khai mới, dịch 
+chuyển các điểm giao dịch.
+KINH NGHIỆM
+LÀM VIỆC
+
+Thành tích đạt được:
+THỜI GIAN:  
+Mô tả công việc:
+Thành tích đạt được:
+ - 
+- Kiểm soát chính sách truy cập internet và dịch vụ nội bộ qua Firewall.
+- Xử lý các yêu cầu của người dùng liên quan đến việc kết nối mạng.
+Nhân viên tiêu biểu 2020
+08-2021 02-2023
+LOTTE DATA COMMUNICATION VIET NAM
+NETWORK ADMIN
+- Vận hành toàn bộ hệ thống mạng trong DC của LDCC.
+-  Vận hành hệ thống mạng của các khách hàng nội bộ của LDCC: Lotte Hotel, Lotte 
+Coralis, Lotte Shopping, Lotte Properties,...
+- Chịu trách nhiệm bảo trì, update và đề xuất nâng cấp các thiết bị mạng trong DC và 
+của khách hàng nội bộ LDCC: Router, Firewall, Switch, Cân băng tải, Wifi.
+- Cài đặt kết nối, public dịch vụ L-Cloud.
+- Quản lý chính sách truy cập, kết nối VPN của LDCC và các khách hàng nội bộ.
+- Xử lý các yêu cầu từ người dùng của công ty và khách hàng.
+- Truyền thông và đào tạo an toàn thông tin đinh kỳ cho nhân viên LDCC.
+- Làm đánh giá bảo mật định kỳ cho công ty và khách hàng nội bộ.
+Đảm bảo hệ thống mạng hoạt động ổn định, uptime thiết bị và kênh truyền trên 
+99,99%
+03 Kỹ năng chính: 
+ 
+Kỹ năng khác: 
+Hoàn thành các chứng chỉ: Cisco CCNA, Juniper JNCIA và JNCIS-SP
+Vận hành và triển khai các thiết bị network: 
+1, Router, Switch: Fortigate, Cisco, Draytex Vigor 
+2, Firewall: Fortigate, Firepower, ASA, Checkpoint. 
+3, Loadbalancer: Citrix 
+4, VPN: Fortigate, Cisco 
+5, SD-Wan: Fortigate 
+6, Wifi: Meraki, Aerohive, Unifi, TP-Link 
+KỸ NĂNG
+04
+Họ và tên: 
+Công ty: 
+Chức vụ: 
+Lục Thái Trung
+LDCC
+IT Manager
+NGƯỜI LIÊN
+HỆ
+TIN HỌC
+Words    
+Excel    
+Power Point    
+Outlook    
+TIẾNG ANH
+Nghe    
+Nói    
+Đọc    
+Viết    
+SỞ THÍCH
+- Dã ngoại
+- Game AOE

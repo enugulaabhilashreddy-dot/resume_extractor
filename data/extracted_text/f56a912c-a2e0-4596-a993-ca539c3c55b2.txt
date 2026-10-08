@@ -1,0 +1,108 @@
+Introduction 
+With 8 years of experience in software and website development, I have a strong background in 
+designing, deploying, and maintaining web and mobile applications. I am passionate about learning and 
+continuous improvement, with the ability to apply the latest methods and technologies to optimize 
+performance. 
+ 
+EDUCATION 
+Certification: NIIT Programmer 
+SKILLS 
+• Languages: English (reading technical documents) 
+• Backend: .Net, Java, Play Framework, Spring Boot 
+• Frontend: ReactJS, Ant Design, Material UI, HTML, CSS, jQuery, Bootstrap 
+• Databases: SQL, MySQL, PostgreSQL 
+• Source Code Management: Git, SVN 
+• Soft Skills: Good communication and teamwork skills 
+• Work Under Pressure: Able to maintain productivity and quality under high stress situations. 
+WORK EXPERIENCE 
+DFT Vietnam Technology Joint Stock Company 
+• Duration: April 2024 - Present 
+• Position: Software Developer 
+• Key Responsibilities: 
+  
+DINH VAN HOA 
+Developer 
+• Birthday: 06/08/1986 
+• Mobile:  
+• Address: Thanh Tri, Ha Noi 
+• Emai:
+
+o Participating in the development of the BA Tool (Business Analysis Tool) for data analysis 
+and business optimization. 
+o Modules developed: 
+▪ Data Source Management Module (Redshift, S3, SnowFlake, Google Big Query) 
+▪ Scoring Module: 
+▪ Tools used: TypeScript, , , React, GraphQL, MySQL, Git, AWS (S3, 
+IAM), Material UI, SonarQube, ChatGPT, Copilot 
+• Achievements: 
+o Completed modules on time and overcame technical challenges. 
+o Improved code performance by 10% using AI tools. 
+o Enhanced source code quality, reducing programming errors. 
+DTS Vietnam Software Company (Japan Outsourcing) 
+• Duration: May 2019 - March 2024 
+• Position: Team Lead, Software Developer 
+• Key Responsibilities: 
+o Managing a team of 5-8 members. 
+o Participating in software development, coding, and code reviews. 
+o Providing guidance and technical support to team members. 
+o Solving technical issues that arise during the work process. 
+o Mediating conflicts within the team. 
+o Acting as a liaison between the team and client company staff. 
+o Tools used: Java, Spring Boot, Play Framework, JavaScript, TypeScript, React, MySQL, 
+Git, SVN, VBA 
+• Achievements: 
+o Delivered modules on schedule. 
+o Received positive feedback from clients.
+
+Vgroup Joint Stock Company and Online Solutions 
+• Duration: October 2014 - March 2019 
+• Position: Web Developer 
+• Key Responsibilities: 
+o Programming in C# ( , MVC, MVVM, WPF, ...).  
+o Developing GUI using HTML, JS (jQuery), CSS. 
+• Tools used: HTML/CSS, Bootstrap, jQuery,  MVC, WordPress  
+• Achievements: 
+o Developed and deployed web applications from scratch, including both frontend and 
+backend. 
+o Improved page loading speed and application performance, enhancing user experience. 
+o Created user-friendly and easy-to-navigate interfaces. 
+ 
+PROJECTS INVOLVED 
+1. [Kizukai] 
+o Description: Analyzing customer data and optimizing marketing strategies to enhance 
+interaction and sales. 
+o Role: Programming modules for data source management (Redshift, Snowflake, 
+Salesforce, S3) and scoring. 
+o Technologies Used: React, NestJS, , GraphQL.  
+o Duration: 8 months. 
+o Client: Japan. 
+2. [Internal Shopping Website] 
+o Description: A website designed for employees to purchase Tet and Mid-Autumn 
+Festival gifts, fostering team spirit and unity. 
+o Role: Developing and deploying web applications from scratch, including both frontend 
+and backend. 
+o Technologies Used: Java, Spring Boot, ReactJS, MySQL, Axios. 
+o Duration: 6 months.
+
+3. [Mobile App Interval Walking] 
+o Description: An app to help users perform walking exercises using interval training 
+methods. 
+o Modules: Setting intervals, adjusting intensity, tracking progress and statistics, 
+reminders and notifications, ranking. 
+o Technologies Used: Java, Spring Boot, Android SDK, Gradle, Android Emulator. 
+o Role: API programming, Android app interface programming, code review. 
+o Duration: 12 months. 
+o Client: Japan. 
+4. [Medical] 
+o Description: Web app for managing rheumatoid arthritis treatment. 
+o Technologies Used: Java, Play Framework, PostgreSQL. 
+o Role: Programming additional features for the system, optimizing performance. 
+o Duration: 3 months. 
+o Client: Japan. 
+CAREER OBJECTIVES 
+To become a professional web developer, contributing to the development of high-quality 
+applications. I aim to enhance my skills in both frontend and backend programming while participating 
+in creative projects to deliver value to the company and its users. 
+ Hanoi, July 18, 2024 
+Author 
+Đinh Văn Hoa

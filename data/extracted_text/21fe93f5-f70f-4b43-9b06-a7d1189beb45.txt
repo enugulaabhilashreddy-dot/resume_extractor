@@ -1,0 +1,102 @@
+Gender : Male  
+Birthday : 17/09/1987  
+Marital status : Married  
+Address                       : 338/21 Xa Lộ Hà Nội, Quarter 13, Ho Nai Ward, Bien Hoa City, Dong Nai, Vietnam  
+OBJECTIVES 
+ 
+Looking for a new challenging in a profesional company to apply my technical and skills for the growth of the organization. Where I 
+can  improve my knowledge about new technologies, new trends in the IT ﬁeld. 
+EXPERIENCE 
+ 
+5/2018 - Now : Saigon Precision - Misumi Group - (JAPAN Company)  
+RESPONSIBILITIES  
+- Support trouble shooting for users about MES system in daily. 
+- Coordinate with Production for buildup, enhance and supporting MES system such as: Inspection, 
+Packing , Material control systems,  .. 
+- Recommend some IT solutions to reduce handling time, improve capacity for production .  
+- Implement software development cycle (requirement analysis, planning, create database, coding, testing, implement, operation, 
+monitoring...)  
+- Research new technologies, new solutions, and new equipment to meet all requirements from projects.  
+-Training and document for users using MES system or application. 
+-Coaching  and support for members of the IT team.  
+ 
+Achievements:  
+* Develop some functional in MES systems:  
+1. Inspection system: check all dimensions of products before sending them to the customer. If the result is not in the required 
+range, the program will alarm to worker. If the result is OK record it to the database.  
+2. Packing system: compare export  location & export date before input to the carton. Find the product in the packing area to check 
+again before exporting to the customer.  
+3. Tool control system: record quantity input from warehouse and quantity used for machine and show current inventory.  
+4. Material control system: print the QR code for every material bar, record the used length, and show the remaining length.  
+5. IoT : develop application to connect with devices such as USB camera, Mitsubishi PLC, Shimazu electronic scale, DCOM, Arduino, 
+etc... to read data from them or control them. 
++ Take pictures of all products before export to customer.  
++ Record video of all operations of workers when they check the products.  
++ Count the mount of accessories by Shimazu electronic scale.  
++ Caculate  and then send parameter to PLC by tablet (in the past: worker input on HMI 
+monitor). 
++ Send SMS by DCOM to managers when power outage.  
+6. Selenium: using embedded browser in Window Form or Chrome driver to automatic some tasks on websites of Misumi group:  
+HỨA VĂN BÉ  
+IT Team Leade
+ 
+   
+PERSONAL PROFILE
+
++  Auto-get orders from the Misumi website and then save them to the database; answer orders for customers after 
+checking the current capacity of the factory.  
++ Print process sheet: reduce setup time (change collet, change tap, change stopper...)  
++ Get the list of PO from the manufacturing website --> Classify & sort products that have the same design --> Print PO on 
+the manufacturing website  
++ Support user change process, material of list products on MES ( Normaly user must change one by one). 
+7. Auto Report systems: Auto gets data from many resources SQL, Oracle, Mysql, Excel, generator to report.  
++ Auto download defect and repair on Misumi website and then join with another data then generator to report.  
++ Power Automate: Summary daily output and post to MS Teams.  
++ Power Automate: Autosave attachment ﬁle in email to Sharepoint.  
++ Summary daily input, and output for the plating department.  
++Summary total running time of machines and save to database then show chart on the TV 
+6/2017 - 4/2018 : Olympus Viet Nam – Long Thanh – Dong Nai (JAPAN Company ) 
+RESPONSIBILITIES 
+- Support end user to ﬁx problems all issue related in software and hardware ( MS oﬃce, network, PC, …)  
+- Support and maintenance for Production systems daily. 
+- Develop/coding program for all departments in factory. 
+- Training and Document for users using the application/software. 
+ 
+Achievements:  
++ Purchasing system  
++ Employee information system  
++ Weekly report system  
++ Daily report system  
++ Abnormal report system  
++ Auto print process sheet for Production Control Department (reduce handling time).  
++  Create performance report (reduce handling time). 
+04/2008 - 5/2017: Fujitsu Computer Products of Vietnam (JAPAN Company)   
+RESPONSIBILITIES 
+Production design:  
+- Develop some auto applications tool to reduce the manual operator or avoid missing/input wrong data. 
+Get raw data & drawing from customer --> design data to match with capacity of factory --> send to factory --> modify data (if 
+product is not good) . 
+ 
+EDUCATION 
+ 
+Bachelor - Lac Hong University 
+2014: Engineer of Information Technology (GPA: Good) 
+ 
+SKILLS  
+ 
+Technical skill: 
++ Windows 10, 11 
++ Microsoft Oﬃce 365, OneDrive, SharePoint. 
++ Database Management 
+Advance in SQL Server, Oracle, MySQL. 
++ Programming Language 
+C#, VBA, Java Script, Python 
++ MES System + Oracle DB 
+Soft skill: 
++ Teamwork 
++ Planning 
++ Quick learning 
+REFERENCES
+
+Lê Đình A  /  
+Saigon Precision - Misumi Group

@@ -1,0 +1,120 @@
+HONG LAM SON
+Web Developer
+ Tan Phu District
+
+
+Is a technically savvy web developer, I have many years experience in web developer, both at back-end
+and front-end. Had the opportunity to work in a freedom environment but also fast paced and
+professional, that make me easy to dynamic and creative freedom. Alongside that, I also have
+experience to work with big data, high traffic and multi-user applications. At presentation, I want to
+become a professional web programmer, apply experience accumulated into the job and try to learn
+new knowledge, technology and another skills. Constantly improving ability, level to improve myself and
+contribute to the development of company. I committed to having an impact on the future of any
+company that me works for, and possesses the enthusiasm to learn and develop. I'm looking for a
+suitable opportunity that will not only take my career to the next level, but will also allow me to
+work with a very special team.
+Backend
+Database
+Frontend
+Experience in usage Go
+Experience in usage PHP frameworks : Zend, Yii, Laravel
+Experience in usage Frontend frameworks : ExtJS (Sencha), Vue
+Experienced in building REST API
+Experienced in usage Database: MySQL, Redis, MongoDB, PostgreSQL, Oracle
+Read / Understand English documents
+Clear and effective communication skills
+Be proactive, creative and fast learner
+Self-studying to adapt assigned tasks on time
+Willingness to work with emerging alternative technologies
+Good interpersonal skills, good at teamwork skills as well as
+independent research and working
+Skills
+Web Development
+Personal Skills
+ - 
+ - 
+ - 
+Manage services: Content service
+Building an application Admin tool 
+Develop module CRM
+Develop module MCMS
+Develop module Schedule Book
+01/2022PresentGalaxy Play
+Web developer
+08/201912/2021Inception IT
+Web developer
+5/20188/2019GNT Vietnam
+Summary
+Key Skills And Competencies
+Career History
+
+- 
+Developing enterprise CMS systems
+Create unit test
+Create API server
+Provides API for internal production
+Develop website follow: new register user, revenue of product, traffice download, behavior of user
+Researching new technologies, software packages
+Database optimization
+Provide solutions, solve problems
+Web developer
+20152018FPT - 
+Web developer
+Number of members: 6
+Position: Backend Developer
+Technologies: Go, Vue, Laravel
+Website: 
+Number of members: 4
+Position: Fullstack
+Technology: ExtJS (Sencha)
+Website: 
+Number of members: 1
+Position: Fullstack
+Technology: Magento 1
+Tasks:
+Develop functions:
+Show all promotions in year
+Create page manage promotions (add new, edit, delete)
+Customize extension filter can use filter on top page and left
+Website: 
+Number of members: 1
+Position: Frontend
+Technology: Cordova-JS
+Tasks:
+Develop functions:
+Bonus points every day
+Get coupons discount
+Website: 
+Galaxy Play
+The application to watch movies
+Caddy Master
+The system manage customers and teachers
+Lucullus Shop (Maintenance)
+The store specializes in selling wines
+Nestle Japan (Maintenance)
+Points tracking application and promotions
+Pizza 4Ps ERP
+Projects
+
+Number of members: 2
+Position: Backend developer
+Technology: Java, ZK Framework
+Tasks:
+Integrate E-Invoice API of Viettel
+Create reports for: Revenue, export and import of materials storage
+Develop function inventory management, payroll
+Number of members: 9
+Position: Backend developer
+Technology: Yii Framework
+Tasks:
+Build API for partners using Fshare’s service: FPT Play, PayTV
+Develop website data management of Fshare server
+Research and upgrade new version for product
+Website: 
+Developed software for Accounting, Storage management, Sales, Human resources
+management
+Fshare
+Storage and share data online
+ - 20122013FPT Aptech Computer Education
+Created with
+Education

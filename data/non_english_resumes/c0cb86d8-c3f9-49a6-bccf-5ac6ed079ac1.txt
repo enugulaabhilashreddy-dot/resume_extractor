@@ -1,0 +1,172 @@
+1
+SƠ YẾU LÝ LỊCH 
+ 
+                                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+I. THÔNG TIN CÁ NHÂN                              
+Họ và tên: NGUYỄN HOÀNG DƯƠNG 
+Ngày sinh: 10 /  03 / 1989 
+Giới tính: Nam 
+Địa chỉ:  Khâm Thiên – Đống Đa – Hà Nội 
+ 
+Tình trạng hôn nhân: Đã kết hôn 
+Phone:  
+ 
+ 
+II. HỌC VẤN 
+Tên trường Khoa Niên Khóa 
+Đại học Bách Khoa Hà Nội Toán tin 2008-2011 
+Đại học Điện Lực CNTT 2013-2015 
+III. NĂNG LỰC VÀ KĨ NĂNG 
+Ngôn ngữ lập trình  
+VB, .Net, C#, HTML, CSS, PHP , Java, JavaScript, 
+ReactJS 
+Cơ sở dữ liệu: SQL Server, MySQL, Oracle, Postgres 
+Công cụ quản lý dự án: GitHup, SVN 
+Phân tích thiết kế hệ thống:  Rational Rose, Violet 
+Test:  Có kiến thức về kiểm thử phần mềm 
+Tiếng anh:  Đọc hiểu tài liệu chuyên nghành 
+Vi tính văn phòng:  word , excel , PowerPoint…
+
+2
+IV. Quá trình làm việc 
+Tên công ty Vị trí Khoảng thời gian 
+Từ tháng Đến tháng 
+Zota Trading Java Developer 03/2019 nay 
+True Money Java Developer 08/2017 03/2019 
+Hyperlogy JSC Java Developer 4/2016 7/2017 
+Apzon JSC C# Developer 03/2015 3/2016 
+Cathay life  insurrance Company insurance staff 8/2011 11/2014 
+ 
+V. Dự án hoặc sản phẩm hoàn thành 
+1.  Zota Trading ( 3 / 2019 – đến nay ) 
+Sản phẩm , mô tả 1.  Operation: Quản lý vận hành , transaction, 
+fundin, fundout, fundTransfer, card, 
+pinTopUp 
+2.  Web Agent, merchant: ví điện tử , thanh 
+toán hóa đơn, thẻ nạp 
+3.  Dự án PMS : Quản lý BĐS, phòng trống, 
+đăng tin, báo cáo thu chi, thanh toán hóa 
+đơn, đăt lịch hẹn khách xin thuê 
+Số lượng thành viên 10 
+Vị trí công việc Lập trình viên (Leader) 
+Vai trò trong dự án - Phân tích và thiết kế hệ thống, sản phẩm 
+- Phát triển modul, tính năng mới 
+- Tối ưu code 
+- Đưa ra những giải pháp , cũng như công nghệ 
+mới cho d ự án . 
+Công nghệ sử dụng - Java,  CSS , Html, Bootstrap, Postgers , 
+googleChart  
+-Spring Security Oauth 2,Spring Boot, Spring 
+Hibernate , struts , javaScript , jsp, Ajax 
+-Reactjs, antd, bizCharts, eslint, umi hooks, 
+Nodejs, yarn, javaScriptES6 
+Người có thể tham khảo: 1. Hoàng Mạnh Hà (CTO) –  
+2. Tạ Tuấn Anh )
+
+3
+2. True Money ( 08/2017  / 03/2019 ) 
+Sản phẩm , mô tả 1.  Operation: Quản lý vận hành , transaction, 
+fundin, fundout, fundTransfer, card, 
+pinTopUp 
+Số lượng thành viên 5 
+Vị trí công việc Lập trình viên 
+Vai trò trong dự án - Phân tích và thiết kế hệ thống, sản phẩm 
+- Phát triển modul, tính năng mới 
+- Tối ưu code  
+Công nghệ sử dụng - Java,  CSS , Html, Bootstrap, Postgers  
+-Spring Security,Spring Boot, Spring Hibernate , 
+struts , javaScript, jsp 
+Người có thể tham khảo: 1. Hoàng Mạnh Hà (CTO) –  
+2. Tạ Tuấn Anh ) 
+ 
+3. IHCM (  4 / 2016 – 7/2017 ) 
+Mô tả Quản lý mục tiêu, công việc, chấm công, báo cáo 
+KPI 
+Số lượng thành viên 8 
+Vị trí công việc Lập trình viên 
+Vai trò trong dự án - Phân tích và thiết kế hệ thống 
+- Phát triển modul 
+- Tối ưu code 
+- Sửa lỗi 
+Công nghệ sử dụng - IntelliJ IDEA , Java , MySQL , CSS , Html, 
+- Spring Security, Spring Hibernate , struts , 
+typeScript, angularJS, bootstrap 
+ 
+2. IRS ( 4/2015 - 3/2016  )  
+Khách hàng MK , SYS Tech, CANIFA, KMV 
+Mô tả Quản lý sản phẩm , tồn kho, báo cáo thuế , thống 
+kê cho khách hàng doanh nghiệp dựa trên SAP B1  
+Số lượng thành viên 8 
+Vị trí công việc Lập trình viên 
+Vai trò trong dự án - Phân tích và thiết kế hệ thống
+
+4
+- Tối ưu code , sửa lỗi 
+- Hỗ trợ người dùng, khách hàng từ xa 
+- Triển khai ứng dụng phần mềm đóng gói và phát 
+triển phần mềm mở 
+Công nghệ sử dụng - VisualStudio 2012 , SQL Server, Devexpress  
+- WebService, SOAP, Web API  
+ 
+ 
+3. HRM  ( 03  / 2015 -  8 / 2013  ) 
+Khách hàng MK , QH Plus 
+Mô tả Quản lý nhân sự 
+Số lượng thành viên 4 
+Vị trí công việc Lập trình viên 
+Vai trò trong dự án - Tối ưu code , sửa lỗi 
+- Hỗ trợ người dùng khách hàng từ xa 
+- Triển khai ứng dụng phần mềm đóng gói và phát 
+triển phần mềm mở 
+Công nghệ sử dụng - VisualStudio 2012 , SQL Server, Devexpress  
+- WebService, Web API  
+ 
+4. ERP  ( 11 / 2011 -  3 / 2012  )  
+Mô tả Quản lý nhân sự 
+Số lượng thành viên 6 
+Vị trí công việc Lập trình viên 
+Vai trò trong dự án - Phân tích và thiết kế hệ thống 
+- Tối ưu code , sửa lỗi 
+Công nghệ sử dụng - NetBeans, H2 
+- JPA , Spring Hibernate, NetBeans  Platform  
+ 
+5. GRestaurantV3   ( 03 / 2012  – 08 / 2013 ) 
+Mô tả Quản lý nhà hàng 
+Số lượng thành viên 6 
+Vị trí công việc Lập trình viên 
+Vai trò trong dự án - Phân tích và thiết kế hệ thống 
+- Tối ưu code , sửa lỗi 
+- Hỗ trợ phòng kinh doanh cài đặt chương trình ,
+
+5
+hướng dẫn sử dụng cho khách hàng. 
+Công nghệ sử dụng - NetBeans, H2 
+- JPA , Spring Hibernate, NetBeans  Platform  
+ 
+6. Insurance staff ( 08 / 2011 – 11 / 2014) 
+  
+08 / 2011 - 10 / 2011 - Vị trí: nhân viên kinh doanh 
+ - Công việc: Tìm hiểu sản phẩm, tìm kiếm khách 
+hàng, trao đổi, gặp gỡ kí kết hợp đồng 
+10 / 2011  - 11 / 2014 - Vị trí: Quản lý, TPKN 
+ - Công việc: Lập kế hoạch , tranning giúp đỡ nhân 
+viên mới. Tìm kiếm khách hàng, trao đổi, gặp gỡ 
+kí kết hợp đồng 
+ 
+VI. Kỹ năng, năng lực, phẩm chất khác  
+    - Khả năng thuyết trình tốt ,tự tin 
+   - Có thể làm việc theo nhóm hoặc độc lập 
+   - Chịu được áp lực trong công việc 
+   - Tận tụy trong công việc 
+ 
+VII. Sở thích, năng khiếu, thành tích, giải thưởng trong tất cả các lĩnh vực từ trước đến nay: 
+- Thích đọc các tài liệu liên quan đến lĩnh vực CNTT 
+- Giải nhất bóng đá khoa toán tín ứng dụng 
+- Đạt giải 3 tiếng hát karaoke do viện cơ khí mở rộng tổ chức  
+- Huy chương  vàng ,bạc giải cờ tướng thành phố  
+- Huy chương vàng giải đá cầu thành phố , giải toàn quốc

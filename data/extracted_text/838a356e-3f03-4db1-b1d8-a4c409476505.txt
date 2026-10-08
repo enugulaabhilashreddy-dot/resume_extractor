@@ -1,0 +1,337 @@
+CURRICULUM VITAE
+Tôi là một lập trình viên trò game và đã tốt nghiệp với trường Academy of 
+Interactive Entertainment ở tại Melbourne, Úc. Tôi là người có tâm huyết và 
+đam mê phát triển game, bản thân luôn năng động, chăm chỉ, tận tâm với 
+công việc, đồng đội và luôn tích cực học hỏi thêm về phát triển game.
+LÊ MINH
+HUY
+TRÌNH ĐỘ TIN HỌC
+Inala 4077, Queensland, Australia
++61 4********
+********
+rlst.github.io
+in 
+********/tnyle
+Xin cảm ơn đã dành thời gian đọc CV của tôi
+86
+OCT
+♂
+NHỮNG DỰ ÁN
+Hiện Tại 
+Walkie Talkie
+ - rlst.github.io/walkietalkie
+ - Wicked Fiction, Remote 
+First Person Adventure Game
+• Thiết kế, kiến trúc và triển khai tất cả các hệ thống trong trò chơi từ đầu
+• Giúp tiếp thị trò chơi bằng cách hoạt động tích cực trên mạng xã hội và đăng video về
+quá trình
+• Đảm bảo các tài liệu kỹ thuật được cập nhật 
+• Giúp nhà thiết kế tăng năng suất bằng cách tạo tùy chỉnh trong các công cụ và chức
+năng của trình chỉnh sửa
+2019 
+StormRend: Realm in Ruin
+ - rlst.github.io/stormrend
+ - AIE Melbourne
+Turn-based Strategy Game 
+• Đảm bảo cơ sở code rõ ràng, linh hoạt và được kiến trúc tốt. 
+• Chịu trách nhiệm triển khai các hệ thống cốt lõi, 
+bộ điều 
+khiển nhập liệu của người 
+dùng 
+• Phát triển hệ thống AI và custom behaviour editor 
+• Hỗ trợ các nhà 
+thiết kế bằng cách tạo ra các công cụ khác nhau như editor sửa bản đồ 
+và editor sửa khả năng & hiệu ứng
+BhaVE: Behaviour Tree Visual Editor
+ - rlst.github.io/bhave
+ - Personal Project 
+Custom Unity In-editor AI editing tool 
+• Thiết kế, kiến trúc và lập trình toàn bộ dự án từ đầu bao gồm cả thiết kế đồ họa và biểu
+tượng
+• Lập kế hoạch phát hành dự án vào kho tài sản Unity
+Dirty Chef Yoga - 
+rlst.github.io/dirtychefyoga
+ - 3 Day Game Jam - AIE Melbourne 
+• Chịu trách nhiệm triển khai bộ điều khiển trình phát, hệ thống xếp bánh mì thịt, các
+trạm nấu ăn, hệ thống tương tác với các trạm, liên kết animations, âm thanh và làm 
+particle FXs
+TRÌNH ĐỘ HỌC VẤN
+2018-2020
+Academy of Interactive Entertainment, Melbourne, Australia
+• Tốt nghiệp khoá học Advanced Diploma of Professional Game Development (Programming)
+• Các chủ đề đã học như vật lý, đồ họa máy tính, hệ thống dữ liệu phức tạp, hệ thống 
+thực tế mở rộng và sản xuất chuyên nghiệp
+1999-2003 
+Glenala State High School, Inala, Queensland, Australia
+• Tốt nghiệp Lớp 12 năm 2003 và đạt chứng chỉ cao cấp Lớp 12
+NGÔN NGỮ
+TIẾNG ANH
+TIẾNG VIỆT
+TIẾNG NHẬT
+SỞ THÍCH
+GUITAR 
+TENNIS
+XE HƠI NHẬT
+Sử 
+dụng 
+thành 
+thạo 
+các 
+hệ 
+thống 
+trên 
+Window, 
+Mac 
+và 
+các phần mềm như đồ họa 2D, 
+đồ 
+họa 
+3D, 
+đồ 
+họa 
+CAD, 
+chương trình xử lý âm thanh, 
+chỉnh sửa video và phần mềm 
+chỉnh sửa tài liệu O
+ﬃ
+ce Suite
+Hiện Tại
+City Beach
+Picker Packer 
+• Chọn và phân loại các mặt hàng vào 
+thùng chứa, đóng hộp sẵn sàng để vận 
+chuyển và duy trì độ chính xác và tốc độ
+2011-2020
+Bunnings
+Team Member 
+• Giúp tăng lưu lượng hàng hóa lên 10% 
+và giảm lượng rác thải ra 
+• Cung cấp kiến thức thực tế và hỗ trợ 
+khách hàng trong các dự án DIY của họ
+2010-2011
+Small Business Marketing Specialist 
+• Tự kinh doanh 
+• Hợp nhất một công ty và duy trì các 
+khía cạnh kinh doanh như kế toán và 
+lưu giữ cổ phiếu • Giúp khách hàng thực 
+hiện các chiến lược tiếp thị hiệu quả để 
+tăng lợi nhuận của họ
+9/2009-6/2010
+Ronin Handyman Services 
+• Thiết lập mối quan hệ với các đại lý bất 
+động sản địa phương 
+• Làm nhiều công việc khác nhau từ 
+sơn, ốp lát, dọn dẹp và sửa chữa chung 
+và bảo trì các tài sản xung quanh
+Brisbane
+2007-2008
+Kmart
+Retail Team Member 
+• Được cung cấp dịch vụ khách hàng 
+chất lượng và tư vấn 
+• Giữ hàng tồn kho và các kệ hàng được 
+lưu trữ và trưng bày tốt
+BLENDER
+PHOTOSHOP
+AUTOCAD
+AUDIO EDITING
+VIDEO EDITING
+OFFICE SUITE
+Code Architecture
+C#
+Unity
+C++
+Source Control
+/ GIT
+AI
+
+CURRICULUM VITAE
+I 
+am 
+a 
+game 
+programmer, 
+software 
+engineer 
+and 
+a 
+graduate 
+of 
+an 
+Advanced 
+Diploma 
+of 
+Professional 
+Game 
+Development 
+at the Academy 
+of 
+Interactive Entertainment (AIE) in Melbourne. Having great dedication and 
+passion 
+for 
+game 
+development, 
+I 
+am 
+self-motivated, 
+hardworking, 
+dedicated 
+to 
+teamwork 
+and 
+always 
+actively 
+learning 
+more 
+about 
+game 
+development
+TONY
+LE
+COMPUTER SKILLS
+Inala 4077, Queensland, Australia
++61 4********
+********
+rlst.github.io
+in 
+********/tnyle
+Thank you for your time and consideration
+86
+OCT
+♂
+Code Architecture
+C#
+Unity
+C++
+Source Control
+/ GIT
+AI
+PROJECTS
+Present 
+Walkie Talkie
+ - rlst.github.io/walkietalkie
+ - Wicked Fiction, Remote 
+First person adventure game
+• Designed, architect and implement all systems in the game from scratch
+• Help market the game by being active on socials and posting progress video 
+• Ensure technical documents are up to date 
+• Help designer increase productivity by creating custom in editor tools and
+functionality
+2019 
+StormRend: Realm in Ruin
+ - rlst.github.io/stormrend - 
+AIE Melbourne
+Turn-based strategy game 
+• Ensuring codebase is clean, flexible and well architected. 
+• Responsible for implementing main core systems ie. stackable state machine, user 
+input controller 
+• Developed the AI system and behaviour editor 
+• Assist designers by creating various tools such as map editor and ability & e
+ﬀ
+ects 
+editor
+BhaVE: Behaviour Tree Visual Editor - 
+rlst.github.io/bhave - P
+ersonal Project 
+Unity in-editor AI editing tool 
+• Designed, architected and programmed the entire project from the ground up
+including doing graphics and icon design 
+• Planning to release the project onto the Unity asset store
+Dirty Chef Yoga
+ - rlst.github.io/dirtychefyoga
+ - 3 Day Game Jam - AIE Melbourne 
+• Responsible for implementing the player controller, burger ingredient stacking system,
+cooking stations, interaction system between stations, linking up animations, audio and 
+particle FXs
+Present
+City Beach
+Picker Packer
+• Pick and sort items into containers,
+build boxes ready for shipping and
+maintaining accuracy and speed
+2011-2020
+Bunnings
+Team Member
+• Help increase stock flow by 10% and
+reduce waste output
+• Provided practical knowledge and
+assistance to customers on their DIY
+projects
+2010-2011
+Small Business Marketing Specialist
+• Self-employed
+• Incorporated a company and
+maintained business aspects such as
+accounting and stock-keeping
+• Help clients implement e
+ﬀ
+ective
+marketing strategies to increase their
+bottom line
+9/2009-6/2010
+Ronin Handyman Services
+• Establish relationships with local real
+estate agents
+• Worked on various jobs from painting,
+tiling, cleaning and general repairs and
+maintenance on properties around
+Brisbane
+2007-2008
+Retail Team Member
+• Provided quality customer service and
+advice
+• Kept inventory and store shelves
+stocked and well displayed
+EDUCATION
+2018-2020
+Academy of Interactive Entertainment, Melbourne, Australia
+• Advanced Diploma of Professional Game Development (Programming), 2nd Year 
+• Successfully completed a Diploma of Digital and Interactive Games in 2018
+• Studied topics such as physics, computer graphics, complex data systems, 
+extended reality systems and professional production
+1999-2003 
+Glenala State High School, Inala, QLD
+• Completed Year 12 in 2003 and acquired Year 12 senior certificate
+LANGUAGES
+ENGLISH
+VIETNAMESE
+JAPANESE
+HOBBIES
+GUITAR 
+TENNIS
+JDM CARS
+I 
+am 
+proficient 
+in 
+using 
+both 
+W i n d o w s 
+a n d 
+M a c 
+b a s e d 
+systems, and as an all rounder I 
+am familiar with many software 
+genres including 3D graphics or 
+C A D, 
+2 D 
+g r a p h i c s , 
+A u d i o 
+processing 
+programs, 
+Video 
+editing 
+as 
+well 
+as 
+O
+ﬃ
+ce 
+Suite 
+document editing software
+BLENDER
+PHOTOSHOP
+AUTOCAD
+AUDIO EDITING
+VIDEO EDITING
+OFFICE SUITE

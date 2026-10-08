@@ -1,0 +1,105 @@
+TRẦN MINH GIANG
+IT SOFTWARE LEADER
+CONTACT
+
+ LeoTra gmail.com
+ 14/03/1987
+
+25/1C Group 1, Dong Nai
+Quarter, Hoa An Ward, Bien
+Hoa City, Dong Nai Province
+EDUCATION
+2005 - 2009
+LAC HONG UNIVERSITY
+Foreign Trade
+Degree classification: Average
+2009 - 2011
+FPT-APTECH
+Website programming
+Degree classification: Good
+SOFTWARE
+Develop by Visual Studio 4
+Oracle database development4
+SQL server 2016 4
+Develop website - ASP. Net,
+C# MVC
+4
+OBJECTIVE
++ Ability to work under high-pressure and accept new
+challenges.
++ I am seeking a professional working environment with
+stable and long-term income.
++ Careful, honest and highly confidential.
+WORK EXPERIENCE
+TRIPOD VIETNAM (BIENHOA)
+ELECTRONIC CO., LTD.
+01/2020 - 06/2024
+IT Software Group Leader
+- Experience in systems:
++ Manufacturing system (VB6): Production manage
+including WIP, Yield, MRB
++ Human resources system (C#): Employee information,
+Overtime, employee attendance management.
++ Accounting system (VB6): BOM & COST management
++ PC system (C# & Java): Material WH, FGs WH, Label
+management
++ SOP website (C# MVC): SOP management,
+automatically send email
++ Report Website ( : all daily reports for end-
+user
++ Laser making builder (VB6): Operating the Conveyor
+Belt and Laser Engraving QR Code via COM port and
+LDT port.
+- Projects myself:
++ PC system: Inventory, output by FIFO, WH
+management, Label management (C#-app and Java-
+
+LANGUAGES
+English 3
+SKILLS
+- PI/SQL Programming advanced with oracle database 12C
+- Oracle database 19C: build and management
+- SQL server 2016: build and management
+- Proficient in Visual Studio: VB .NET, C#, Asp .NET, MVC,
+LINQ, Bootstrap, jQuery, JavaScript, CSS, XML, Android
+Studio (Java)
+- VB6, VBA, Photoshop
+Handheld device)
++ SOP website: Register, check, approval, re-view, auto
+send email (C# MVC).
++ Report Website: Design and make report follow user's
+demand (
+- Managed systems: SAP B1, MES, SPC, GLOVIA.
+- Build and management database server (Oracle, SQL
+server).
+- Database management and database troubleshooting
+ability.
+- Database system structure design, development and
+optimization.
+- Writing stored procedures, design a variety of complex
+business processing, statistical analysis statements.
+- Proficient in Microsoft Office software, especially Excel,
+PowerPoint, chart making.
+- Production system management: SAP B1, GLOVIA,
+VNACCSS, MES.
+- Project management.
+- Plan, assign work, checked the results and deploy
+projects.
+- Supporting team members about the technical and
+solution when they have trouble.
+FICT VIET NAM COMPANY LIMITED09/2011 - 12/2019
+IT Software - Engineer
+Developed, improved and troubleshooted production
+management software.
+Designed reporting websites according to user
+requirements.
+Create report files in Excel, Point for end-user (VBA)
+Experienced in environments such as PCB
+manufacturing, Human resources, Process engineering
+
+INTERESTS
+Soccer, Go, Chinese chess, billiard
+CERTIFICATIONS
+Oracle database 19C: Administrator
+PI/SQL Programming advanced with oracle database 12C
+Driver's License B2

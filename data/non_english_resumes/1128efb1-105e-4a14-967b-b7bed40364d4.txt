@@ -1,0 +1,124 @@
+CÔNG TY CỔ PHẦN QUỐC TẾ
+TRUYỂN THÔNG IMC
+08/2018 - NAY
+TRƯỞNG PHÒNG CÔNG NGHỆ THÔNG TIN                                       
+     
+- Rà soát lại hệ thống CNTT đang có tại công ty.
+- Cải tiến, tối ưu hóa hệ thống hiện có.
+- Xây dựng lại sơ đồ tổ chức, mô tả công việc của các thành viên
+Phòng CNTT, KPI đánh giá...
+- Leader dự án Big Data.
+- Quản lý triển khai các dự án Wifi Marketting cho events bên trong và
+ngoài công ty.
+- Quản lý nhân viên bộ phận IT, chiến lược quy hoạch phát triển CNTT
+của bạn với sự phát triển của doanh nghiệp. 
+- Tư vấn, lựa chọn, quyết định giải pháp và triển khai thành công giải
+pháp ảo hóa toàn bộ hệ thống máy chủ tại công ty ( sử dụng công
+nghệ ảo hóa VMWare ), giải pháp sao lưu và phục hồi dữ liệu cho toàn
+bộ hệ thống VMWare sử dụng Veam Backup.
+- Tư vấn, lựa chọn, quyết định giải pháp và triển khai thành công giải
+pháp quản trị hệ thống quản lý booking truyền hình, quảng cáo
+TVAMS.
+- Tư vấn, lựa chọn, quyết định giải pháp và triển khai thành công giải
+pháp OTT ( Over The Top - giải pháp truyền hình trên nền tảng
+Internet ).
+CÔNG TY CỔ PHẦN THANH BÌNH
+PHÚ MỸ
+11/2016 - 07/2018
+TRƯỞNG PHÒNG CÔNG NGHỆ THÔNG TIN                                        
+      
+- Rà soát lại hệ thống CNTT đang có tại công ty.
+- Lên kế hoạch triển khai, thành lập bộ phận CNTT.
+- Tuyển dụng nhân sự CNTT đáp ứng cho chiến lược ngắn hạn CNTT.
+- Lên dự án tổng thể quy hoạch hóa, tái cấu trúc CNTT.
+- Thành lập , sơ đồ tổ chức, mô tả công việc của các thành
+viên , KPI đánh giá...
+CÔNG TY CỔ PHẦN ĐẠI ĐỒNG TIẾN
+08/2006 - 10/2016
+TRƯỞNG PHÒNG CÔNG NGHỆ THÔNG TIN                                        
+      
+- Biết làm thế nào để đánh giá và phân tích các nhu cầu ứng dụng
+CNTT hỗ trợ hoạt động kinh doanh của các doanh nghiệp có hiệu quả.-
+Phát triển một chiến lược toàn diện CNTT ngắn hạn (3 tháng, 9 tháng,
+12 tháng, 24 tháng) để hỗ trợ nhu cầu kinh doanh và liên kết chặt chẽ
+với sự phát triển của doanh nghiệp kinh doanh theo định hướng. 
+- Lập kế hoạch - Xây dựng và quản lý CNTT điều hành ngân sách,
+nguồn vốn ngân sách một cách hiệu quả. 
+KINH NGHIỆM LÀM VIỆC
+Văn Trung Nghĩa
+Trưởng Phòng Công Nghệ Thông Tin
+13B Lê Quang Sung P2 Q6  -
+
+- Chuẩn bị, quản lý và triển khai các dự án CNTT có hiệu quả (về thời
+gian, trong giới hạn ngân sách, hiệu quả và chất lượng). 
+- Phát triển một kế hoạch tiết kiệm cho các doanh nghiệp chi phí CNTT
+mỗi năm, giảm đáng kể chi phí vận hành hệ thống CNTT. 
+- Xây dựng các quy định, quy chế bảo mật, chính sách hoạt động của
+bộ phận CNTT, hệ thống quản lý rủi ro CNTT để đảm bảo tính liên tục
+kinh doanh. 
+- Quản lý nhân viên bộ phận IT, chiến lược quy hoạch phát triển CNTT
+của bạn với sự phát triển của doanh nghiệp. 
+- Nắm vững Hệ thống tên miền Quản trị Server 2012, Exchange 2013
+máy chủ mail, máy chủ cơ sở dữ liệu (SQL Server 2008), SharePoint
+Server 2013, hệ thống Firewall (ISA, phần cứng, Cisco), hệ thống lưu
+trữ SAN và hệ thống sao lưu. 
+- Tham gia vào các dự án ERP SAP. 
+- Triển khai dự án quản lý giao tiếp điện tử Portal (SharePoint Server
+2013). 
+- Quản lý tài sản, CNTT chính sách soạn thảo và đề xuất các giải pháp
+thích hợp cho các doanh nghiệp CNTT để Hội đồng quản trị. 
+- Phát triển các dự án quy hoạch CNTT, quy hoạch rủi ro dự án CNTT,
+các dự án CNTT kế hoạch quản lý thay đổi, các kế hoạch đầu tư hàng
+năm của bộ phận CNTT. 
+- Hệ thống quản lý triển khai Dự án Phân phối (Hệ thống quản lý phân
+phối) cho các kênh GT toàn quốc. 
+- Lập kế hoạch báo cáo, tập trung nhân viên tìm hiểu để viết báo cáo
+từ các nguồn dữ liệu DMS, SAP để trình bày trên cổng thông tin hệ
+thống thông tin liên lạc (Sharepoint 2013). 
+- Giám đốc dự án DMS (Hệ thống quản lý phân phối), một dự án quy
+hoạch, dự án nhóm, tham gia vào các quyết định liên quan đến các
+vấn đề trong DMS hoạt động của dự án. 
+- Thành viên Dynamics CRM triển khai của Microsoft.
+CHI NHÁNH CÔNG TY INTERNET
+NETNAM
+10/2005 - 06/2006
+NHÂN VIÊN TRIỂN KHAI HỆ THỐNG INTERNET                                  
+        
+Cài đặt Internet cho các công ty và hộ gia đình. hỗ trợ và dịch vụ bảo
+trì hệ thống máy tính.
+ĐẠI HỌC MỞ - BÁN CÔNG 
+10/2000 - 06/2005
+CHUYÊN NGÀNH: CƠ SỞ DỮ LIỆU
+NHÓM TÌNH NGUYỆN MÙA HÈ XANH
+06/2002 - 08/2002
+TÌNH NGUYỆN VIÊN
+- Tổ chức đội. 
+- Dạy học.... 
+- Xây dựng nhà, đắp đường ....
+2000 - 2013 - Kỹ sư Công Nghệ Thông Tin. 
+- MCSA 2003 ( Nhat nghe school). 
+- CCNA ( Nhat nghe school). 
+HỌC VẤN
+HOẠT ĐỘNG
+CHỨNG CHỈ
+
+- CEH ( Nhat nghe school ) 
+- Cyberoam Certificates. 
+- IT Manager Certificates ( Infochief Tranning & Consulting Services ).
+Lê Vũ Hoài Khanh
+Giám Đốc Tài Chính - CNTT
+Công Ty Cổ Phần Quốc Tế Truyền Thông
+Email: 
+Mobile: 
+Trịnh Chí Cường
+Tổng Giám Đốc
+Công ty Cổ Phần Đại Đồng Tiến 
+Email: 
+Mobile: 
+Trịnh Ngọc Hiền
+Giám Đốc Tài Chính 
+Công ty Cổ Phần Đại Đồng Tiến
+Email: 
+Mobile: 
+NGƯỜI THAM CHIẾU
+©

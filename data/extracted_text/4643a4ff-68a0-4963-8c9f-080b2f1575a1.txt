@@ -1,0 +1,165 @@
+Curriculum Vitae 
+Personal Information 
+ 
+ 
+First Name: Nguyễn Xuân 
+Last Name: An 
+Date of birth: 18/04/1986 
+Gender: Male 
+Marital status: Married 
+Nationality: Vietnam 
+Address: My Thuan Apartment, Ward 16, 8 District, Ho Chi Minh City  
+Email:  
+Telephone:  
+Zalo:  
+ 
+Skill 
+ 
+- Experience lead software, hardware, system team from 3 to 9 member 
+- Experience in ERP retail system. Understand business of other departments such as 
+Contact center, Merchandise, Warehouse, Accountancy, Logistics, Ecommerce. 
+- Experience in Java spring Mvc, spring Boot, Php Laravel, Php Opencart 
+- Knowledge other programming languages: ReactJs, Python, Nodejs 
+- Experience in Oracle database, MySQL database 
+-  Knowledge about UI/IX, using software: Figma 
+- Knowledge Project manager, using software: Asana, Jira 
+-  Knowledge about Data Analysts through software: BI, Excel (PivotTables, 
+PowerQuery, PowerPivot), Alteryx 
+-  Knowledge network (equivalent CCNA), Linux system, AWS (EC2, RDS, S3, 
+Lambda, Load Balance) 
+- Knowledge about DevOps use Jenkins (CI/CD), Docker, GitHub, Aws, Kubernetes, 
+Ansible 
+- Foreign Language: Japanese (equivalent N4), English (intermediate level) 
+ 
+ 
+ 
+ 
+Work Experience
+
+03/2021 – 01/2024 IT Leader ERP at GSSHOP 
+Duties: 
+ Manage and developer more function for ERP system of the company 
+ Manage developers and system engineers 
+ Support end users. 
+ Meeting, report to BOD 
+ 
+Key skills and competencies: 
+ Experience in a ERP about Retail system. Understand business of other 
+departments such as Contact center, Merchandise, Warehouse, Accountancy, 
+Logistics, Ecommerce. 
+ Experience as a Manager for projects, team members. Analysis requests 
+from departments and assign task to each member. 
+ Experience in Java Spring MVC, Java Spring Boot, development 
+experience and ability to develop creative solutions for complex problems. 
+ Experience in Php (Laravel, Opencart framework), development website in 
+many sections such as News, Ecommerce, Introduction, Booking... 
+ Experience in API, Web service (connect Api with delivery company, Fast 
+system, Warehouse system) 
+ Experience in Oracle database, MySQL database. 
+ Experience in Html/Css, Javascript, Jquery. 
+ Knowledge UI/IX, using software: Figma 
+ Knowledge Project manager, using software: Asana, Jira  
+ Knowledge about Data Analysts through software: BI, Excel (PivotTables, 
+PowerQuery, PowerPivots), Alteryx 
+ Knowledge some other programming languages: python, nodejs, reactjs 
+ Knowledge network, system, AWS (EC2, RDS, S3, Lambda, LoadBalance) 
+ 
+07/2015 – 03/2021 IT Software Leader at SCJ TV Shopping Company (HoChiMinh City-
+Vietnam) 
+Duties: 
+ Researching, analyzing and proposing software solutions according to 
+requirements of enterprises 
+ Work closely with customers, design and marketing team in the execution 
+of strategies. 
+ Manage and motivate a team of web/application developers to continually 
+improve user experience. 
+ Project Management.
+
+ Manage and developer more function for ERP system of the company 
+ Manage and developer more function for Ecommerce system of the 
+company 
+ Organizing the development of software systems. 
+ Handing over and organizing instruction, training using software, 
+evaluating the effectiveness of the software system after using. 
+ Developing and extending the functionality of the active softwares. 
+ Organize and monitoring the operation status of the software systems. 
+ Evaluating the current status of the software application system in the 
+business process. 
+ Document development and maintain for analysis, design, implementation 
+report, test/operation manual and procedures. 
+ Manage and provide leadership, vision and direction for team members. 
+ Set KPI for team and report directly for GD. 
+ In charge of management the IT activities of business production systems 
+within company. 
+ Projects : Gtrust ERP System (Local system From Korea) , ,  
+ 
+Key skills and competencies: 
+ Experience as a Manager for projects and excellent team worker. 
+ Knowledge in Java Spring, PHP - Joomla development experience and 
+ability to develop creative solutions for complex problems. 
+ Knowledge in API, Webservice (connect Api with delivery company) 
+ Knowledge in Mysql, Oracle database. 
+ Knowledge in Html/Css, Javascript, React JS, Angular Js, GitHub, Svn. 
+02/2012 – 05/2015 Senior Software Developer at Blue Hole Factory company 
+Duties: 
+ Development of Php & Mysql for the website. 
+ Knowledge in Php Framewoks: Codeigniter, Laravel 
+ Knowledge in Html/Css, Javascript 
+ Knowledge in API, Webservice 
+ Working with users to establish requirements and determine priorities. 
+ Developing new functionalities, both back-end and front-end. 
+ Developing new applications, components & functionality to existing 
+systems. 
+ Analyzing data and conducting compatibility and quality assurance testing. 
+ Training new employees.
+
+ Projects: ,  …  
+ 
+Key skills and competencies: 
+ Experience as a Team Leader for projects and excellent team worker. 
+ Knowledge in Php development experience and ability to develop creative 
+solutions for complex problems. 
+ Ability to be clear & concise when explaining technical procedures to 
+customers 
+ Knowledge in  SVN. 
+02/2008 - 09/2010 Web Developer at Socom Company 
+Duties: 
+ Building Web applications using Php, MySQL. 
+ Working in a data analyst role and with business intelligence applications. 
+ Documenting features, technical specifications & infrastructure 
+requirements. 
+ Data entry, data auditing, creating data report & monitoring all data for 
+accuracy 
+ Installation and support for customers. 
+ Developing new applications, components and functionalities to existing 
+systems 
+ Project:  
+ 
+Key skills and competencies: 
+Php, Mysql, Microsoft Office 
+ 
+ 
+Training Courses  
+  Situational Leadership Training by CJ Group Vietnam Regional HQ 
+ IT training in Korea 
+Education 
+ 
+ Fpt-Greenwich 
+ Department: Software 
+ Fpt-Aptech 
+  Department: Software 
+Languages
+
+English (Intermediate) 
+Japanese (N5) , Studying N4 
+Skill Set  
+Computer languages Java, Php, JavaScript, HTML, CSS. 
+Database MySQL, SQL, SQL Server, Oracle 
+Frameworks Spring, AngularJS, Laravel,Codeigniter, Bootstrap, Jquery, Ionic, React JS 
+IDE Eclipse, NetBeans, Storm, Miplatform IntelliJIDEA, Visual Studio Code 
+Network MCSA, CCNA 
+Others SVN, GIT, MS Project 
+ 
+Interest  
+   
+  Aquarium, plant the tree

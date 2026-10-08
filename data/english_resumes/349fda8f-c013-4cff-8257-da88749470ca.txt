@@ -1,0 +1,63 @@
+TRAN NGOC MAN
+S O F T W A R E  D E V E L O P E R
+CONTACT
+Phone
+E-mail
+118/20 Bui Van Ba,
+Tan Thuan Dong Ward,
+District 7,
+Ho Chi Minh City  
+Address
+HCMC University of Technology
+and Education
+Bachelor of Science
+Electrical Engineer 
+Degree Classification: Good
+EDUCATION
+SKILLS
+LANGUAGE
+SOLID, OOP, Design Patterns
+Python, Django/DRF, FastAPI
+SQL Database, ORM
+Basic HTLM, CSS, Javascript
+Linux, Docker, Git
+Agile Scrum, Jira, Taiga
+WORK EXPERIENCE
+Others: Teamwork, Problem-solving,
+Effective Communication, Research &
+Analytical Skills, Optimistic Attitude.
+I have experience working with Python and its frameworks
+such as Django. In addition, I built and developed
+backend features with distributed services and powerful
+technologies. I know that quality software brings lots of
+benefits to a business. As a proactive and dedicated
+Software Developer, I'm looking for opportunities to
+pursue technology milestones while contributing to a
+company’s business growth.
+TOEIC Score: 630 (Reading 
+and Listening)
+ENGLISH
+CAREER OBJECTIVE
+FPT TELECOM
+SOFTWARE DEVELOPER
+Participated in building and developing backend service for
+Omnichat Chat feature in the Sales Online Platform
+Collaborated closely with teammates in the Scrum environment
+Worked on Django/Django Rest Framework to build Restful API
+Built message queue with NAT, logging with Elasticsearch, and
+background tasks with Celery
+Used Websocket to handle real-time messages
+Wrote API documentation and performed short seminars about
+used technologies
+07/2022 - 02/2023
+EBST JSC of TAISEI VN FACILITY MANAGEMENT CO.,LTD
+SOFTWARE DEVELOPER 
+Implemented, customized, and maintained the ERP System
+Worked with ERP Python Framework named ERPNext 
+Met with the client to discuss system requirements and workflow
+Analyzed user needs and customized modules followed up on
+specifications
+Designed report templates with the jinja2 template
+Wrote proposals and docs in Vietnamese to customers
+Worked with other members to debug
+11/2021 - 06/2022

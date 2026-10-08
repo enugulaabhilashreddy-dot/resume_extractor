@@ -1,0 +1,46 @@
+Phan Minh Quang
+Mỹ Đình - Hà Nội
+ 
+Photo Services Vietnam 06/ 2019
+Kikai - Tech Co., Ltd 12/ 2021
+NTQ Solution 06/ 2021
+CMC-TELECOM 01/2022 - Hiện tại
+Docker Basic
+CI Basic
+Infratructure as code Basic
+AWS Good
+K8S Basic
+KINH NGHIỆM LÀM VIỆC
+IT Operator
+- Vận hành quản trị hệ thống gồm 100 máy trạm và các server : Ubuntu,Linux 2, Windowns Server, Nas. 
+- Đảm bảo máy trạm hoạt động thôngsuốt.
+ - Khắc phục sửa chữa phần cứng, mạng công ty, cài đặt phần mêm, cấuhình phần cứng.- Mua sắm và quản lý, cấp
+phát tài sản văn phòng trang thiết bị làm việcthuộc các thiết bị IT, thực hiện kiểm kê và bảo trì, bảo dưỡng / sửa
+chữacác tài sản.
+ - Xử lý các vấn đề liên quan đến PC, User, Server.
+ - Nâng cấp và đảm bảo hệ thống Internet, mạng nội bộ, mạng Wifi.
+Infratructure Engineer
+- Thao tác vận hành với Docker, Kubernetes cluster
+- Vận hành hệ thống server Linux với các dịch vụ: Nginx, Docker,AWS và Kubernetes 
+- Cấp phát và quản lý các dịch vụ trên AWS đến Dev:Router 53, EC2, Lambda, EKS, ECS,...
+- Vận hành các Pool và Wallet Cardano
+Infratructure Engineer
+- Thao tác vận hành với Docker, Kubernetes cluster, Runcher, Vsphere,..
+- AWS: tham gia xây dựng sử dụng service AWS Control Tower  triển khai, quản lý và giám sát nhiều tài khoản và
+nhóm AWS
+- AWS Organizations Thiết lập hệ thống quản lý và thanh toán cho từng dự án và tài khoản cho từng dự án.
+- Dựng môi trường  Server ( linux, windowns) trên hệ thống VM Ware ( ESXI), AWS, Physical,...
+- Tham gia vận hành, khắc phục hệ thống Runcher, CI/CD: Jenkins, Gitlab CI, Runcher,.. cho các dự án.
+- Mornitor các server, services đã cấp phát bằng Zabbix, Grafana, ...
+- Viết báo cáo hàng tháng về quá trình cấp phát tài nguyên.
+- Migrate máy chủ từ vật lý lên hệ thống Vcenter của công ty
+ 
+Cloud Engineer - Samsung
+-  Làm việc với AWS như EC2, S3, RDS, ELB và EBS để cài đặt, định cấu hình và khắc phục sự cố trên các AMI
+Amazon khác nhau để di chuyển máy chủ từ vật lý vào đám mây.
+- Sử dụng Cloud Watch để giám sát các tài nguyên như dịch vụ EC2, Amazon RDS DB, bảng Dynamo DB, để đặt báo
+động cho các hành động thông báo hoặc tự động; và theo dõi Logs để hiểu rõ hơn và hoạt động của hệ thống. 
+- Các cấu hình hệ thống được lập thành văn bản, thực hành xây dựng Phiên bản, Hệ điều hành và AMI, quy trình sao
+lưu, hướng dẫn khắc phục sự cố và giữ cho hạ tầng và kiến   trúc luôn cập nhật với các thay đổi.
+CÁC KỸ NĂNG
+©

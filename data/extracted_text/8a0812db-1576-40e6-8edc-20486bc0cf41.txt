@@ -1,0 +1,79 @@
+Lò Thanh Dương
+Lập Trình Viên C#, .Net Core, Fullstack
+.Net core, .Net framework,
+Nodejs
+Sql Server, MySql,
+MongoDB
+Javascript, JQuery, 
+Angular 2+, Angularjs
+Lập trình thiết bị di động,
+Android, React Native
+CAO ĐẲNG FPT POLYTECHNIC
+Chuyên ngành lập trình thiết bị di động
+09/2014 - 2017
+LẬP TRÌNH VIÊN FULLSTACK
+Công ty Cổ phần Eastern Sun Việt Nam
+07/2021 - Hiện tại
+Công việc:
++ Phát triển chức năng, nghiệp vụ cho hệ thống ERP.
++ Cùng team phân tích nghiệp vụ khách hàng và lên ý
+tưởng, áp dụng những công nghệ mới vào sản phẩm.
+ 
+Công nghệ & ngôn ngữ lập trình:  
++  core, Entity framework - Angular 2+,
+Angularjs.
++ Sql server, MongoDB 
+NHÂN VIÊN .NET, ANGULAR, FRONT-END
+Công ty tập đoàn công nghệ Thăng Long.
+03/2021 - 06/2021
+Vị trí:
++ Developer .net, fontend - angular, sql-server.
+Công việc:
++ Bảo trì  các store sqlserver
++ Viêt api kêt nối font-end cho web app và mobile app.
++ Chức năng báo cáo với DevExpress. 
+ 
+NHÂN VIÊN LẬP TRÌNH WEBSITE C# MVC, .NET
+Công ty CP CÔNG NGHỆ VÀ GIÁO DỤC PCA
+07/2018 - 03/2021
+Vị trí:
+Trong cuộc sống thường ngày là một người vui vẻ, hòa đồng thích giao tiếp với mọi người về nhiều lĩnh vực
+khác nhau đặc biệt về công nghệ.
+Trong công việc luôn làm việc với thái độ nghiêm túc, có trách nhiệm. Sẵn sàng giúp đỡ, chia sẻ và học hỏi kiến
+thức cùng với mọi người.
+  Nam
+03/10/1996  Tây Mỗ - Nam Từ Liêm - Hà Nội
+GIỚI THIỆU
+KỸ NĂNG
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+
++ Developer.
+ 
+Công việc:
+  + Phát triển các dự án, phần mềm của công ty sử
+dụng C#, .NET.
+  + Viết API, phát triển phần mềm quản lý CMS với mã
+nguồn mở Kooboo CMS ...
+  + Sử dụng Entity Framework trong việc kết nối CSDL.
+  + Được phát triển dự án được custom từ core
+Nopcommerce từ đó được biết DI design pattern. 
+  + Sử dụng CSDL SqlServer, MongoDB. 
+  + Lập trình front-end với bootstrap, Angularjs ,sử
+dụng giao diện SmartAdmin.
+ 
+Các dự án thực hiện:
+1) Phát triển website chăm sóc khách hàng all in one
+phát triển Chatbox - SignalR , facebook, zalo, quản trị
+CMS.
+  + dự án được phát triển bởi team 6 người.
+  + vị trí của tôi là dev. 
+2) Phát triển hệ thống api trên mã nguồn mở Kooboo
+CMS.
+  + vị trí: bảo trì và cập nhật các chức năng mới.
+Công Nghệ:
+  + .NET Framework, SignalR , SlqServer, MongoDB,
+Javascript - angularjs,  
+TIẾNG ANH 2.2 TOP NOTCH
+CHỨNG CHỈ TIN HỌC VĂN PHÒNG
+CHỨNG CHỈ

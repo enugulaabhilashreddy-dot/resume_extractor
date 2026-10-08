@@ -1,0 +1,61 @@
+/
+EDUCATION
+University of Science Ho Chi Minh | Ho Chi Minh City
+College, Computer Systems Networking and
+Telecommunications
+From October 2007 to November 2010
+CyberSoft Academy Center - Training Experts Program |
+Ho Chi Minh City
+Front-End Developer  From April 2019 to 2020
+WORK EXPERIENCE
+Sakura Mobiles - Japan | Ho Chi Minh
+Front-end Developer  Since January 2020
+Job descriptions:
+Role: Front-end developer
+Languages/framework: angular, rails, javascript, typescript.
+Creating new web apps for new products
+Developing and implementing the web app following the design
+layout, and building FE using the angular framework.
+Integrate with Back-End via API, the Back-End use Ruby and Rails.
+Report processing tasks and ﬁx bugs when requested.
+Implementing substantial features and ﬁxing bugs.
+Tool manager: 
+Reference link: 
+SAOVEGA TECHNOLOGY CO., LTD | Ho Chi Minh
+Staff Deployment  From 2015 to November 2019
+Job descriptions:
+Deploying and installing the software for hospital management, spa
+management, beauty salon, CRM, multi-clinic manager dental
+clinic...
+Project management and implementation of hospital management
+software such as HIS, LIS, PASC
+Install and conﬁgure database server system: SQL Server ...
+Website management and development on the platform: Html5,
+Css3, Boostrap, Javascript, WordPress.
+SKILLS
+Node Js
+Rails
+AWS
+Angular 8+
+Javascript
+Typescript
+LANGUAGES
+Vietnamese
+Native language
+English
+Communication basic
+Good at writing and reading
+INTERESTS
+Researching new technical
+Football, traveling with family
+and coffee.
+Nguyen Thien
+Angular Developer
+ C11-01 Marinar Tower, Thuan An, Binh Duong
+Date of birth 02/20/1987 
+ 
+- More than 3 years of experience as a front-end developer, developing many applications quality for a
+thousand users. Currently, I am working as an angular developer in Sakura Mobile - Japan for the 3 years. 
+- Ability to work well under pressure, open-minded, hard-working, and always updated new technology to
+improve skills.
+- Develop myself to be a good developer, create more quality products, and bring more value to the users.

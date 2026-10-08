@@ -1,0 +1,155 @@
+Trần Thị Vân
+Data Analyst - Khối Dữ Liệu
+  
+ 
+Nữ 16-01-1990
+Vĩnh Ngọc - Đông Anh - Hà Nội
+KINH NGHIỆM LÀM VIỆC
+ - 
+ - 
+10-2019 04-2024
+Ngân hàng TMCP Việt Nam Thịnh Vượng VPBank
+Ngân hàng TMCP Việt Nam Thịnh Vượng VPBank
+'- Tham gia triển trai dự án xây dựng cơ sở dữ liệu tập trung Data warehouse cho
+ngân hàng VPBank theo mô hình của IBM Banking Model chuyển đổi dữ liệu từ
+nhiều hệ thống nguồn như T24, Way4, OCB, VPDirect, ... sang lưu trữ tập trung
+trên Data warehouse.
+- Phân tích thu thập yêu cầu dữ liệu phục vụ báo cáo cho các đơn vị nghiệp vụ
+/phòng ban/khối/ban lãnh đạo ngân hàng, phân tích chuyển đổi logic đồng thời
+chuẩn hóa dữ liệu nhằm tối ưu việc lưu trữ và chuyển đổi logic vào cơ sở dữ liệu
+Data warehouse
+- Xây dựng tài liệu đặc tả yêu cầu, mô hình hóa nghiệp vụ
+- Dựa trên kinh nghiệm tư vấn và đề xuất giải pháp phát triển dữ liệu phù hợp với
+các bài toán nghiệp vụ đề ra
+10-2019 04-2024
+Ngân hàng TMCP Việt Nam Thịnh Vượng VPBank
+Ngân hàng TMCP Việt Nam Thịnh Vượng VPBank
+- Thực hiện việc phân tích logic bài toán nghiệp vụ để tích hợp logic dữ liệu vào cơ
+sở dữ liệu toàn hàng của VPBank phục vụ các báo cáo của các đơn vị nghiệp vụ
+- Tham gia trực tiếp phát triển ETL các yêu cầu dữ liệu sau khi thu thập và phân
+tích: Xây dựng mô hình dữ liệu cho bài toán, thiết kế luồng dữ liệu của bài toán
+đó trong cơ sở dữ liệu sẽ như thế nào, logic mapping như thế nào, thiết kế đảm
+bảo phù hợp với bài toán nghiệp vụ và mô hình banking của VPBank và tính sẵn
+sàng của dữ liệu một cách tối ưu nhất
+- Phối hợp với các đơn vị phát triển đối tác của VPBank để phát triển dữ liệu đảm
+bảo chất lượng của các yêu cầu công việc
+- Trực tiếp tham gia đánh giá, kiểm thử các công việc của đội phát triển trên Data
+warehouse và trao đổi để cải thiện
+- Tham gia quản lý và vận hành logic dữ liệu, logic tổng hợp báo cáo đảm bảo
+chất lượng dữ liệu trong Data warehouse
+- Xử lý các vấn đề hoặc sự cố dữ liệu nhanh chính xác và đưa ra giải pháp đề xuất
+hạn chế
+- Thiết kế và vận hành logic, hàm tính toán tự động phát hiện lỗi, làm sạch dữ liệu
+đảm bảo chất lượng dữ liệu cho nghiệp vụ sử dụng
+- Tư vấn người dùng hiểu để khai thác sử dụng dữ liệu báo cáo
+- Vận hành logic dữ liệu, luồng ETL job trên các hệ thống khác nhau và đảm bảo
+dữ liệu được đúng khi ETL đến các Server cho các khối nghiệp vụ khai thác báo
+cáo
+- Không ngừng trao đổi tìm hiểu nâng cao kiến thức chuyên môn về các nghiệp
+vụ ngân hàng T24, KPLUS, W4, OCB, I2B, Lending, invesment, GL, card, deposit,
+overdraft, bảo lãnh, transaction, ... để phục vụ cho công việc
+"
+"
+Tôi yêu thích, đam mê công việc
+về dữ liệu, đây là công việc đòi
+hỏi sự tỷ mỉ và độ chính xác cao.
+Luôn tâm niệm dữ liệu là sản
+phẩm và người dùng dữ liệu
+chính là khách hàng. Người làm
+về dữ liệu cũng giống như
+người bán hàng, người sản xuất,
+muốn sản phẩm của mình tốt
+thì trước tiên chất lượng dữ liệu
+phải được đảm bảo chính xác,
+minh bạch và dễ dàng sử dụng
+cũng như dễ dàng khai thác đa
+chiều, từ đó mới phát huy hết
+sức mạnh của dữ liệu. Nhất là
+trong thời đại công nghệ số
+hiện nay dữ liệu là một phần
+quan trọng trong mọi lĩnh vực
+ngành nghề mang lại nhiều lợi
+ích khác nhau. Và tôi thấy bản
+thân rất yêu thích các con số, dữ
+liệu cũng như các nghiệp vụ
+trong mảng tài chính ngân
+hàng.
+KỸ NĂNG
+Phát triển dự án theo Agile. Am
+hiểu hệ thống T24, W4, OCB,
+Kondor,...
+Database System: SQL Server,
+Oracle, Access, PostgreSQL, MySQL,
+IBM Netezza, IBM DB2
+Tool ETL Data: IBM DataStage
+SQL Language: SQL. Lập trình .NET,
+, MVC, C#, Java.
+Dotnetnuke, SVN, git, Automatio
+
+- 
+ - 
+ - 
+11-2014 10-2019
+Công ty cổ phần tập đoàn HIPT
+Công ty cổ phần tập đoàn HIPT
+- Lập trình phát triển hệ thống trích xuất báo cáo tự động theo thông tư 11 cho
+ngân hàng nhà nước triển khai cho ngân hàng VRB, SHB
++ Lập trình phát triển core của hệ thống báo cáo tự động theo thông tư 11 cho
+ngân hàng nhà nước của công ty và triển khai tại các đơn vị ngân hàng
++ Viết các câu lệnh SQL trên database MSSQL, Oracle để phát triển phần mềm
+trích xuất ra các báo cáo tự động theo thông tư 11 cho ngân hàng nhà nước
++ Trao đổi với cán bộ nghiêp vụ ngân hàng từng ban để chấm báo cáo sau đã
+phát triển hệ thống báo cáo tự động
++ Hỗ trợ các cán bộ xử lý các lỗi phát sinh trong quá trình gửi báo cáo cho ngân
+hàng nhà nước
+- Lập trình xây dựng phần mềm window form chuẩn hóa bản đồ địa chính trong
+lĩnh vực địa chính, đất đai
+- Lập trình phát triển hệ thống web dịch vụ công trực tuyến đất đai mức độ 3 cho
+cấp Sở Tài Nguyên và Môi Trường
+-Thiết kế hệ thống, chức năng, giao diện, database cho hệ thống dữ liệu cơ sở dữ
+liệu đất đai của dự án
+- Lập trình .NET, , MVC
+- C#, Java
+- Hệ cơ sở dữ liệu Microsoft SQL, Oracle, Access
+- Dotnetnuke, SVN, git
+- Automation test với Selenium WebDriver và Serenity BDD (Java)
+- Testing REST APIs
+- Manual test, test funtional manual, test tích hợp hệ thống đa module (test sản
+phẩm của đội nhóm)
+- Trao đổi làm việc với khách hàng để làm rõ yêu cầu nghiệp vụ của từng dự án
+- Fix bug và chỉnh sửa theo yêu cầu khách hàng
+- Triển khai dự án cho công ty, quản lý đội nhóm triển khai dự án
+12-2013 10-2014
+Công ty cổ phần địa tin học Việt Nam
+Công ty cổ phần địa tin học Việt Nam
+- Ứng dụng công nghệ thông tin trong việc biên tập bản đồ thửa đất
+- Thực hiện chức năng nhiệm vụ biên tập bản đồ địa chính, bản đồ quy hoạch sử
+dụng đất
+- Làm hồ sơ, giấy tờ, in giấy chứng nhận quyền sử dụng đất cho hộ dân tại địa
+bàn tỉnh Hà Tĩnh, Hà Nội
+- Đi khảo sát cập nhật thông tin quy hoạch và lập bản đồ quy hoạch sử dụng đất
+cho các tỉnh
+07-2013 11-2013
+Công ty CP thương mại và dịch vụ TKP Việt Nam
+Công ty CP thương mại và dịch vụ TKP Việt Nam
+'- Nghe gọi và trả lời các cuộc gọi của khách hàng , gọi điện thoại chăm sóc và giải
+đáp cho khách hàng đã sử dụng dịch vụ của công ty
+- Quản lý hồ sơ sổ sách, chấm công, thanh toán lương cho nhân viên trong công
+ty và thực hiện các công việc văn phòng khác
+HỌC VẤN
+ - 09-2008 06-2013
+test, IBM banking model, hiểu cơ
+bản về Cloud
+
+Loại tốt nghiệp:
+Trường đại học Mỏ địa chất
+Công nghệ thông tin
+Giỏi
+Tốt nghiệp loại ưu và giành nhiều học bổng trong quá trình học tập tại trường
+KỸ NĂNG
+Phát triển dự án theo Agile. Am hiểu hệ thống T24, W4, OCB, Kondor,...
+Database System: SQL Server, Oracle, Access, PostgreSQL, MySQL, IBM Netezza,
+IBM DB2
+Tool ETL Data: IBM DataStage
+SQL Language: SQL. Lập trình .NET, , MVC, C#, Java.
+Dotnetnuke, SVN, git, Automation test, IBM banking model, hiểu cơ bản về Cloud

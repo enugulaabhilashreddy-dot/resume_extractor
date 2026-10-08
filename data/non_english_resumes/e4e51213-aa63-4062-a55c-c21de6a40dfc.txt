@@ -1,0 +1,59 @@
+/
+VŨ MINH THẮNG
+THÔNG TIN CÁ NHÂN
+
+
+
+
+
+Nam
+Số Nhà 18, ngách 56,ngõ 144 
+Đường Quan Nhân, Hà Nội
+TIN HỌC
+Word
+Excel
+PowerPoint
+Outlook
+TIẾNG ANH
+Nghe
+Nói
+Đọc
+Viết
+SỞ THÍCH
+Thích đá bóng
+CV XIN VIỆC
+MỤC TIÊU NGHỀ NGHIỆP
+Định hướng tương lai sẽ là Data Scientist, nhưng trong 3, 4 năm tới sẽ theo định hướng Data 
+Engineer để trau dồi cách lập trình, cấu trúc về dữ liệu, thiết kế model về dữ liệu.
+KINH NGHIỆM LÀM VIỆC
+Mô tả công việc:
+Thành tích đạt được:
+Mô tả công việc:
+Thành tích đạt được:
+CTV
+MSB
+Nghiên cứu về các thuật toán trong Machine Learning.
+Hỗ trợ xây dựng framework làm về ETL.
+Đã hoàn thành các việc như trong mô tả công việc.
+CHUYÊN VIÊN
+TNEX
+Phát triển framework về ETL, xây dựng các báo cáo xử lý dữ liệu như báo cáo về Merchant, 
+báo cáo Funding, báo cáo Refferal Campain, báo cáo Onboarding....
+Hỗ trợ test các chức năng app TNEX cho phòng Phát Triển Sản Phẩm.
+Hỗ trợ phê duyệt tài khoản trên admin console cho phòng vận hành.
+Convert các hàm trong framework từ python sang Spark, Polars để phục vụ cho việc viết báo 
+cáo.
+Thiết kế và xây dựng các mview phục vụ cho DA như mview exco, mv event, mv 
+event_daily,...
+Đã hoàn thành các việc như trong mô tả công việc.
+KỸ NĂNG
+Kỹ năng chính: Kỹ năng làm việc nhóm, lắng nghe, nghiên cứu
+HỌC VẤN
+Chuyên ngành:
+Tên bằng cấp:
+Loại tốt nghiệp:
+1
+TRƯỜNG ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Toán Ứng Dụng & Tin Học
+Kỹ Sư
+Khá

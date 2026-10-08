@@ -1,0 +1,84 @@
+HO THIEN KHOI  
+Software Engineer
+ Male
+com
+ May 15
+
+o-thien-khoi-6b1163142/
+Thu Duc District, HCM City
+SUMMARY
+I have already had 5+years working experience in web application as a .NET Developer in Ominext Group Joint Stock Company,
+MUFG Bank and FPT Sofware HCM City. I have strong knowledge of technologies and techniques. High sense of responsibility,
+good working attitude and skills are main factors that help me promote my career. Knowledge has no boder, so I will never stop
+learning and improving myself. I am willing to seek new challenges and responsibilities. At last, to me, contributing to the
+company's development is the way to prove my abilities.
+
+OMINEXT COMPANY - .NET TEAM Jan 2022 - Present
+MUFG BANK - IA TEAM May 2021 - Jan 2022
+WORK EXPERIENCE
+Developer
+* Description 
+1. Build a project Web System as a cloud service with the aim of providing a health check-up system for medical facilities. This
+system has 2 main uses: 
+  - For medical facilities for medical examination and for management of medical examination. 
+  - For health examiners to use to register for the examination or conﬁrm examination results, etc. 
+* Team size: 10+ 
+* My position: Developer 
+* My responsibilities(Backend Developer): 
+  - Create web API CRUD with Entity Framework and test it using swagger. 
+  - Handle bugs and optimize ﬂow code, review code for the new member in my team. 
+* Technologies used: 
+  - C#, .Net Core 6.0, Web API, LINQ, SQL Server, HTML/CSS, Javascript, GIT. 
+2. Build a project Winform Application e-commerce management system. 
+  - The main responsibilities are to perform warehouse management tasks: order, product delivery, issue invoices, and
+promotions. 
+* Team size: 20+ 
+* My position: Developer 
+* My responsibilities: 
+  - Coding functions of the screen in the design document. 
+  - Create Stored Procedure in SQL 
+* Technologies used: 
+  - C# WinForm, SQL, Linq, GIT. 
+Developer
+* Description 
+1. Build a project Winform Application allow Staﬀ to register, update working location every week in the context of covid 19.
+2. Build project web aplication Account Maintenance Fee Tool to able to identify accounts that subjected to account
+maintenance fee.
+* Team size: 4 
+* My position: Developer 
+* My responsibilities: 
+- Create APIs MVC in  MVC 
+- Create Stored Procedure in SQL 
+- Manual Testing 
+* Technologies used 
+  - C# Windows Forms, Web API MVC, AngularJS, LINQ, SQL Server 
+
+
+FPT SOFWARE HCM - GBOOK TEAM August 2018 - May 2021
+FPT SOFWARE HCM - DMS TEAM April 2018 - August 2018
+Developer
+* Description 
+There are many projects that were built and operated by GBOOK for over 10 years, the main goal is to maintain and enhance
+them. I am to develop new features into the current web application as required by customers of Toyota Japan. 
+* Team size: 25-30+ 
+* My position: Developer ( Includes 3 steps) 
+  - Coding 
+  - Write test cases in Software Testing 
+  - Unit testing C# with NUnit 
+* My responsibilities 
+  - Maintenance and enhancement 
+* Technologies used: 
+  - C#, .NET MVC, .NET core 3.1, LINQ, SQL Server 
+Developer
+* Description: 
+ - Comprehensive Distribution Solutions ERP for UNIBEN & PEPSI 
+* Team size: 12-15+ 
+* My position: Developer 
+* Programming Languages: Microsoft Dynamics NAV 365 
+* IDE: Microsoft Dynamics NAV 365 
+* Used technologies: Packages Dynamic Navision  
+POSTS AND TELECOMMUNICATIONS INSTITUTE OF TECHNOLOGY Oct 2013 - May 2018
+Education
+Major: Software Technology
+GPA: 2.3/4
+

@@ -1,0 +1,101 @@
+LE TRAN NHAT DANG
+Infrastructure Engineer, Network 
+Administrator, System Administrator
+Ho Chi Minh City, Viet Nam
+• Skilled in Enterprise Networking, Network Security, Cloud/Physical Firewall Configuration, Centralize Management, 
+Routing and Switching, VPN,...   
+• System management on both Cloud and on-premises, VMs, DNS, DHCP , Storage management, Identity, SSO,...   
+• Windows servers hybrid core Infrastructure hands-on experience(Virtualization, Storage 
+Backup/Replica/Deduplication, VMs backup,...) 
+• High level support for Microsoft 365 services for Mail Exchange Server, MS T eams, Sharepoint, Compliance, MS Intunes,...
+• Good English Communication,experience with Global workplace (TOEIC 740 equivalent)
+Skills
+Networking
+System Administrator
+Servers Management
+IT Infrastructure
+Azure
+Computer Hardware
+Network Security
+Microsoft 365
+Communication
+Employment History
+Infrastructure Support 
+Officer at Mantu Inc
+September 2022 — May 2024
+Provide Infrastructure Support tasks with IT Operations with Network, 
+System, Office 365, Digital Collaboration, T elephony,...
+Implement, Configuration NGFW, Switch, Router, Access Point,... 
+(Cisco, Meraki, PaloAlto, Unifi,...)
+Microsoft Azure administration (Entra ID, AD DS, VMs, NVA,...)
+Monitoring and Troubleshooting.
+Point of Contact and Project Implementation for IT Operations teams.
+Plan and Deploy, using CI/CD within Azure DevOps.
+Documents and Training.
+IT Helpdesk Specialist 
+at Welhunt Materials 
+Enterprise
+April 2021 — July 2022
+Provide support for user with Hardware, Applications, peripheral,...
+Deploy, Configure, Maintenance office Infrastructure (Fortinet, Cisco, 
+Meraki, Unify, ...)
+System/Servers configuration and deploy (Hyper-V , VMware,...)
+Microsoft 365 administration.
+Networking configuration and monitoring.
+Solution Consulting.
+
+Le Tran Nhat Dang
+IT Support Officer at Gonsa 
+Joint Stock Company
+December 2019 — March 2021
+Deploy, configuration and monitor IT infrastructure (Meraki, Fortinet, 
+Cisco, SAN, NAS...)
+Managed mail servers, applications server and maintenance company 
+data center infrastructure
+Install, Troubleshooting user PC, Laptop and upgrade if needed
+Provide IT support for internal users.
+IT T echnician at Saigon 
+Center Office Equipment 
+Limited Company
+November 2017 — October 2019
+Troubleshooted hardware and software issues for customers, resulting 
+in an improved customer service experience
+Installed, configured, and maintained operating systems, applications, 
+and software
+Education
+Microsoft Certified: Azure 
+Administrator Associate
+May 2024
+Credential ID: BCA79AB81EAAAC66
+Certification number: AB4843-N9067B
+Microsoft Certified: 
+Azure Network Engineer 
+Associate
+May 2024
+Credential ID: 72CE73A7F506B3FE
+Certification number: 46A703-F2I7FF
+Microsoft Certified: Azure 
+Fundamentals
+May 2024
+Credential ID: 570EAF2A6EBDE9BF
+Certification number: 86SF57-F8F3A5
+CCNA, Cisco Certificated 
+Network Associate
+April 2022
+
+Le Tran Nhat Dang
+IT T echnician , University of 
+Science, Ho Chi Minh City
+December 2018 — August 2019
+T echnician Certificate with Excellent grade
+Engineer of 
+T elecommunication 
+T echnology, T on Duc Thang 
+University
+August 2012 — September 2017
+Graduated with Average Good
+Links Linkedin
+Languages English Vietnamese
+References Vinh Hoang Le Nguyen from Mantu
+Le Van Dung from Mantu 
+Hobbies Gaming, Computer Assemble, Music, T echnology.

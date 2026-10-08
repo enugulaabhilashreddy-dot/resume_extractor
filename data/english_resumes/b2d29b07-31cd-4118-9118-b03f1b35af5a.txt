@@ -1,0 +1,153 @@
+CURRICULUM VITAE 
+ 
+ PERSIONAL DETAILS 
+Full Name  HUỲNH PHÚ CƯỜNG   
+Avatar    
+Date of Birth  February 05, 1984  
+Gender  Male  
+Marital Status  Married  
+Permanent 
+Address  
+D-4.12, 3 Street,  Ehome S Nam Sai Gon Apartment, Binh Hung 
+Ward, Binh Chanh  District, HC M City, Viet Nam Country  
+Mobile phon –
+E-mail    
+OBJECTIVE  
+•  To be a good staff. 
+•  Try to learning as much as possible and doing my best in order to accom plish my 
+tasks. 
+•  To have good opportunities to get promotion in my job. 
+•  Develop my skills with development of company, I want to prove myself. 
+EDUCATIO
+NIITCANTHO – CanTho, Vietnam  
+Professional Diploma of Information Technology , DNIIT(Graduated - 2006) 
+Subjects studied : 
+•  Operating Systems : Windows 2000, XP and Linux . 
+•  Programming languages : C, C++, ASP,  C#, Java, MySQL, 
+HTML, XML. 
+•  Databases : MS SQL Server 2000, Oracle 9i.
+
+•  And subjects : System Analysis and Design, Software Project Mana gement, 
+Object - Oriented Programming(using C# language ), Database Managem ent 
+System, Design and develop website 
+•  I have 3 years programming experience. 
+•  After once subjects I must make a project for close.  
+Some projects :  
+•  OnlineChat (Java, J2EE). 
+•  EarnestBank - Web(Servlets and JSP, MS FrontPage, SQLServer 2000). 
+•  MerryMeeting – Application and Web ,  SQL Server 2000, 
+. 
+•  University Tayside – Application and Web (C#,  SQL Serve r 2000, 
+. 
+- 2006 – 2011  
+The University of BinhDuong- BinhDuong, Vietnam  
+Bachelor of Science in Business Administration (Graduated 2011). 
+EXPERIENCE  
+- August 1, 2009 – December 25, 2011  
+•  Panda Software Co – CanTho City 
+•  Work: Management and development all projects of Panda Software Co. 
+•  Position: Manager Team Dev & Projects Manager (PM). 
+•  Programming languages use: C#, LinkQ. 
+•  Data base: SQL Server 2000, SQL Server 2005, txt, XML, … 
+•  Detail project: 
+ + Manage Karaoke Soft: Project time: August 1, 2009 – October 31, 2009.  
+Team has three members involved in the project. My work is the codi ng. Project 
+scope: analysis, design, development and maintenance. Provide product s oftware 
+manage for bars, karaoke and coffees,… 
+ + Manage Gas – Water Soft: Project time: November 1, 2009 – Dec ember 
+31, 2009. Team has three members involved in the project. My work is analysis, 
+design and coding. Project scope: Management, analysis, design, developm ent and 
+maintenance. Provide product software manage for stores and dealers G as or Water, 
+… 
+ + Manage Mobile Soft: Project time: February 1, 2010 – April 29, 2010. 
+Team has three members involved in the project. My work is tea m leader, analysis, 
+design and coding. Project scope: analysis, design, development and mainte nance. 
+Provide product software manage for stores and dealers sale mobile, … 
+ + Manage Notary Soft: Project time: May 1, 2010 – May 31, 2010. Team 
+has two members involved in the project. My work is team leader, m anagement 
+product, analysis, design and coding. Project scope: Management, analysis , design,
+
+development and maintenance. Provide product software manage for notary offices, 
+… 
+- February 20, 2012 – August 31, 2015 
+•  BSD Co – Ho Chi Minh City 
+•  Work: Team Leader & Project Manage for project Budgets Planning of Thanh 
+Thanh Cong Group. 
+•  Position: Team Leader Project Cognos IBM. 
+•  Product use: IBM Cognos TM1, SAGE ACCPAC ERP of SAGE, MS 
+Dynamic CRM 2012 – 2015 of Microsoft and QAD 2013 SE – EE (ERP) of 
+QAD Soft. 
+•  Data base type: OLAP, 4GL or Oracle and SQL 2008 or SQL 2012. 
+•  Project scope: Manage, analysis, design, development and maintenance. 
+- November 09, 2015 – January 08, 2017 
+•  TTC GROUP – Ho Chi Minh City. 
+•  Work: Operating system Application: IBM COGNOS TM1 & IBM COGNOS 
+BI, All Project BI TABLEAU in TTC Group. 
+•  Position: Team Leader Cognos TM1 - IBM & Project Manager for 4 projects 
+BI Tableau. 
+•  Product use: IBM COGNOS TM1 10.2.2 & IBM COGNOS BI 10.2.2, BI 
+TABLEA 
+•  Data base type: SQL 2008, 2010, 2012, 2014; ORACLE; FOXPRO 9.0; 
+FIREBIRD 2.5;.. 
+•  Project scope: Manage, operate, analysis, design, development and 
+maintenance. 
+- March 07, 2017 – November 28, 2019 
+•  SMARTNET Co - Ho Chi Minh City. 
+•  Work: Business Analytics, Support & Tester. 
+•  Position: Operating System ERP. 
+•  Product use: System ERP Odoo – Resource Python. 
+•  Data base type: Postgre SQL. 
+•  Project scope: Management, analysis, design, development and maintenance. 
+- November 14, 2019 – July 31, 2020 
+•  IMMICA EB5 Co - Ho Chi Minh City. 
+•  Work: IT Manager. 
+•  Position: Manager Operating IT IMMICA GROUP. 
+•  Product use: System CRM Bitrix24 host. System internet, system ser ver, 
+Zoom…
+
+•  Data base type: My SQL. 
+•  Project scope: Management, operate, analysis, design, developm ent and 
+maintenance. 
+- November 15, 2020 - Now 
+•  GSOFT Co - Ho Chi Minh City. 
+•  Work: IT Developer. 
+•  Position: Developer Project Credit Score of CMC for Sacombank. 
+•  Product use: Oracle, SAS Production tools. 
+•  Data base type: Oracle, SAS. 
+•  Project scope: Analysis, design, development. 
+SKILLS    
+•  Dot NET programming - expert - 5 years. All Version 2003 – 2015 of .NET. 
+•  My best skills is C#. I have a lot working experience with Componen t One - 
+Crystal and MS SQ 
+•  Java programming - expert - 2 years. I learned and worked with Java when I was 
+a student.   
+•  System Analysis and Design. Object - Oriented Programing.   
+•  Setup, maintain system running Microsoft Windows, Linux,…. 
+•  Management SQL database system Oracle, MS SQL All Version, E xcel, 
+Access,... 
+•  Independent or team work.  
+•  Group management experience for many years. 
+•  Communication and interpersonal skills. 
+•  Consultancy all projects ERP system as CRM, HRM, FRM… 
+•  B/A & PM any Project new. 
+•  Using IBM software products such as Cognos TM1, Cognos BI, … 
+•  Using BI TABLEAU software products all version. 
+•  Using ERP Odoo Open source. 
+•  Using Bitrix24 Host, Zoom Meeting, Linux & Ubuntu system. 
+•  Using language program: C, C++, C#, VB. Net, Java, Progress Open Edge, 
+Python, … to developer software. 
+•  Using SAS Production tools. 
+•  English skills: spoken, read and written  
+ADDITION INFORMATION  
+•  When I was a student. I have involved project software Products Guide Travel 
+Cantho. I used to be head of the Project each Semester. Get requi rement, Project 
+Plan, Analysis System, Design, writing Code and Demo. Programming languages 
+use: Java, .Net (VB or C#). Data Base : SQL Server 2000, txt, XM L, Excel, 
+Access, … 
+•  I have been operating movements of my class as football, camp,
+
+•  I have skill working over 15 year in IT and position different. 
+•  I have driver Car level B from 2014. 
+INTERESTS    
+Football, Game, Learn new knowledge, Travel, Music, Historical res earch, 
+Pharmacy and Medical .

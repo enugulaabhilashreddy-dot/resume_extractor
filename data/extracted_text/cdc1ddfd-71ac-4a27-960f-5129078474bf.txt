@@ -1,0 +1,416 @@
+1 
+                          Hoàng Quang Hưng 
+ 
+PERSONAL DETAILS 
+ 
+ Name  Hoàng Quang Hưng 
+ Nationality  Vietnamese 
+ Date of Birth  June 30, 1985 
+ Sex  Male 
+ Marital status Married 
+ Phone No.  
+ Email  
+ 
+EDUCATIONAL BACKGROUND 
+ 
+ Hanoi University of Science - Major: Applied Mathematics and Informatics. 
+ Aptech International Programmer Training Center.  
+ 
+ 
+PROFESSIONAL SUMMARY 
+ 
+ Highly skilled IT professional with over 17 years professional experience  including: application 
+development, implementation, deployment, setup, internal and customer support. 
+ Performed several roles as Business Analyst, Team Lead, Onsite Developer (in Singapore), Senior 
+Developer. 
+ Excellent English communication. 
+ 
+SOFTWARE 
+ 
+ Databases : MongoDB, Oracle 11g, Postgres 9.1, ElasticSearch, My SQL, MS SQL Server, PL/SQL, 
+JCR. 
+ 
+ Programming Languages: JavaScript , Java, HTML, C, Pascal, ASP. 
+ 
+ Integrated Development Environments : Visual Studio Code, Atom, Eclipse, Workshop 
+(Weblogic), NetBeans… 
+ 
+ App server  / Middleware : Express(NodeJS), Restify (NodeJS), Tomcat, JBoss, BEA WebLogic, 
+Glassfish. 
+  
+ Framework/Technologies:  
+o Angular, NodeJS, Ionic, JQuery, AngularJS. 
+o OpenAI – Chat GPT search. 
+o Spring MVC, Liferay, Apache Struts, Hibernate, JSF, JPA, Mybatis. 
+o Thymeleaf, Groovy. 
+ 
+ Configuration Management Tools: Bitbucket, Git, SVN, TortoiseSVN. 
+ 
+ Browsers: Chrome (Chrome Extension, Outlook Extension), FireFox, IE, Safari, Opera… 
+ 
+ Project Management tools: Agile, Scrum, MS Project 2000-2010.
+
+2 
+OPERATING SYSTEMS 
+ 
+ Windows 
+ Linux 
+ CentOS 
+ Ubuntu 
+ iOS 
+ Android 
+ 
+ 
+PROJECT EXPERIENCE 
+ 
+December 2020 – Now  
+Work remote for a 
+Project: Knowledge ( ) 
+ 
+Project Description:  
+This is a Content Resource Management. We use OpenAI to  search contacts, organizations to get 
+email addresses, websites and mobile numbers. Get an account’s up-to-date employee list. Then send your 
+pipeline list directly to your CRM  (Hubspot, Salesforce, Outreach, ClaritySoft, Copper, ConstantContact, 
+Prophet, Keap ...) or export a spreadsheet. 
+ 
+Project Scope: 
+ Get requirements 
+ Develop, fix bug. 
+ Demo (record a Loom video) 
+ Manage Team Member works. 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+ iPhone, Android mobile (displaying on Browser’s devices) 
+  
+Software environment 
+ Windows 10 
+ Linux 
+ MongoDB 
+ 
+Development tools  
+ Visual Studio Code 
+ 
+Specific technologies 
+ NodeJS, Angular 13, TypeScript, 
+ OpenAI – Chat GPT search. 
+ Chrome Extension, Outlook Extension. 
+ Amazon services (EC2, S3, Cloudwatch…), 
+ 
+ 
+June 2018 – December 2020  
+Work remote for a partner of IMIP Company 
+Project: Wine Traveler
+
+3 
+Project Description:  
+ This is an Ionic application. Travelers book a wine vacation anywhere in the world. 
+ 
+Project Scope: 
+ Get requirements 
+ Develop, fix bug. 
+ Demo (sharing screen by Google Hangout) 
+ Manage Team Member works. 
+ 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+ iPhone, Android mobile 
+  
+Software environment 
+ Windows 10 
+ MongoDB 
+ iOS 
+ Android 
+ 
+Development tools  
+ Visual Studio Code 
+ 
+Specific technologies 
+ NodeJS, TypeScript, 
+ Angular 4, Angular 6, Angular 9. 
+ Ionic (Cordova) 
+ Amazon services (Cloudsearch, Lambda Function, S3, Cloudwatch…), 
+ 
+June 2019 - December 2021 
+Own Project 
+Project: Melody Generator 
+ 
+Project Description:  
+This is an Ionic application that I have an idea and develop in the free ti me (evening, Sunday). It 
+allows you auto generat ave an d create your own song. 
+We can see the demo at 
+ 
+Project Scope: 
+ Make an idea 
+ Develop, fix bug. 
+ Publish to Google Play 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+ iPhone, Android mobile 
+ 
+  
+Software environment 
+ Windows 10
+
+4 
+ 
+ iOS 
+ Android 
+ 
+ 
+Development tools  
+ Visual Studio Code 
+ 
+Specific technologies 
+ Angular 
+ Ionic (Cordova). 
+ 
+December 2016 – June 2018 
+Work remote for a partner of IMIP Company 
+Project: Career ( )  
+ 
+Project Description:  
+ This is an employment website  that accept candidate s find a job and employers find employees.  
+Employers can add homework and interview questions. We also integrate with Indeed, Ability Jobs, JazzHR, 
+GreenHouse, Jobvite, eQuest… 
+ 
+Project Scope: 
+ Get requirements 
+ Develop, fix bug. 
+ Demo (sharing screen by Google Hangout) 
+ Manage Team Member works. 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+ iPhone, Android mobile 
+  
+Software environment 
+ Windows 10 
+ Linux 
+ MongoDB 
+ iOS 
+ Android 
+ 
+Development tools  
+ Visual Studio Code 
+ 
+Specific technologies 
+ NodeJS, TypeScript, 
+ AngularJS. 
+ Amazon services (EC2, Cloudsearch, Lambda Function, S3, Cloudwatch…), 
+ 
+December 2015 – December 2016  
+Work remote for Illumineto (a partner of IMIP Company) 
+Project: Spark.
+
+5 
+Project Description:  
+ Business web page  that accept users create and customize their own pages. The content  in the 
+page is about sales campaigns. Users can attach files  from Google Drive, Box, Dropbox… and videos from 
+Youtube, vimeo to their page. The last step, users choose emails from Gmail Contact, Salesforce, Pipedrive, 
+Pipeliner to send their pages.  
+ 
+Project Scope: 
+ Get requirements 
+ Develop, fix bug. 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+ iMac 
+ iPhone, Android mobile 
+  
+Software environment 
+ Windows 8 
+ Ubuntu 
+ Mac OS 
+ MongoDB, ElasticSearch 
+ 
+Development tools  
+ Eclipse (Git) 
+ 
+Specific technologies 
+ NodeJS 
+ AngularJS, Ionic. 
+ 
+December 2012 – October 2015   
+Team Leader in Đà Nẵng Portal project  (DTT Technology Group) 
+Project: DNG6_7 
+ 
+Project Description: 
+     Đà Nẵng e-government Information Systems accept citizens register account .After staffs authenticate, 
+citizens can submit personal files and view process, getting result of processing. 
+Staffs receive files of citizens, handling, return result to citizens, making reports….  
+ 
+Project Scope: 
+ Define requirement 
+ Design technical solution. 
+ Coding and Setup 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+  
+Software environment 
+ Windows 7 
+ CentOS 6 
+ Tomcat 7, Jboss 7 
+ Oracle 11g
+
+6 
+ 
+Development tools  
+ Eclipse (SVN, Liferay SDK, Ant, CXF 2.6.1) 
+ Oracle SQL Developer 
+ 
+Specific technologies 
+ Liferay SDK 6 
+ Hibernate 3 
+ JSP, CSS, HTML, JavaScript, JQuery. 
+ CAS 3.5, OpenLDAP, Uengine, Pentaho. 
+ 
+July 2012 – December 2012   
+Team Leader in VPortal Project  (DTT Technology Group) 
+Project: MIC Portal 
+ 
+Project Description: 
+Develop Vportal for Ministry of Information and Communications by using Liferay Portal. System has 2  
+modules :  Portal Admin (manage Users, Groups,  personalized…, ) and Application Channels  (manage 
+Company Database, legal files, …) . 
+Project Scope: 
+ Define requirement 
+ Design technical solution. 
+ Coding and Setup 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+  
+Software environment 
+ Windows 7 
+ CentOS 6 
+ Tomcat 5.5 
+ Postgres 9.1 
+ 
+Development tools  
+ Eclipse 
+ SVN 
+    
+Specific technologies 
+ Liferay 5 
+ Hibernate 3 
+ JSP, CSS, HTML, JavaScript. 
+ 
+ 
+February 2012 – June 2012 
+Work onsite for StarHub Singapore – a partner of FPT Software 
+Project: eServices 
+ 
+Project Description:
+
+7 
+eServices is an online portal allows Starh ub’s Customers order a  Telecommunication Service, support 
+changes to the Order as well as track the Order’s state. Syst em also allows Starhub Staffs handle Sales 
+Orders like Approve, Accept, Reject ... 
+Project Scope: 
+ Define requirement 
+ Design technical solution. 
+ Graphic design 
+ Coding 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell PowerEdge 
+  
+Software environment 
+ Windows XP 
+ Weblogic 9.2 
+ Oracle 10g 
+ 
+Development tools  
+ WorkShop 
+ SVN  
+    
+Specific technologies 
+ Struts 1.3 
+ EJB 2.0 
+ JSP,  CSS, HTML, JavaScript.
+
+8 
+July 2007 – February 2012 
+Java Web Developer  (eXo Platform) 
+Project: Collaboration Suite 
+ 
+Project Description: 
+Build Portlets: AddressBook, Calendar, Mail 
+ AddressBook :  manage your contacts , add contacts to groups , import, export contacts and  share 
+contacts to other users. 
+ Calendar : show Dates and Days of the Weeks, Months, Years , create Events, add events to group 
+calendar, import, export and share calendars to other users. 
+ Mail : Configuration host, port, account to send, receive email form Mail Servers, user can tag 
+messages to make easy to find them later.  
+Project Scope: 
+ Write base services. 
+ Definitions node type, implements solution follow  logical design come from product manager. 
+ Write User interface components. 
+ Coding and unit testing 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell Inspiron 
+ 
+Software environment 
+ Ubuntu 
+ JDK 1.5 
+ 
+Development tools  
+ Eclipse IDE 
+ SVN 
+ Maven, Cygwin 
+ 
+Specific technologies 
+ AJAX, JSON, REST Service,  JCR 170, JavaScript,  RSS, CSS, HMTL, XML, VCARD.
+
+9 
+ 
+January 2009 –July 2011 
+Java Web Developer (eXo Platform) 
+Project: Forum, FAQ  
+ 
+Project Description:  
+ Forum :  discussion site where people can hold conversations in the form of posted me ssages, can 
+edit, import, export Forums. 
+ FAQ : Frequently Asked Questions : user can post questions and admin will answer these questions. 
+ 
+Project Scope: 
+ Definition node type, implements solution follow logical design come from Product Manager. 
+ Write User interface components. 
+ Build import/export function base on XML to migrate versions. 
+ 
+Technologies Used: 
+Hardware environment 
+ Dell Inspiron 
+ 
+Software environment 
+ Ubuntu 
+ JDK 1.5 
+ 
+Development tools  
+ Eclipse IDE 
+ SVN 
+ Maven, Cygwin 
+ 
+Specific technologies 
+ AJAX, JSON, REST Service, JCR 170, JavaScript,  RSS, CSS, HMTL, XML. 
+ 
+ 
+ 
+_______________________________                 
+Signature                                                            
+Hoàng Quang Hưng

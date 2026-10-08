@@ -1,0 +1,120 @@
+NGUYEN KHANH TIEN
+Frontend developer
+Name
+Nguyen Khanh Tien Birth 21/08/1992 Phone
++ Email Address
+232 Le Van Viet, Tp. Thu Duc, HCM
+Facebook
+Overview
+- Over 3
+in programming with good communication and quick learning skills - Strengths: Front-end technology
+- Proficiency in HTML, CSS, JavaScript
+- Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model
+- Thorough under standing of Angular, 
+ and it score principles- Experience with popular 
+ workflows (such as Redux)- Familiarity with RESTful APIs
+- Strong Experience in: JavaScript (ReactJS, Angular), MySQL, JSON, API
+- Proficient use of source code management tools: SVN, GIT
+- Proficiency in operating systems: Windows
+- Ability to learn and apply new technology quickly
+- Current working location: Ho Chi Minh, Viet Nam
+years of experience
+Work experience
+1/2022 – Present
+FRELANCER Full-stack Developer
+Business online and get a job design facebook advertising campaigns
+Design webssite use React Js, Next Js based on project descriptions
+07/
+/2021FPT Software Q9 Frontend Developer
+Programme outsourcing projects
+Develop web module on given projects.
+1/2019 – 08/2020
+FPT Japan BrSE
+Develop web module based on customer of descriptions
+Support team offshore to exchange work with customers Japan
+07/2016 – 11/2018
+Global Cybersoft Programme outsourcing projects
+Develop web module on given projects.
+Education
+2010 – 04/2017
+HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY(HCMUT) Telecommunication electronic
+Level - Average
+Major -
+Trang
+1 / 3 ©
+
+Skills
+Main
+HTML, CSS, JavaScript (ReactJS, Angular) Node (ExpressJS)
+RESTful API, GraphQL
+MySQL
+Server (Apache, Log), Docker
+Other
+SVN, GIT Projects
+Frelancer
+(01/2022 - Present)
+Client
+Thien Minh Express Descriptions
+Develop Web travel Number of members
+3 Position
+Developer Responsibilities
+- Developer Technology in use
+- Frontend: ReactJS, NextJS - Backend: NodeJS
+FPT Telecom
+(05/
+/2021)Client
+FPT TELECOM Descriptions
+Maintain and develop web Number of members
+7 Position
+Developer Responsibilities
+- Developer Technology in use
+- Frontend: VueJS Dental Room
+(07/
+/2021)Client
+Japan Descriptions
+Develop web modul based on project descriptions Number of members
+30 Position
+Developer Responsibilities
+- Frontend Technology in use
+- Frontend: Angular Trang
+2 / 3 ©
+
+FLM900
+(01/
+/2020)Client
+Japan Descriptions
+- Migration from flash platform to angular platform Number of members
+100 Position
+Support Responsibilities
+- Read detail design and analyze documents Japanese and answer questions from offshore team
+Technology in use
+- Frontend: Angular, javascript - Others: Japanese
+Hoshizaki
+(06/
+/2019)Client
+Japan Descriptions
+Data link, maintain database based on detail design Number of members
+10 Position
+BrSE Responsibilities
+Project management, progress tracking Meeting with customer
+Technology in use
+Orther: Excell, Japanese Insurance
+(01/
+/2019)Client
+Japan Descriptions
+Develop insurance quotes for Japanese banks using VBA language Number of members
+7 Position
+Developer Responsibilities
+Developer Review code
+Technology in use
+Language: VBA Global Cybersoft
+(06/
+/2018)Client
+ICOOL Karaoke Descriptions
+Create web + mobile app ICOOL Karaoke Number of members
+6 Position
+Developer Responsibilities
+Frontend developer Tester
+Technology in use
+Frontend: Angular Trang
+3 / 3 ©

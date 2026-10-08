@@ -1,0 +1,151 @@
+NGUYỄN
+HUỲNH ANH
+Junior/Middle Full-Stack Developer
+and Team Lead
+SUMMARY
+Junior/Middle Developer specializing in web
+development and working with database. I
+want more challenges to improve myself for
+a better world. I am an easy to work with,
+dynamic, high discipline, high sense of
+responsibility, better in teamwork, friendly
+guys. Know and versed in numerous
+programming languages including HTML5,
+PHP, JavaScript, CSS, MySQL,…. 
+SKILL HIGHLIGHTS
+Team management
+Strong decision maker
+Problem-solving
+Innovative
+Strong support ability
+Connecting people
+Good teamwork skills
+Listening and analysis
+Proactive and responsible
+Quick learner with high adaptability
+ACHIEVEMENTS
+-Recognized as a student with significant
+contributions to the university's
+development in 2019, 2020, and 2020-
+2021.
+SOFT SKILL
+Leadership
+Organization
+Problem Solving
+Planning
+Management
+Delegation
+Customer Service
+Time Management
+Conflict Resolution
+WORK EXPERIENCE
+Bachelor's degree in Information Systems
+TON DUC THANG UNIVERSITY (2016 - 2022
+Oracle Cloud ERP Development 
+-Develop invoice, data
+-Data integration
+SBT - TTC GROUP (2020 -2021)
+SKILLS AND WEB/APP DEVELOPMENT
+EXPERIENCE
+Created website front-end with HTML, CSS,
+JavaScript, Bootstrap, TypeScript, Ant Design,
+, and more.
+Used ReactJS, React Native, NextJS, etc.
+Created back-end APIs and websites with PHP
+Laravel, Yii Framework.
+Worked with databases like MySQL, XAMPP,
+PostgreSQL, Postman, Docker, etc.
+Developed invoices and data on Oracle ERP.
+Created unit test case documents and tested
+applications.
+Knowledgeable in MVC, RESTful API, OOP, etc.
+Proficient in using Git.
+Experienced with NextJS, SWR.
+Fresher/Junior Developer 
+-Web/Application development
+S-PLUS SOFTWARE (2019 - 2022)
+-Web/Application development
+AB HORIZON (2022 - NOW)
+Full Stack Developer
+CONTACT INFOMATION
+Address: 5/6 DHT03 Tan Hung Thuan ward,
+District 12, HCMC
+Phone (Zalo): +
+Email:
+
+PROJECT EXPERIENCES
+ABE APPLICATION (DURING)
+Description: A web app with many modules and
+functions for a business (CRM, inventory, finance,
+sales, purchasing…)
+Position: Front End, Back End, Team Lead
+Technologies Used: PHP, ReactJS, NextJS, AntD,
+TypeScript, Yii
+Tools: XAMPP, SQLyog, Tortoise SVN
+Team Size: 12
+COLLIERS HOME VN (NOW IS
+AVISION YOUNG VN) (2023 – NOW)
+Description: Real estate business website
+Position: Front End, Back End, Database
+Management
+Technologies Used: HTML, CSS, JavaScript, PHP,
+Bootstrap, Yii
+Tools: Tortoise SVN, SQLyog
+Team Size: 4
+Other: Write UTC docs and testing
+HKBAV – HONG KONG BUSINESS
+ASSOCIATION VN (2023 – NOW)
+Description: A nice international organization with
+corporate members all over the world
+Position: Front End, Back End, Database
+Management
+Technologies Used: HTML, CSS, JavaScript, PHP,
+Bootstrap, Yii
+Tools: Tortoise SVN, SQLyog
+Team Size: 4
+COURSE REGISTER (2022)
+Description: A website for subject registration
+Position: Back End
+Technologies Used: PHP, Laravel
+Tools: Git, Postman, XAMPP, MySQL
+Team Size: 2
+Other: Write UTC docs and testing
+JSPS INSTRUCTIONAL (2022)
+Description: Education system, School System
+Position: Back End
+Technologies Used: PHP, Laravel
+Tools: Git, Postman, XAMPP, MySQL
+Team Size: 6
+KYUTECH SELF EVALUATION (2021)
+Description: Education system, collect documents
+from over the world
+Position: Back End
+Technologies Used: PHP, Laravel
+Tools: Git, Postman, XAMPP, MySQL
+Team Size: 12
+PAYMENT PLUGIN FOR
+CONVENIENCE NON-STAFF STORE IN
+LINEAPP (2021)
+Description: A plugin for paying when buying
+something from a store without staff
+Position: Front End, Back End
+Technologies Used: PHP, React Native, JavaScript
+Tools: Git, Docker, XAMPP, MySQL, Android
+Studio
+Team Size: 4
+BOSS – ROLAND DEVICE APPS
+Description: Software connected to the device
+Position: Front End
+Technologies Used: CSS, JavaScript
+Tools: Git
+Team Size: 2 - 6
+Other: Write UTC docs and testing
+SPCE (2D-3D) (2019 – INTERNSHIP IN
+S-PLUS)
+Description: Free web-based design software
+Position: Front End, Back End
+Technologies Used: HTML, CSS, JavaScript, PHP,
+Bootstrap
+Tools: Git, XAMPP
+Team Size: 4
+Other: Write UTC docs and testing

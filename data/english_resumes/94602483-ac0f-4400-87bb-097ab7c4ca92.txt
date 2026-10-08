@@ -1,0 +1,72 @@
+Contact Me Work Experience
+Data Engineer
+Phu Nhuan Jewelry Joint Stock Company ( PNJ ) 
+Sep 2021 - Nov 2022 (1 yr, 2 mos)
+1. Main responsibilities:
+Maintain and build all data pipelines for PNJ Corp and its
+members ( approximate 300 jobs )
+Working and handle billions records ( ~ 3 millions
+records for daily )
+Release nearly real-time report serving up to 200 end-
+users view report daily. Also, 30 end-users for self-
+serving report.
+Extract data from diverse sources (Relational Database,
+NoSQL, Social )
+Ensuring stable system operation up to 95% and SLA
+4.9/5 in serving user.
+2. Achievement:
+Build and maintain Incentive project ( ~ 5000 active end-
+users view data on App/Web/Dashboard )
+Build and maintain Camera AI project
+3. Technology
+Talend, SSIS, MongoDB , Mssql, Power BI, SSAS, SAP
+Working as Digital Transformation Center department to collect demands from other
+departments, understanding their pain points to build meaningful daily report to help them
+making right decision at right time.
+Email: 
+Address: Go Vap Dist, HCMC
+Phone: 
+Technology
+OS: Linux, Window
+Programming Language: SQL, Python
+Storage: Mssql, mySQL, MongoDB, Hadoop, sFTP
+Processing Engine: Pandas, pyspark, DBT
+BI Tools: Power BI, DAX
+Data Oschestration: Airflow
+CI/CD: Git
+Hoa Nguyen
+Data Engineer | BI Solutions
+1. Main responsibilities:
+Work closely with end-users and vendors to enrich data
+warehouse and enhance operation report
+Develop all data pipelines for Kimberly Clark Viet Nam -
+make sure daily operation report run well ( ~ 50 pipeline )
+Daily Operation: Maintain data pipeline, server, backup
+database, optimize query execution
+2. Achievement:
+Leading project to apply row-level security in excel report
+for avoid leaking data ( team size : 3 members )
+2. Project:
+Key member as data engineer role joining project revamp
+data warehouse for whole kimberly clark Viet Nam ( team
+size : 7 members )
+3. Technology
+sFTP, mssql, python ( pandas, pyspark ), airflow, power
+bi
+Data Engineer
+Kimberly-Clark Viet Nam ( Feb 2023 - Current )
+Small BI Team work under Sales Operation Department, interact with other departments
+and IT Regional to enrich raw data and build value KPIs.
+Education
+Bachelor of Management Information System 
+Institution: Hoa Sen University
+Year of Graduation: 2021 with GPA: 3.43/4
+Next step goal: be the part of  big data world
+Language
+English ( Aptis B2 Level )
+On-learning
+Cloud Service
+Big Data Framework
+External link
+Github: 
+Linkedin:

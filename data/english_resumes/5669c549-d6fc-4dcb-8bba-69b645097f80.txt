@@ -1,0 +1,135 @@
+Author 
+ 
+  
+ 
+CURRICULUM VITAE 
+Personal Information 
+Date of birth : 28-Mar-1991 
+Gender : Male 
+Phone :  
+Email :  
+ 
+Skill Summary 
+1 year working as a Scrum Master/Team Lead. 
+Leading a Scrum team which is 8 members. Delivered 19 sprints 
+successfully 
+Got PSM 1 Certification. 
+Be able to build up and strengthen team members' s skillset of both 
+Technical/Communication 
+My management style is coaching, participative and collaborative 
+Recently, I have worked in multiple projects that relate to Supply Chain 
+management business domain. 
+Before 2022, worked as a full stack senior developer 
+(Angular/React/Dotnet/SQLdb/Neo4jdb) 
+ 
+ 
+ 
+ 
+Technical Skills 
+ Methodologies & Tools -Scrum/Kanban methodologies 
+-VSTS,Jira,TFS,Redmine 
+-Visual Studio 2022, Git,TFS,SVN, Visual Studio 
+Code, Robomongo 
+ Programming languages BackEnd: C#, Dotnet Core,  MVC, Razor 
+pages. 
+FrontEnd: Angular,React,TypeScript,JavaScript, 
+jQuery, HTML, CSS 
+ Database Neo4j, SQL Server, MongoDB, MSSQL 
+ Frameworks & Libraries & Services .Net Core, Neo4j, Docker ( Docker File & Docker 
+compose), Entity Framework, Auto-mapper, 
+Huynh Minh Tu
+
+Author 
+Nhibernate, Telerik  MVC Extension, 
+KendoUI... 
+Working experience 
+ 
+Project NashTech – Project Achilles 
+Duration 13-Jan-2022 - 31-Oct-2022 
+Project Description 
+Achilles Group Limited provides technology solutions for supplier 
+management services. Their products are used by many suppliers 
+and buyers around the world not only for suppliers to find business 
+opportunities but also guarantee suppliers by assessment and audits. 
+Project Technology 
+- Frameworks: Dotnet core 2.x, Angular 5.x, NGRX, SignalR 
+- CI/CD: VSTS, Jenkins, Docker 
+- DB: SQLServer, NEO4J 
+My Position Team Leader – Scrum Master 
+My Responsibility 
+• Perform coding, coaching, leading the development team 
+• In charge for all technical aspects of project 
+• Monitor and manage the team. Resolve any impediment within the 
+team, between the team and client. 
+• Raise issues that can impact the development alongside the great 
+suggestions on how to resolve efficiently 
+• Support BA/TA/PO about Business aspects. 
+• Perform review code 
+• Research and provide technical solution for difficult problem if 
+needed 
+ 
+ 
+Project NashTech – Project Achilles 
+Duration 06-Jul-2020 - 12-Jan-2022 
+Project Description 
+Achilles Group Limited provides technology solutions for supplier 
+management services. Their products are used by many suppliers 
+and buyers around the world not only for suppliers to find business 
+opportunities but also guarantee suppliers by assessment and audits. 
+ 
+Project Technology - Frameworks: Dotnet core 2.x, Angular 5.x, NGRX, SignalR
+
+Author 
+- CI/CD: VSTS, Jenkins, Docker 
+- DB: SQLServer, NEO4J 
+My Position Senior Software Engineer 
+My Responsibility 
+• Make the detailed designs for assigned tasks. 
+• Write code based on detailed designs and Functional/Requirement 
+Specifications 
+• Perform peer code review in team 
+• Perform full unit test on the assigned tasks 
+• Implement unit test 
+• Incident and bug fixing 
+ 
+ 
+Project NashTech – Project MediaBrands 
+Duration 12-May-2015 - 08-May-2020 
+Project Description 
+Mediabrands APAC – a subsidiary one out of five major networks 
+belonging to IPG Group which is one of the "Big Four" advertising 
+agencies around the globe, possessing a large exposure in the APAC 
+region across 9 countries comprising of Japan, India, China, Hong 
+Kong, Taiwan, Malaysia, Singapore and Philippines. 
+NT provides BAU support for different media platforms serving APAC 
+markets: 
+1/ L1/2/3 support in which NT team interact directly with Mediabrands' 
+agency users accross countries in APAC region 
+2/ Enhancement development, system/platform 
+upgrade/customization for particular market. 
+Project Technology 
+.NET Application, .NET 4.0,  2.0, ASP MVC 5.0, SQL 
+Server 2005/2008/2012, VB Script 
+My Position Software Engineer 
+My Responsibility 
+- Implement new CRs in H1 
+- Support to implement new CRs in H2 Asean 
+- Bug fixing 
+- Support other member in team ( including QC and other Dev 
+members ) 
+- Investigate Ad-hoc TBS tickets, implement ad-hoc data patch tickets 
+- Deployment tasks
+
+Author 
+ 
+ 
+Education, Qualifications and Special Achievements 
+ 
+Major University & College  Graduated Year 
+Bachelor - Software Engineering FPT University 2013 
+ 
+Course/Certification 
+ 
+Name Duration Category Achievement 
+Professional Scrum 
+Master 1 2020 - 2020 Soft Skill Got PSM 1 from

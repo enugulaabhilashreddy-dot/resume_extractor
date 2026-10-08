@@ -1,0 +1,168 @@
+CERTIFICATIONS
+ International Software Testing 
+Qualification Boards (ISTQB) Foundation
+Certificate (CTFL)
+2018: ISTQB Agile Tester Certificate
+PRACTICAL
+EXPERIENCE
+I am a senior tester (especially skills in
+agileteams) with 14 years experienced full
+time (2007 - present). I have experience
+with app/web functional testing, API
+testing, automation testing (Selenium) &
+good at SQL Server/My SQL.
+I would like to learn and challenge myself
+with new technologies
+SKILLS
+ Language
+English (Toeic 640)
+ Soft skills
+ • Having sense of responsibility and
+deliberation.
+ • Ability of working in group or alone
+ Female
+ Feb 09, 1983
+
+ 
+ 
+  Đa Nang, Viet Nam
+I would like to apply to your company as a Senior Tester.
+I have the applicable education, training, and experience that you are requesting
+of your Senior Tester candidates. I have certificate, over many years as a Senior
+Tester in big projects, and outstanding supervisory, analytical and regulation
+capabilities. I also have great communications and team playing skills to offer. 
+I wish to share my knowledge with everyone, especially young people.
+I know my skill sets described, my education, and my experience in maintaining
+and creating new quality control programs could bring a world of benefit to your
+company. 
+ Da Nang University of Technology University
+Major: Information Technology
+- Graduation: Good
+Formos Vietnam Company
+TESTER  Mar 2019  -  Present
+RESPONSIBILITIES:
+ • Create test plan.
+ • Study requiment from Customer. 
+ • Create test case, test data
+ • Peer review test case of member’s my team 
+ • Test GUI, test function (include SQL)
+ • Test API (Postman)
+ • Test Automation (Selenium)
+ • Catch bug, log bug, report bug.
+ • Receive feedback from the customer.
+PROJECT PARTICIPATION
+- Project 3
+ • Purpose:  Build system to call investment capital for funds.
+ • Team size: 8 members.
+ - Project 2
+ • Purpose: Build system to manage full work flow on e-learning system
+ •Team size: 7 members.
+ - Project 1
+  • Purpose: Build system to manage full work flow on corporate housing
+management system
+  • Team size: 10 members.
+NGUYEN THI ANH TAM
+SENIOR TESTER
+OBJECTIVE
+EDUCATION
+WORK EXPERIENCE
+
+INTERESTS
+I like music, shopping, reading,..
+FPT Software Company
+TESTER/TEST LEAD
+ 
+Feb 2007
+ 
+ - 
+ 
+Feb 2019
+RESPONSIBILITIES
+:
+ • Create test plan.
+ • Study requiment from Customer. 
+ • Create test case (Visual Studio 2012), test data
+ • Review/peer review test case of member’s my team 
+ • Support Unit Test
+ • Test GUI, test function (Quick Test Pro/ SQL)
+ • Test Automation (Rational Robot 2003)
+ • Test API (Postman)
+ • Catch bug, log bug, report bug.
+ • Receive feedback from the customer.
+ • Support UAT & go live
+ • Mentor new tester
+PROJECT PARTICIPATION
+- Project 12
+  • Purpose: Build system to manage full work flow on contract management
+system.
+  • Team size: 72(MM).
+- Project 11
+ • Purpose: Build system to manage the location of raw materials in the
+carcass production plant..
+ • Team size: 32(MM).
+- Project 10
+ • Purpose: Federal Mogul has the need to enhance an existing desktop-
+based application currently written in MS Access (Air Freight Approval
+System). This system allows Federal Mogul Plants (around 100) to calculate
+Air Freight from F-M' s two preferred shipper (Forwarders) namely DHL and
+HELLMANN. The system is also used for Approval and Order Placement,
+calculating Ocean freight. The Rate table are offered specifically to F-M by
+the two shippers are pre-loaded into MS Access System once a year or
+whenever there are changes. This product is to bring the system on to the
+web with following main.
+ • Team size: 14(MM).
+- Project 9
+• Purpose: United Parcel Service, Inc. (UPS) is the world's largest package
+delivery company and a provider of supply chain management solutions.
+UPS’s Operations Division wants to have a solution for a customer portal
+that includes both content and BI analytics dashboard for the Brokerage
+business line. The customer portal would allow UPS’s customers to see
+news related to their industry, see and contact their Broker team leader and
+see analytics, metrics on shipments status and performance with the ability
+to drill down to detailed levels.
+ • Team size: 43(MM).
+- Project 8
+• Purpose: QMIS is the official Powertrain system for reporting
+manufacturing customer satisfaction performance including quality,
+delivery. Plant quality department is responsible for submitting monthly
+quality data into QMIS. Plant Finance department is responsible for
+submitting delivery performance (Level 3) data into QMIS.
+ • Team size: 52(MM).
+- Project 7
+• Purpose: Build enterprise applications (iOS/Android) with cross platform
+
+Xamarin for a Title Insurance corporation.
+ • Team size: 22(MM).
+- Project 6
+• Purpose: Convert 120 reports from CCE to RQ1 application
+   • Team size: 6(MM).
+- Project 5
+• Purpose: The main objective of this project is to convert DocRouter
+application from desktop application to web application and implement
+some enhancements .
+ • Team size: 229.26(MM).
+- Project 4
+• Purpose: ERP is an organization’s management system which may include
+financing, distribution, accounting, inventory management, sales, marketing,
+planning, human resources, manufacturing, and other operating units.. •
+Team size: 32(MM).
+- Project 3 
+• Purpose: Converting a stand-alone Contact Management Application
+supported in VB 6.0 to the GRiDS architecture which is based on the
+Microsoft .NET 3.5 framework ( ).
+• Team size: 12(MM).
+- Project 2
+ • Purpose: 
+    + Implement 52 CRs
+    + Create 5 new reports for DMS group
+    + Implement hot patch to fix issues for the last release
+    + Create “Funds On Deposit” data conversion program
+    + Support ORTRIS/DMS users
+    + Build EVRGREEN website by CMS
+    + Imrove performance and create proposal about performance.
+ • Team size: 15(MM).
+- Project 1
+ • Purpose: Develop Vendor management system for Title Insurance
+company..
+ • Team size: 1990(MM).
+©

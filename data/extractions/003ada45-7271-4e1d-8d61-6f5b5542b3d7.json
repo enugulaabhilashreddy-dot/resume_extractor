@@ -1,0 +1,42 @@
+{
+  "name": "TUNG NGUYEN",
+  "email": "Not available",
+  "phone": "Not available",
+  "skills": [
+    "HTTP",
+    "OOP",
+    "SOLID",
+    "Design Patterns",
+    "HTML",
+    "CSS",
+    "JS",
+    "React",
+    "JQuery",
+    "KnockoutJs",
+    "Bootstrap",
+    "PHP",
+    "Laravel",
+    "Phalcon",
+    "Magento2",
+    "Expressjs",
+    "APIs",
+    "MySQL",
+    "Linux",
+    "Git",
+    "Docker",
+    "K8S",
+    "CI/CD",
+    "Gitlab",
+    "IaC",
+    "CloudFormation",
+    "AWS",
+    "WordPress",
+    "Google Ads",
+    "Facebook Marketing",
+    "SEO"
+  ],
+  "years_of_experience": 6.8,
+  "qualifications": [
+    "Diploma Of Information Technology, Ton Duc Thang University"
+  ]
+}

@@ -1,0 +1,141 @@
+/
+Nguyễn Hữu Nhân
+c c
+Dsadsa
+c
+ Kinh Nghiệm Làm Việc
+Mô tả công việc:
+Mô tả công việc:
+CÔNG TY TNHH HÀNG KHÔNG LỮ HÀNH VIETRAVELAIRLINES
+CHUYÊN VIÊN
+- Hỗ trợ các đại lý OTA kết nối API từ hệ thống Radixx.
+- Lấy data PSS Enhanced từ hệ thống Radixx bằng FTP hỗ trợ công 
+tác nội bộ:
+  + Tiến hành phận tích thiết kế và viết phận mềm đối soát tự động 
+thanh toán với các đối tác ngân hàng, và website kiểm tra đối soát 
+cho bộ phận Tài Chính.
+  + Website thống kê các báo cáo bán, dasboard cho bộ phận tài 
+chính kế toán.
+  + Website thống kê báo cáo doanh doanh thu bay, doanh thu 
+services, SSR của từng chuyến bay cho bộ phận Thương Mại và Kế 
+hoạch Phát Triển.
+- Lấy danh sách hành trình tự động từ hệ thống AIMS, hỗ trợ cho 
+IOCC sắp lịch bay
+- Lấy tự động các PNR từ API để cho trưởng các bộ phận đánh giá 
+chuyến bay.
+- Bóc tách dữ liệu PRL từ cảng (tự động) để hỗ trợ Helpdesh, GO 
+đóng chuyến bay.
+- Website tự động cập nhật tên, tạo mới danh dánh vé đoàn cho 
+Thương Mại, Phòng Vé và vé nội bộ của nhân viên.
+PACIFICAIRLINES
+CHUYÊN VIÊN
+- Lấy danh sách chuyến bay, hành khách, đặt chỗ để phục vụ công 
+tác nội bộ.
+- Phận tích thiết kế và viết phận mềm Staff Travel.
+- Báo cáo chuyến bay của tiếp viên và phi công.
+- Phận tích thiết kế và viết phận mềm Cargo.
+- Phận tích thiết kế và viết phận mềm Elibrary.
+- Phận tích thiết kế và viết phận mềm Mua Hàng nội bộ.
+- Phận tích thiết kế và viết phận mềm Quản Lý Hợp Đồng.
+- Phận tích thiết kế và viết phận mềm In hóa đơn đặt chỗ offlin 
+CÔNG TY CỔ PHẦN TIN HỌC LẠC VIỆT
+CHUYÊN VIÊN
+
+
+
+Mục Tiêu Nghề Nghiệp
+Được làm việc trong môi trường 
+chuyên nghiệp, có cơ hội thăng tiến 
+cao.
+Được hưởng các chế độ theo luật 
+lao động và mức lương hấp dẫn.
+Thông Tin Cá Nhân
+
+
+
+
+
+Nam
+Thủ Đức, Hcm
+Tin Học
+Words    
+Excel    
+Power Point    
+Outlook    
+Tiếng Anh
+Nghe
+Nói
+Đọc
+Viết
+c
+c
+ Học Vấn
+Tên bằng cấp: 
+Chuyên ngành: 
+Loại tốt nghiệp: 
+Trung Tâm Đào Tạo Lập Trình Viên Quốc Tế Aprotrain Aptech
+Aprotrain Aptech
+Lập Trình C#
+Khá
+
+
+/
+Mô tả công việc:
+Thành tích đạt được: 
+Mô tả công việc:
+Mô tả công việc:
+- Tham gia phát triển bộ CORE ERP trên nền tảng Entity 
+Framework.
+- Xây đựng hệ thống Kiều Hối cho Ngân Hàng Bắc Á , SBR.
+- Xây dựng hệ thống Cân Hàng và QAQC cho công ty đồng 
+NgoHan.
+- Tối ưu hóa code và tiện ích cho người sử dụng,cải thiện 
+Performance.
+- Phát triển các method generator để tối ưu hóa thời gian code các 
+màn hình .
+-Tham gia sửa lỗi và chỉnh sửa hệ thống theo nhu cầu từng khách 
+hàng.
+- Luôn được khách hàng và quản lý đánh giá cao về sự tận tâm với 
+công việc đã nhận.
+... Có thể trao đổi thêm khi phỏng vấn.
+Luôn được khen thưởng cuối năm
+CÔNG TY CỔ PHẦN DMS
+CHUYÊN VIÊN
+- Tham gia chỉnh sửa theo yêu cầu của khách hàng trên hệ thống 
+SAP.
+- Thống kê các báo cáo.
+- Học hỏi quy trình và nghiệp v 
+CÔNG TY FUJINET CỦA NHẬT 
+THỰC TẬP - NHÂN VIÊN
+Tích lũy kinh nghiệp khi ra trường.
+
+
+c
+ Kỹ Năng
+Kỹ năng chính: 
+Kỹ năng khác: 
+- Thành thạo ngôn ngữ C# và các công nghệ 
+ Entity Framework,  CORE, MVC, MVC  
+Framework Core, LinQ.  
+- Thành thạo HTML, CSS, JQUERY, AJAX, BOOTSTRAP, React JS  
+- Thành thạo SQL server, Stored Procedure, View.  
+- Thành thạo Kendo UI, Telerik Control (UI phát triển Web).  
+- Am hiểu lập trình hướng đối tượng (OOP), design pattern, 
+RESTFul API. 
+- Tư duy lập trình tốt, có khả năng học hỏi, nghiên 
+cứu công nghệ mới theo yêu cầu công việc một cách nhanh chóng.  
+- Có kỹ năng phân tích, đánh giá và tìm giải pháp cho các vấn đề 
+mới.  
+- Có tinh thần trách nhiệm, có khả năng tính toán, lập kế hoạch và 
+cam kết thực hiện công việc đúng kế hoạch.  
+- Có hiểu biết về Seleniu,HttpRequet drawing Website(draw 
+website).  
+- Có hiểu biết về ngôn ngữ LUA, đã từng làm game lậu của 
+TENCENT, có hiểu biết về một số tool Compress and DeCompress 
+exe,dll. 
+
+c
+ Sở Thích
+Thích đi du lịch và code
+
+/

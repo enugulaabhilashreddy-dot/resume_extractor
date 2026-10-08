@@ -1,0 +1,641 @@
+1 
+Do Anh Tuan’s CV - Confidential  
+ 
+                        
+Do Anh Tuan 
+PERSONAL DETAILS 
+ 
+•  Name  Do Anh Tuan  
+•  Nationality  Vietnamese 
+•  Date of Birth  Jan 5 th , 1988 
+•  Sex  Male 
+•  Phone No. (   
+•  Email   
+ 
+ 
+EDUCATIONAL BACKGROUND 
+Period Institution Degree 
+2007 - 2011 FPT University - Software Engineering Bachelor 
+  
+ 
+PROFESSIONAL SUMMARY 
+•  8.5 years’ experience in software testing. 
+•  1.5 years’ experience in software developing. 
+•  Willing working overtime. 
+•  Hard working and high responsibility. 
+•  Strong in teamwork. 
+•  Strong in communication. 
+•  Know automation test and performance test. 
+•  Have experienced in Scrum Software Development /Agile Software Development. 
+•  Skillful in English and Japanese (writing, reading, speaking). 
+o TOEIC ~ 600 
+o Japanese ~ N3 
+SOFTWARE 
+•  Databases : MS SQL server, Mongo DB 
+•  Programming Languages:  C, C++, Cobol, Java 
+•  Programming Tools: Visual Studio 2008, Eclipse, Redwood HQ, Selenium Driver, 
+JMeters  
+•  Browsers : Internet Explorer, Firefox, Chrome, Safari.  
+ 
+OPERATING SYSTEMS 
+•  Microsoft Windows 2000, XP, Vista, 7, 10 
+•  Windows Server 2003, 2008.
+
+2 
+Do Anh Tuan’s CV - Confidential  
+ 
+PROFESSIONAL EXPERIENCE 
+Work Experience 
+ 
+Mar 2024 – July 2024 
+Position  Test Leader  
+Organization  Viettel  Software  
+Job description Create Test Plan 
+Create Test Schdule 
+Manage resource team 
+Tracking tasks is in progress  
+Improve process testing 
+Create Test Report 
+Manage manual test / auto test  
+ 
+ 
+Jan 2023 – Mar 2024 
+Position  Co -founder/Manager  
+Organization  BKPlus Software  
+Job description  Start -up Company  
+ 
+ 
+Nov 2021 – Dec 2022 
+Position  Test Leader  
+Organization  FPT Software  
+Job description Create Test Plan 
+Create Test Schdule 
+Manage resource team 
+Tracking tasks is in progress  
+Improve process testing 
+Create Test Report 
+Execute manual test 
+Manage auto test  
+ 
+ 
+Jun 2021 – Sep 2021 
+Position  Test Manager  
+Organization  AHT  
+Job description Create Test Plan 
+Create Test Schdule 
+Manage resource team 
+Tracking tasks is in progress  
+Improve process testing 
+Create Test Report 
+Training skills for members
+
+3 
+Do Anh Tuan’s CV - Confidential  
+ 
+Jun 2019 – May 2021 
+Position  Senior Manual/A utomation QA  
+Organization  Wize Solutions  
+Job description Study requirements 
+Configured environment 
+Create test plan 
+Create auto test cases 
+Execute auto test 
+Execute manual test 
+Create Test Report  
+ 
+ 
+April 2018 – May 2019 
+Position  Senior Manual/Automation QA  
+Organization  Tek Experts  
+Job description Study requirements 
+Configured environment 
+Create test plan 
+Create auto test cases 
+Execute auto test 
+Execute manual test 
+Create Test Report  
+ 
+ 
+November 2016 – April 2018 
+Position  Junior  Automation/P erformance test er  
+Organization  Doctella  
+Job description Study requirements 
+Configured environment 
+Create test plan 
+Create test policy 
+Create function list 
+Create test matrix 
+Create Changed List confirm based on Changed item list 
+Create auto test cases 
+Execute auto test 
+Execute performance test 
+Create Test Report  
+ 
+November 2015 – November 2016 
+  
+Position Senior Tester  
+Business Analyst (BA) 
+Organization Hong Ngoc General Hospital
+
+4 
+Do Anh Tuan’s CV - Confidential  
+ 
+Job description Analyze the actual processes of hospital (xét nghiệm, chuẩn đoá n hình 
+ảnh,etc) and documents its business or processes. 
+Create requirement for all modules to help developers understand the 
+structure, policies, and operations of hospital and have recommend 
+solutions to resolve the business problems. 
+Process Design – to standardize the organization’s workflows by dataflow 
+diagrams or flowcharts. 
+Interface design – build mockup for all screens to help developers code. 
+Configured environment. 
+Create test policy 
+Create function list 
+Create test matrix 
+Create Changed List confirm based on Changed item list 
+Create test cases 
+Execute System Test & Confirm bug fixed  
+Create test scripts (basic) 
+Create Test Report. 
+Create Guide to help users use new system. 
+Training for users (doctors, nurses) about new system and collect feedbacks 
+to improve system in next phase. 
+ 
+July 2012 – June 2015 
+ 
+Position  Senior Tester  
+Organization  FPT Software  
+Job description Study requirements 
+Configured environment 
+Create test policy 
+Create function list 
+Create test matrix 
+Create Changed List confirm based on Changed item list 
+Create test cases 
+Execute System Test & Confirm bug fixed 
+Create Test Report 
+ 
+ 
+July 2011 – June 2012 
+ 
+Position Developer 
+Organization FPT Software
+
+5 
+Do Anh Tuan’s CV - Confidential  
+ 
+Job description Study requirements 
+Configured environment 
+Create test cases matrix 
+Coding and fix bugs 
+Unit Test 
+Mar 2011 – June 2011 
+ 
+Position  Tester  
+Organization  FPT Software  
+Job description Study requirements 
+Configured environment 
+Execute System Test & Confirm bug fixed 
+Create Test Report 
+ 
+ 
+April 2009 – December 2009 (Internship) 
+ 
+Position  Developer   
+Organization  FPT Software  
+Job description Study requirements 
+Configured environment 
+Create test cases matrix 
+Coding and fix bugs 
+Unit Test
+
+6 
+Do Anh Tuan’s CV - Confidential  
+ 
+Project List 
+ 
+Digital Process Management                                      Mar 2024 – Present 
+Position Test lead 
+Environment Windows 
+Microsoft Edge  / Google Chrome (latest version)/Mozilla Firefox (latest 
+version)/Safari 
+ 
+Project Description T Manage all phases of software processing in Viettel Software online 
+     Responsibilities: 
++ Create Test Schdule 
++ Manage resource team 
++ Tracking tasks is in progress  
++ Improve process testing 
++ Create Test Report 
++ Execute test 
+ 
+Customer  
+Team Size  
+Viettel Software 
+20 
+ 
+Sysmex CWS                                           Sep 2022 – Dec 2022  
+Position Senior Test 
+Environment Windows 
+Microsoft Edge  / Google Chrome (latest version)/Mozilla Firefox (latest 
+version)/Safari 
+ 
+Project Description T Sysmex conducts integrated R&D, manufacturing and sales and provides support 
+services for the instruments, reagents and software for in-vitro testing of blood, 
+urine and cells.  
+  Sysmex CWS provides a web based hematology information management 
+application which: 
+ ▪ Receives orders from LIS 
+ ▪ Gets the results from appropriate analyzers 
+ ▪ Performs complex rules to qualify the results before they are sent to the LIS via 
+E-IC. 
+ ▪ The aim of this project is to re-platform the existing WXI system on MPL
+
+7 
+Do Anh Tuan’s CV - Confidential  
+ 
+Uniface, Red Hat Linux, and Oracle DB platform to an open, modular, cloud-
+ready platform to improve high availability and scalability of a flagship WXi 
+product (hereinafter referred to as “WXi”) while enabling the capabilities of 
+modernization in the long term. 
+     Responsibilities: 
++ Create Test Schdule 
++ Manage resource team 
++ Tracking tasks is in progress  
++ Improve process testing 
++ Create Test Report 
++ Execute manual test 
+ 
+Customer  
+Team Size  
+Sysmex, Japan 
+45 
+ 
+ 
+ 
+Aladdin Bank Portal                                           Nov 2021 – May 2022 
+Position Test Leader 
+Environment Windows 
+Microsoft Edge  / Google Chrome (latest version)/Mozilla Firefox (latest 
+version)/Safari 
+PostgreSQL   
+Project Description T This is a one -stop platform that creates a wide connection between Customers 
+and Financial institutions. This mobile app aims to support customers to avail 
+financial services from the app itself. The app connects to vendor services to 
+verify the applicant's information and then submit the application to banks. 
+Then, based on certain sets of criteria (i.e. Product Filter, Credit Preference, 
+KYC Preferences, Employment Preferences.), the Financial Institution will 
+assess and approve the qualified application . 
+     Responsibilities: 
++ Create Test Schdule 
++ Manage resource team 
++ Tracking tasks is in progress  
++ Improve process testing 
++ Create Test Report 
++ Execute manual test 
++ Manage auto test
+
+8 
+Do Anh Tuan’s CV - Confidential  
+ 
+Customer  
+Team Size  
+Standard Chartered 
+33 
+ 
+Wize                                           Jun  2019 – May 2021  
+Position Senior Automation QA 
+Senior Manual QA 
+Environment Windows 
+Microsoft Edge  / Google Chrome (latest version)/Mozilla Firefox (latest 
+version)/Safari 
+SQL 
+Language: Java 
+Test Tools: Redwood HQ/ Selenium 
+ 
+Project 
+Description 
+R   Wize develops cutting-edge software solutions that enable organizations to 
+deliver better customer experiences by harnessing the power of people and 
+technology. Their innovative software solutions employ automation, AI and 
+machine learning to help companies improve how they operate, deliver 
+services and provide maximum value to their customers.  
+Be Responsible for the Quality of product:   
+       + Create auto test cases, test data, and execute testing, test results, report. 
+       + Support manual test   
+Customer  
+Team Size  
+Tek Experts 
+70 
+ 
+Tek Travel                                           April 2018 – May 2019  
+Position Senior Automation QA  
+Senior Manual QA  
+Environment Windows 
+Microsoft Edge  / Google Chrome (latest version)/Mozilla Firefox (latest 
+version)/Safari 
+SQL 
+Language: Java 
+Test Tools: Redwood HQ/ Selenium
+
+9 
+Do Anh Tuan’s CV - Confidential  
+ 
+Project 
+Description 
+Developed a travel website to manage business travels includes travel plan, 
+travel budget, travel meeting, …  in Tek Experts. 
+R    Be responsible for the Quality of product:  create auto test cases, test data, 
+and execute testing, test results, report.  
+Customer  
+Team Size  
+Tek Experts 
+5 
+ 
+Doctella                                           November 2016 – April 2018  
+Position Automation QA  
+Environment Windows/Linux 
+IE 9/ Google Chrome (latest version)/Mozilla Firefox (latest version)/Safari 
+Mongo SQL. 
+Language: Java/PHP/Node JS 
+Test Tools: Redwood HQ/ JMeter 
+ 
+Project 
+Description 
+Doctella enables doctors to deliver checklists and workflows to patients and 
+their caregivers to monitor their participation in real time. The secure cloud 
+platform is deployed at Johns Hopkins and is being piloted by other leading 
+institutions and private practices. 
+Healthcare's insular culture and fragmented processes can lead to medical errors 
+and make patients feel they are not at the center of their own care. Doctella   
+aims to re-shape doctor patient interaction by using a secure cloud platform, 
+interactive apps, machine learning and natural language generation. 
+R    Be responsible for the Quality of product:  create auto test cases, test data, 
+and execute testing, test results, report.  
+Customer  
+Team Size  
+Doctella 
+30
+
+10 
+Do Anh Tuan’s CV - Confidential  
+ 
+E-Hospital 2.0                                           November 2015 – November 2016  
+Position QA 
+Business Analyst  
+Environment Windows. 
+IE 9/ Google Chrome (latest version)/Mozilla Firefox (latest version). 
+My SQL. 
+Language: PHP/ Yii 2.0 - Yii Framework 
+ 
+Project 
+Description 
+Developed an electric hospital website to manage hospital. 
+    Be responsible for the Quality of product: create requirement, create test cases, 
+test data, and execute testing, report test results. 
+Customer   
+Team Size                 
+ 
+Hong Ngoc General Hospital 
+11 
+ 
+ECH_Summer                                           April 2015 - Jun 2015  
+Position QA 
+Environment Microsoft Windows 7 
+IE 9, Google Chrome (latest version), Mozilla Firefox (latest version) 
+Windows Server 2008, MS SQL server 
+JMeters 2.13 
+Project 
+Description 
+Test performance for website hospital: load testing, stress testing. 
+Responsibilities:  
+Be responsible for the Quality of software product: Study requirement, create 
+test cases, test data, and execute testing, report test results. 
+Customer   
+Team Size                 
+ 
+US – El Camino Hospital 
+6
+
+11 
+Do Anh Tuan’s CV - Confidential  
+ 
+Preventice Merck Medication Adherence           Sep 2015 – Dec 2015  
+Position QA 
+Environment Microsoft Windows 7 
+Browser ：IE 9, Google Chrome (latest version) , Mozilla Firefox (latest 
+version) 
+Windows Server 2008, MS SQL server  
+Project 
+Description 
+Develop the website which allow healthcare consumers, and healthcare 
+professionals to connect with each other to share health related 
+information and to leverage resources, tools (trackers, reports, etc.) and 
+interactive programs to increase medication adherence. 
+Responsibilities:  
+Be responsible for the Quality of software product: Study requirement, 
+create test cases, test data, and execute testing, report test results. 
+Customer   
+Team Size                 
+ 
+US – MERCK GLOBAL SERVICES 
+1  
+  
+ 
+Cloud Load Test ) April  201 4 – Sep 201 4 
+Position QA  
+ 
+Environment  
+ 
+Microsoft Windows 7. 
+Browser ：IE 9, Google Chrome (latest version), Mozilla Firefox (latest 
+version). 
+Amazon Services . 
+Project 
+Description 
+Develop the website which Provides a service that allows users to test 
+their web-applications or websites using state-of-the-art technologies and 
+cloud-computing resources. 
+ 
+Responsibilities: Be responsible for the Quality of software product: 
+Study requirement, create test cases, create test plan, test data, and 
+execute testing, report test results.  
+         
+Customer 
+Team Size                 
+ 
+US  - AMAZON  
+7
+
+12 
+Do Anh Tuan’s CV - Confidential  
+ 
+Audio Photo July 2013 – Mar 2014  
+Position   QA  
+Environment   IOS, Android  
+Project 
+Description 
+Develop the application on Smartphone which can shooting or take photo 
+from library and merge with sound/music. So, build new video/clip 
+successful from that. This video/clip can send via MMS or email.   
+ 
+Responsibilities: 
+Be responsible for the Quality of software product: Study requirement, create 
+test data, execute testing, report test results. 
+ 
+Customer 
+Team Size                 
+ 
+American - CORSOURCE 
+20 
+ 
+ 
+ 
+[PMC] Zoro-Product Jan 2013  – June  201 3 
+Position   QA  
+Environment    Android  
+Project 
+Description 
+  Test new Smartphone product of customer. 
+ 
+  Responsibilities: 
+  Be responsible for the Quality of software product: Study requirement, 
+execute testing, report test results.  
+Customer 
+Team Size                
+  Japan - PANASONIC 
+  150 
+ 
+ 
+ 
+ 
+[PMC] Quad-Product July 2012  – Dec  2012  
+Position QA 
+Environment Android 
+Project 
+Description 
+Test new Smartphone product of customer. 
+ Responsibilities: 
+Be responsible for the Quality of software product: Study requirement, 
+execute testing, report test results. 
+Customer 
+Team Size                
+Japan - PANASONIC 
+150
+
+13 
+Do Anh Tuan’s CV - Confidential  
+ 
+HBAE-JPD14 Mar 2012 – June 2012  
+Position   Developer  
+Enironment      Windows 
+     C/C++ 
+     Excel 
+  Visual SourceSafe 
+     Microsoft Visio 
+     MS SQL  
+Project 
+Description 
+ 
+    Maintain and fix bugs HIBUN Software, one security software and   
+encryption. 
+ 
+    Responsibilities: 
+•  Analyze the requirement 
+•  Design database and Prototype 
+•  Coding and unit testing 
+ 
+Customer     Japan – HITACHI 
+Team Size    30 
+  
+ 
+ 
+GFDE 1.0   Nov 2011 - Feb 2012 
+Position QA 
+Environment Windows/Linux 
+GFDE Software 
+Excel 
+Visual SourceSafe 
+Project 
+ Description 
+   Test GFDE software (Global Full Disk Encryption), one security software 
+and encryption. 
+Responsibilities: 
+Be responsible for the Quality of software product: Study requirement, 
+execute testing, report test results. 
+ 
+Customer  Japan - HITACHI 
+ Team Size 40 
+ 
+ 
+SBS v1.6   Oct 2011 – Nov  2011
+
+14 
+Do Anh Tuan’s CV - Confidential  
+ 
+Position QA  
+Environment  Windows/Linux 
+Star Board Software 
+Excel 
+Visual SourceSafe 
+ 
+Project 
+Description 
+Test Star Board software, one software related to education. 
+ 
+Responsibilities: 
+Be responsible for the Quality of software product: Study requirement, 
+execute testing, report test results.  
+Customer  Japan – HITACHI  
+Team Size       8 
+ 
+ 
+ 
+HBAE-JPD13   
+ 
+July  2011 – Sep 2011  
+Position Developer  
+Environment Windows 
+C/C++ 
+Excel 
+Visual SourceSafe 
+Microsoft Visio 
+MS SQL  
+Project 
+Description 
+ Maintain and fix bugs HIBUN Software, one security software and encryption. 
+ 
+Responsibilities: 
+•  Analyze the requirement 
+•  Design database and Prototype 
+•  Coding and unit testing 
+ 
+Customer     Japan – HITACHI 
+Team Size    18
+
+15 
+Do Anh Tuan’s CV - Confidential  
+ 
+HBAE-0950   Mar  20 11  – June 201 1 
+Position QA  
+Environment   
+Windows XP, 7, Vista 
+HiBun Software 
+Excel 
+SQL  
+Project 
+Description 
+ 
+ Test HIBUN Software, one security software and encryption. 
+Responsibilities: 
+Be responsible for the Quality of software product: Study requirement, 
+execute testing, report test results. 
+ 
+Customer      
+ 
+Team Size     
+ 
+ 
+Japan – HITACHI 
+ 
+45

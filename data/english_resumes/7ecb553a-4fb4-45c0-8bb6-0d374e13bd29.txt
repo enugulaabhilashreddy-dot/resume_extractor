@@ -1,0 +1,567 @@
+TRUONG MINH KHUE 
+Ho Chi Minh City, Vietnam 
+27, Mar 1984
+| 
+ 
+IT Director 
+ 
+E-commerce | Fin-Tech Start-up| IT & Services | SaaS 
+ 
+Profile summary 
+Experience with more than 15 years of working in many field and achieve award-winning 
+career reflecting pioneering expertise in CTO for a Fin-tech and E-commerce company 
+ 
+Areas of Expertise 
+Managing Skills Technical Skills 
+Adaptability 
+Assessment/ Design/ Implementation 
+Business analysis 
+Business development & planning 
+Business growth strategies 
+Business environment developed 
+Business processes analysis 
+Business transformation for technical and 
+nontechnical. 
+Communication & Collaboration 
+Creative problem-solving 
+Creativity 
+Critical thinking, judgment & decisions 
+making 
+ISO 27001, NIST 
+KPIs Management 
+Negotiation 
+NIST Cybersecurity Framework 
+Operation analysis, monitoring and 
+management 
+OKRs Plan and Management 
+Resource planning and management 
+Risk management 
+Root cause analyzing 
+Training & Teamwork leadership 
+A.I structure & planning 
+Block Chain planning & NO SQL integration. 
+C++, .Net, Java, JS Node, Python, Go 
+Cloud AWS, Google Cloud, Azure 
+Database, Software architecture, SQL, Oracle, 
+MongoDB  
+Infrastructure structure, design & set up 
+IaaS, PaaS, SaaS 
+IT & Business Data flow Process Plan 
+IT policies and risk management. 
+IT Procurement & Supplier Plan 
+IT Strategies planning & management 
+IT system management. 
+Process validation 
+Product improvement 
+Scrum  
+Software structure & development 
+Software testing strategic planning 
+Other skills: Persuasion Presentation 
+Problem analyzing 
+Project Management 
+Sales & marketing 
+Script writer 
+Strategic vision and planning 
+Staff development 
+Web analytics 
+ 
+Education 
+TAFE SA (AUSTRALIA) Software Development | 2002 - 2005 
+ 
+Achievements 
+ Build  an E-commerce platform with the growth of 10.000 users within one 
+year. 
+ Build  a tourism fin-tech platform with block-chain wallet and crypto coin 
+Build and grow a startup company Minh Dai Phat Technology sustainable.  
+ Build ERP, CRM, DMS, Warehouse management system.
+
+
+ 
+Set up Infrastructure and policies in 
+large
+-
+scale
+ 
+company
+.
+ 
+
+ 
+Manage large scale and diversity technical teams
+.
+ 
+
+ 
+Set up and operate a startup company from scratches
+.
+ 
+
+ 
+Build BI report and dashb
+oard report with variety Big Data sources like DMS system, 
+ 
+Data from research vendor
+ 
+ 
+Professional Experience
+ 
+MINH DAI PHAT (Technology Fin
+-
+Tech Startup), HCMC 
+| 2018 
+–
+ 
+Present
+ 
+CTO
+, Report to CEO
+ 
+Team Size
+: 
+More than 40 technicians. 
+ 
+General Management
+ 
+
+ 
+Di
+gital Transformation: 
+Plan and execute the digital transformation to create the 
+awareness of the customers and staffs.
+ 
+
+ 
+KPIs and OKRs: 
+Planning the goals and p
+erformance indicator for staffs.
+ 
+
+ 
+Risks management: 
+To reduce the risk during the 
+I
+T
+ 
+operation
+.
+ 
+
+ 
+Working with Government: 
+Working with the government for license. Perform
+ 
+yearly checked as the requirement from government departments.
+ 
+Problem solving
+ 
+as the government required.
+ 
+
+ 
+Budget planning: 
+Planning for yearly, two years and three year
+s budget and
+ 
+manage 
+the
+ 
+IT
+ 
+budget used.
+ 
+
+ 
+Assets control: 
+Ensure the 
+IT
+ 
+assets (both 
+physically
+ 
+and intellectual)
+ 
+used 
+efficiency.
+ 
+
+ 
+Recruiting management
+: Ensure new staffs ready when needed.
+ 
+
+ 
+UX/UI
+:
+ 
+Worked closely with designer to ensure all platform designs 
+fulfill the needs 
+and easy to use for users. 
+ 
+ 
+
+ 
+Staffs development
+: Design staffs career path and knowledge required for
+ 
+staffs to 
+grow.
+ 
+R&D
+ 
+
+ 
+Planning for new fin
+-
+tech product
+: Create a platform for tourism services.
+ 
+
+ 
+Apply and learning new purchase method fr
+om customer to agencies to
+ 
+suppliers.
+ 
+
+ 
+Apply and research for new encrypt method.
+ 
+
+ 
+AI Learning 
+and research to reduce the staff’s workload.
+ 
+Information Technology
+ 
+
+ 
+Build technical team
+: Working with HR to find technicians.
+ 
+
+ 
+IT platform for infrastructure and s
+oftware planning, development and 
+management
+.
+ 
+ 
+o
+ 
+Oversea and set up goal for Software and system that applied to the business.
+ 
+o
+ 
+Plan for system growth along with business growth.
+ 
+
+ 
+Setup and manage CI/CD flow 
+from develop to production environment
+ 
+using 
+Jenkins
+, Rancher and K8S
+ 
+
+ 
+IT Processes and Policies Management
+: Create the processes and policies
+ 
+for all the 
+staffs to follow.
+ 
+
+ 
+IT budget management
+: Manage IT budget planning and spending.
+ 
+
+ 
+Define the technology for both security, infrastructure and software
+ 
+struc
+ture
+ 
+to 
+build the platform sustainable.
+
+
+ 
+Defining, planning 
+A.I structuring, and A.I to system integration
+.
+ 
+
+ 
+Designing, planning Block chain integration with no SQL Database
+ 
+Project Management
+ 
+
+ 
+Setup project goal and planning for specific project: Define the
+ 
+goal and align
+ 
+with 
+other parties for new project.
+ 
+
+ 
+Create and manage project timeline
+.
+ 
+
+ 
+Estimate budget and resource for project
+ 
+ 
+An Phúc Th
+ị
+nh FMCG Distributor, 
+JTI Vietnam Representative Office 
+HCMC 
+| May 2014 
+–
+ 
+2019
+ 
+IT Manager
+ 
+Manage IT team 
+ 
+
+ 
+Career pat
+h development for IT staffs: Build working skills and knowledge for 
+technicians.
+ 
+
+ 
+Appraisal for IT team members
+ 
+
+ 
+Supervisor all technician works
+ 
+Manage IT vendor
+ 
+
+ 
+Search and evaluate new IT vendor for supporting services. 
+ 
+
+ 
+Evaluate IT vendors for renew contra
+cts. 
+ 
+
+ 
+Communicate and arrange works for specific project.
+ 
+Manage IT system
+ 
+
+ 
+Manage IT infrastructure and system include private cloud, virtual and physical 
+machines, services and applications, container orchestration.
+ 
+
+ 
+Ensure security, performance for applic
+ation, system and making product 
+development progress continuously, easily and automatically.
+ 
+
+ 
+Setup, maintenance and manage IT infrastructure include physical server, network 
+devices, network setup and configuration.
+ 
+
+ 
+Setup, maintenance and manage private c
+loud base on Open Nebula and CEPH 
+storage, ensure high availability and performance for every instance on cloud.
+ 
+
+ 
+Setup and manage services for application include caching, database, logging, 
+monitoring system.
+ 
+
+ 
+Doing testing, optimization and enhance securi
+ty for system and applications, 
+ensure that application work well with large number of user.
+ 
+
+ 
+Set up and manage Windows and Linux servers/systems.
+ 
+
+ 
+Set up network services: Active directory on Windows server, DHCP, DNS
+ 
+
+ 
+Set up web services: Windows IIS, Apach
+e httpd, lighttpd, nginx, php
+ 
+
+ 
+Setup and operate Email system: Zimbra, MS Exchange, Postfix, Dovecot
+ 
+
+ 
+Operate Database system included DR operation for MS SQL, MySQL, Postgres
+ 
+
+ 
+Design and build server room based on datacenter standard.
+ 
+
+ 
+Cluster: server load ba
+lancing using HA Proxy, piranha, LVS, Database replicate and 
+load balancing, multi datacenter load balancing …
+ 
+
+ 
+Set up and operate virtualization platform: VMware, Hyper
+-
+V.
+ 
+
+ 
+Set up and monitor network devices: Cisco/HP/Huawei routers, switches.
+ 
+
+ 
+Set up, opera
+te and monitor firewall devices: Sophos, Fortinet, Juniper, Cisco, ASA
+ 
+
+ 
+Set up and operate server hardware: Dell, HP, IBM, and Supper Micro. 
+ 
+
+ 
+Setup and manage monitor and alert system using Cacti, Nagios and Op Monitor.
+
+
+ 
+Report daily 
+-
+ 
+weekly 
+-
+ 
+monthly about
+ 
+network and system statements,
+ 
+propose 
+to 
+upgrade
+ 
+hardware and software to ensure system work and
+ 
+security.
+ 
+
+ 
+Research and test new solutions to help improve working ability
+ 
+Project management
+ 
+
+ 
+Setup goal, timeline, budget and personnel for new project.
+ 
+
+ 
+Work
+ 
+with other departments, stakeholders to gather requirements,
+ 
+objectives and 
+coordinator for projects.
+ 
+
+ 
+Advisor for requirements and connection among functions.
+ 
+
+ 
+Key contact to solve all problem during the project.
+ 
+
+ 
+Responsible for all technical aspect of the
+ 
+project.
+ 
+
+ 
+Manage resource and timeline for every tasks.
+ 
+
+ 
+Deploy and test all the project functions before the pilot and go live phase.
+ 
+
+ 
+Planning and set up training course to deliver the project to end users.
+ 
+Manage IT Assets
+ 
+
+ 
+Control and estimate IT budget f
+or short term and long term.
+ 
+
+ 
+Manage IT assets for replace and maintenance.
+ 
+
+ 
+Software licensing management
+ 
+ 
+Thai Corp International Vietnam FMCG Distributor
+, HCMC
+ 
+IT Supervisor 
+| Jun 2012 
+–
+ 
+May 2014
+ 
+Medson Investment Corporation
+ 
+IT Executive 
+| 
+2011
+-
+2012
+ 
+YouthAD Join stock Ltd.
+,
+ 
+IT Administrator 
+| 
+2009
+-
+2011
+ 
+Freelancer
+,
+ 
+Software develop analysis
+ 
+| 2005 
+-
+ 
+2009

@@ -1,0 +1,169 @@
+09/2013 - 06/2018 ĐẠI HỌC KINH TẾ QUỐC DÂN
+Chuyên ngành: Công nghệ thông tin
+Tốt nghiệp loại khá
+Ngôn ngữ lập trình JavaScript
+Frameworks/ Platforms -ReactJs, React Native, Vuejs
+- ES6
+- jQuery, Bootstrap 
+Tool -Git
+-Gitlab
+-Figma
+-Zeplin
+6/2018 - 6/2019 LEOTIVE
+Vai trò : Front End
+Cắt giao diện web theo design hoặc theo web mẫu.Sử dụng HTML5,
+Css3, jquery lập trình, dùng frameworkbootstrap hỗ trợ làm giao diện.
+7/2019 - 5/2020 RIKKEISOFT
+Vai trò: Front End
+- Xây dựng giao diện và maintain web app chat sử dụng framemeteor. 
+ - Xây dựng quản lý phòng ban nội bộ bằng ReactJs sử dụngReact
+Hook. 
+ - Maintain giao diện web app xử lý lỗi trên đa nền tảng.
+7/2020 - Hiện tại AideaVn
+Vai trò: Front End
+- Xây dựng web bằng ReatJs 
+ - Xây dựng app Warehouse Management bằng ReatNative 
+ -FE block chain, smart contract frame web3 js.
+Nguyễn Mạnh Tuấn
+Điện thoại:
+Email:
+Địa chỉ:  Bưởi -Cống Vị - Ba Đình - Hà Nội
+HỌC VẤN
+CÁC KỸ NĂNG
+KINH NGHIỆM LÀM VIỆC
+DỰ ÁN
+
+Chat talk
+(7/2019 - 1/2020)
+Khách hàng Việt Nam
+Mô tả dự án Xây dựng DestopApp Chat
+Số lượng thành viên 10 Front-end developer,5 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Fix và thêm giao diện (maintain)
+Công nghệ sử dụng - HTML, CSS, MeteorJs 
+Company management
+(1/2020 - 2/2020)
+Khách hàng Việt Nam
+Mô tả dự án Xây dựng web quản lý nội bộ
+Số lượng thành viên 5 Front-end developer,3 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Làm giao diện 1 số màn
+Công nghệ sử dụng - ReactJs 
+ - HTML,JSX, CSS, SCSS 
+Live
+(3/2020 - 5/2020)
+Khách hàng Japan
+Mô tả dự án Xây dựng WebView live tặng quà, xem video, rank member
+Số lượng thành viên 3 Front-end developer, 2 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Fix và thêm giao diện (maintain)
+Công nghệ sử dụng - HTML, CSS, Jquery 
+DrWash
+(7/2020 - 10/2020)
+Khách hàng Korea
+Mô tả dự án Xây dựng WebView quản lý máy giặt
+Số lượng thành viên 3 Front-end developer, 1 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Ghép api và làm giao diện một số màn
+Công nghệ sử dụng - ReactJs 
+ - HTML,JSX, CSS, SCSS 
+Uﬂow
+(11/2020 - 3/2021)
+Khách hàng Korea
+Mô tả dự án Xây dựng app và web quản lý kho hàng
+Số lượng thành viên 5 Front-end developer, 2 Back-end developer
+Vị trí công việc Front-end developer
+
+Vai trò trong dự án Main phát triển dự án front-end
+Công nghệ sử dụng - ReactNative 
+ - HTML,JSX, StyleComponent 
+Amoeba
+(4/2021 - 7/2021)
+Khách hàng Korea
+Mô tả dự án Xây dựng web farm block chain
+Số lượng thành viên 1 Front-end developer, 1 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Main phát triển dự án front-end 
+Công nghệ sử dụng
+- ReactJs 
+ - HTML,JSX, CSS, SCSS 
+ - Web3React
+4bitp2p
+(8/2021 - 9/2021)
+Khách hàng Korea
+Mô tả dự án Xây dựng web chuyển tiền block chain
+Số lượng thành viên 3 Front-end developer, 2 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Connect wallet kaikas, add smart contract deposit, ghép api
+Công nghệ sử dụng
+- ReactJs 
+ - HTML, CSS, SCSS 
+ - Caver js, klaytn
+ACarZ
+(10/2021 - 12/2021)
+Khách hàng Korea
+Mô tả dự án Xây dựng WebApp review ô tô
+Số lượng thành viên 3 Front-end developer, 2 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Main phát triển dự án
+Công nghệ sử dụng - ReactJs 
+  - HTML,JSX, StyleComponent 
+BelpGaming
+(1/2021 - 5/2022)
+Khách hàng Korea
+Mô tả dự án Xây dựng Web trả thưởng token
+Số lượng thành viên 2 Front-end developer, 1 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án -Admin 
+-Add Ui, api, smartcontract trả thưởng user 
+Công nghệ sử dụng
+- ReactJs 
+- Web3js 
+- HTML,JSX, StyleComponent 
+- Redux thunk, toolkit
+
+Binan
+(5/2021 - 8/2022)
+Khách hàng Korea
+Mô tả dự án Xây dựng App Bot token
+Số lượng thành viên 2 Front-end developer, 1 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Main phát triển dự án
+Công nghệ sử dụng - ReactNative- Redux thunk, toolkit 
+KlaySafe
+(6/2021 - 12/2022)
+Khách hàng Korea
+Mô tả dự án Xây dựng Web quản lý token vai trò owner nền tảng kaikas
+Số lượng thành viên 1 Front-end developer, 1 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Main phát triển dự án front-end
+Công nghệ sử dụng
+- ReactJs 
+- HTML,JSX, StyleComponent 
+- Caver js, klaytn 
+- Redux thunk, toolkit 
+Wemix
+(1/2023 - 3/2023)
+Khách hàng Korea
+Mô tả dự án Xây dựng Web quản lý token vai trò owner nền tảng metamask
+Số lượng thành viên 1 Front-end developer, 1 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Main phát triển dự án front-end
+Công nghệ sử dụng
+- ReactJs 
+ - HTML, CSS, SCSS 
+- Web3js 
+- Redux thunk, toolkit 
+Wemix
+(4/2023 - Now )
+Khách hàng Korea
+Mô tả dự án Xây dựng Web pool token
+Số lượng thành viên 1 Front-end developer, 1 Back-end developer
+Vị trí công việc Front-end developer
+Vai trò trong dự án Main phát triển dự án front-end
+Công nghệ sử dụng
+- ReactJs 
+ - HTML, CSS, SCSS 
+- Web3js 
+- Redux thunk, toolkit 
+©

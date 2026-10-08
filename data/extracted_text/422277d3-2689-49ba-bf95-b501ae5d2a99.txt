@@ -1,0 +1,60 @@
+PHAM THANH LONG HAI
+Birthday: 13/09/1990
+Phone: 
+Email: 
+EDUCATION
+Ho Chi Minh Open University 10/2009 - 05/2013
+Specialization: Computer Science
+University of Economics 01/2015 - 10/2015
+Certificate of professional accounting
+WORK EXPERIENCE
+ZENGROUP JOIN     STOCK   COMPANY 05/2021 - present
+Role: Systems Operation Leader
+- Responsible for maintaining, backup, supporting, and upgrading applications: ERP, POS and E-
+commerce.
+- Troubleshoot application software (ERP) and data problems on a timely basis. Receive and 
+resolves ERP issues from users.
+- Assist end-user development of ad-hoc queries and reports of ERP data.
+- Implement user allocation/revocation on the ERP system.
+- Prepare workflow models, diagrams for any user requirement. Responsible for executing and 
+validating test cases.
+- Design and implement SQL Server Tables and Views. Setup and schedule many jobs in SQL 
+Server. 
+- Get knowledge on Database programming (Store Procedures, Functions, Triger).
+LAC VIET     COMPUTING   CORPORATION 04/2018 - 05/2021
+Role: ERP & HRM & Bank Consulting Specialist
+
+- Responsible for implementation of ERP/HRM and Bank's remittance system.
+- Work with customer to elicit the pain points, clear the requirement and consult the standard 
+flows.
+- Document, train key/end users and support go-live.
+- Cooperate and support to project teams for planning and implementing on-going projects.
+- Get knowledge on ERP, Banking, HRM, WMS.
+ADALINE JOIN     STOCK   COMPANY 04/2016 - 04/2018
+Role: Business analysis leader, database architecture
+- Database programming (Store Procedures, Functions, Triger), Performance Tuning SQL Queries, 
+designing and Implementing SQL Server Tables and Views, Setup and schedule jobs in SQL server.
+- Design report, UI with mockup tool and via Microsoft visual studio.
+- Liaise among stakeholders to elicit, analyze and validate requirements.
+- Plan and report project timeline/development process.
+- Prepare workflow models, diagrams. Present and discuss with customer to get the final solutions.
+- Act as stakeholder of project backlog items, work closely with development teams.
+WINTA   JOINT     STOCK     COMPANY 01/2013 - 04/2016
+ Role: Leader of Implement and Consulting team
+- Collect and discuss the customer requirements to deeply understand. Consult to have the 
+suitable business process.
+- Work closely with other product managers, business analysts, developers to plan and estimate 
+projects.
+- Train and support the team members, key and end users to use systems effectively.
+- Assign tasks to team members, keep the projects in time.
+- Attend projects meeting with customers and project manager for updating status on process or 
+solving the issues.
+
+- Manage the company’s website, vps, hosting system.
+- Get well known on Retail, POS, TMS and F&B.
+ Role: Business Analyst
+- Gather the customer requirements, analyze and write Blueprint.
+- Work directly with project team to define issues and give solutions.
+- Design report forms.
+- Write solution and guideline documents.
+Thank you!

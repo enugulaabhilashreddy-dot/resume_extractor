@@ -1,0 +1,68 @@
+OBJECTIVE
+- Looking for a job in a professional
+working environment. - Work hard to
+achieve personal as well as company
+goals. - Try to learn to improve my
+professional level.
+EDUCATION
+FACULTY OF ELECTRICAL & ELECTRONICS ENGINEERING
+Ho Chi Minh City University of Technology 9/2017 -> 6/2022
+Major : Control and automation Engineering.
+GPA: 7.23.
+The Cyberlogitec VIET NAM company
+Java developer intern 7/2012 -> 1/2023
+FullSatck developer fresher 2/2023 -> 12/2023
+PROJECT
+Godashop 9/2022 -> 12/2022
+-Building a e-commerce website.
+-Role: Front-End Web, Backend.
+-Responsibility: Using NodeJs, View Engine, Javascript to develope the website.
+OPUS 12/2022 -> 1/2023
+-Opus is a project in the field of logistics.
+-Role: Front-End Web, Backend.
+-Responsibility: Using IB Sheet (internal company framework), Java, Javascript to
+maintain the website.
+Exodus 2/2023 -> 5/2023
+-Test Bug and fix Bug on the screen of the OPUS project when changing the new
+database connection.
+NGUYEN VAN NHAT DUY
+DATE OF BIRTH
+December 28, 1998
+1999
+PHONE EMAIL
+ADDRESS
+144/9 Au Co, Ward 9, District Tan Binh,
+Ho Chi Minh City
+
+-Role: Front-End Web, Backend, Tester.
+-Responsibility: Using IB Sheet (internal company framework), Java, Javascript to
+maintain the website.
+Chrome extension 5/2023 -> 8/2023
+-Build a feature to prevent data from being saved to the database when developers
+perform testing on the dev site.
+-Role: Backend.
+-Responsibility: Using ReactJs, Javascript to develope the website.
+Training for the OM project 8/2023 -> 10/2023
+-Practice the training program to build a decentralized project GRPC using api
+gateway, kafka.
+-Role: Front-End Web, Backend.
+-Responsibility: Using NestJs, Nextjs, TypeScript to develope the website.
+LEADER 2018 -> 2019
+Leader in the Admissions Counseling program of Ho Chi Minh City University of Technology at Kien Tuong
+High School, Long An Province.
+TOEIC 610, issued by IIG (Jan/2022 - Jan/2024).
+SKILLS
+Full Stack Developer
+-HTML5, CSS3
+-JavaScript, TypeScript
+-ReactJS, NextJS
+-NodeJS, Express, NestJS
+-Java, C/C++
+-Git, Jira
+-MySQL, Microsoft SQL Server
+Other
+-Teamwork
+-Problem – solving
+-Communication skills
+ADVISING EDUCATION ENROLLMENT
+CERTIFICATION
